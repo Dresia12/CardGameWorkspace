@@ -20,8 +20,13 @@ Ce catalogue présente tous les héros disponibles dans le jeu avec leurs capaci
 
 ### Aquarielle, Gardienne des Marées
 
-![Aquarielle, Gardienne des Marées](JeuDeCarte/Assets/img/Hero/2.png)
+<div style="display: flex; align-items: flex-start; gap: 20px; margin: 10px 0;">
 
+<div style="flex: 0 0 auto;">
+<img src="JeuDeCarte/Assets/img/Hero/2.png" alt="Aquarielle, Gardienne des Marées" style="width: 60%; height: auto; max-width: 200px;">
+</div>
+
+<div style="flex: 1;">
 **Élément:** Eau
 
 **Description:** Protectrice des océans, Aquarielle utilise les pouvoirs curatifs de l'eau pour soutenir ses alliés.
@@ -41,12 +46,18 @@ Ce catalogue présente tous les héros disponibles dans le jeu avec leurs capaci
 
 #### 🛡️ Passif
 Alliés Eau -10 % dégâts subit. (+2 coût)
+</div></div>
 
 ---
 ### Arcanis, Sage des Flux Mystiques
 
-![Arcanis, Sage des Flux Mystiques](JeuDeCarte/Assets/img/Hero/9.png)
+<div style="display: flex; align-items: flex-start; gap: 20px; margin: 10px 0;">
 
+<div style="flex: 0 0 auto;">
+<img src="JeuDeCarte/Assets/img/Hero/9.png" alt="Arcanis, Sage des Flux Mystiques" style="width: 60%; height: auto; max-width: 200px;">
+</div>
+
+<div style="flex: 1;">
 **Élément:** Arcanique
 
 **Description:** Maître des arts arcaniques, Arcanis manipule le temps pour contrôler le rythme de la bataille.
@@ -66,12 +77,18 @@ Alliés Eau -10 % dégâts subit. (+2 coût)
 
 #### 🛡️ Passif
 -1 tour de cooldown global sur le deck (minimum 1 de CD). (+2 coût)
+</div></div>
 
 ---
 ### Glacius, Empereur du Givre
 
-![Glacius, Empereur du Givre](JeuDeCarte/Assets/img/Hero/3.png)
+<div style="display: flex; align-items: flex-start; gap: 20px; margin: 10px 0;">
 
+<div style="flex: 0 0 auto;">
+<img src="JeuDeCarte/Assets/img/Hero/3.png" alt="Glacius, Empereur du Givre" style="width: 60%; height: auto; max-width: 200px;">
+</div>
+
+<div style="flex: 1;">
 **Élément:** Glace
 
 **Description:** Souverain des terres glacées, Glacius paralyse ses ennemis avec des tempêtes de glace dévastatrices.
@@ -91,12 +108,18 @@ Alliés Eau -10 % dégâts subit. (+2 coût)
 
 #### 🛡️ Passif
 -10 Défense ennemie. (+2 coût)
+</div></div>
 
 ---
 ### Luxielle, Avatar Radieux
 
-![Luxielle, Avatar Radieux](JeuDeCarte/Assets/img/Hero/7.png)
+<div style="display: flex; align-items: flex-start; gap: 20px; margin: 10px 0;">
 
+<div style="flex: 0 0 auto;">
+<img src="JeuDeCarte/Assets/img/Hero/7.png" alt="Luxielle, Avatar Radieux" style="width: 60%; height: auto; max-width: 200px;">
+</div>
+
+<div style="flex: 1;">
 **Élément:** Lumière
 
 **Description:** Avatar de la lumière divine, Luxielle protège ses alliés avec des bénédictions purificatrices.
@@ -116,12 +139,18 @@ Alliés Eau -10 % dégâts subit. (+2 coût)
 
 #### 🛡️ Passif
 Alliés Lumière reçoivent -15 %. (+4 coût)
+</div></div>
 
 ---
 ### Mortrax, Sombre Dominateur
 
-![Mortrax, Sombre Dominateur](JeuDeCarte/Assets/img/Hero/8.png)
+<div style="display: flex; align-items: flex-start; gap: 20px; margin: 10px 0;">
 
+<div style="flex: 0 0 auto;">
+<img src="JeuDeCarte/Assets/img/Hero/8.png" alt="Mortrax, Sombre Dominateur" style="width: 60%; height: auto; max-width: 200px;">
+</div>
+
+<div style="flex: 1;">
 **Élément:** Ténèbres
 
 **Description:** Seigneur des ténèbres, Mortrax draine la vie de ses ennemis pour se renforcer.
@@ -141,12 +170,18 @@ Alliés Lumière reçoivent -15 %. (+4 coût)
 
 #### 🛡️ Passif
 Alliés Ténèbres +15 %. (+4 coût)
+</div></div>
 
 ---
 ### Nihilos, Avatar du Néant
 
-![Nihilos, Avatar du Néant](JeuDeCarte/Assets/img/Hero/11.png)
+<div style="display: flex; align-items: flex-start; gap: 20px; margin: 10px 0;">
 
+<div style="flex: 0 0 auto;">
+<img src="JeuDeCarte/Assets/img/Hero/11.png" alt="Nihilos, Avatar du Néant" style="width: 60%; height: auto; max-width: 200px;">
+</div>
+
+<div style="flex: 1;">
 **Élément:** Néant
 
 **Description:** Avatar du néant, Nihilos peut annihiler instantanément ses ennemis les plus faibles.
@@ -166,12 +201,18 @@ Alliés Ténèbres +15 %. (+4 coût)
 
 #### 🛡️ Passif
 Immunisé aux effets élémentaires (Brûlure, Gel, etc.). (+3 coût)
+</div></div>
 
 ---
 ### Solaris, Champion des Cendres
 
-![Solaris, Champion des Cendres](JeuDeCarte/Assets/img/Hero/1.png)
+<div style="display: flex; align-items: flex-start; gap: 20px; margin: 10px 0;">
 
+<div style="flex: 0 0 auto;">
+<img src="JeuDeCarte/Assets/img/Hero/1.png" alt="Solaris, Champion des Cendres" style="width: 60%; height: auto; max-width: 200px;">
+</div>
+
+<div style="flex: 1;">
 **Élément:** Feu
 
 **Description:** Champion légendaire du feu, Solaris maîtrise les flammes purificatrices pour consumer ses ennemis.
@@ -191,12 +232,18 @@ Immunisé aux effets élémentaires (Brûlure, Gel, etc.). (+3 coût)
 
 #### 🛡️ Passif
 Alliés Feu +10 % dégâts. (+2 coût)
+</div></div>
 
 ---
 ### Telluron, Cœur de la Montagne
 
-![Telluron, Cœur de la Montagne](JeuDeCarte/Assets/img/Hero/4.png)
+<div style="display: flex; align-items: flex-start; gap: 20px; margin: 10px 0;">
 
+<div style="flex: 0 0 auto;">
+<img src="JeuDeCarte/Assets/img/Hero/4.png" alt="Telluron, Cœur de la Montagne" style="width: 60%; height: auto; max-width: 200px;">
+</div>
+
+<div style="flex: 1;">
 **Élément:** Terre
 
 **Description:** Géant de pierre, Telluron protège son équipe avec des barrières indestructibles.
@@ -216,12 +263,18 @@ Alliés Feu +10 % dégâts. (+2 coût)
 
 #### 🛡️ Passif
 Alliés Terre +5 DEF. (+1 coût)
+</div></div>
 
 ---
 ### Toxina, Reine des Venins
 
-![Toxina, Reine des Venins](JeuDeCarte/Assets/img/Hero/10.png)
+<div style="display: flex; align-items: flex-start; gap: 20px; margin: 10px 0;">
 
+<div style="flex: 0 0 auto;">
+<img src="JeuDeCarte/Assets/img/Hero/10.png" alt="Toxina, Reine des Venins" style="width: 60%; height: auto; max-width: 200px;">
+</div>
+
+<div style="flex: 1;">
 **Élément:** Poison
 
 **Description:** Reine des venins, Toxina empoisonne ses ennemis avec des toxines mortelles.
@@ -241,12 +294,18 @@ Alliés Terre +5 DEF. (+1 coût)
 
 #### 🛡️ Passif
 Les alliés Poison appliquent un Poison plus fort (augmente les poisons de +2% dmg). (+2 coût)
+</div></div>
 
 ---
 ### Voltarn, Seigneur des Orages
 
-![Voltarn, Seigneur des Orages](JeuDeCarte/Assets/img/Hero/6.png)
+<div style="display: flex; align-items: flex-start; gap: 20px; margin: 10px 0;">
 
+<div style="flex: 0 0 auto;">
+<img src="JeuDeCarte/Assets/img/Hero/6.png" alt="Voltarn, Seigneur des Orages" style="width: 60%; height: auto; max-width: 200px;">
+</div>
+
+<div style="flex: 1;">
 **Élément:** Foudre
 
 **Description:** Maître de la foudre, Voltarn frappe ses ennemis avec des éclairs dévastateurs et paralysants.
@@ -266,12 +325,18 @@ Les alliés Poison appliquent un Poison plus fort (augmente les poisons de +2% d
 
 #### 🛡️ Passif
 donne une chance à ses attaques de Paralyser (10% de chance). (+2 coût)
+</div></div>
 
 ---
 ### Zephira, Esprit des Tempêtes
 
-![Zephira, Esprit des Tempêtes](JeuDeCarte/Assets/img/Hero/5.png)
+<div style="display: flex; align-items: flex-start; gap: 20px; margin: 10px 0;">
 
+<div style="flex: 0 0 auto;">
+<img src="JeuDeCarte/Assets/img/Hero/5.png" alt="Zephira, Esprit des Tempêtes" style="width: 60%; height: auto; max-width: 200px;">
+</div>
+
+<div style="flex: 1;">
 **Élément:** Air
 
 **Description:** Esprit du vent, Zephira accélère le tempo de bataille en réinitialisant les capacités de ses alliés.
@@ -291,5 +356,6 @@ donne une chance à ses attaques de Paralyser (10% de chance). (+2 coût)
 
 #### 🛡️ Passif
 Alliés Air +10 % esquive. (+3 coût)
+</div></div>
 
 ---
