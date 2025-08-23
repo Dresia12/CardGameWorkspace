@@ -20,7 +20,7 @@ Ce catalogue présente tous les héros disponibles dans le jeu avec leurs capaci
 
 ### Aquarielle, Gardienne des Marées
 
-![Aquarielle, Gardienne des Marées](JeuDeCarte/Assets/img/Hero/Hero/2.png)
+![Aquarielle, Gardienne des Marées](JeuDeCarte/Assets/img/Hero/2.png)
 
 **Élément:** Eau
 
@@ -45,7 +45,7 @@ Alliés Eau -10 % dégâts subit. (+2 coût)
 ---
 ### Arcanis, Sage des Flux Mystiques
 
-![Arcanis, Sage des Flux Mystiques](JeuDeCarte/Assets/img/Hero/Hero/9.png)
+![Arcanis, Sage des Flux Mystiques](JeuDeCarte/Assets/img/Hero/9.png)
 
 **Élément:** Arcanique
 
@@ -70,7 +70,7 @@ Alliés Eau -10 % dégâts subit. (+2 coût)
 ---
 ### Glacius, Empereur du Givre
 
-![Glacius, Empereur du Givre](JeuDeCarte/Assets/img/Hero/Hero/3.png)
+![Glacius, Empereur du Givre](JeuDeCarte/Assets/img/Hero/3.png)
 
 **Élément:** Glace
 
@@ -95,7 +95,7 @@ Alliés Eau -10 % dégâts subit. (+2 coût)
 ---
 ### Luxielle, Avatar Radieux
 
-![Luxielle, Avatar Radieux](JeuDeCarte/Assets/img/Hero/Hero/7.png)
+![Luxielle, Avatar Radieux](JeuDeCarte/Assets/img/Hero/7.png)
 
 **Élément:** Lumière
 
@@ -120,7 +120,7 @@ Alliés Lumière reçoivent -15 %. (+4 coût)
 ---
 ### Mortrax, Sombre Dominateur
 
-![Mortrax, Sombre Dominateur](JeuDeCarte/Assets/img/Hero/Hero/8.png)
+![Mortrax, Sombre Dominateur](JeuDeCarte/Assets/img/Hero/8.png)
 
 **Élément:** Ténèbres
 
@@ -145,7 +145,7 @@ Alliés Ténèbres +15 %. (+4 coût)
 ---
 ### Nihilos, Avatar du Néant
 
-![Nihilos, Avatar du Néant](JeuDeCarte/Assets/img/Hero/Hero/11.png)
+![Nihilos, Avatar du Néant](JeuDeCarte/Assets/img/Hero/11.png)
 
 **Élément:** Néant
 
@@ -170,7 +170,7 @@ Immunisé aux effets élémentaires (Brûlure, Gel, etc.). (+3 coût)
 ---
 ### Solaris, Champion des Cendres
 
-![Solaris, Champion des Cendres](JeuDeCarte/Assets/img/Hero/Hero/1.png)
+![Solaris, Champion des Cendres](JeuDeCarte/Assets/img/Hero/1.png)
 
 **Élément:** Feu
 
@@ -195,7 +195,7 @@ Alliés Feu +10 % dégâts. (+2 coût)
 ---
 ### Telluron, Cœur de la Montagne
 
-![Telluron, Cœur de la Montagne](JeuDeCarte/Assets/img/Hero/Hero/4.png)
+![Telluron, Cœur de la Montagne](JeuDeCarte/Assets/img/Hero/4.png)
 
 **Élément:** Terre
 
@@ -220,7 +220,7 @@ Alliés Terre +5 DEF. (+1 coût)
 ---
 ### Toxina, Reine des Venins
 
-![Toxina, Reine des Venins](JeuDeCarte/Assets/img/Hero/Hero/10.png)
+![Toxina, Reine des Venins](JeuDeCarte/Assets/img/Hero/10.png)
 
 **Élément:** Poison
 
@@ -245,7 +245,7 @@ Les alliés Poison appliquent un Poison plus fort (augmente les poisons de +2% d
 ---
 ### Voltarn, Seigneur des Orages
 
-![Voltarn, Seigneur des Orages](JeuDeCarte/Assets/img/Hero/Hero/6.png)
+![Voltarn, Seigneur des Orages](JeuDeCarte/Assets/img/Hero/6.png)
 
 **Élément:** Foudre
 
@@ -270,7 +270,7 @@ donne une chance à ses attaques de Paralyser (10% de chance). (+2 coût)
 ---
 ### Zephira, Esprit des Tempêtes
 
-![Zephira, Esprit des Tempêtes](JeuDeCarte/Assets/img/Hero/Hero/5.png)
+![Zephira, Esprit des Tempêtes](JeuDeCarte/Assets/img/Hero/5.png)
 
 **Élément:** Air
 
