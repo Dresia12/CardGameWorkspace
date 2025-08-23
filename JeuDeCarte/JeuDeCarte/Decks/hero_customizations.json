@@ -1,0 +1,50 @@
+{
+  "customizations": {
+    "Voltarn, Seigneur des Orages": {
+      "hero_name": "Voltarn, Seigneur des Orages",
+      "hp_bonus": 10,
+      "attack_bonus": 0,
+      "defense_bonus": 0,
+      "use_hero_ability": false,
+      "has_passive": false,
+      "activation_cost": 5
+    },
+    "Aquarielle, Gardienne des Marées": {
+      "hero_name": "Aquarielle, Gardienne des Marées",
+      "hp_bonus": 15,
+      "attack_bonus": 0,
+      "defense_bonus": 15,
+      "use_hero_ability": true,
+      "has_passive": true,
+      "activation_cost": 12
+    },
+    "Solaris, Champion des Cendres": {
+      "hero_name": "Solaris, Champion des Cendres",
+      "hp_bonus": 15,
+      "attack_bonus": 0,
+      "defense_bonus": 0,
+      "use_hero_ability": true,
+      "has_passive": false,
+      "activation_cost": 7
+    },
+    "Toxina, Reine des Venins": {
+      "hero_name": "Toxina, Reine des Venins",
+      "hp_bonus": 0,
+      "attack_bonus": 0,
+      "defense_bonus": 0,
+      "use_hero_ability": false,
+      "has_passive": false,
+      "activation_cost": 3
+    },
+    "Glacius, Empereur du Givre": {
+      "hero_name": "Glacius, Empereur du Givre",
+      "hp_bonus": 0,
+      "attack_bonus": 0,
+      "defense_bonus": 0,
+      "use_hero_ability": false,
+      "has_passive": false,
+      "activation_cost": 3
+    }
+  },
+  "version": "1.0"
+}

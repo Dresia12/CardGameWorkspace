@@ -1,0 +1,10 @@
+2025-08-21 10:13:15,379 - DEBUG - Starting new HTTP connection (1): localhost:5000
+2025-08-21 10:13:17,905 - DEBUG - http://localhost:5000 "POST /api/matchmaking/join HTTP/1.1" 200 130
+2025-08-21 10:13:17,907 - DEBUG - Starting new HTTP connection (1): localhost:5000
+2025-08-21 10:13:17,907 - DEBUG - Starting new HTTP connection (1): localhost:5000
+2025-08-21 10:13:19,948 - DEBUG - http://localhost:5000 "GET /api/matchmaking/status HTTP/1.1" 200 1130
+2025-08-21 10:13:19,964 - DEBUG - http://localhost:5000 "POST /api/matchmaking/poll HTTP/1.1" 200 405
+2025-08-21 10:13:19,968 - DEBUG - Starting new HTTP connection (1): localhost:5000
+2025-08-21 10:13:20,951 - DEBUG - Starting new HTTP connection (1): localhost:5000
+2025-08-21 10:13:22,009 - DEBUG - http://localhost:5000 "POST /api/game/initialize HTTP/1.1" 200 37
+2025-08-21 10:13:22,984 - DEBUG - http://localhost:5000 "GET /api/matchmaking/status HTTP/1.1" 200 715

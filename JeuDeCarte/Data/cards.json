@@ -1,0 +1,2338 @@
+[
+  {
+    "name": "Tempête de Mana",
+    "element": "NEUTRE",
+    "rarity": "RARITY.MYTHIC",
+    "cost": 10,
+    "image_path": "",
+    "description": "32 dégâts à tous ennemis, silence (1t) sur tous si 4+ cartes jouées ce tour.",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": "<function effet_tempete_de_mana at 0x0000017FD16E3400>",
+    "set_name": "BaseSet",
+    "effects": [
+      {
+        "type": "damage",
+        "amount": 32,
+        "target": "all_enemies"
+      }
+    ]
+  },
+  {
+    "name": "Coup Rapide",
+    "element": "NEUTRE",
+    "rarity": "RARITY.MYTHIC",
+    "cost": 1,
+    "image_path": "",
+    "description": "Inflige 20 points de dégâts à un ennemi.",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": "<function effet_coup_rapide at 0x0000017FD16E3490>",
+    "set_name": "BaseSet",
+    "effects": [
+      {
+        "type": "damage",
+        "amount": 20,
+        "target": "enemy"
+      }
+    ]
+  },
+  {
+    "name": "Bouclier Léger",
+    "element": "NEUTRE",
+    "rarity": "RARITY.MYTHIC",
+    "cost": 1,
+    "image_path": "",
+    "description": "Confère un bouclier de 20 points à un allié.",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": "<function effet_bouclier_leger at 0x0000017FD16E3520>",
+    "set_name": "BaseSet",
+    "effects": [
+      {
+        "type": "shield",
+        "amount": 20,
+        "target": "ally"
+      }
+    ]
+  },
+  {
+    "name": "Soin Mineur",
+    "element": "NEUTRE",
+    "rarity": "RARITY.MYTHIC",
+    "cost": 1,
+    "image_path": "",
+    "description": "Restaure 25 points de vie à un allié.",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": "<function effet_soin_mineur at 0x0000017FD16E35B0>",
+    "set_name": "BaseSet",
+    "effects": [
+      {
+        "type": "heal",
+        "amount": 25,
+        "target": "ally"
+      }
+    ]
+  },
+  {
+    "name": "Dissipation Mineure",
+    "element": "NEUTRE",
+    "rarity": "RARITY.MYTHIC",
+    "cost": 2,
+    "image_path": "",
+    "description": "Retire un effet négatif d'un allié.",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": "<function effet_dissipation_mineure at 0x0000017FD16E3640>",
+    "set_name": "BaseSet",
+    "effects": [
+      {
+        "type": "dispel",
+        "amount": 20,
+        "target": "ally"
+      }
+    ]
+  },
+  {
+    "name": "Frappe Précise",
+    "element": "NEUTRE",
+    "rarity": "RARITY.MYTHIC",
+    "cost": 1,
+    "image_path": "",
+    "description": "Inflige 20 points de dégâts à un ennemi et ignore les provocations.",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": "<function effet_frappe_precise at 0x0000017FD16E36D0>",
+    "set_name": "BaseSet",
+    "effects": [
+      {
+        "type": "damage",
+        "amount": 20,
+        "target": "enemy"
+      }
+    ]
+  },
+  {
+    "name": "Renforcement",
+    "element": "NEUTRE",
+    "rarity": "RARITY.MYTHIC",
+    "cost": 1,
+    "image_path": "",
+    "description": "Augmente l'attaque d'un allié de 10% pendant 2 tours.",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": "<function effet_renforcement at 0x0000017FD16E3760>",
+    "set_name": "BaseSet",
+    "effects": [
+      {
+        "type": "attack_buff",
+        "amount": 20,
+        "target": "ally"
+      }
+    ]
+  },
+  {
+    "name": "Protection",
+    "element": "NEUTRE",
+    "rarity": "RARITY.MYTHIC",
+    "cost": 1,
+    "image_path": "",
+    "description": "Augmente la défense d'un allié de 10% pendant 2 tours.",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": "<function effet_protection at 0x0000017FD16E37F0>",
+    "set_name": "BaseSet",
+    "effects": [
+      {
+        "type": "defense_buff",
+        "amount": 10,
+        "duration": 2,
+        "target": "ally"
+      }
+    ]
+  },
+  {
+    "name": "Faiblesse",
+    "element": "NEUTRE",
+    "rarity": "RARITY.MYTHIC",
+    "cost": 1,
+    "image_path": "",
+    "description": "Réduit l'attaque d'un ennemi de 10% pendant 2 tours.",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": "<function effet_faiblesse at 0x0000017FD16E3880>",
+    "set_name": "BaseSet",
+    "effects": [
+      {
+        "type": "attack_debuff",
+        "amount": 20,
+        "target": "enemy"
+      }
+    ]
+  },
+  {
+    "name": "Éclaircissement",
+    "element": "NEUTRE",
+    "rarity": "RARITY.MYTHIC",
+    "cost": 1,
+    "image_path": "",
+    "description": "Augmente la précision d'un allié de 10% pendant 2 tours.",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": "<function effet_eclaircissement at 0x0000017FD16E3910>",
+    "set_name": "BaseSet",
+    "effects": [
+      {
+        "type": "precision_buff",
+        "amount": 10,
+        "duration": 2,
+        "target": "ally"
+      }
+    ]
+  },
+  {
+    "name": "Flou",
+    "element": "NEUTRE",
+    "rarity": "RARITY.MYTHIC",
+    "cost": 1,
+    "image_path": "",
+    "description": "Augmente l'esquive d'un allié de 10% pendant 2 tours.",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": "<function effet_flou at 0x0000017FD16E39A0>",
+    "set_name": "BaseSet",
+    "effects": [
+      {
+        "type": "esquive_buff",
+        "amount": 10,
+        "duration": 2,
+        "target": "ally"
+      }
+    ]
+  },
+  {
+    "name": "Concentration",
+    "element": "NEUTRE",
+    "rarity": "RARITY.MYTHIC",
+    "cost": 1,
+    "image_path": "",
+    "description": "Augmente les chances de coup critique d'un allié de 10% pendant 2 tours.",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": "<function effet_concentration at 0x0000017FD16E3A30>",
+    "set_name": "BaseSet",
+    "effects": [
+      {
+        "type": "crit_buff",
+        "amount": 10,
+        "duration": 2,
+        "target": "ally"
+      }
+    ]
+  },
+  {
+    "name": "Désorientation",
+    "element": "NEUTRE",
+    "rarity": "RARITY.MYTHIC",
+    "cost": 1,
+    "image_path": "",
+    "description": "Réduit la précision d'un ennemi de 10% pendant 2 tours.",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": "<function effet_desorientation at 0x0000017FD16E3AC0>",
+    "set_name": "BaseSet",
+    "effects": [
+      {
+        "type": "precision_debuff",
+        "amount": 10,
+        "duration": 2,
+        "target": "enemy"
+      }
+    ]
+  },
+  {
+    "name": "Affaiblissement",
+    "element": "NEUTRE",
+    "rarity": "RARITY.MYTHIC",
+    "cost": 1,
+    "image_path": "",
+    "description": "Réduit la défense d'un ennemi de 10% pendant 2 tours.",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": "<function effet_affaiblissement at 0x0000017FD16E3B50>",
+    "set_name": "BaseSet",
+    "effects": [
+      {
+        "type": "defense_debuff",
+        "amount": 10,
+        "duration": 2,
+        "target": "enemy"
+      }
+    ]
+  },
+  {
+    "name": "Soin de Groupe",
+    "element": "NEUTRE",
+    "rarity": "RARITY.MYTHIC",
+    "cost": 2,
+    "image_path": "",
+    "description": "Restaure 15 points de vie à tous les alliés.",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": "<function effet_soin_de_groupe at 0x0000017FD16E3BE0>",
+    "set_name": "BaseSet",
+    "effects": [
+      {
+        "type": "heal",
+        "amount": 15,
+        "target": "all_allies"
+      }
+    ]
+  },
+  {
+    "name": "Bouclier de Groupe",
+    "element": "NEUTRE",
+    "rarity": "RARITY.MYTHIC",
+    "cost": 2,
+    "image_path": "",
+    "description": "Confère un bouclier de 15 points à tous les alliés.",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": "<function effet_bouclier_de_groupe at 0x0000017FD16E3C70>",
+    "set_name": "BaseSet",
+    "effects": [
+      {
+        "type": "shield",
+        "amount": 15,
+        "target": "all_allies"
+      }
+    ]
+  },
+  {
+    "name": "Frappe de Zone",
+    "element": "NEUTRE",
+    "rarity": "RARITY.MYTHIC",
+    "cost": 2,
+    "image_path": "",
+    "description": "Inflige 15 points de dégâts à tous les ennemis.",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": "<function effet_frappe_de_zone at 0x0000017FD16E3D00>",
+    "set_name": "BaseSet",
+    "effects": [
+      {
+        "type": "damage",
+        "amount": 15,
+        "target": "all_enemies"
+      }
+    ]
+  },
+  {
+    "name": "Purification",
+    "element": "NEUTRE",
+    "rarity": "RARITY.MYTHIC",
+    "cost": 2,
+    "image_path": "",
+    "description": "Retire un effet négatif de tous les alliés.",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": "<function effet_purification at 0x0000017FD16E3D90>",
+    "set_name": "BaseSet",
+    "effects": [
+      {
+        "type": "dispel",
+        "amount": 20,
+        "target": "all_allies"
+      }
+    ]
+  },
+  {
+    "name": "Dissipation",
+    "element": "NEUTRE",
+    "rarity": "RARITY.MYTHIC",
+    "cost": 2,
+    "image_path": "",
+    "description": "Retire un effet positif d'un ennemi.",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": "<function effet_dissipation at 0x0000017FD16E3E20>",
+    "set_name": "BaseSet",
+    "effects": [
+      {
+        "type": "dispel",
+        "amount": 1,
+        "target": "enemy"
+      }
+    ]
+  },
+  {
+    "name": "Renforcement de Groupe",
+    "element": "NEUTRE",
+    "rarity": "RARITY.MYTHIC",
+    "cost": 2,
+    "image_path": "",
+    "description": "Augmente l'attaque de tous les alliés de 10% pendant 2 tours.",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": "<function effet_renforcement_de_groupe at 0x0000017FD16E3EB0>",
+    "set_name": "BaseSet",
+    "effects": [
+      {
+        "type": "attack_buff",
+        "amount": 20,
+        "target": "all_allies"
+      }
+    ]
+  },
+  {
+    "name": "Protection de Groupe",
+    "element": "NEUTRE",
+    "rarity": "RARITY.MYTHIC",
+    "cost": 2,
+    "image_path": "",
+    "description": "Augmente la défense de tous les alliés de 10% pendant 2 tours.",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": "<function effet_protection_de_groupe at 0x0000017FD16E3F40>",
+    "set_name": "BaseSet",
+    "effects": [
+      {
+        "type": "defense_buff",
+        "amount": 10,
+        "duration": 2,
+        "target": "all_allies"
+      }
+    ]
+  },
+  {
+    "name": "Affaiblissement de Groupe",
+    "element": "NEUTRE",
+    "rarity": "RARITY.MYTHIC",
+    "cost": 2,
+    "image_path": "",
+    "description": "Réduit l'attaque de tous les ennemis de 10% pendant 2 tours.",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": "<function effet_affaiblissement_de_groupe at 0x0000017FD16F8040>",
+    "set_name": "BaseSet",
+    "effects": [
+      {
+        "type": "defense_debuff",
+        "amount": 20,
+        "target": "all_enemies",
+        "duration": 2
+      }
+    ]
+  },
+  {
+    "name": "Frappe Puissante",
+    "element": "NEUTRE",
+    "rarity": "RARITY.MYTHIC",
+    "cost": 2,
+    "image_path": "",
+    "description": "Inflige 40 points de dégâts à un ennemi.",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": "<function effet_frappe_puissante at 0x0000017FD16F80D0>",
+    "set_name": "BaseSet",
+    "effects": [
+      {
+        "type": "damage",
+        "amount": 40,
+        "target": "enemy"
+      }
+    ]
+  },
+  {
+    "name": "Bouclier Robuste",
+    "element": "NEUTRE",
+    "rarity": "RARITY.MYTHIC",
+    "cost": 2,
+    "image_path": "",
+    "description": "Confère un bouclier de 40 points à un allié.",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": "<function effet_bouclier_robuste at 0x0000017FD16F8160>",
+    "set_name": "BaseSet",
+    "effects": [
+      {
+        "type": "shield",
+        "amount": 40,
+        "target": "ally"
+      }
+    ]
+  },
+  {
+    "name": "Soin Majeur",
+    "element": "NEUTRE",
+    "rarity": "RARITY.MYTHIC",
+    "cost": 2,
+    "image_path": "",
+    "description": "Restaure 50 points de vie à un allié.",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": "<function effet_soin_majeur at 0x0000017FD16F81F0>",
+    "set_name": "BaseSet",
+    "effects": [
+      {
+        "type": "heal",
+        "amount": 50,
+        "target": "ally"
+      }
+    ]
+  },
+  {
+    "name": "Dissipation Majeure",
+    "element": "NEUTRE",
+    "rarity": "RARITY.MYTHIC",
+    "cost": 3,
+    "image_path": "",
+    "description": "Retire deux effets négatifs d'un allié.",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": "<function effet_dissipation_majeure at 0x0000017FD16F8280>",
+    "set_name": "BaseSet",
+    "effects": [
+      {
+        "type": "dispel",
+        "amount": 20,
+        "target": "ally"
+      }
+    ]
+  },
+  {
+    "name": "Frappe Ignorante",
+    "element": "NEUTRE",
+    "rarity": "RARITY.MYTHIC",
+    "cost": 2,
+    "image_path": "",
+    "description": "Inflige 40 points de dégâts à un ennemi et ignore les provocations.",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": "<function effet_frappe_ignorante at 0x0000017FD16F8310>",
+    "set_name": "BaseSet",
+    "effects": [
+      {
+        "type": "damage",
+        "amount": 40,
+        "target": "enemy"
+      }
+    ]
+  },
+  {
+    "name": "Renforcement Supérieur",
+    "element": "NEUTRE",
+    "rarity": "RARITY.MYTHIC",
+    "cost": 2,
+    "image_path": "",
+    "description": "Augmente l'attaque d'un allié de 20% pendant 2 tours.",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": "<function effet_renforcement_superieur at 0x0000017FD16F83A0>",
+    "set_name": "BaseSet",
+    "effects": [
+      {
+        "type": "attack_buff",
+        "amount": 20,
+        "target": "ally"
+      }
+    ]
+  },
+  {
+    "name": "Protection Supérieure",
+    "element": "NEUTRE",
+    "rarity": "RARITY.MYTHIC",
+    "cost": 2,
+    "image_path": "",
+    "description": "Augmente la défense d'un allié de 20% pendant 2 tours.",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": "<function effet_protection_superieure at 0x0000017FD16F8430>",
+    "set_name": "BaseSet",
+    "effects": [
+      {
+        "type": "defense_buff",
+        "amount": 20,
+        "target": "ally"
+      }
+    ]
+  },
+  {
+    "name": "Faiblesse Supérieure",
+    "element": "NEUTRE",
+    "rarity": "RARITY.MYTHIC",
+    "cost": 2,
+    "image_path": "",
+    "description": "Réduit l'attaque d'un ennemi de 20% pendant 2 tours.",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": "<function effet_faiblesse_superieure at 0x0000017FD16F84C0>",
+    "set_name": "BaseSet",
+    "effects": [
+      {
+        "type": "attack_debuff",
+        "amount": 20,
+        "target": "enemy"
+      }
+    ]
+  },
+  {
+    "name": "Éclaircissement Supérieur",
+    "element": "NEUTRE",
+    "rarity": "RARITY.MYTHIC",
+    "cost": 2,
+    "image_path": "",
+    "description": "Augmente la précision d'un allié de 20% pendant 2 tours.",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": "<function effet_eclaircissement_superieur at 0x0000017FD16F8550>",
+    "set_name": "BaseSet",
+    "effects": [
+      {
+        "type": "precision_buff",
+        "amount": 20,
+        "target": "ally",
+        "duration": 2
+      }
+    ]
+  },
+  {
+    "name": "Flou Supérieur",
+    "element": "NEUTRE",
+    "rarity": "RARITY.MYTHIC",
+    "cost": 2,
+    "image_path": "",
+    "description": "Augmente l'esquive d'un allié de 20% pendant 2 tours.",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": "<function effet_flou_superieur at 0x0000017FD16F85E0>",
+    "set_name": "BaseSet",
+    "effects": [
+      {
+        "type": "esquive_buff",
+        "amount": 20,
+        "target": "ally",
+        "duration": 2
+      }
+    ]
+  },
+  {
+    "name": "Concentration Supérieure",
+    "element": "NEUTRE",
+    "rarity": "RARITY.MYTHIC",
+    "cost": 2,
+    "image_path": "",
+    "description": "Augmente les chances de coup critique d'un allié de 20% pendant 2 tours.",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": "<function effet_concentration_superieure at 0x0000017FD16F8670>",
+    "set_name": "BaseSet",
+    "effects": [
+      {
+        "type": "crit_buff",
+        "amount": 20,
+        "target": "ally",
+        "duration": 2
+      }
+    ]
+  },
+  {
+    "name": "Désorientation Supérieure",
+    "element": "NEUTRE",
+    "rarity": "RARITY.MYTHIC",
+    "cost": 2,
+    "image_path": "",
+    "description": "Réduit la précision d'un ennemi de 20% pendant 2 tours.",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": "<function effet_desorientation_superieure at 0x0000017FD16F8700>",
+    "set_name": "BaseSet",
+    "effects": [
+      {
+        "type": "precision_debuff",
+        "amount": 20,
+        "target": "enemy",
+        "duration": 2
+      }
+    ]
+  },
+  {
+    "name": "Affaiblissement Supérieur",
+    "element": "NEUTRE",
+    "rarity": "RARITY.MYTHIC",
+    "cost": 2,
+    "image_path": "",
+    "description": "Réduit la défense d'un ennemi de 20% pendant 2 tours.",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": "<function effet_affaiblissement_superieur at 0x0000017FD16F8790>",
+    "set_name": "BaseSet",
+    "effects": [
+      {
+        "type": "defense_debuff",
+        "amount": 20,
+        "target": "enemy",
+        "duration": 2
+      }
+    ]
+  },
+  {
+    "name": "Soin de Groupe Majeur",
+    "element": "NEUTRE",
+    "rarity": "RARITY.MYTHIC",
+    "cost": 3,
+    "image_path": "",
+    "description": "Restaure 30 points de vie à tous les alliés.",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": "<function effet_soin_de_groupe_majeur at 0x0000017FD16F8820>",
+    "set_name": "BaseSet",
+    "effects": [
+      {
+        "type": "heal",
+        "amount": 30,
+        "target": "all_allies"
+      }
+    ]
+  },
+  {
+    "name": "Bouclier de Groupe Robuste",
+    "element": "NEUTRE",
+    "rarity": "RARITY.MYTHIC",
+    "cost": 3,
+    "image_path": "",
+    "description": "Confère un bouclier de 30 points à tous les alliés.",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": "<function effet_bouclier_de_groupe_robuste at 0x0000017FD16F88B0>",
+    "set_name": "BaseSet",
+    "effects": [
+      {
+        "type": "shield",
+        "amount": 30,
+        "target": "all_allies"
+      }
+    ]
+  },
+  {
+    "name": "Frappe de Zone Puissante",
+    "element": "NEUTRE",
+    "rarity": "RARITY.MYTHIC",
+    "cost": 3,
+    "image_path": "",
+    "description": "Inflige 30 points de dégâts à tous les ennemis.",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": "<function effet_frappe_de_zone_puissante at 0x0000017FD16F8940>",
+    "set_name": "BaseSet",
+    "effects": [
+      {
+        "type": "damage",
+        "amount": 30,
+        "target": "all_enemies"
+      }
+    ]
+  },
+  {
+    "name": "Purification de Groupe",
+    "element": "NEUTRE",
+    "rarity": "RARITY.MYTHIC",
+    "cost": 3,
+    "image_path": "",
+    "description": "Retire deux effets négatifs de tous les alliés.",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": "<function effet_purification_de_groupe at 0x0000017FD16F89D0>",
+    "set_name": "BaseSet",
+    "effects": [
+      {
+        "type": "dispel",
+        "amount": 3,
+        "target": "all_allies"
+      }
+    ]
+  },
+  {
+    "name": "Dissipation de Groupe",
+    "element": "NEUTRE",
+    "rarity": "RARITY.MYTHIC",
+    "cost": 3,
+    "image_path": "",
+    "description": "Retire un effet positif de tous les ennemis.",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": "<function effet_dissipation_de_groupe at 0x0000017FD16F8A60>",
+    "set_name": "BaseSet",
+    "effects": [
+      {
+        "type": "dispel",
+        "amount": 3,
+        "target": "all_enemies"
+      }
+    ]
+  },
+  {
+    "name": "Frappe Dévastatrice",
+    "element": "NEUTRE",
+    "rarity": "RARITY.MYTHIC",
+    "cost": 3,
+    "image_path": "",
+    "description": "Inflige 60 points de dégâts à un ennemi.",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": "<function effet_frappe_devastatrice at 0x0000017FD16F8AF0>",
+    "set_name": "BaseSet",
+    "effects": [
+      {
+        "type": "damage",
+        "amount": 60,
+        "target": "enemy"
+      }
+    ]
+  },
+  {
+    "name": "Bouclier Impénétrable",
+    "element": "NEUTRE",
+    "rarity": "RARITY.MYTHIC",
+    "cost": 3,
+    "image_path": "",
+    "description": "Confère un bouclier de 60 points à un allié.",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": "<function effet_bouclier_impenetrable at 0x0000017FD16F8B80>",
+    "set_name": "BaseSet",
+    "effects": [
+      {
+        "type": "shield",
+        "amount": 60,
+        "target": "ally"
+      }
+    ]
+  },
+  {
+    "name": "Soin Suprême",
+    "element": "NEUTRE",
+    "rarity": "RARITY.MYTHIC",
+    "cost": 3,
+    "image_path": "",
+    "description": "Restaure 75 points de vie à un allié.",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": "<function effet_soin_supreme at 0x0000017FD16F8C10>",
+    "set_name": "BaseSet",
+    "effects": [
+      {
+        "type": "heal",
+        "amount": 75,
+        "target": "ally"
+      }
+    ]
+  },
+  {
+    "name": "Dissipation Suprême",
+    "element": "NEUTRE",
+    "rarity": "RARITY.MYTHIC",
+    "cost": 4,
+    "image_path": "",
+    "description": "Retire trois effets négatifs d'un allié.",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": "<function effet_dissipation_supreme at 0x0000017FD16F8CA0>",
+    "set_name": "BaseSet",
+    "effects": [
+      {
+        "type": "dispel",
+        "amount": 4,
+        "target": "ally"
+      }
+    ]
+  },
+  {
+    "name": "Frappe Ignorante Suprême",
+    "element": "NEUTRE",
+    "rarity": "RARITY.MYTHIC",
+    "cost": 3,
+    "image_path": "",
+    "description": "Inflige 60 points de dégâts à un ennemi et ignore les provocations.",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": "<function effet_frappe_ignorante_supreme at 0x0000017FD16F8D30>",
+    "set_name": "BaseSet",
+    "effects": [
+      {
+        "type": "damage",
+        "amount": 60,
+        "target": "enemy"
+      }
+    ]
+  },
+  {
+    "name": "Renforcement Ultime",
+    "element": "NEUTRE",
+    "rarity": "RARITY.MYTHIC",
+    "cost": 3,
+    "image_path": "",
+    "description": "Augmente l'attaque d'un allié de 30% pendant 2 tours.",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": "<function effet_renforcement_ultime at 0x0000017FD16F8DC0>",
+    "set_name": "BaseSet",
+    "effects": [
+      {
+        "type": "attack_buff",
+        "amount": 20,
+        "target": "ally"
+      }
+    ]
+  },
+  {
+    "name": "Protection Ultime",
+    "element": "NEUTRE",
+    "rarity": "RARITY.MYTHIC",
+    "cost": 3,
+    "image_path": "",
+    "description": "Augmente la défense d'un allié de 30% pendant 2 tours.",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": "<function effet_protection_ultime at 0x0000017FD16F8E50>",
+    "set_name": "BaseSet",
+    "effects": [
+      {
+        "type": "defense_buff",
+        "amount": 30,
+        "duration": 2,
+        "target": "ally"
+      }
+    ]
+  },
+  {
+    "name": "Faiblesse Ultime",
+    "element": "NEUTRE",
+    "rarity": "RARITY.MYTHIC",
+    "cost": 3,
+    "image_path": "",
+    "description": "Réduit l'attaque d'un ennemi de 30% pendant 2 tours.",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": "<function effet_faiblesse_ultime at 0x0000017FD16F8EE0>",
+    "set_name": "BaseSet",
+    "effects": [
+      {
+        "type": "attack_debuff",
+        "amount": 20,
+        "target": "enemy"
+      }
+    ]
+  },
+  {
+    "name": "Éclaircissement Ultime",
+    "element": "NEUTRE",
+    "rarity": "RARITY.MYTHIC",
+    "cost": 3,
+    "image_path": "",
+    "description": "Augmente la précision d'un allié de 30% pendant 2 tours.",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": "<function effet_eclaircissement_ultime at 0x0000017FD16F8F70>",
+    "set_name": "BaseSet",
+    "effects": [
+      {
+        "type": "precision_buff",
+        "amount": 30,
+        "duration": 2,
+        "target": "ally"
+      }
+    ]
+  },
+  {
+    "name": "Flou Ultime",
+    "element": "NEUTRE",
+    "rarity": "RARITY.MYTHIC",
+    "cost": 3,
+    "image_path": "",
+    "description": "Augmente l'esquive d'un allié de 30% pendant 2 tours.",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": "<function effet_flou_ultime at 0x0000017FD16F9000>",
+    "set_name": "BaseSet",
+    "effects": [
+      {
+        "type": "esquive_buff",
+        "amount": 30,
+        "duration": 2,
+        "target": "ally"
+      }
+    ]
+  },
+  {
+    "name": "Concentration Ultime",
+    "element": "NEUTRE",
+    "rarity": "RARITY.MYTHIC",
+    "cost": 3,
+    "image_path": "",
+    "description": "Augmente les chances de coup critique d'un allié de 30% pendant 2 tours.",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": "<function effet_concentration_ultime at 0x0000017FD16F9090>",
+    "set_name": "BaseSet",
+    "effects": [
+      {
+        "type": "crit_buff",
+        "amount": 30,
+        "duration": 2,
+        "target": "ally"
+      }
+    ]
+  },
+  {
+    "name": "Désorientation Ultime",
+    "element": "NEUTRE",
+    "rarity": "RARITY.MYTHIC",
+    "cost": 3,
+    "image_path": "",
+    "description": "Réduit la précision d'un ennemi de 30% pendant 2 tours.",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": "<function effet_desorientation_ultime at 0x0000017FD16F9120>",
+    "set_name": "BaseSet",
+    "effects": [
+      {
+        "type": "precision_debuff",
+        "amount": 30,
+        "duration": 2,
+        "target": "enemy"
+      }
+    ]
+  },
+  {
+    "name": "Affaiblissement Ultime",
+    "element": "NEUTRE",
+    "rarity": "RARITY.MYTHIC",
+    "cost": 3,
+    "image_path": "",
+    "description": "Réduit la défense d'un ennemi de 30% pendant 2 tours.",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": "<function effet_affaiblissement_ultime at 0x0000017FD16F91B0>",
+    "set_name": "BaseSet",
+    "effects": [
+      {
+        "type": "defense_debuff",
+        "amount": 30,
+        "duration": 2,
+        "target": "enemy"
+      }
+    ]
+  },
+  {
+    "name": "Soin de Groupe Suprême",
+    "element": "NEUTRE",
+    "rarity": "RARITY.MYTHIC",
+    "cost": 4,
+    "image_path": "",
+    "description": "Restaure 45 points de vie à tous les alliés.",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": "<function effet_soin_de_groupe_supreme at 0x0000017FD16F9240>",
+    "set_name": "BaseSet",
+    "effects": [
+      {
+        "type": "heal",
+        "amount": 45,
+        "target": "all_allies"
+      }
+    ]
+  },
+  {
+    "name": "Bouclier de Groupe Impénétrable",
+    "element": "NEUTRE",
+    "rarity": "RARITY.MYTHIC",
+    "cost": 4,
+    "image_path": "",
+    "description": "Confère un bouclier de 45 points à tous les alliés.",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": "<function effet_bouclier_de_groupe_impenetrable at 0x0000017FD16F92D0>",
+    "set_name": "BaseSet",
+    "effects": [
+      {
+        "type": "shield",
+        "amount": 45,
+        "target": "all_allies"
+      }
+    ]
+  },
+  {
+    "name": "Frappe de Zone Dévastatrice",
+    "element": "NEUTRE",
+    "rarity": "RARITY.MYTHIC",
+    "cost": 4,
+    "image_path": "",
+    "description": "Inflige 45 points de dégâts à tous les ennemis.",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": "<function effet_frappe_de_zone_devastatrice at 0x0000017FD16F9360>",
+    "set_name": "BaseSet",
+    "effects": [
+      {
+        "type": "damage",
+        "amount": 45,
+        "target": "all_enemies"
+      }
+    ]
+  },
+  {
+    "name": "Purification de Groupe Suprême",
+    "element": "NEUTRE",
+    "rarity": "RARITY.MYTHIC",
+    "cost": 4,
+    "image_path": "",
+    "description": "Retire trois effets négatifs de tous les alliés.",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": "<function effet_purification_de_groupe_supreme at 0x0000017FD16F93F0>",
+    "set_name": "BaseSet",
+    "effects": [
+      {
+        "type": "dispel",
+        "amount": 3,
+        "target": "all_allies"
+      }
+    ]
+  },
+  {
+    "name": "Dissipation de Groupe Suprême",
+    "element": "NEUTRE",
+    "rarity": "RARITY.MYTHIC",
+    "cost": 4,
+    "image_path": "",
+    "description": "Retire deux effets positifs de tous les ennemis.",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": "<function effet_dissipation_de_groupe_supreme at 0x0000017FD16F9480>",
+    "set_name": "BaseSet",
+    "effects": [
+      {
+        "type": "dispel",
+        "amount": 2,
+        "target": "all_enemies"
+      }
+    ]
+  },
+  {
+    "name": "Frappe Cataclysmique",
+    "element": "NEUTRE",
+    "rarity": "RARITY.MYTHIC",
+    "cost": 4,
+    "image_path": "",
+    "description": "Inflige 80 points de dégâts à un ennemi.",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": "<function effet_frappe_cataclysmique at 0x0000017FD16F9510>",
+    "set_name": "BaseSet",
+    "effects": [
+      {
+        "type": "damage",
+        "amount": 80,
+        "target": "enemy"
+      }
+    ]
+  },
+  {
+    "name": "Bouclier Inébranlable",
+    "element": "NEUTRE",
+    "rarity": "RARITY.MYTHIC",
+    "cost": 4,
+    "image_path": "",
+    "description": "Confère un bouclier de 80 points à un allié.",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": "<function effet_bouclier_inebranlable at 0x0000017FD16F95A0>",
+    "set_name": "BaseSet",
+    "effects": [
+      {
+        "type": "shield",
+        "amount": 80,
+        "target": "ally"
+      }
+    ]
+  },
+  {
+    "name": "Soin Divin",
+    "element": "NEUTRE",
+    "rarity": "RARITY.MYTHIC",
+    "cost": 4,
+    "image_path": "",
+    "description": "Restaure 100 points de vie à un allié.",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": "<function effet_soin_divin at 0x0000017FD16F9630>",
+    "set_name": "BaseSet",
+    "effects": [
+      {
+        "type": "heal",
+        "amount": 100,
+        "target": "ally"
+      }
+    ]
+  },
+  {
+    "name": "Dissipation Divine",
+    "element": "NEUTRE",
+    "rarity": "RARITY.MYTHIC",
+    "cost": 5,
+    "image_path": "",
+    "description": "Retire quatre effets négatifs d'un allié.",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": "<function effet_dissipation_divine at 0x0000017FD16F96C0>",
+    "set_name": "BaseSet",
+    "effects": [
+      {
+        "type": "dispel",
+        "amount": 4,
+        "target": "ally"
+      }
+    ]
+  },
+  {
+    "name": "Frappe Ignorante Divine",
+    "element": "NEUTRE",
+    "rarity": "RARITY.MYTHIC",
+    "cost": 4,
+    "image_path": "",
+    "description": "Inflige 80 points de dégâts à un ennemi et ignore les provocations.",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": "<function effet_frappe_ignorante_divine at 0x0000017FD16F9750>",
+    "set_name": "BaseSet",
+    "effects": [
+      {
+        "type": "damage",
+        "amount": 80,
+        "target": "enemy"
+      }
+    ]
+  },
+  {
+    "name": "Renforcement Divin",
+    "element": "NEUTRE",
+    "rarity": "RARITY.MYTHIC",
+    "cost": 4,
+    "image_path": "",
+    "description": "Augmente l'attaque d'un allié de 40% pendant 2 tours.",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": "<function effet_renforcement_divin at 0x0000017FD16F97E0>",
+    "set_name": "BaseSet",
+    "effects": [
+      {
+        "type": "attack_buff",
+        "amount": 20,
+        "target": "ally"
+      }
+    ]
+  },
+  {
+    "name": "Protection Divine",
+    "element": "NEUTRE",
+    "rarity": "RARITY.MYTHIC",
+    "cost": 4,
+    "image_path": "",
+    "description": "Augmente la défense d'un allié de 40% pendant 2 tours.",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": "<function effet_protection_divine at 0x0000017FD16F9870>",
+    "set_name": "BaseSet",
+    "effects": [
+      {
+        "type": "defense_buff",
+        "amount": 40,
+        "duration": 2,
+        "target": "ally"
+      }
+    ]
+  },
+  {
+    "name": "Faiblesse Divine",
+    "element": "NEUTRE",
+    "rarity": "RARITY.MYTHIC",
+    "cost": 4,
+    "image_path": "",
+    "description": "Réduit l'attaque d'un ennemi de 40% pendant 2 tours.",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": "<function effet_faiblesse_divine at 0x0000017FD16F9900>",
+    "set_name": "BaseSet",
+    "effects": [
+      {
+        "type": "attack_debuff",
+        "amount": 20,
+        "target": "enemy"
+      }
+    ]
+  },
+  {
+    "name": "Soin de Groupe Divin",
+    "element": "NEUTRE",
+    "rarity": "RARITY.MYTHIC",
+    "cost": 5,
+    "image_path": "",
+    "description": "Restaure 60 points de vie à tous les alliés.",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": "<function effet_soin_de_groupe_divin at 0x0000017FD16F9990>",
+    "set_name": "BaseSet",
+    "effects": [
+      {
+        "type": "heal",
+        "amount": 60,
+        "target": "all_allies"
+      }
+    ]
+  },
+  {
+    "name": "Bouclier de Groupe Inébranlable",
+    "element": "NEUTRE",
+    "rarity": "RARITY.MYTHIC",
+    "cost": 5,
+    "image_path": "",
+    "description": "Confère un bouclier de 60 points à tous les alliés.",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": "<function effet_bouclier_de_groupe_inebranlable at 0x0000017FD16F9A20>",
+    "set_name": "BaseSet",
+    "effects": [
+      {
+        "type": "shield",
+        "amount": 60,
+        "target": "all_allies"
+      }
+    ]
+  },
+  {
+    "name": "Frappe de Zone Cataclysmique",
+    "element": "NEUTRE",
+    "rarity": "RARITY.MYTHIC",
+    "cost": 5,
+    "image_path": "",
+    "description": "Inflige 60 points de dégâts à tous les ennemis.",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": "<function effet_frappe_de_zone_cataclysmique at 0x0000017FD16F9AB0>",
+    "set_name": "BaseSet",
+    "effects": [
+      {
+        "type": "damage",
+        "amount": 60,
+        "target": "all_enemies"
+      }
+    ]
+  },
+  {
+    "name": "Purification de Groupe Divine",
+    "element": "NEUTRE",
+    "rarity": "RARITY.MYTHIC",
+    "cost": 5,
+    "image_path": "",
+    "description": "Retire quatre effets négatifs de tous les alliés.",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": "<function effet_purification_de_groupe_divine at 0x0000017FD16F9B40>",
+    "set_name": "BaseSet",
+    "effects": [
+      {
+        "type": "dispel",
+        "amount": 4,
+        "target": "all_allies"
+      }
+    ]
+  },
+  {
+    "name": "Dissipation de Groupe Divine",
+    "element": "NEUTRE",
+    "rarity": "RARITY.MYTHIC",
+    "cost": 5,
+    "image_path": "",
+    "description": "Retire trois effets positifs de tous les ennemis.",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": "<function effet_dissipation_de_groupe_divine at 0x0000017FD16F9BD0>",
+    "set_name": "BaseSet",
+    "effects": [
+      {
+        "type": "dispel",
+        "amount": 3,
+        "target": "all_enemies"
+      }
+    ]
+  },
+  {
+    "name": "Frappe Apocalyptique",
+    "element": "NEUTRE",
+    "rarity": "RARITY.MYTHIC",
+    "cost": 5,
+    "image_path": "",
+    "description": "Inflige 100 points de dégâts à un ennemi.",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": "<function effet_frappe_apocalyptique at 0x0000017FD16F9C60>",
+    "set_name": "BaseSet",
+    "effects": [
+      {
+        "type": "damage",
+        "amount": 100,
+        "target": "enemy"
+      }
+    ]
+  },
+  {
+    "name": "Bouclier Absolu",
+    "element": "NEUTRE",
+    "rarity": "RARITY.MYTHIC",
+    "cost": 5,
+    "image_path": "",
+    "description": "Confère un bouclier de 100 points à un allié.",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": "<function effet_bouclier_absolu at 0x0000017FD16F9CF0>",
+    "set_name": "BaseSet",
+    "effects": [
+      {
+        "type": "shield",
+        "amount": 100,
+        "target": "ally"
+      }
+    ]
+  },
+  {
+    "name": "Soin Miraculeux",
+    "element": "NEUTRE",
+    "rarity": "RARITY.MYTHIC",
+    "cost": 5,
+    "image_path": "",
+    "description": "Restaure 125 points de vie à un allié.",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": "<function effet_soin_miraculeux at 0x0000017FD16F9D80>",
+    "set_name": "BaseSet",
+    "effects": [
+      {
+        "type": "heal",
+        "amount": 125,
+        "target": "ally"
+      }
+    ]
+  },
+  {
+    "name": "Dissipation Absolue",
+    "element": "NEUTRE",
+    "rarity": "RARITY.MYTHIC",
+    "cost": 6,
+    "image_path": "",
+    "description": "Retire cinq effets négatifs d'un allié.",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": "<function effet_dissipation_absolue at 0x0000017FD16F9E10>",
+    "set_name": "BaseSet",
+    "effects": [
+      {
+        "type": "dispel",
+        "amount": 5,
+        "target": "ally"
+      }
+    ]
+  },
+  {
+    "name": "Frappe Ignorante Absolue",
+    "element": "NEUTRE",
+    "rarity": "RARITY.MYTHIC",
+    "cost": 5,
+    "image_path": "",
+    "description": "Inflige 100 points de dégâts à un ennemi et ignore les provocations.",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": "<function effet_frappe_ignorante_absolue at 0x0000017FD16F9EA0>",
+    "set_name": "BaseSet",
+    "effects": [
+      {
+        "type": "damage",
+        "amount": 100,
+        "target": "enemy"
+      }
+    ]
+  },
+  {
+    "name": "Renforcement Absolu",
+    "element": "NEUTRE",
+    "rarity": "RARITY.MYTHIC",
+    "cost": 5,
+    "image_path": "",
+    "description": "Augmente l'attaque d'un allié de 50% pendant 2 tours.",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": "<function effet_renforcement_absolu at 0x0000017FD16F9F30>",
+    "set_name": "BaseSet",
+    "effects": [
+      {
+        "type": "attack_buff",
+        "amount": 20,
+        "target": "ally"
+      }
+    ]
+  },
+  {
+    "name": "Protection Absolue",
+    "element": "NEUTRE",
+    "rarity": "RARITY.MYTHIC",
+    "cost": 5,
+    "image_path": "",
+    "description": "Augmente la défense d'un allié de 50% pendant 2 tours.",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": "<function effet_protection_absolue at 0x0000017FD16F9FC0>",
+    "set_name": "BaseSet",
+    "effects": [
+      {
+        "type": "defense_buff",
+        "amount": 50,
+        "duration": 2,
+        "target": "ally"
+      }
+    ]
+  },
+  {
+    "name": "Soin de Groupe Miraculeux",
+    "element": "NEUTRE",
+    "rarity": "RARITY.MYTHIC",
+    "cost": 6,
+    "image_path": "",
+    "description": "Restaure 75 points de vie à tous les alliés.",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": "<function effet_soin_de_groupe_miraculeux at 0x0000017FD16FA050>",
+    "set_name": "BaseSet",
+    "effects": [
+      {
+        "type": "heal",
+        "amount": 75,
+        "target": "all_allies"
+      }
+    ]
+  },
+  {
+    "name": "Bouclier de Groupe Absolu",
+    "element": "NEUTRE",
+    "rarity": "RARITY.MYTHIC",
+    "cost": 6,
+    "image_path": "",
+    "description": "Confère un bouclier de 75 points à tous les alliés.",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": "<function effet_bouclier_de_groupe_absolu at 0x0000017FD16FA0E0>",
+    "set_name": "BaseSet",
+    "effects": [
+      {
+        "type": "shield",
+        "amount": 75,
+        "target": "all_allies"
+      }
+    ]
+  },
+  {
+    "name": "Étincelle",
+    "element": "NEUTRE",
+    "rarity": "RARITY.COMMON",
+    "cost": 1,
+    "image_path": "",
+    "description": "20 dégâts, Brûlure 5 (1t) à 1 ennemi.",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": null,
+    "set_name": "ElementalSet",
+    "effects": [
+      {
+        "type": "damage",
+        "amount": 20,
+        "target": "enemy"
+      },
+      {
+        "type": "burn",
+        "amount": 5,
+        "duration": 1,
+        "target": "enemy"
+      }
+    ]
+  },
+  {
+    "name": "Charge Ardente",
+    "element": "NEUTRE",
+    "rarity": "RARITY.COMMON",
+    "cost": 2,
+    "image_path": "",
+    "description": "24 dégâts. Brûlure 5 (1t). Si cible Gelée, retire Gel et inflige +4 dégâts.",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": null,
+    "set_name": "ElementalSet",
+    "effects": [
+      {
+        "type": "damage",
+        "amount": 24,
+        "target": "enemy"
+      },
+      {
+        "type": "burn",
+        "amount": 5,
+        "duration": 1,
+        "target": "enemy"
+      }
+    ]
+  },
+  {
+    "name": "Défense Cautérisée",
+    "element": "NEUTRE",
+    "rarity": "RARITY.COMMON",
+    "cost": 1,
+    "image_path": "",
+    "description": "Donne Bouclier 20 à 1 allié. Si cet allié est sous Brûlure : +10 PV soignés.",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": null,
+    "set_name": "ElementalSet",
+    "effects": [
+      {
+        "type": "shield",
+        "amount": 20,
+        "target": "ally"
+      }
+    ]
+  },
+  {
+    "name": "Soin de Braises",
+    "element": "NEUTRE",
+    "rarity": "RARITY.COMMON",
+    "cost": 1,
+    "image_path": "",
+    "description": "Soigne 25 PV à 1 allié. Si cible Mouillée, soin annulé.",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": null,
+    "set_name": "ElementalSet",
+    "effects": [
+      {
+        "type": "heal",
+        "amount": 25,
+        "target": "ally"
+      }
+    ]
+  },
+  {
+    "name": "Brasier Groupé",
+    "element": "NEUTRE",
+    "rarity": "RARITY.UNCOMMON",
+    "cost": 3,
+    "image_path": "",
+    "description": "18 dégâts + Brûlure 4 sur tous les ennemis. (Réduction multi, cumul brûlure).",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": null,
+    "set_name": "ElementalSet",
+    "effects": [
+      {
+        "type": "damage",
+        "amount": 18,
+        "target": "all_enemies"
+      },
+      {
+        "type": "burn",
+        "amount": 4,
+        "duration": 1,
+        "target": "all_enemies"
+      }
+    ]
+  },
+  {
+    "name": "Inspiration Incandescente",
+    "element": "NEUTRE",
+    "rarity": "RARITY.UNCOMMON",
+    "cost": 2,
+    "image_path": "",
+    "description": "+20 ATK (1t) à un allié. Si Brûlure : +8 ATK supplémentaires.",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": null,
+    "set_name": "ElementalSet",
+    "effects": [
+      {
+        "type": "attack_buff",
+        "amount": 20,
+        "duration": 1,
+        "target": "ally"
+      }
+    ]
+  },
+  {
+    "name": "Fournaise Absolue",
+    "element": "NEUTRE",
+    "rarity": "RARITY.RARE",
+    "cost": 4,
+    "image_path": "",
+    "description": "24 dégâts et Brûlure 7 (2t) à 1 ennemi.",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": null,
+    "set_name": "ElementalSet",
+    "effects": [
+      {
+        "type": "damage",
+        "amount": 24,
+        "target": "enemy"
+      },
+      {
+        "type": "burn",
+        "amount": 7,
+        "duration": 2,
+        "target": "enemy"
+      }
+    ]
+  },
+  {
+    "name": "Purification par le Feu",
+    "element": "NEUTRE",
+    "rarity": "RARITY.RARE",
+    "cost": 4,
+    "image_path": "",
+    "description": "Retire 1 malus à tous les alliés (multi, soit 2 + 1x3 cibles = 5 mana max).",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": null,
+    "set_name": "ElementalSet",
+    "effects": [
+      {
+        "type": "dispel",
+        "amount": 1,
+        "target": "all_allies"
+      }
+    ]
+  },
+  {
+    "name": "Aura Embrasée",
+    "element": "NEUTRE",
+    "rarity": "RARITY.EPIQUE",
+    "cost": 8,
+    "image_path": "",
+    "description": "+10% dégâts Feu infligés par le porteur (jusqu'à la fin du combat). Brûlures infligées durent +1t.",
+    "card_type": "CARDTYPE.EQUIPMENT",
+    "effect": null,
+    "set_name": "ElementalSet",
+    "effects": [
+      {
+        "type": "fire_damage_buff",
+        "amount": 10,
+        "duration": 0,
+        "target": "self"
+      },
+      {
+        "type": "burn_duration_buff",
+        "amount": 1,
+        "duration": 0,
+        "target": "self"
+      }
+    ]
+  },
+  {
+    "name": "Apocalypse Flamboyante",
+    "element": "NEUTRE",
+    "rarity": "RARITY.MYTHIC",
+    "cost": 9,
+    "image_path": "",
+    "description": "À tous les ennemis : 30 dégâts + Brûlure 12 (3t). Si au moins 2 Mouillés au début, retire la Brûlure sur eux.",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": null,
+    "set_name": "ElementalSet",
+    "effects": [
+      {
+        "type": "damage",
+        "amount": 30,
+        "target": "all_enemies"
+      },
+      {
+        "type": "burn",
+        "amount": 12,
+        "duration": 3,
+        "target": "all_enemies"
+      }
+    ]
+  },
+  {
+    "name": "Jet",
+    "element": "NEUTRE",
+    "rarity": "RARITY.COMMON",
+    "cost": 1,
+    "image_path": "",
+    "description": "20 dégâts, Mouillé (1t) à 1 ennemi.",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": null,
+    "set_name": "ElementalSet",
+    "effects": [
+      {
+        "type": "damage",
+        "amount": 20,
+        "target": "enemy"
+      },
+      {
+        "type": "wet",
+        "duration": 1,
+        "target": "enemy"
+      }
+    ]
+  },
+  {
+    "name": "Bouclier Liquide",
+    "element": "NEUTRE",
+    "rarity": "RARITY.COMMON",
+    "cost": 1,
+    "image_path": "",
+    "description": "Donne un bouclier de 20 PV. Si cible Mouillée, bouclier +20 PV.",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": null,
+    "set_name": "ElementalSet",
+    "effects": [
+      {
+        "type": "conditional_shield",
+        "base_amount": 20,
+        "bonus_amount": 20,
+        "condition": "wet",
+        "target": "ally"
+      }
+    ]
+  },
+  {
+    "name": "Soin Vital",
+    "element": "NEUTRE",
+    "rarity": "RARITY.COMMON",
+    "cost": 1,
+    "image_path": "",
+    "description": "Soigne 25 PV à 1 allié.",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": null,
+    "set_name": "ElementalSet",
+    "effects": [
+      {
+        "type": "heal",
+        "amount": 25,
+        "target": "ally"
+      }
+    ]
+  },
+  {
+    "name": "Ruissellement",
+    "element": "NEUTRE",
+    "rarity": "RARITY.COMMON",
+    "cost": 3,
+    "image_path": "",
+    "description": "Provoque 1 ennemi. Si cible Feu, dégâts subis +20% ce tour.",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": null,
+    "set_name": "ElementalSet",
+    "effects": [
+      {
+        "type": "damage",
+        "amount": 20,
+        "target": "enemy"
+      }
+    ]
+  },
+  {
+    "name": "Torrent Purifiant",
+    "element": "NEUTRE",
+    "rarity": "RARITY.UNCOMMON",
+    "cost": 3,
+    "image_path": "",
+    "description": "Retire 1 effet négatif à 1 allié, soigne 25 PV.",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": null,
+    "set_name": "ElementalSet",
+    "effects": [
+      {
+        "type": "heal",
+        "amount": 25,
+        "target": "ally"
+      }
+    ]
+  },
+  {
+    "name": "Vague de Dissolution",
+    "element": "NEUTRE",
+    "rarity": "RARITY.UNCOMMON",
+    "cost": 3,
+    "image_path": "",
+    "description": "18 dégâts + applique Mouillé à tous les ennemis (multi, -15% dégâts multi).",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": null,
+    "set_name": "ElementalSet",
+    "effects": [
+      {
+        "type": "damage",
+        "amount": 18,
+        "target": "all_enemies"
+      },
+      {
+        "type": "wet",
+        "duration": 1,
+        "target": "all_enemies"
+      }
+    ]
+  },
+  {
+    "name": "Regen. Marine",
+    "element": "NEUTRE",
+    "rarity": "RARITY.RARE",
+    "cost": 5,
+    "image_path": "",
+    "description": "Soigne 10 PV à chacun de vos alliés pendant 2 tours (+2 mana durée).",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": null,
+    "set_name": "ElementalSet",
+    "effects": [
+      {
+        "type": "heal",
+        "amount": 10,
+        "target": "ally"
+      }
+    ]
+  },
+  {
+    "name": "Fontaine de Purge",
+    "element": "NEUTRE",
+    "rarity": "RARITY.RARE",
+    "cost": 4,
+    "image_path": "",
+    "description": "Retire 2 malus d'état à 1 allié (2 pour le premier, 1 pour le deuxième).",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": null,
+    "set_name": "ElementalSet",
+    "effects": [
+      {
+        "type": "heal",
+        "amount": 20,
+        "target": "ally"
+      }
+    ]
+  },
+  {
+    "name": "Remous Infini",
+    "element": "NEUTRE",
+    "rarity": "RARITY.EPIQUE",
+    "cost": 8,
+    "image_path": "",
+    "description": "Après chaque sort Eau lancé : soigne 7 PV à toute l'équipe. (1x/tour)",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": null,
+    "set_name": "ElementalSet",
+    "effects": [
+      {
+        "type": "heal",
+        "amount": 7,
+        "target": "enemy"
+      }
+    ]
+  },
+  {
+    "name": "Globe de Submersion",
+    "element": "NEUTRE",
+    "rarity": "RARITY.MYTHIC",
+    "cost": 9,
+    "image_path": "",
+    "description": "Inflige 35 dégâts + Mouillé (2t) à toute l'équipe ennemie. Si cible Feu, dégâts +10% et Brûlure supprimée.",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": null,
+    "set_name": "ElementalSet",
+    "effects": [
+      {
+        "type": "damage",
+        "amount": 35,
+        "target": "all_enemies"
+      },
+      {
+        "type": "wet",
+        "duration": 2,
+        "target": "all_enemies"
+      }
+    ]
+  },
+  {
+    "name": "Choc Tellurique",
+    "element": "NEUTRE",
+    "rarity": "RARITY.COMMON",
+    "cost": 1,
+    "image_path": "",
+    "description": "20 dégâts à un ennemi.",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": null,
+    "set_name": "ElementalSet",
+    "effects": [
+      {
+        "type": "damage",
+        "amount": 20,
+        "target": "enemy"
+      }
+    ]
+  },
+  {
+    "name": "Barrière Fleurie",
+    "element": "NEUTRE",
+    "rarity": "RARITY.COMMON",
+    "cost": 1,
+    "image_path": "",
+    "description": "Donne 20 bouclier à 1 allié. Terre : dure 2 tours.",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": null,
+    "set_name": "ElementalSet",
+    "effects": [
+      {
+        "type": "shield",
+        "amount": 20,
+        "target": "ally"
+      }
+    ]
+  },
+  {
+    "name": "Racines Enchevêtrées",
+    "element": "NEUTRE",
+    "rarity": "RARITY.COMMON",
+    "cost": 4,
+    "image_path": "",
+    "description": "Immobilise (contrôle 1t, 3 mana + 1 mineur) 1 ennemi, 1 tour.",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": null,
+    "set_name": "ElementalSet",
+    "effects": [
+      {
+        "type": "damage",
+        "amount": 20,
+        "target": "enemy"
+      }
+    ]
+  },
+  {
+    "name": "Croissance Soudaine",
+    "element": "NEUTRE",
+    "rarity": "RARITY.COMMON",
+    "cost": 2,
+    "image_path": "",
+    "description": "+20 ATK à 1 allié, pendant 1 tour.",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": null,
+    "set_name": "ElementalSet",
+    "effects": [
+      {
+        "type": "heal",
+        "amount": 20,
+        "target": "ally"
+      }
+    ]
+  },
+  {
+    "name": "Liane de Rappel",
+    "element": "NEUTRE",
+    "rarity": "RARITY.UNCOMMON",
+    "cost": 2,
+    "image_path": "",
+    "description": "Provoque 1 ennemi (force à taper le porteur). Si porteur Terre, ignore Provocation ennemie.",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": null,
+    "set_name": "ElementalSet",
+    "effects": [
+      {
+        "type": "damage",
+        "amount": 20,
+        "target": "enemy"
+      }
+    ]
+  },
+  {
+    "name": "Guérison de Sève",
+    "element": "NEUTRE",
+    "rarity": "RARITY.UNCOMMON",
+    "cost": 2,
+    "image_path": "",
+    "description": "Soigne 25 à 1 allié, retire Mouillé.",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": null,
+    "set_name": "ElementalSet",
+    "effects": [
+      {
+        "type": "heal",
+        "duration": 1,
+        "target": "ally",
+        "amount": 20
+      }
+    ]
+  },
+  {
+    "name": "Frappe Sismique",
+    "element": "NEUTRE",
+    "rarity": "RARITY.RARE",
+    "cost": 4,
+    "image_path": "",
+    "description": "24 dégâts à 1 cible (Terre), si Ennemi Mouillé : dégâts +6.",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": null,
+    "set_name": "ElementalSet",
+    "effects": [
+      {
+        "type": "damage",
+        "amount": 24,
+        "target": "enemy"
+      },
+      {
+        "type": "wet",
+        "duration": 1,
+        "target": "enemy"
+      }
+    ]
+  },
+  {
+    "name": "Essor Minéral",
+    "element": "NEUTRE",
+    "rarity": "RARITY.RARE",
+    "cost": 3,
+    "image_path": "",
+    "description": "Retire 1 bonus à 1 ennemi. Si cible Air, retire 2 bonus (max 7 mana si \"tout bonus\" retiré).",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": null,
+    "set_name": "ElementalSet",
+    "effects": [
+      {
+        "type": "damage",
+        "amount": 20,
+        "target": "enemy"
+      }
+    ]
+  },
+  {
+    "name": "Roc Inébranlable",
+    "element": "NEUTRE",
+    "rarity": "RARITY.EPIQUE",
+    "cost": 8,
+    "image_path": "",
+    "description": "Porteur : +10 DEF (permanent). Si cible Mouillée, DEF +2 suppl.",
+    "card_type": "CARDTYPE.EQUIPMENT",
+    "effect": null,
+    "set_name": "ElementalSet"
+  },
+  {
+    "name": "Festin de Gaïa",
+    "element": "NEUTRE",
+    "rarity": "RARITY.MYTHIC",
+    "cost": 9,
+    "image_path": "",
+    "description": "Soigne 35 tous alliés et retire tous effets négatifs (multi-alliés, tout malus, bonus myt.)",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": null,
+    "set_name": "ElementalSet",
+    "effects": [
+      {
+        "type": "heal",
+        "amount": 20,
+        "target": "all_allies"
+      }
+    ]
+  },
+  {
+    "name": "Décharge Mineure",
+    "element": "NEUTRE",
+    "rarity": "RARITY.COMMON",
+    "cost": 1,
+    "image_path": "",
+    "description": "20 dégâts à 1 ennemi. Si Mouillé : 2 dégâts supplémentaires.",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": null,
+    "set_name": "ElementalSet",
+    "effects": [
+      {
+        "type": "damage",
+        "amount": 20,
+        "target": "enemy"
+      },
+      {
+        "type": "wet",
+        "duration": 1,
+        "target": "enemy"
+      }
+    ]
+  },
+  {
+    "name": "Éclair Réactif",
+    "element": "NEUTRE",
+    "rarity": "RARITY.COMMON",
+    "cost": 1,
+    "image_path": "",
+    "description": "20 dégâts à 1 ennemi. Si la cible est Paralisée, double les dégâts.",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": null,
+    "set_name": "ElementalSet",
+    "effects": [
+      {
+        "type": "damage",
+        "amount": 20,
+        "target": "enemy"
+      }
+    ]
+  },
+  {
+    "name": "Surcharge",
+    "element": "NEUTRE",
+    "rarity": "RARITY.COMMON",
+    "cost": 2,
+    "image_path": "",
+    "description": "25 PV de bouclier à 1 allié (modificateur max 20, mais bonus élémentaire). Si porteur est Mouillé, +10 bouclier.",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": null,
+    "set_name": "ElementalSet",
+    "effects": [
+      {
+        "type": "shield",
+        "amount": 25,
+        "target": "ally"
+      },
+      {
+        "type": "wet",
+        "duration": 1,
+        "target": "ally"
+      }
+    ]
+  },
+  {
+    "name": "Énergisation",
+    "element": "NEUTRE",
+    "rarity": "RARITY.COMMON",
+    "cost": 1,
+    "image_path": "",
+    "description": "Soigne 25 PV à 1 allié. Si cible Foudre : soins augmentés de 10%.",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": null,
+    "set_name": "ElementalSet",
+    "effects": [
+      {
+        "type": "heal",
+        "amount": 25,
+        "target": "ally"
+      }
+    ]
+  },
+  {
+    "name": "Onde Paralysante",
+    "element": "NEUTRE",
+    "rarity": "RARITY.UNCOMMON",
+    "cost": 4,
+    "image_path": "",
+    "description": "Paralyse un ennemi (contrôle 3 mana) + 20 dégâts. Durée 1 tour.",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": null,
+    "set_name": "ElementalSet",
+    "effects": [
+      {
+        "type": "paralyze",
+        "duration": 1,
+        "target": "enemy"
+      },
+      {
+        "type": "damage",
+        "amount": 20,
+        "target": "enemy"
+      }
+    ]
+  },
+  {
+    "name": "Conduction de Groupe",
+    "element": "NEUTRE",
+    "rarity": "RARITY.UNCOMMON",
+    "cost": 2,
+    "image_path": "",
+    "description": "18 dégâts à tous les ennemis (réduction multi) ; Mouillé : 3 dégâts suppl./cible.",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": null,
+    "set_name": "ElementalSet",
+    "effects": [
+      {
+        "type": "damage",
+        "amount": 18,
+        "target": "all_enemies"
+      },
+      {
+        "type": "wet",
+        "duration": 1,
+        "target": "all_enemies"
+      }
+    ]
+  },
+  {
+    "name": "Fulgurance",
+    "element": "NEUTRE",
+    "rarity": "RARITY.RARE",
+    "cost": 4,
+    "image_path": "",
+    "description": "24 dégâts à 1 ennemi, 20% de chance de Paralyser (contrôle tempéré).",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": null,
+    "set_name": "ElementalSet",
+    "effects": [
+      {
+        "type": "damage",
+        "amount": 24,
+        "target": "enemy"
+      }
+    ]
+  },
+  {
+    "name": "Neutralisation Statique",
+    "element": "NEUTRE",
+    "rarity": "RARITY.RARE",
+    "cost": 4,
+    "image_path": "",
+    "description": "Retire 2 effets positifs sur 1 ennemi.",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": null,
+    "set_name": "ElementalSet",
+    "effects": [
+      {
+        "type": "damage",
+        "amount": 20,
+        "target": "enemy"
+      }
+    ]
+  },
+  {
+    "name": "Armure Conductrice",
+    "element": "NEUTRE",
+    "rarity": "RARITY.EPIQUE",
+    "cost": 8,
+    "image_path": "",
+    "description": "Porteur : +12% résistance Foudre, ignore Paralyse.",
+    "card_type": "CARDTYPE.EQUIPMENT",
+    "effect": null,
+    "set_name": "ElementalSet"
+  },
+  {
+    "name": "Tempête Apocalyptique",
+    "element": "NEUTRE",
+    "rarity": "RARITY.MYTHIC",
+    "cost": 10,
+    "image_path": "",
+    "description": "32 dégâts + Paralyse (1t) à tous les ennemis. Si Mouillés, dégâts +10%.",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": null,
+    "set_name": "ElementalSet",
+    "effects": [
+      {
+        "type": "damage",
+        "amount": 32,
+        "target": "all_enemies"
+      },
+      {
+        "type": "paralyze",
+        "duration": 1,
+        "target": "all_enemies"
+      }
+    ]
+  },
+  {
+    "name": "Éclat Givré",
+    "element": "NEUTRE",
+    "rarity": "RARITY.COMMON",
+    "cost": 1,
+    "image_path": "",
+    "description": "20 dégâts + 20% de chance de Gel (chance, pas de contrôle pur).",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": null,
+    "set_name": "ElementalSet",
+    "effects": [
+      {
+        "type": "damage",
+        "amount": 20,
+        "target": "enemy"
+      },
+      {
+        "type": "freeze",
+        "chance": 20,
+        "duration": 1,
+        "target": "enemy"
+      }
+    ]
+  },
+  {
+    "name": "Brume Frigide",
+    "element": "NEUTRE",
+    "rarity": "RARITY.COMMON",
+    "cost": 1,
+    "image_path": "",
+    "description": "Donne un bouclier de 20 à 1 allié. Résistance 5% aux dégâts Feu (1 tour).",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": null,
+    "set_name": "ElementalSet",
+    "effects": [
+      {
+        "type": "shield",
+        "amount": 20,
+        "target": "ally"
+      }
+    ]
+  },
+  {
+    "name": "Soin Glacial",
+    "element": "NEUTRE",
+    "rarity": "RARITY.COMMON",
+    "cost": 1,
+    "image_path": "",
+    "description": "Soigne 25 PV à un allié. Si déjà Gelé, soin doublé.",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": null,
+    "set_name": "ElementalSet",
+    "effects": [
+      {
+        "type": "heal",
+        "amount": 25,
+        "target": "ally"
+      }
+    ]
+  },
+  {
+    "name": "Souffle Froid",
+    "element": "NEUTRE",
+    "rarity": "RARITY.COMMON",
+    "cost": 1,
+    "image_path": "",
+    "description": "20 dégâts à 1 ennemi. Si cible Brûlée, retire Brûlure.",
+    "card_type": "CARDTYPE.SPELL",
+    "effect": null,
+    "set_name": "ElementalSet",
+    "effects": [
+      {
+        "type": "damage",
+        "amount": 20,
+        "target": "enemy"
+      },
+      {
+        "type": "remove_status",
+        "status": "burn",
+        "target": "enemy"
+      }
+    ]
+  }
+]

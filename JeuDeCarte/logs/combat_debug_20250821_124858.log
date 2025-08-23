@@ -1,0 +1,97 @@
+2025-08-21 12:49:13,244 - DEBUG - [CONVERSION] Données JSON pour héros Aquarielle, Gardienne des Marées: {'name': 'Aquarielle, Gardienne des Marées', 'element': 'Eau', 'type': 'hero', 'base_stats': {'hp': 1200, 'attack': 28, 'defense': 24}, 'cost': 0, 'rarity': 'Héros', 'description': "Protectrice des océans, Aquarielle utilise les pouvoirs curatifs de l'eau pour soutenir ses alliés.", 'image': 'default_hero.png', 'ability_name': 'Vague Régénératrice', 'ability_description': 'Vague Régénératrice : Soigne 70 PV à tous les alliés + retire Brûlure/Poison.', 'ability_cooldown': 3, 'basic_attack_cooldown': 1, 'passive': 'Alliés Eau -10 % dégâts subit. (+2 coût)', 'image_path': 'Hero/2.png', 'crit_pct': 5.0, 'esquive_pct': 5.0, 'precision_pct': 99.0}
+2025-08-21 12:49:13,244 - DEBUG - [CONVERSION] base_stats extrait pour héros: {'hp': 1200, 'attack': 28, 'defense': 24}
+2025-08-21 12:49:13,244 - DEBUG - [CONVERSION] Stats héros initialisées depuis JSON: {'hp': 1200, 'attack': 28, 'defense': 24}
+2025-08-21 12:49:13,245 - DEBUG - [CONVERSION] Héros Aquarielle, Gardienne des Marées converti - HP: 1200, ATK: 28, DEF: 24, Image: Hero/2.png
+2025-08-21 12:49:13,246 - DEBUG - [CONVERSION] Données JSON pour Gelidar, Chevalier des Neiges: {'name': 'Gelidar, Chevalier des Neiges', 'element': 'Glace', 'type': 'unit', 'description': 'LORE A VENIR', 'image': 'default.png', 'hp': 1100, 'attack': 25, 'defense': 28, 'crit_pct': 3.0, 'dgtcrit_pct': 0.0, 'esquive_pct': 1.0, 'precision_pct': 99.0, 'image_path': 'Crea/3.png', 'rarity': 'Spécial', 'cost': 0, 'ability_ids': ['6013'], 'cooldown_modifiers': {}, 'passive_ids': ['1321']}
+2025-08-21 12:49:13,246 - DEBUG - [CONVERSION] Stats extraites: {'hp': 1100, 'attack': 25, 'defense': 28}
+2025-08-21 12:49:13,246 - DEBUG - [CONVERSION] Stats initialisées depuis JSON: {'hp': 1100, 'attack': 25, 'defense': 28}
+2025-08-21 12:49:13,247 - DEBUG - [CONVERSION] Unité Gelidar, Chevalier des Neiges convertie - HP: 1100, ATK: 25, DEF: 28, Image: Crea/3.png
+2025-08-21 12:49:13,247 - DEBUG - [CONVERSION] Unité Gelidar, Chevalier des Neiges - base_stats: {'hp': 1100, 'attack': 25, 'defense': 28}
+2025-08-21 12:49:13,247 - DEBUG - [CONVERSION] Unité Gelidar, Chevalier des Neiges - stats: {'hp': 1100, 'attack': 25, 'defense': 28}
+2025-08-21 12:49:13,247 - DEBUG - [CONVERSION] Données JSON pour Frimousse, Esprit Givré: {'name': 'Frimousse, Esprit Givré', 'element': 'Glace', 'type': 'unit', 'description': 'LORE A VENIR', 'image': 'default.png', 'hp': 780, 'attack': 23, 'defense': 13, 'crit_pct': 3.0, 'dgtcrit_pct': 0.0, 'esquive_pct': 1.0, 'precision_pct': 99.0, 'image_path': 'Crea/4.png', 'rarity': 'Commun', 'cost': 0, 'ability_ids': ['5000'], 'cooldown_modifiers': {}}
+2025-08-21 12:49:13,247 - DEBUG - [CONVERSION] Stats extraites: {'hp': 780, 'attack': 23, 'defense': 13}
+2025-08-21 12:49:13,248 - DEBUG - [CONVERSION] Stats initialisées depuis JSON: {'hp': 780, 'attack': 23, 'defense': 13}
+2025-08-21 12:49:13,248 - DEBUG - [CONVERSION] Unité Frimousse, Esprit Givré convertie - HP: 780, ATK: 23, DEF: 13, Image: Crea/4.png
+2025-08-21 12:49:13,248 - DEBUG - [CONVERSION] Unité Frimousse, Esprit Givré - base_stats: {'hp': 780, 'attack': 23, 'defense': 13}
+2025-08-21 12:49:13,248 - DEBUG - [CONVERSION] Unité Frimousse, Esprit Givré - stats: {'hp': 780, 'attack': 23, 'defense': 13}
+2025-08-21 12:49:13,248 - DEBUG - [CONVERSION] Données JSON pour Skyla, Danseuse des Nuages: {'name': 'Skyla, Danseuse des Nuages', 'element': 'Air', 'type': 'unit', 'description': 'LORE A VENIR', 'image': 'default.png', 'hp': 1010, 'attack': 28, 'defense': 21, 'crit_pct': 3.0, 'dgtcrit_pct': 0.0, 'esquive_pct': 1.0, 'precision_pct': 99.0, 'image_path': 'Crea/5.png', 'rarity': 'Rare', 'cost': 0, 'ability_ids': ['5754', '5755'], 'cooldown_modifiers': {}, 'passive_ids': []}
+2025-08-21 12:49:13,249 - DEBUG - [CONVERSION] Stats extraites: {'hp': 1010, 'attack': 28, 'defense': 21}
+2025-08-21 12:49:13,249 - DEBUG - [CONVERSION] Stats initialisées depuis JSON: {'hp': 1010, 'attack': 28, 'defense': 21}
+2025-08-21 12:49:13,249 - DEBUG - [CONVERSION] Unité Skyla, Danseuse des Nuages convertie - HP: 1010, ATK: 28, DEF: 21, Image: Crea/5.png
+2025-08-21 12:49:13,249 - DEBUG - [CONVERSION] Unité Skyla, Danseuse des Nuages - base_stats: {'hp': 1010, 'attack': 28, 'defense': 21}
+2025-08-21 12:49:13,249 - DEBUG - [CONVERSION] Unité Skyla, Danseuse des Nuages - stats: {'hp': 1010, 'attack': 28, 'defense': 21}
+2025-08-21 12:49:13,250 - DEBUG - [CONVERSION] Données JSON pour Roktus, Gobelin Mineur: {'name': 'Roktus, Gobelin Mineur', 'element': 'Terre', 'type': 'unit', 'description': 'LORE A VENIR', 'image': 'default.png', 'hp': 845, 'attack': 26, 'defense': 12, 'crit_pct': 3.0, 'dgtcrit_pct': 0.0, 'esquive_pct': 1.0, 'precision_pct': 99.0, 'image_path': 'Crea/35.png', 'rarity': 'Peu Commun', 'cost': 0, 'ability_ids': ['5507', '5508'], 'cooldown_modifiers': {}, 'passive_ids': []}
+2025-08-21 12:49:13,250 - DEBUG - [CONVERSION] Stats extraites: {'hp': 845, 'attack': 26, 'defense': 12}
+2025-08-21 12:49:13,250 - DEBUG - [CONVERSION] Stats initialisées depuis JSON: {'hp': 845, 'attack': 26, 'defense': 12}
+2025-08-21 12:49:13,251 - DEBUG - [CONVERSION] Unité Roktus, Gobelin Mineur convertie - HP: 845, ATK: 26, DEF: 12, Image: Crea/35.png
+2025-08-21 12:49:13,251 - DEBUG - [CONVERSION] Unité Roktus, Gobelin Mineur - base_stats: {'hp': 845, 'attack': 26, 'defense': 12}
+2025-08-21 12:49:13,251 - DEBUG - [CONVERSION] Unité Roktus, Gobelin Mineur - stats: {'hp': 845, 'attack': 26, 'defense': 12}
+2025-08-21 12:49:13,251 - DEBUG - [CONVERSION] Données JSON pour Corvus, Corbeau Mystique: {'name': 'Corvus, Corbeau Mystique', 'element': 'Air', 'type': 'unit', 'description': 'LORE A VENIR', 'image': 'default.png', 'hp': 1113, 'attack': 33, 'defense': 21, 'crit_pct': 3.0, 'dgtcrit_pct': 0.0, 'esquive_pct': 1.0, 'precision_pct': 99.0, 'image_path': 'Crea/51.png', 'rarity': 'Épique', 'cost': 0, 'ability_ids': ['5762', '5763'], 'cooldown_modifiers': {}, 'passive_ids': ['1336']}
+2025-08-21 12:49:13,252 - DEBUG - [CONVERSION] Stats extraites: {'hp': 1113, 'attack': 33, 'defense': 21}
+2025-08-21 12:49:13,252 - DEBUG - [CONVERSION] Stats initialisées depuis JSON: {'hp': 1113, 'attack': 33, 'defense': 21}
+2025-08-21 12:49:13,252 - DEBUG - [CONVERSION] Unité Corvus, Corbeau Mystique convertie - HP: 1113, ATK: 33, DEF: 21, Image: Crea/51.png
+2025-08-21 12:49:13,253 - DEBUG - [CONVERSION] Unité Corvus, Corbeau Mystique - base_stats: {'hp': 1113, 'attack': 33, 'defense': 21}
+2025-08-21 12:49:13,253 - DEBUG - [CONVERSION] Unité Corvus, Corbeau Mystique - stats: {'hp': 1113, 'attack': 33, 'defense': 21}
+2025-08-21 12:49:13,253 - DEBUG - [CONVERSION] Données JSON pour héros Glacius, Empereur du Givre: {'name': 'Glacius, Empereur du Givre', 'element': 'Glace', 'type': 'hero', 'base_stats': {'hp': 1150, 'attack': 32, 'defense': 26}, 'cost': 0, 'rarity': 'Héros', 'description': 'Souverain des terres glacées, Glacius paralyse ses ennemis avec des tempêtes de glace dévastatrices.', 'image': 'default_hero.png', 'ability_name': 'Tempête de Givre', 'ability_description': 'Tempête de Givre : 60 dégâts à tous + Gel (1 tour).', 'ability_cooldown': 3, 'basic_attack_cooldown': 1, 'passive': '-10 Défense ennemie. (+2 coût)', 'image_path': 'Hero/3.png', 'crit_pct': 5.0, 'esquive_pct': 5.0, 'precision_pct': 99.0}
+2025-08-21 12:49:13,254 - DEBUG - [CONVERSION] base_stats extrait pour héros: {'hp': 1150, 'attack': 32, 'defense': 26}
+2025-08-21 12:49:13,254 - DEBUG - [CONVERSION] Stats héros initialisées depuis JSON: {'hp': 1150, 'attack': 32, 'defense': 26}
+2025-08-21 12:49:13,254 - DEBUG - [CONVERSION] Héros Glacius, Empereur du Givre converti - HP: 1150, ATK: 32, DEF: 26, Image: Hero/3.png
+2025-08-21 12:49:13,256 - DEBUG - [CONVERSION] Données JSON pour Incendior, Dragon de Feu: {'name': 'Incendior, Dragon de Feu', 'element': 'Feu', 'type': 'unit', 'description': 'LORE A VENIR', 'image': 'default.png', 'hp': 940, 'attack': 27, 'defense': 18, 'crit_pct': 3.0, 'dgtcrit_pct': 0.0, 'esquive_pct': 1.0, 'precision_pct': 99.0, 'image_path': 'Crea/48.png', 'rarity': 'Rare', 'cost': 0, 'ability_ids': ['5018'], 'cooldown_modifiers': {}, 'passive_ids': ['1310']}
+2025-08-21 12:49:13,256 - DEBUG - [CONVERSION] Stats extraites: {'hp': 940, 'attack': 27, 'defense': 18}
+2025-08-21 12:49:13,256 - DEBUG - [CONVERSION] Stats initialisées depuis JSON: {'hp': 940, 'attack': 27, 'defense': 18}
+2025-08-21 12:49:13,256 - DEBUG - [CONVERSION] Unité Incendior, Dragon de Feu convertie - HP: 940, ATK: 27, DEF: 18, Image: Crea/48.png
+2025-08-21 12:49:13,257 - DEBUG - [CONVERSION] Unité Incendior, Dragon de Feu - base_stats: {'hp': 940, 'attack': 27, 'defense': 18}
+2025-08-21 12:49:13,257 - DEBUG - [CONVERSION] Unité Incendior, Dragon de Feu - stats: {'hp': 940, 'attack': 27, 'defense': 18}
+2025-08-21 12:49:13,257 - DEBUG - [CONVERSION] Données JSON pour Voltania, Serpent Fulgurant: {'name': 'Voltania, Serpent Fulgurant', 'element': 'Foudre', 'type': 'unit', 'description': 'LORE A VENIR', 'image': 'default.png', 'hp': 950, 'attack': 25, 'defense': 16, 'crit_pct': 3.0, 'dgtcrit_pct': 0.0, 'esquive_pct': 1.0, 'precision_pct': 99.0, 'image_path': 'Crea/56.png', 'rarity': 'Rare', 'cost': 0, 'ability_ids': ['6256', '6257'], 'cooldown_modifiers': {}, 'passive_ids': []}
+2025-08-21 12:49:13,257 - DEBUG - [CONVERSION] Stats extraites: {'hp': 950, 'attack': 25, 'defense': 16}
+2025-08-21 12:49:13,258 - DEBUG - [CONVERSION] Stats initialisées depuis JSON: {'hp': 950, 'attack': 25, 'defense': 16}
+2025-08-21 12:49:13,258 - DEBUG - [CONVERSION] Unité Voltania, Serpent Fulgurant convertie - HP: 950, ATK: 25, DEF: 16, Image: Crea/56.png
+2025-08-21 12:49:13,258 - DEBUG - [CONVERSION] Unité Voltania, Serpent Fulgurant - base_stats: {'hp': 950, 'attack': 25, 'defense': 16}
+2025-08-21 12:49:13,258 - DEBUG - [CONVERSION] Unité Voltania, Serpent Fulgurant - stats: {'hp': 950, 'attack': 25, 'defense': 16}
+2025-08-21 12:49:13,258 - DEBUG - [CONVERSION] Données JSON pour Flamby, Lutin des Flammes: {'name': 'Flamby, Lutin des Flammes', 'element': 'Feu', 'type': 'unit', 'description': 'LORE A VENIR', 'image': 'default.png', 'hp': 710, 'attack': 17, 'defense': 8, 'crit_pct': 3.0, 'dgtcrit_pct': 0.0, 'esquive_pct': 1.0, 'precision_pct': 99.0, 'image_path': 'Crea/68.png', 'rarity': 'Spécial', 'cost': 0, 'ability_ids': ['5020', '5021'], 'cooldown_modifiers': {}, 'passive_ids': []}
+2025-08-21 12:49:13,259 - DEBUG - [CONVERSION] Stats extraites: {'hp': 710, 'attack': 17, 'defense': 8}
+2025-08-21 12:49:13,259 - DEBUG - [CONVERSION] Stats initialisées depuis JSON: {'hp': 710, 'attack': 17, 'defense': 8}
+2025-08-21 12:49:13,259 - DEBUG - [CONVERSION] Unité Flamby, Lutin des Flammes convertie - HP: 710, ATK: 17, DEF: 8, Image: Crea/68.png
+2025-08-21 12:49:13,259 - DEBUG - [CONVERSION] Unité Flamby, Lutin des Flammes - base_stats: {'hp': 710, 'attack': 17, 'defense': 8}
+2025-08-21 12:49:13,260 - DEBUG - [CONVERSION] Unité Flamby, Lutin des Flammes - stats: {'hp': 710, 'attack': 17, 'defense': 8}
+2025-08-21 12:49:13,260 - DEBUG - [CONVERSION] Données JSON pour Stratos, Esprit des Courants: {'name': 'Stratos, Esprit des Courants', 'element': 'Air', 'type': 'unit', 'description': 'LORE A VENIR', 'image': 'default.png', 'hp': 950, 'attack': 42, 'defense': 12, 'crit_pct': 3.0, 'dgtcrit_pct': 0.0, 'esquive_pct': 1.0, 'precision_pct': 99.0, 'image_path': 'Crea/75.png', 'rarity': 'Épique', 'cost': 0, 'ability_ids': ['5766', '5767'], 'cooldown_modifiers': {}, 'passive_ids': ['1103']}
+2025-08-21 12:49:13,260 - DEBUG - [CONVERSION] Stats extraites: {'hp': 950, 'attack': 42, 'defense': 12}
+2025-08-21 12:49:13,260 - DEBUG - [CONVERSION] Stats initialisées depuis JSON: {'hp': 950, 'attack': 42, 'defense': 12}
+2025-08-21 12:49:13,261 - DEBUG - [CONVERSION] Unité Stratos, Esprit des Courants convertie - HP: 950, ATK: 42, DEF: 12, Image: Crea/75.png
+2025-08-21 12:49:13,261 - DEBUG - [CONVERSION] Unité Stratos, Esprit des Courants - base_stats: {'hp': 950, 'attack': 42, 'defense': 12}
+2025-08-21 12:49:13,261 - DEBUG - [CONVERSION] Unité Stratos, Esprit des Courants - stats: {'hp': 950, 'attack': 42, 'defense': 12}
+2025-08-21 12:49:13,261 - DEBUG - [CONVERSION] Données JSON pour Brumys, Fantôme du Givre: {'name': 'Brumys, Fantôme du Givre', 'element': 'Glace', 'type': 'unit', 'description': 'LORE A VENIR', 'image': 'default.png', 'hp': 980, 'attack': 29, 'defense': 19, 'crit_pct': 3.0, 'dgtcrit_pct': 0.0, 'esquive_pct': 1.0, 'precision_pct': 99.0, 'image_path': 'Crea/59.png', 'rarity': 'Rare', 'cost': 0, 'ability_ids': ['6000'], 'cooldown_modifiers': {}}
+2025-08-21 12:49:13,261 - DEBUG - [CONVERSION] Stats extraites: {'hp': 980, 'attack': 29, 'defense': 19}
+2025-08-21 12:49:13,262 - DEBUG - [CONVERSION] Stats initialisées depuis JSON: {'hp': 980, 'attack': 29, 'defense': 19}
+2025-08-21 12:49:13,262 - DEBUG - [CONVERSION] Unité Brumys, Fantôme du Givre convertie - HP: 980, ATK: 29, DEF: 19, Image: Crea/59.png
+2025-08-21 12:49:13,262 - DEBUG - [CONVERSION] Unité Brumys, Fantôme du Givre - base_stats: {'hp': 980, 'attack': 29, 'defense': 19}
+2025-08-21 12:49:13,262 - DEBUG - [CONVERSION] Unité Brumys, Fantôme du Givre - stats: {'hp': 980, 'attack': 29, 'defense': 19}
+2025-08-21 12:49:13,264 - DEBUG - [POST-INIT] Vérification des stats après initialisation du moteur:
+2025-08-21 12:49:13,265 - DEBUG - [POST-INIT] Unité Gelidar, Chevalier des Neiges - HP: 1100, ATK: 25, DEF: 28
+2025-08-21 12:49:13,265 - DEBUG - [POST-INIT] Unité Gelidar, Chevalier des Neiges - base_stats: {'hp': 1100, 'attack': 25, 'defense': 28}
+2025-08-21 12:49:13,265 - DEBUG - [POST-INIT] Unité Gelidar, Chevalier des Neiges - stats: {'hp': 1100, 'attack': 25, 'defense': 28}
+2025-08-21 12:49:13,265 - DEBUG - [POST-INIT] Unité Frimousse, Esprit Givré - HP: 780, ATK: 23, DEF: 13
+2025-08-21 12:49:13,265 - DEBUG - [POST-INIT] Unité Frimousse, Esprit Givré - base_stats: {'hp': 780, 'attack': 23, 'defense': 13}
+2025-08-21 12:49:13,266 - DEBUG - [POST-INIT] Unité Frimousse, Esprit Givré - stats: {'hp': 780, 'attack': 23, 'defense': 13}
+2025-08-21 12:49:13,266 - DEBUG - [POST-INIT] Unité Skyla, Danseuse des Nuages - HP: 1010, ATK: 28, DEF: 21
+2025-08-21 12:49:13,266 - DEBUG - [POST-INIT] Unité Skyla, Danseuse des Nuages - base_stats: {'hp': 1010, 'attack': 28, 'defense': 21}
+2025-08-21 12:49:13,266 - DEBUG - [POST-INIT] Unité Skyla, Danseuse des Nuages - stats: {'hp': 1010, 'attack': 28, 'defense': 21}
+2025-08-21 12:49:13,266 - DEBUG - [POST-INIT] Unité Roktus, Gobelin Mineur - HP: 845, ATK: 26, DEF: 12
+2025-08-21 12:49:13,267 - DEBUG - [POST-INIT] Unité Roktus, Gobelin Mineur - base_stats: {'hp': 845, 'attack': 26, 'defense': 12}
+2025-08-21 12:49:13,267 - DEBUG - [POST-INIT] Unité Roktus, Gobelin Mineur - stats: {'hp': 845, 'attack': 26, 'defense': 12}
+2025-08-21 12:49:13,267 - DEBUG - [POST-INIT] Unité Corvus, Corbeau Mystique - HP: 1113, ATK: 33, DEF: 21
+2025-08-21 12:49:13,267 - DEBUG - [POST-INIT] Unité Corvus, Corbeau Mystique - base_stats: {'hp': 1113, 'attack': 33, 'defense': 21}
+2025-08-21 12:49:13,267 - DEBUG - [POST-INIT] Unité Corvus, Corbeau Mystique - stats: {'hp': 1113, 'attack': 33, 'defense': 21}
+2025-08-21 12:49:13,317 - DEBUG - [DEBUG] Vérification unités ennemies: opponent=<Engine.engine.Player object at 0x0000024204392850>, units=[<Engine.models.Unit object at 0x00000242043DD250>, <Engine.models.Unit object at 0x0000024204302580>, <Engine.models.Unit object at 0x0000024204302690>, <Engine.models.Unit object at 0x00000242043CA350>, <Engine.models.Unit object at 0x00000242043CA450>]
+2025-08-21 12:49:13,317 - DEBUG - [DEBUG] Appel draw_opponent_units à Y=232
+2025-08-21 12:49:13,318 - DEBUG - [DEBUG] draw_opponent_units appelée avec y_pos=232
+2025-08-21 12:49:13,318 - DEBUG - [DEBUG] 5 unités ennemies à dessiner
+2025-08-21 12:49:13,318 - DEBUG - [DEBUG] Traitement unité ennemie 0: Incendior, Dragon de Feu, HP=940
+2025-08-21 12:49:13,319 - DEBUG - [DEBUG] Chargement image unité: Crea/48.png
+2025-08-21 12:49:13,319 - DEBUG - [DEBUG] Image trouvée pour Incendior, Dragon de Feu: Crea/48.png
+2025-08-21 12:49:13,319 - DEBUG - [DEBUG] Taille originale: (912, 1312)
+2025-08-21 12:49:13,320 - DEBUG - [DEBUG] Taille redimensionnée: (200, 288)
+2025-08-21 12:49:13,320 - DEBUG - [DEBUG] Image dessinée sur overlay_surface avec coins arrondis
+2025-08-21 12:49:13,321 - DEBUG - [DEBUG] Stats unité Incendior, Dragon de Feu: HP=940, ATK=27, DEF=18
+2025-08-21 12:49:13,321 - DEBUG - [DEBUG] Stats unité Incendior, Dragon de Feu (base_stats): {'hp': 940, 'attack': 27, 'defense': 18}
+2025-08-21 12:49:13,322 - DEBUG - [DEBUG] Stats unité Incendior, Dragon de Feu (stats): {'hp': 940, 'attack': 27, 'defense': 18}

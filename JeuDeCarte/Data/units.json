@@ -1,0 +1,1840 @@
+[
+  {
+    "name": "Pyrodrake, Dragon de Braise",
+    "element": "Feu",
+    "type": "unit",
+    "description": "LORE A VENIR",
+    "image": "default.png",
+    "hp": 1200,
+    "attack": 35,
+    "defense": 22,
+    "crit_pct": 3.0,
+    "dgtcrit_pct": 0.0,
+    "esquive_pct": 1.0,
+    "precision_pct": 99.0,
+    "image_path": "Crea/1.png",
+    "rarity": "Mythique",
+    "cost": 0,
+    "ability_ids": [
+      "5018",
+      "5019"
+    ],
+    "cooldown_modifiers": {},
+    "passive_ids": []
+  },
+  {
+    "name": "Salamandra, Magicienne Incandescente",
+    "element": "Feu",
+    "type": "unit",
+    "description": "LORE A VENIR",
+    "image": "default.png",
+    "hp": 950,
+    "attack": 30,
+    "defense": 16,
+    "crit_pct": 3.0,
+    "dgtcrit_pct": 0.0,
+    "esquive_pct": 1.0,
+    "precision_pct": 99.0,
+    "image_path": "Crea/2.png",
+    "rarity": "Épique",
+    "cost": 0,
+    "ability_ids": [
+      "5013",
+      "5014"
+    ],
+    "cooldown_modifiers": {},
+    "passive_ids": []
+  },
+  {
+    "name": "Gelidar, Chevalier des Neiges",
+    "element": "Glace",
+    "type": "unit",
+    "description": "LORE A VENIR",
+    "image": "default.png",
+    "hp": 1100,
+    "attack": 25,
+    "defense": 28,
+    "crit_pct": 3.0,
+    "dgtcrit_pct": 0.0,
+    "esquive_pct": 1.0,
+    "precision_pct": 99.0,
+    "image_path": "Crea/3.png",
+    "rarity": "Spécial",
+    "cost": 0,
+    "ability_ids": [
+      "6013"
+    ],
+    "cooldown_modifiers": {},
+    "passive_ids": [
+      "1321"
+    ]
+  },
+  {
+    "name": "Frimousse, Esprit Givré",
+    "element": "Glace",
+    "type": "unit",
+    "description": "LORE A VENIR",
+    "image": "default.png",
+    "hp": 780,
+    "attack": 23,
+    "defense": 13,
+    "crit_pct": 3.0,
+    "dgtcrit_pct": 0.0,
+    "esquive_pct": 1.0,
+    "precision_pct": 99.0,
+    "image_path": "Crea/4.png",
+    "rarity": "Commun",
+    "cost": 0,
+    "ability_ids": [
+      "6000"
+    ],
+    "cooldown_modifiers": {}
+  },
+  {
+    "name": "Skyla, Danseuse des Nuages",
+    "element": "Air",
+    "type": "unit",
+    "description": "LORE A VENIR",
+    "image": "default.png",
+    "hp": 1010,
+    "attack": 28,
+    "defense": 21,
+    "crit_pct": 3.0,
+    "dgtcrit_pct": 0.0,
+    "esquive_pct": 1.0,
+    "precision_pct": 99.0,
+    "image_path": "Crea/5.png",
+    "rarity": "Rare",
+    "cost": 0,
+    "ability_ids": [
+      "5754",
+      "5755"
+    ],
+    "cooldown_modifiers": {},
+    "passive_ids": []
+  },
+  {
+    "name": "Rock, Colosse de Granit",
+    "element": "Terre",
+    "type": "unit",
+    "description": "LORE A VENIR",
+    "image": "default.png",
+    "hp": 810,
+    "attack": 28,
+    "defense": 13,
+    "crit_pct": 3.0,
+    "dgtcrit_pct": 0.0,
+    "esquive_pct": 1.0,
+    "precision_pct": 99.0,
+    "image_path": "Crea/6.png",
+    "rarity": "Peu Commun",
+    "cost": 0,
+    "ability_ids": [
+      "5500"
+    ],
+    "cooldown_modifiers": {}
+  },
+  {
+    "name": "Gladrith, Écho des montagnes",
+    "element": "Terre",
+    "type": "unit",
+    "description": "LORE A VENIR",
+    "image": "default.png",
+    "hp": 780,
+    "attack": 31,
+    "defense": 15,
+    "crit_pct": 3.0,
+    "dgtcrit_pct": 0.0,
+    "esquive_pct": 1.0,
+    "precision_pct": 99.0,
+    "image_path": "Crea/76.png",
+    "rarity": "Rare",
+    "cost": 0,
+    "ability_ids": [
+      "5509"
+    ],
+    "cooldown_modifiers": {},
+    "passive_ids": [
+      "1312"
+    ]
+  },
+  {
+    "name": "Terra, Sorcière de la Terre",
+    "element": "Terre",
+    "type": "unit",
+    "description": "LORE A VENIR",
+    "image": "default.png",
+    "hp": 1400,
+    "attack": 18,
+    "defense": 41,
+    "crit_pct": 3.0,
+    "dgtcrit_pct": 0.0,
+    "esquive_pct": 1.0,
+    "precision_pct": 99.0,
+    "image_path": "Crea/7.png",
+    "rarity": "Rare",
+    "cost": 0,
+    "ability_ids": [
+      "5510",
+      "5500"
+    ],
+    "cooldown_modifiers": {},
+    "passive_ids": [
+      "1202"
+    ]
+  },
+  {
+    "name": "Stormy, Enfant de la Foudre",
+    "element": "Foudre",
+    "type": "unit",
+    "description": "LORE A VENIR",
+    "image": "default.png",
+    "hp": 825,
+    "attack": 24,
+    "defense": 16,
+    "crit_pct": 3.0,
+    "dgtcrit_pct": 0.0,
+    "esquive_pct": 1.0,
+    "precision_pct": 99.0,
+    "image_path": "Crea/8.png",
+    "rarity": "Peu Commun",
+    "cost": 0,
+    "ability_ids": [
+      "6251"
+    ],
+    "cooldown_modifiers": {},
+    "passive_ids": [
+      "1005"
+    ]
+  },
+  {
+    "name": "Cristaline, Ondine Pure",
+    "element": "Eau",
+    "type": "unit",
+    "description": "LORE A VENIR",
+    "image": "default.png",
+    "hp": 840,
+    "attack": 21,
+    "defense": 11,
+    "crit_pct": 3.0,
+    "dgtcrit_pct": 0.0,
+    "esquive_pct": 1.0,
+    "precision_pct": 99.0,
+    "image_path": "Crea/9.png",
+    "rarity": "Commun",
+    "cost": 0,
+    "ability_ids": [
+      "5255"
+    ],
+    "cooldown_modifiers": {},
+    "passive_ids": []
+  },
+  {
+    "name": "Sylphar, Archer de la Canopée",
+    "element": "Air",
+    "type": "unit",
+    "description": "LORE A VENIR",
+    "image": "default.png",
+    "hp": 960,
+    "attack": 29,
+    "defense": 18,
+    "crit_pct": 3.0,
+    "dgtcrit_pct": 0.0,
+    "esquive_pct": 1.0,
+    "precision_pct": 99.0,
+    "image_path": "Crea/10.png",
+    "rarity": "Rare",
+    "cost": 0,
+    "ability_ids": [
+      "5756"
+    ],
+    "cooldown_modifiers": {},
+    "passive_ids": []
+  },
+  {
+    "name": "Vulcan, Forgeron de l'Enclume Ardente",
+    "element": "Feu",
+    "type": "unit",
+    "description": "LORE A VENIR",
+    "image": "default.png",
+    "hp": 940,
+    "attack": 32,
+    "defense": 15,
+    "crit_pct": 3.0,
+    "dgtcrit_pct": 0.0,
+    "esquive_pct": 1.0,
+    "precision_pct": 99.0,
+    "image_path": "Crea/11.png",
+    "rarity": "Épique",
+    "cost": 0,
+    "ability_ids": [
+      "5015",
+      "5016"
+    ],
+    "cooldown_modifiers": {},
+    "passive_ids": [
+      "1307"
+    ]
+  },
+  {
+    "name": "Glacielle, Reine des Flocons",
+    "element": "Glace",
+    "type": "unit",
+    "description": "LORE A VENIR",
+    "image": "default.png",
+    "hp": 1092,
+    "attack": 30,
+    "defense": 21,
+    "crit_pct": 3.0,
+    "dgtcrit_pct": 0.0,
+    "esquive_pct": 1.0,
+    "precision_pct": 99.0,
+    "image_path": "Crea/12.png",
+    "rarity": "Épique",
+    "cost": 0,
+    "ability_ids": [
+      "6011"
+    ],
+    "cooldown_modifiers": {},
+    "passive_ids": [
+      "1320"
+    ]
+  },
+  {
+    "name": "Voltar, Seigneur de l'Orage",
+    "element": "Foudre",
+    "type": "unit",
+    "description": "LORE A VENIR",
+    "image": "default.png",
+    "hp": 1080,
+    "attack": 28,
+    "defense": 18,
+    "crit_pct": 3.0,
+    "dgtcrit_pct": 0.0,
+    "esquive_pct": 1.0,
+    "precision_pct": 99.0,
+    "image_path": "Crea/13.png",
+    "rarity": "Rare",
+    "cost": 0,
+    "ability_ids": [
+      "6252",
+      "6253"
+    ],
+    "cooldown_modifiers": {},
+    "passive_ids": [
+      "1322"
+    ]
+  },
+  {
+    "name": "Floralia, Druidesse des Fleurs",
+    "element": "Poison",
+    "type": "unit",
+    "description": "LORE A VENIR",
+    "image": "default.png",
+    "hp": 990,
+    "attack": 22,
+    "defense": 28,
+    "crit_pct": 3.0,
+    "dgtcrit_pct": 0.0,
+    "esquive_pct": 1.0,
+    "precision_pct": 99.0,
+    "image_path": "Crea/14.png",
+    "rarity": "Peu Commun",
+    "cost": 0,
+    "ability_ids": [
+      "7250",
+      "7258"
+    ],
+    "cooldown_modifiers": {},
+    "passive_ids": [
+      "1009"
+    ]
+  },
+  {
+    "name": "Nébulo, Fantôme du Brouillard",
+    "element": "Air",
+    "type": "unit",
+    "description": "LORE A VENIR",
+    "image": "default.png",
+    "hp": 1220,
+    "attack": 25,
+    "defense": 34,
+    "crit_pct": 3.0,
+    "dgtcrit_pct": 0.0,
+    "esquive_pct": 1.0,
+    "precision_pct": 99.0,
+    "image_path": "Crea/15.png",
+    "rarity": "Mythique",
+    "cost": 0,
+    "ability_ids": [
+      "5768",
+      "5769"
+    ],
+    "cooldown_modifiers": {},
+    "passive_ids": []
+  },
+  {
+    "name": "Barbak, Guerrier Barbare",
+    "element": "Terre",
+    "type": "unit",
+    "description": "LORE A VENIR",
+    "image": "default.png",
+    "hp": 1130,
+    "attack": 32,
+    "defense": 18,
+    "crit_pct": 3.0,
+    "dgtcrit_pct": 0.0,
+    "esquive_pct": 1.0,
+    "precision_pct": 99.0,
+    "image_path": "Crea/16.png",
+    "rarity": "Rare",
+    "cost": 0,
+    "ability_ids": [
+      "5511",
+      "5512"
+    ],
+    "cooldown_modifiers": {},
+    "passive_ids": [
+      "1314"
+    ]
+  },
+  {
+    "name": "Aquaria, Sirène Mystique",
+    "element": "Eau",
+    "type": "unit",
+    "description": "LORE A VENIR",
+    "image": "default.png",
+    "hp": 1029,
+    "attack": 30,
+    "defense": 20,
+    "crit_pct": 3.0,
+    "dgtcrit_pct": 0.0,
+    "esquive_pct": 1.0,
+    "precision_pct": 99.0,
+    "image_path": "Crea/17.png",
+    "rarity": "Épique",
+    "cost": 0,
+    "ability_ids": [
+      "5261"
+    ],
+    "cooldown_modifiers": {},
+    "passive_ids": [
+      "1308"
+    ]
+  },
+  {
+    "name": "Bersi, Nain Invincible",
+    "element": "Terre",
+    "type": "unit",
+    "description": "LORE A VENIR",
+    "image": "default.png",
+    "hp": 1160,
+    "attack": 26,
+    "defense": 30,
+    "crit_pct": 3.0,
+    "dgtcrit_pct": 0.0,
+    "esquive_pct": 1.0,
+    "precision_pct": 99.0,
+    "image_path": "Crea/18.png",
+    "rarity": "Peu Commun",
+    "cost": 0,
+    "ability_ids": [
+      "5506"
+    ],
+    "cooldown_modifiers": {},
+    "passive_ids": [
+      "1313"
+    ]
+  },
+  {
+    "name": "Orbaline, Magicienne Astrale",
+    "element": "Air",
+    "type": "unit",
+    "description": "LORE A VENIR",
+    "image": "default.png",
+    "hp": 870,
+    "attack": 35,
+    "defense": 10,
+    "crit_pct": 3.0,
+    "dgtcrit_pct": 0.0,
+    "esquive_pct": 1.0,
+    "precision_pct": 99.0,
+    "image_path": "Crea/19.png",
+    "rarity": "Rare",
+    "cost": 0,
+    "ability_ids": [
+      "5757",
+      "5750"
+    ],
+    "cooldown_modifiers": {},
+    "passive_ids": []
+  },
+  {
+    "name": "Pyropoulpe, Poulpe Incandescent",
+    "element": "Feu",
+    "type": "unit",
+    "description": "LORE A VENIR",
+    "image": "default.png",
+    "hp": 995,
+    "attack": 30,
+    "defense": 18,
+    "crit_pct": 3.0,
+    "dgtcrit_pct": 0.0,
+    "esquive_pct": 1.0,
+    "precision_pct": 99.0,
+    "image_path": "Crea/20.png",
+    "rarity": "Peu Commun",
+    "cost": 0,
+    "ability_ids": [
+      "5007"
+    ],
+    "cooldown_modifiers": {},
+    "passive_ids": []
+  },
+  {
+    "name": "Galaxine, Voyageuse Céleste",
+    "element": "Air",
+    "type": "unit",
+    "description": "LORE A VENIR",
+    "image": "default.png",
+    "hp": 1100,
+    "attack": 36,
+    "defense": 19,
+    "crit_pct": 3.0,
+    "dgtcrit_pct": 0.0,
+    "esquive_pct": 1.0,
+    "precision_pct": 99.0,
+    "image_path": "Crea/21.png",
+    "rarity": "Mythique",
+    "cost": 0,
+    "ability_ids": [
+      "5770",
+      "5771",
+      "5772"
+    ],
+    "cooldown_modifiers": {},
+    "passive_ids": []
+  },
+  {
+    "name": "Silex, Gardien du Pic Rugueux",
+    "element": "Terre",
+    "type": "unit",
+    "description": "LORE A VENIR",
+    "image": "default.png",
+    "hp": 900,
+    "attack": 31,
+    "defense": 14,
+    "crit_pct": 3.0,
+    "dgtcrit_pct": 0.0,
+    "esquive_pct": 1.0,
+    "precision_pct": 99.0,
+    "image_path": "Crea/22.png",
+    "rarity": "Rare",
+    "cost": 0,
+    "ability_ids": [
+      "5011",
+      "5513"
+    ],
+    "cooldown_modifiers": {},
+    "passive_ids": []
+  },
+  {
+    "name": "Siriona, Enchanteresse des Abysses",
+    "element": "Eau",
+    "type": "unit",
+    "description": "LORE A VENIR",
+    "image": "default.png",
+    "hp": 1200,
+    "attack": 26,
+    "defense": 34,
+    "crit_pct": 3.0,
+    "dgtcrit_pct": 0.0,
+    "esquive_pct": 1.0,
+    "precision_pct": 99.0,
+    "image_path": "Crea/23.png",
+    "rarity": "Épique",
+    "cost": 0,
+    "ability_ids": [
+      "5262",
+      "5263"
+    ],
+    "cooldown_modifiers": {},
+    "passive_ids": []
+  },
+  {
+    "name": "Voltix, Lutin Électrique",
+    "element": "Foudre",
+    "type": "unit",
+    "description": "LORE A VENIR",
+    "image": "default.png",
+    "hp": 935,
+    "attack": 30,
+    "defense": 14,
+    "crit_pct": 3.0,
+    "dgtcrit_pct": 0.0,
+    "esquive_pct": 1.0,
+    "precision_pct": 99.0,
+    "image_path": "Crea/24.png",
+    "rarity": "Épique",
+    "cost": 0,
+    "ability_ids": [
+      "6258"
+    ],
+    "cooldown_modifiers": {},
+    "passive_ids": [
+      "1324"
+    ]
+  },
+  {
+    "name": "Glacia, Yéti Polaire",
+    "element": "Glace",
+    "type": "unit",
+    "description": "LORE A VENIR",
+    "image": "default.png",
+    "hp": 945,
+    "attack": 25,
+    "defense": 20,
+    "crit_pct": 3.0,
+    "dgtcrit_pct": 0.0,
+    "esquive_pct": 1.0,
+    "precision_pct": 99.0,
+    "image_path": "Crea/25.png",
+    "rarity": "Peu Commun",
+    "cost": 0,
+    "ability_ids": [
+      "6000"
+    ],
+    "cooldown_modifiers": {}
+  },
+  {
+    "name": "Solaris, Paladin du Soleil",
+    "element": "Feu",
+    "type": "unit",
+    "description": "LORE A VENIR",
+    "image": "default.png",
+    "hp": 940,
+    "attack": 32,
+    "defense": 13,
+    "crit_pct": 3.0,
+    "dgtcrit_pct": 0.0,
+    "esquive_pct": 1.0,
+    "precision_pct": 99.0,
+    "image_path": "Crea/26.png",
+    "rarity": "Rare",
+    "cost": 0,
+    "ability_ids": [
+      "5010"
+    ],
+    "cooldown_modifiers": {},
+    "passive_ids": []
+  },
+  {
+    "name": "Tempestra, Danseuse de la Tornade",
+    "element": "Air",
+    "type": "unit",
+    "description": "LORE A VENIR",
+    "image": "default.png",
+    "hp": 760,
+    "attack": 27,
+    "defense": 15,
+    "crit_pct": 3.0,
+    "dgtcrit_pct": 0.0,
+    "esquive_pct": 1.0,
+    "precision_pct": 99.0,
+    "image_path": "Crea/27.png",
+    "rarity": "Peu Commun",
+    "cost": 0,
+    "ability_ids": [
+      "5750"
+    ],
+    "cooldown_modifiers": {},
+    "passive_ids": [
+      "1003"
+    ]
+  },
+  {
+    "name": "Lumberjack, Bûcheron du Grand Nord",
+    "element": "Terre",
+    "type": "unit",
+    "description": "LORE A VENIR",
+    "image": "default.png",
+    "hp": 1190,
+    "attack": 28,
+    "defense": 29,
+    "crit_pct": 3.0,
+    "dgtcrit_pct": 0.0,
+    "esquive_pct": 1.0,
+    "precision_pct": 99.0,
+    "image_path": "Crea/28.png",
+    "rarity": "Rare",
+    "cost": 0,
+    "ability_ids": [
+      "5511",
+      "5500"
+    ],
+    "cooldown_modifiers": {},
+    "passive_ids": []
+  },
+  {
+    "name": "Nixie, Fée de la Source",
+    "element": "Eau",
+    "type": "unit",
+    "description": "LORE A VENIR",
+    "image": "default.png",
+    "hp": 890,
+    "attack": 32,
+    "defense": 12,
+    "crit_pct": 3.0,
+    "dgtcrit_pct": 0.0,
+    "esquive_pct": 1.0,
+    "precision_pct": 99.0,
+    "image_path": "Crea/29.png",
+    "rarity": "Rare",
+    "cost": 0,
+    "ability_ids": [
+      "5258"
+    ],
+    "cooldown_modifiers": {},
+    "passive_ids": [
+      "1001"
+    ]
+  },
+  {
+    "name": "Tundrorr, Mammouth Givré",
+    "element": "Glace",
+    "type": "unit",
+    "description": "LORE A VENIR",
+    "image": "default.png",
+    "hp": 1075,
+    "attack": 34,
+    "defense": 22,
+    "crit_pct": 3.0,
+    "dgtcrit_pct": 0.0,
+    "esquive_pct": 1.0,
+    "precision_pct": 99.0,
+    "image_path": "Crea/30.png",
+    "rarity": "Mythique",
+    "cost": 0,
+    "ability_ids": [
+      "6012"
+    ],
+    "cooldown_modifiers": {},
+    "passive_ids": [
+      "1104",
+      "1004"
+    ]
+  },
+  {
+    "name": "Ignissia, Sorcière des Brasiers",
+    "element": "Feu",
+    "type": "unit",
+    "description": "LORE A VENIR",
+    "image": "default.png",
+    "hp": 850,
+    "attack": 23,
+    "defense": 15,
+    "crit_pct": 3.0,
+    "dgtcrit_pct": 0.0,
+    "esquive_pct": 1.0,
+    "precision_pct": 99.0,
+    "image_path": "Crea/31.png",
+    "rarity": "Commun",
+    "cost": 0,
+    "ability_ids": [
+      "5000"
+    ],
+    "cooldown_modifiers": {}
+  },
+  {
+    "name": "Torrentis, Gardien de l'Écume",
+    "element": "Eau",
+    "type": "unit",
+    "description": "LORE A VENIR",
+    "image": "default.png",
+    "hp": 780,
+    "attack": 19,
+    "defense": 19,
+    "crit_pct": 3.0,
+    "dgtcrit_pct": 0.0,
+    "esquive_pct": 1.0,
+    "precision_pct": 99.0,
+    "image_path": "Crea/32.png",
+    "rarity": "Commun",
+    "cost": 0,
+    "ability_ids": [
+      "5250"
+    ],
+    "cooldown_modifiers": {},
+    "passive_ids": [
+      "1001"
+    ]
+  },
+  {
+    "name": "Lixor, Golem Cristallin",
+    "element": "Terre",
+    "type": "unit",
+    "description": "LORE A VENIR",
+    "image": "default.png",
+    "hp": 870,
+    "attack": 30,
+    "defense": 15,
+    "crit_pct": 3.0,
+    "dgtcrit_pct": 0.0,
+    "esquive_pct": 1.0,
+    "precision_pct": 99.0,
+    "image_path": "Crea/33.png",
+    "rarity": "Rare",
+    "cost": 0,
+    "ability_ids": [
+      "5514"
+    ],
+    "cooldown_modifiers": {},
+    "passive_ids": [
+      "1315"
+    ]
+  },
+  {
+    "name": "Aeris, Esprit du Zéphyr",
+    "element": "Air",
+    "type": "unit",
+    "description": "LORE A VENIR",
+    "image": "default.png",
+    "hp": 950,
+    "attack": 35,
+    "defense": 12,
+    "crit_pct": 3.0,
+    "dgtcrit_pct": 0.0,
+    "esquive_pct": 1.0,
+    "precision_pct": 99.0,
+    "image_path": "Crea/34.png",
+    "rarity": "Épique",
+    "cost": 0,
+    "ability_ids": [
+      "5758",
+      "5759"
+    ],
+    "cooldown_modifiers": {},
+    "passive_ids": []
+  },
+  {
+    "name": "Roktus, Gobelin Mineur",
+    "element": "Terre",
+    "type": "unit",
+    "description": "LORE A VENIR",
+    "image": "default.png",
+    "hp": 845,
+    "attack": 26,
+    "defense": 12,
+    "crit_pct": 3.0,
+    "dgtcrit_pct": 0.0,
+    "esquive_pct": 1.0,
+    "precision_pct": 99.0,
+    "image_path": "Crea/35.png",
+    "rarity": "Peu Commun",
+    "cost": 0,
+    "ability_ids": [
+      "5507",
+      "5508"
+    ],
+    "cooldown_modifiers": {},
+    "passive_ids": []
+  },
+  {
+    "name": "Fulminia, Valkyrie de l'Orage",
+    "element": "Foudre",
+    "type": "unit",
+    "description": "LORE A VENIR",
+    "image": "default.png",
+    "hp": 940,
+    "attack": 29,
+    "defense": 17,
+    "crit_pct": 3.0,
+    "dgtcrit_pct": 0.0,
+    "esquive_pct": 1.0,
+    "precision_pct": 99.0,
+    "image_path": "Crea/36.png",
+    "rarity": "Rare",
+    "cost": 0,
+    "ability_ids": [
+      "6254"
+    ],
+    "cooldown_modifiers": {},
+    "passive_ids": [
+      "1105"
+    ]
+  },
+  {
+    "name": "Gelgor, Troll du Givre",
+    "element": "Glace",
+    "type": "unit",
+    "description": "LORE A VENIR",
+    "image": "default.png",
+    "hp": 1040,
+    "attack": 32,
+    "defense": 19,
+    "crit_pct": 3.0,
+    "dgtcrit_pct": 0.0,
+    "esquive_pct": 1.0,
+    "precision_pct": 99.0,
+    "image_path": "Crea/37.png",
+    "rarity": "Rare",
+    "cost": 0,
+    "ability_ids": [
+      "6000"
+    ],
+    "cooldown_modifiers": {}
+  },
+  {
+    "name": "Venturio, Chevalier Écarlate",
+    "element": "Feu",
+    "type": "unit",
+    "description": "LORE A VENIR",
+    "image": "default.png",
+    "hp": 900,
+    "attack": 28,
+    "defense": 14,
+    "crit_pct": 3.0,
+    "dgtcrit_pct": 0.0,
+    "esquive_pct": 1.0,
+    "precision_pct": 99.0,
+    "image_path": "Crea/38.png",
+    "rarity": "Rare",
+    "cost": 0,
+    "ability_ids": [
+      "5000"
+    ],
+    "cooldown_modifiers": {}
+  },
+  {
+    "name": "Zyklair, Djinn des Rafales",
+    "element": "Air",
+    "type": "unit",
+    "description": "LORE A VENIR",
+    "image": "default.png",
+    "hp": 940,
+    "attack": 28,
+    "defense": 15,
+    "crit_pct": 3.0,
+    "dgtcrit_pct": 0.0,
+    "esquive_pct": 1.0,
+    "precision_pct": 99.0,
+    "image_path": "Crea/39.png",
+    "rarity": "Rare",
+    "cost": 0,
+    "ability_ids": [
+      "5750"
+    ],
+    "cooldown_modifiers": {}
+  },
+  {
+    "name": "Mossio, Shaman des Mousses",
+    "element": "Poison",
+    "type": "unit",
+    "description": "LORE A VENIR",
+    "image": "default.png",
+    "hp": 1020,
+    "attack": 36,
+    "defense": 21,
+    "crit_pct": 3.0,
+    "dgtcrit_pct": 0.0,
+    "esquive_pct": 1.0,
+    "precision_pct": 99.0,
+    "image_path": "Crea/40.png",
+    "rarity": "Mythique",
+    "cost": 0,
+    "ability_ids": [
+      "7255",
+      "7250"
+    ],
+    "cooldown_modifiers": {},
+    "passive_ids": [
+      "1333"
+    ]
+  },
+  {
+    "name": "Cryomage, Mage du Givre",
+    "element": "Glace",
+    "type": "unit",
+    "description": "LORE A VENIR",
+    "image": "default.png",
+    "hp": 1290,
+    "attack": 24,
+    "defense": 36,
+    "crit_pct": 3.0,
+    "dgtcrit_pct": 0.0,
+    "esquive_pct": 1.0,
+    "precision_pct": 99.0,
+    "image_path": "Crea/41.png",
+    "rarity": "Rare",
+    "cost": 0,
+    "ability_ids": [
+      "6000"
+    ],
+    "cooldown_modifiers": {}
+  },
+  {
+    "name": "Rubra, Salamandre Incandescente",
+    "element": "Feu",
+    "type": "unit",
+    "description": "LORE A VENIR",
+    "image": "default.png",
+    "hp": 780,
+    "attack": 21,
+    "defense": 12,
+    "crit_pct": 3.0,
+    "dgtcrit_pct": 0.0,
+    "esquive_pct": 1.0,
+    "precision_pct": 99.0,
+    "image_path": "Crea/42.png",
+    "rarity": "Peu Commun",
+    "cost": 0,
+    "ability_ids": [
+      "5003",
+      "5009"
+    ],
+    "cooldown_modifiers": {},
+    "passive_ids": []
+  },
+  {
+    "name": "Briselys, Dryade Mousseuse",
+    "element": "Poison",
+    "type": "unit",
+    "description": "LORE A VENIR",
+    "image": "default.png",
+    "hp": 870,
+    "attack": 28,
+    "defense": 14,
+    "crit_pct": 3.0,
+    "dgtcrit_pct": 0.0,
+    "esquive_pct": 1.0,
+    "precision_pct": 99.0,
+    "image_path": "Crea/43.png",
+    "rarity": "Rare",
+    "cost": 0,
+    "ability_ids": [
+      "7253"
+    ],
+    "cooldown_modifiers": {},
+    "passive_ids": [
+      "1330"
+    ]
+  },
+  {
+    "name": "Zepho, Génie des Courants",
+    "element": "Air",
+    "type": "unit",
+    "description": "LORE A VENIR",
+    "image": "default.png",
+    "hp": 865,
+    "attack": 29,
+    "defense": 11,
+    "crit_pct": 3.0,
+    "dgtcrit_pct": 0.0,
+    "esquive_pct": 1.0,
+    "precision_pct": 99.0,
+    "image_path": "Crea/44.png",
+    "rarity": "Peu Commun",
+    "cost": 0,
+    "ability_ids": [
+      "5750"
+    ],
+    "cooldown_modifiers": {},
+    "passive_ids": [
+      "1103"
+    ]
+  },
+  {
+    "name": "Abyssalor, Kraken des Profondeurs",
+    "element": "Eau",
+    "type": "unit",
+    "description": "LORE A VENIR",
+    "image": "default.png",
+    "hp": 1160,
+    "attack": 30,
+    "defense": 27,
+    "crit_pct": 3.0,
+    "dgtcrit_pct": 0.0,
+    "esquive_pct": 1.0,
+    "precision_pct": 99.0,
+    "image_path": "Crea/45.png",
+    "rarity": "Rare",
+    "cost": 0,
+    "ability_ids": [
+      "5259",
+      "5260"
+    ],
+    "cooldown_modifiers": {},
+    "passive_ids": []
+  },
+  {
+    "name": "Fulgo, Orbe Electrique",
+    "element": "Foudre",
+    "type": "unit",
+    "description": "LORE A VENIR",
+    "image": "default.png",
+    "hp": 830,
+    "attack": 28,
+    "defense": 13,
+    "crit_pct": 3.0,
+    "dgtcrit_pct": 0.0,
+    "esquive_pct": 1.0,
+    "precision_pct": 99.0,
+    "image_path": "Crea/46.png",
+    "rarity": "Rare",
+    "cost": 0,
+    "ability_ids": [
+      "6255"
+    ],
+    "cooldown_modifiers": {},
+    "passive_ids": [
+      "1323"
+    ]
+  },
+  {
+    "name": "Rocor, Gardien du Bloc",
+    "element": "Terre",
+    "type": "unit",
+    "description": "LORE A VENIR",
+    "image": "default.png",
+    "hp": 880,
+    "attack": 22,
+    "defense": 17,
+    "crit_pct": 3.0,
+    "dgtcrit_pct": 0.0,
+    "esquive_pct": 1.0,
+    "precision_pct": 99.0,
+    "image_path": "Crea/47.png",
+    "rarity": "Peu Commun",
+    "cost": 0,
+    "ability_ids": [
+      "5500",
+      "5011"
+    ],
+    "cooldown_modifiers": {},
+    "passive_ids": [
+      "1002"
+    ]
+  },
+  {
+    "name": "Incendior, Dragon de Feu",
+    "element": "Feu",
+    "type": "unit",
+    "description": "LORE A VENIR",
+    "image": "default.png",
+    "hp": 940,
+    "attack": 27,
+    "defense": 18,
+    "crit_pct": 3.0,
+    "dgtcrit_pct": 0.0,
+    "esquive_pct": 1.0,
+    "precision_pct": 99.0,
+    "image_path": "Crea/48.png",
+    "rarity": "Rare",
+    "cost": 0,
+    "ability_ids": [
+      "5018"
+    ],
+    "cooldown_modifiers": {},
+    "passive_ids": [
+      "1310"
+    ]
+  },
+  {
+    "name": "Nébulaire, Magicienne du Brouillard",
+    "element": "Air",
+    "type": "unit",
+    "description": "LORE A VENIR",
+    "image": "default.png",
+    "hp": 1010,
+    "attack": 35,
+    "defense": 15,
+    "crit_pct": 3.0,
+    "dgtcrit_pct": 0.0,
+    "esquive_pct": 1.0,
+    "precision_pct": 99.0,
+    "image_path": "Crea/49.png",
+    "rarity": "Épique",
+    "cost": 0,
+    "ability_ids": [
+      "5760",
+      "5761"
+    ],
+    "cooldown_modifiers": {},
+    "passive_ids": []
+  },
+  {
+    "name": "Torrick, Gardien du Torrent",
+    "element": "Eau",
+    "type": "unit",
+    "description": "LORE A VENIR",
+    "image": "default.png",
+    "hp": 1350,
+    "attack": 39,
+    "defense": 24,
+    "crit_pct": 3.0,
+    "dgtcrit_pct": 0.0,
+    "esquive_pct": 1.0,
+    "precision_pct": 99.0,
+    "image_path": "Crea/50.png",
+    "rarity": "Mythique",
+    "cost": 0,
+    "ability_ids": [
+      "5264",
+      "5265"
+    ],
+    "cooldown_modifiers": {},
+    "passive_ids": [
+      "1101",
+      "1309"
+    ]
+  },
+  {
+    "name": "Corvus, Corbeau Mystique",
+    "element": "Air",
+    "type": "unit",
+    "description": "LORE A VENIR",
+    "image": "default.png",
+    "hp": 1113,
+    "attack": 33,
+    "defense": 21,
+    "crit_pct": 3.0,
+    "dgtcrit_pct": 0.0,
+    "esquive_pct": 1.0,
+    "precision_pct": 99.0,
+    "image_path": "Crea/51.png",
+    "rarity": "Épique",
+    "cost": 0,
+    "ability_ids": [
+      "5762",
+      "5763"
+    ],
+    "cooldown_modifiers": {},
+    "passive_ids": [
+      "1336"
+    ]
+  },
+  {
+    "name": "Solune, Chamane Solaire",
+    "element": "Feu",
+    "type": "unit",
+    "description": "LORE A VENIR",
+    "image": "default.png",
+    "hp": 850,
+    "attack": 23,
+    "defense": 14,
+    "crit_pct": 3.0,
+    "dgtcrit_pct": 0.0,
+    "esquive_pct": 1.0,
+    "precision_pct": 99.0,
+    "image_path": "Crea/52.png",
+    "rarity": "Peu Commun",
+    "cost": 0,
+    "ability_ids": [
+      "5000"
+    ],
+    "cooldown_modifiers": {},
+    "passive_ids": [
+      "1100"
+    ]
+  },
+  {
+    "name": "Gélax, Lutin de la Banquise",
+    "element": "Glace",
+    "type": "unit",
+    "description": "LORE A VENIR",
+    "image": "default.png",
+    "hp": 810,
+    "attack": 20,
+    "defense": 16,
+    "crit_pct": 3.0,
+    "dgtcrit_pct": 0.0,
+    "esquive_pct": 1.0,
+    "precision_pct": 99.0,
+    "image_path": "Crea/53.png",
+    "rarity": "Commun",
+    "cost": 0,
+    "ability_ids": [
+      "6000"
+    ],
+    "cooldown_modifiers": {}
+  },
+  {
+    "name": "Pyraxis, Élémentaire de Magma",
+    "element": "Feu",
+    "type": "unit",
+    "description": "LORE A VENIR",
+    "image": "default.png",
+    "hp": 780,
+    "attack": 25,
+    "defense": 13,
+    "crit_pct": 3.0,
+    "dgtcrit_pct": 0.0,
+    "esquive_pct": 1.0,
+    "precision_pct": 99.0,
+    "image_path": "Crea/54.png",
+    "rarity": "Peu Commun",
+    "cost": 0,
+    "ability_ids": [
+      "5008"
+    ],
+    "cooldown_modifiers": {},
+    "passive_ids": [
+      "1000"
+    ]
+  },
+  {
+    "name": "Sylvara, Esprit de la Canopée",
+    "element": "Poison",
+    "type": "unit",
+    "description": "LORE A VENIR",
+    "image": "default.png",
+    "hp": 1220,
+    "attack": 39,
+    "defense": 27,
+    "crit_pct": 3.0,
+    "dgtcrit_pct": 0.0,
+    "esquive_pct": 1.0,
+    "precision_pct": 99.0,
+    "image_path": "Crea/55.png",
+    "rarity": "Mythique",
+    "cost": 0,
+    "ability_ids": [
+      "7256",
+      "7257"
+    ],
+    "cooldown_modifiers": {},
+    "passive_ids": [
+      "1334"
+    ]
+  },
+  {
+    "name": "Crotignus, Crotte de Nez Mouvante",
+    "element": "Poison",
+    "type": "unit",
+    "description": "LORE A VENIR",
+    "image": "default.png",
+    "hp": 780,
+    "attack": 19,
+    "defense": 16,
+    "crit_pct": 3.0,
+    "dgtcrit_pct": 0.0,
+    "esquive_pct": 2.0,
+    "precision_pct": 99.0,
+    "image_path": "Crea/77.png",
+    "rarity": "Épique",
+    "cost": 0,
+    "ability_ids": [
+      "7254"
+    ],
+    "cooldown_modifiers": {},
+    "passive_ids": [
+      "1331",
+      "1332"
+    ]
+  },
+  {
+    "name": "Voltania, Serpent Fulgurant",
+    "element": "Foudre",
+    "type": "unit",
+    "description": "LORE A VENIR",
+    "image": "default.png",
+    "hp": 950,
+    "attack": 25,
+    "defense": 16,
+    "crit_pct": 3.0,
+    "dgtcrit_pct": 0.0,
+    "esquive_pct": 1.0,
+    "precision_pct": 99.0,
+    "image_path": "Crea/56.png",
+    "rarity": "Rare",
+    "cost": 0,
+    "ability_ids": [
+      "6256",
+      "6257"
+    ],
+    "cooldown_modifiers": {},
+    "passive_ids": []
+  },
+  {
+    "name": "Abyssine, Félin des Profondeurs",
+    "element": "Eau",
+    "type": "unit",
+    "description": "LORE A VENIR",
+    "image": "default.png",
+    "hp": 1020,
+    "attack": 21,
+    "defense": 23,
+    "crit_pct": 3.0,
+    "dgtcrit_pct": 0.0,
+    "esquive_pct": 1.0,
+    "precision_pct": 99.0,
+    "image_path": "Crea/57.png",
+    "rarity": "Peu Commun",
+    "cost": 0,
+    "ability_ids": [
+      "5256",
+      "5257"
+    ],
+    "cooldown_modifiers": {},
+    "passive_ids": []
+  },
+  {
+    "name": "Firocus, Renard Volcanique",
+    "element": "Feu",
+    "type": "unit",
+    "description": "LORE A VENIR",
+    "image": "default.png",
+    "hp": 872,
+    "attack": 33,
+    "defense": 14,
+    "crit_pct": 3.0,
+    "dgtcrit_pct": 0.0,
+    "esquive_pct": 1.0,
+    "precision_pct": 99.0,
+    "image_path": "Crea/58.png",
+    "rarity": "Épique",
+    "cost": 0,
+    "ability_ids": [
+      "5000",
+      "5000"
+    ],
+    "cooldown_modifiers": {},
+    "passive_ids": [
+      "1311"
+    ]
+  },
+  {
+    "name": "Brumys, Fantôme du Givre",
+    "element": "Glace",
+    "type": "unit",
+    "description": "LORE A VENIR",
+    "image": "default.png",
+    "hp": 980,
+    "attack": 29,
+    "defense": 19,
+    "crit_pct": 3.0,
+    "dgtcrit_pct": 0.0,
+    "esquive_pct": 1.0,
+    "precision_pct": 99.0,
+    "image_path": "Crea/59.png",
+    "rarity": "Rare",
+    "cost": 0,
+    "ability_ids": [
+      "6000"
+    ],
+    "cooldown_modifiers": {}
+  },
+  {
+    "name": "Lithos, Colosse de Quartz",
+    "element": "Terre",
+    "type": "unit",
+    "description": "LORE A VENIR",
+    "image": "default.png",
+    "hp": 990,
+    "attack": 37,
+    "defense": 16,
+    "crit_pct": 3.0,
+    "dgtcrit_pct": 0.0,
+    "esquive_pct": 1.0,
+    "precision_pct": 99.0,
+    "image_path": "Crea/60.png",
+    "rarity": "Épique",
+    "cost": 0,
+    "ability_ids": [
+      "5516",
+      "5517"
+    ],
+    "cooldown_modifiers": {},
+    "passive_ids": []
+  },
+  {
+    "name": "Astrilys, Sentinelle Astrale",
+    "element": "Lumière",
+    "type": "unit",
+    "description": "LORE A VENIR",
+    "image": "default.png",
+    "hp": 800,
+    "attack": 23,
+    "defense": 15,
+    "crit_pct": 3.0,
+    "dgtcrit_pct": 0.0,
+    "esquive_pct": 1.0,
+    "precision_pct": 99.0,
+    "image_path": "Crea/61.png",
+    "rarity": "Peu Commun",
+    "cost": 0,
+    "ability_ids": [
+      "6501"
+    ],
+    "cooldown_modifiers": {},
+    "passive_ids": [
+      "1325"
+    ]
+  },
+  {
+    "name": "Ignarok, Roc en Fusion",
+    "element": "Feu",
+    "type": "unit",
+    "description": "LORE A VENIR",
+    "image": "default.png",
+    "hp": 870,
+    "attack": 28,
+    "defense": 16,
+    "crit_pct": 3.0,
+    "dgtcrit_pct": 0.0,
+    "esquive_pct": 1.0,
+    "precision_pct": 99.0,
+    "image_path": "Crea/62.png",
+    "rarity": "Rare",
+    "cost": 0,
+    "ability_ids": [
+      "5011",
+      "5012"
+    ],
+    "cooldown_modifiers": {},
+    "passive_ids": [
+      "1000",
+      "1002"
+    ]
+  },
+  {
+    "name": "Sylvert, Gardien de la Brume",
+    "element": "Poison",
+    "type": "unit",
+    "description": "LORE A VENIR",
+    "image": "default.png",
+    "hp": 1200,
+    "attack": 25,
+    "defense": 34,
+    "crit_pct": 3.0,
+    "dgtcrit_pct": 0.0,
+    "esquive_pct": 1.0,
+    "precision_pct": 99.0,
+    "image_path": "Crea/63.png",
+    "rarity": "Peu Commun",
+    "cost": 0,
+    "ability_ids": [
+      "7251",
+      "7252"
+    ],
+    "cooldown_modifiers": {},
+    "passive_ids": [
+      "1329"
+    ]
+  },
+  {
+    "name": "Zéphara, Valkyrie des Vents",
+    "element": "Air",
+    "type": "unit",
+    "description": "LORE A VENIR",
+    "image": "default.png",
+    "hp": 980,
+    "attack": 34,
+    "defense": 22,
+    "crit_pct": 3.0,
+    "dgtcrit_pct": 0.0,
+    "esquive_pct": 1.0,
+    "precision_pct": 99.0,
+    "image_path": "Crea/64.png",
+    "rarity": "Épique",
+    "cost": 0,
+    "ability_ids": [
+      "5764",
+      "5765"
+    ],
+    "cooldown_modifiers": {},
+    "passive_ids": []
+  },
+  {
+    "name": "Typhion, Léviathan du Maelström",
+    "element": "Eau",
+    "type": "unit",
+    "description": "LORE A VENIR",
+    "image": "default.png",
+    "hp": 1111,
+    "attack": 44,
+    "defense": 16,
+    "crit_pct": 3.0,
+    "dgtcrit_pct": 0.0,
+    "esquive_pct": 1.0,
+    "precision_pct": 99.0,
+    "image_path": "Crea/65.png",
+    "rarity": "Mythique",
+    "cost": 0,
+    "ability_ids": [
+      "5266",
+      "5267",
+      "5268"
+    ],
+    "cooldown_modifiers": {},
+    "passive_ids": []
+  },
+  {
+    "name": "Prismalyx, Papillon Lumineux",
+    "element": "Lumière",
+    "type": "unit",
+    "description": "LORE A VENIR",
+    "image": "default.png",
+    "hp": 861,
+    "attack": 28,
+    "defense": 14,
+    "crit_pct": 3.0,
+    "dgtcrit_pct": 0.0,
+    "esquive_pct": 1.0,
+    "precision_pct": 99.0,
+    "image_path": "Crea/66.png",
+    "rarity": "Épique",
+    "cost": 0,
+    "ability_ids": [
+      "6503",
+      "6504"
+    ],
+    "cooldown_modifiers": {},
+    "passive_ids": [
+      "1327"
+    ]
+  },
+  {
+    "name": "Murkax, Ombre Rampante",
+    "element": "Ténèbres",
+    "type": "unit",
+    "description": "LORE A VENIR",
+    "image": "default.png",
+    "hp": 1300,
+    "attack": 39,
+    "defense": 24,
+    "crit_pct": 3.0,
+    "dgtcrit_pct": 0.0,
+    "esquive_pct": 1.0,
+    "precision_pct": 99.0,
+    "image_path": "Crea/67.png",
+    "rarity": "Épique",
+    "cost": 0,
+    "ability_ids": [
+      "6751",
+      "6752"
+    ],
+    "cooldown_modifiers": {},
+    "passive_ids": [
+      "1335"
+    ]
+  },
+  {
+    "name": "Flamby, Lutin des Flammes",
+    "element": "Feu",
+    "type": "unit",
+    "description": "LORE A VENIR",
+    "image": "default.png",
+    "hp": 710,
+    "attack": 17,
+    "defense": 8,
+    "crit_pct": 3.0,
+    "dgtcrit_pct": 0.0,
+    "esquive_pct": 1.0,
+    "precision_pct": 99.0,
+    "image_path": "Crea/68.png",
+    "rarity": "Spécial",
+    "cost": 0,
+    "ability_ids": [
+      "5020",
+      "5021"
+    ],
+    "cooldown_modifiers": {},
+    "passive_ids": []
+  },
+  {
+    "name": "Glaciar, Yéti des Sommets",
+    "element": "Glace",
+    "type": "unit",
+    "description": "LORE A VENIR",
+    "image": "default.png",
+    "hp": 920,
+    "attack": 31,
+    "defense": 14,
+    "crit_pct": 3.0,
+    "dgtcrit_pct": 0.0,
+    "esquive_pct": 1.0,
+    "precision_pct": 99.0,
+    "image_path": "Crea/69.png",
+    "rarity": "Rare",
+    "cost": 0,
+    "ability_ids": [
+      "6008"
+    ],
+    "cooldown_modifiers": {},
+    "passive_ids": [
+      "1318"
+    ]
+  },
+  {
+    "name": "Lumicorne, Licorne Dorée",
+    "element": "Lumière",
+    "type": "unit",
+    "description": "LORE A VENIR",
+    "image": "default.png",
+    "hp": 830,
+    "attack": 28,
+    "defense": 11,
+    "crit_pct": 3.0,
+    "dgtcrit_pct": 0.0,
+    "esquive_pct": 1.0,
+    "precision_pct": 99.0,
+    "image_path": "Crea/70.png",
+    "rarity": "Peu Commun",
+    "cost": 0,
+    "ability_ids": [
+      "6502"
+    ],
+    "cooldown_modifiers": {},
+    "passive_ids": [
+      "1326"
+    ]
+  },
+  {
+    "name": "Galádra, Matriarche du Givre",
+    "element": "Glace",
+    "type": "unit",
+    "description": "LORE A VENIR",
+    "image": "default.png",
+    "hp": 1040,
+    "attack": 29,
+    "defense": 19,
+    "crit_pct": 3.0,
+    "dgtcrit_pct": 0.0,
+    "esquive_pct": 1.0,
+    "precision_pct": 99.0,
+    "image_path": "Crea/71.png",
+    "rarity": "Rare",
+    "cost": 0,
+    "ability_ids": [
+      "6009",
+      "6010"
+    ],
+    "cooldown_modifiers": {},
+    "passive_ids": [
+      "1319"
+    ]
+  },
+  {
+    "name": "Pyrolynx, Lynx Ardent",
+    "element": "Feu",
+    "type": "unit",
+    "description": "LORE A VENIR",
+    "image": "default.png",
+    "hp": 870,
+    "attack": 35,
+    "defense": 17,
+    "crit_pct": 3.0,
+    "dgtcrit_pct": 0.0,
+    "esquive_pct": 1.0,
+    "precision_pct": 99.0,
+    "image_path": "Crea/72.png",
+    "rarity": "Épique",
+    "cost": 0,
+    "ability_ids": [
+      "5017"
+    ],
+    "cooldown_modifiers": {},
+    "passive_ids": []
+  },
+  {
+    "name": "Telluron, Géant de Schiste",
+    "element": "Terre",
+    "type": "unit",
+    "description": "LORE A VENIR",
+    "image": "default.png",
+    "hp": 830,
+    "attack": 29,
+    "defense": 14,
+    "crit_pct": 3.0,
+    "dgtcrit_pct": 0.0,
+    "esquive_pct": 1.0,
+    "precision_pct": 99.0,
+    "image_path": "Crea/73.png",
+    "rarity": "Épique",
+    "cost": 0,
+    "ability_ids": [
+      "5514",
+      "5515"
+    ],
+    "cooldown_modifiers": {},
+    "passive_ids": [
+      "1316"
+    ]
+  },
+  {
+    "name": "Lumys, Renardeau Solaire",
+    "element": "Lumière",
+    "type": "unit",
+    "description": "LORE A VENIR",
+    "image": "default.png",
+    "hp": 1030,
+    "attack": 38,
+    "defense": 21,
+    "crit_pct": 3.0,
+    "dgtcrit_pct": 0.0,
+    "esquive_pct": 1.0,
+    "precision_pct": 99.0,
+    "image_path": "Crea/74.png",
+    "rarity": "Mythique",
+    "cost": 0,
+    "ability_ids": [
+      "6505",
+      "6506"
+    ],
+    "cooldown_modifiers": {},
+    "passive_ids": [
+      "1328"
+    ]
+  },
+  {
+    "name": "Stratos, Esprit des Courants",
+    "element": "Air",
+    "type": "unit",
+    "description": "LORE A VENIR",
+    "image": "default.png",
+    "hp": 950,
+    "attack": 42,
+    "defense": 12,
+    "crit_pct": 3.0,
+    "dgtcrit_pct": 0.0,
+    "esquive_pct": 1.0,
+    "precision_pct": 99.0,
+    "image_path": "Crea/75.png",
+    "rarity": "Épique",
+    "cost": 0,
+    "ability_ids": [
+      "5766",
+      "5767"
+    ],
+    "cooldown_modifiers": {},
+    "passive_ids": [
+      "1103"
+    ]
+  },
+  {
+    "name": "Alice, la Lame Sanglante",
+    "element": "Foudre",
+    "type": "unit",
+    "description": "LORE A VENIR",
+    "image": "default.png",
+    "hp": 1100,
+    "attack": 28,
+    "defense": 11,
+    "crit_pct": 3.0,
+    "dgtcrit_pct": 0.0,
+    "esquive_pct": 1.0,
+    "precision_pct": 99.0,
+    "image_path": "Crea/78.png",
+    "rarity": "Épique",
+    "cost": 0,
+    "ability_ids": [
+      "6259",
+      "6260"
+    ],
+    "cooldown_modifiers": {},
+    "passive_ids": [
+      "1337"
+    ]
+  }
+]

@@ -1,0 +1,1402 @@
+# TEMPLATE DES CAPACITÉS DES UNITÉS
+# =================================
+# 
+# Ce fichier contient les 76 unités organisées par élément.
+# Pour chaque unité, vous pouvez ajouter ses capacités de manière textuelle.
+# 
+# FORMAT SUGGÉRÉ POUR CHAQUE CAPACITÉ :
+# - Nom de la capacité
+# - Élément de la capacité
+# - Type de cible (single_enemy, all_enemies, random_enemy, etc.)
+# - Dégâts (ou 0 pour les capacités sans dégâts)
+# - Effets (buffs, debuffs, effets spéciaux temporaires)
+# - Cooldown
+# - Description détaillée
+#
+# TYPES DE DÉGÂTS POSSIBLES :
+# - "fixed": Dégâts fixes (ex: 50)
+# - "attack": Dégâts basés sur l'attaque de la créature (ex: attack * 1.5)
+# - "attack_plus": Attaque + bonus fixe (ex: attack + 30)
+# - "defense": Dégâts basés sur la défense (ex: defense * 2)
+# - "hp_percent": Pourcentage des PV max de la cible (ex: 15% des PV max)
+# - "caster_hp_percent": Pourcentage des PV max du lanceur (ex: 10% des PV du lanceur)
+# - "scaling": Dégâts qui évoluent avec le niveau/tour (ex: 20 + 5 par tour)
+# - "random": Dégâts aléatoires (ex: entre 30 et 80)
+# - "chain": Dégâts qui augmentent à chaque rebond (ex: 40 + 10 par rebond)
+#
+# TYPES DE CIBLES POSSIBLES :
+# - "single_enemy": Un seul ennemi
+# - "single_ally": Un seul allié
+# - "self": Soi-même
+# - "all_enemies": Tous les ennemis
+# - "all_allies": Tous les alliés
+# - "random_enemy": Ennemi aléatoire
+# - "random_ally": Allié aléatoire
+# - "chain_enemies": Chaîne entre ennemis (avec bounce_count)
+# - "chain_allies": Chaîne entre alliés (avec bounce_count)
+# - "front_row": Première ligne
+# - "back_row": Ligne arrière
+# - "adjacent_enemies": Ennemis adjacents
+# - "adjacent_allies": Alliés adjacents
+#
+# EXEMPLES DÉTAILLÉS :
+# Capacité 1: "Explosion de Feu"
+#   - Élément: Feu
+#   - Cible: all_enemies
+#   - Dégâts: 80 fixed
+#   - Effets: brûlure 15/tour pendant 3 tours
+#   - Cooldown: 3 tours
+#   - Description: Explosion qui touche tous les ennemis et applique un effet de brûlure
+#
+# Capacité 2: "Griffe Acérée"
+#   - Élément: Neutre
+#   - Cible: single_enemy
+#   - Dégâts: attack + 25
+#   - Effets: 
+#   - Cooldown: 1 tour
+#   - Description: Attaque physique renforcée avec les griffes
+#
+# Capacité 3: "Soin Vital"
+#   - Élément: Eau
+#   - Cible: single_ally
+#   - Dégâts: 0
+#   - Effets: soin 60 PV
+#   - Cooldown: 2 tours
+#   - Description: Soigne un allié de 60 PV
+#
+# Capacité 4: "Chaîne de Foudre"
+#   - Élément: Foudre
+#   - Cible: chain_enemies
+#   - Dégâts: 50 + 15 par rebond
+#   - Effets: 
+#   - Cooldown: 4 tours
+#   - Description: Éclair qui rebondit entre ennemis, augmentant à chaque rebond
+#
+# Capacité 5: "Armure Magique"
+#   - Élément: Arcanique
+#   - Cible: self
+#   - Dégâts: 0
+#   - Effets: +30 défense, +20% résistance aux sorts pour 3 tours
+#   - Cooldown: 4 tours
+#   - Description: Crée une armure magique qui protège contre les attaques
+#
+# =================================
+
+## ÉLÉMENT FEU (12 unités)
+## =======================
+
+### RARETÉ COMMUNE
+1. Ignissia, Sorcière des Brasiers (Image: 31)
+   - Stats (primaires/secondaires): HP: 850, ATK: 23, DEF: 15 | Crit%: 3.0, DgtCrit%: 0.0, Esquive%: 1.0, Précision%: 99.0
+   - Rareté: Commune
+   - Passifs: 1000
+   - Capacités : 5000
+
+### RARETÉ PEU COMMUNE
+2. Pyropoulpe, Poulpe Incandescent (Image: 20)
+   - Stats (primaires/secondaires): HP: 995, ATK: 30, DEF: 18 | Crit%: 3.0, DgtCrit%: 0.0, Esquive%: 1.0, Précision%: 99.0
+   - Rareté: Peu commune
+   - Passifs: 
+   - Capacités à définir:
+     Capacité 1: Torrent Ardent
+       - Élément: Feu
+       - Cible: 2x aléatoires (même ennemi possible)
+       - Dégâts: 30 fixed
+       - Cooldown: 5
+       - Description: Vague de flammes tourbillonnantes, emportant ses adversaires dans un torrent incandescent.
+
+3. Solune, Chamane Solaire (Image: 52)
+   - Stats (primaires/secondaires): HP: 850, ATK: 23, DEF: 14 | Crit%: 3.0, DgtCrit%: 0.0, Esquive%: 1.0, Précision%: 99.0
+   - Rareté: Peu commune
+   - Passifs: 1100
+   - Capacités : 5000
+
+4. Pyraxis, Élémentaire de Magma (Image: 54)
+   - Stats (primaires/secondaires): HP: 780, ATK: 25, DEF: 13 | Crit%: 3.0, DgtCrit%: 0.0, Esquive%: 1.0, Précision%: 99.0
+   - Rareté: Peu commune
+   - Passifs: 1000
+   - Capacités à définir:
+     Capacité 1: Rocher Magmatique
+       - Élément: Feu
+       - Cible: 1 & 50% des dégats à 1 ennemi adjacent 
+       - Dégâts: attack *1.1
+       - Cooldown: 2
+       - Description: Lance un rocher en fusion qui explose à l'impacte. 
+
+5. Rubra, Salamandre Incandescente (Image: 42)
+   - Stats (primaires/secondaires): HP: 780, ATK: 21, DEF: 12 | Crit%: 3.0, DgtCrit%: 0.0, Esquive%: 1.0, Précision%: 99.0
+   - Rareté: Peu commune
+   - Passifs: 
+   - capacité : 5003
+   - Capacités à définir:
+     Capacité 2: Coup de Langue
+       - Élément: Neutre
+       - Cible: 1
+       - Dégâts: 45 fixed
+       - Cooldown: 3
+       - Description: Sa langue s'allonge et d'un coup sec, frappe vivement sa proie.
+
+### RARETÉ RARE
+6. Solaris, Paladin du Soleil (Image: 26)
+   - Stats (primaires/secondaires): HP: 940, ATK: 32, DEF: 13 | Crit%: 3.0, DgtCrit%: 0.0, Esquive%: 1.0, Précision%: 99.0
+   - Rareté: Rare
+   - Passifs: 
+   - Capacités à définir:
+     Capacité 1: Armure incandescente
+       - Élément: Feu
+       - Cible: Self
+       - Dégâts: 0
+       - Effets: +10 Def et octroie un effet brûlure à l'attaquant. 2 Tours
+       - Cooldown: 4
+       - Description: Protège son porteur d’une cuirasse brûlante qui inflige des brûlures à chaque contact ennemi en plus d'augmenter la défense du porteur.
+
+7. Ignarok, Roc en Fusion (Image: 62)
+   - Stats (primaires/secondaires): HP: 870, ATK: 28, DEF: 16 | Crit%: 3.0, DgtCrit%: 0.0, Esquive%: 1.0, Précision%: 99.0
+   - Rareté: Rare
+   - Passifs: 1000, 1002
+   - Capacités à définir:
+     Capacité 1: Lancer Tellurique
+       - Élément: Terre
+       - Cible: 1
+       - Dégâts: attack_plus + 40
+       - Effets: 50% de chance d'étourdir
+       - Cooldown: 3
+       - Description: Lance un énorme rocher qui peut étourdir sa cible.
+    Capacité 2: Pierre enflammée
+       - Élément: Feu
+       - Cible: 1
+       - Dégâts: attack *0.7
+       - Effets: 
+       - Cooldown: 1
+       - Description:  Lance de petite pierre enflammée.
+
+### RARETÉ ÉPIQUE
+8. Salamandra, Magicienne Incandescente (Image: 2)
+   - Stats (primaires/secondaires): HP: 950, ATK: 30, DEF: 16 | Crit%: 3.0, DgtCrit%: 0.0, Esquive%: 1.0, Précision%: 99.0
+   - Rareté: Épique
+   - Passifs: 
+   - Capacités à définir: 
+     Capacité 1: Flamme Foudroyante
+       - Élément: Feu
+       - Cible: 1
+       - Dégâts: attack_plus + 40
+       - Effets: Confère le passif 1205 pendant 1 Tour
+       - Cooldown: 3
+       - Description: Un sort de flamme au propriété électrique
+     Capacité 2: Décharge Incandescente
+       - Élément: Foudre
+       - Cible: 1
+       - Dégâts: attack_plus + 40
+       - Effets: Confère le passif 1200 pendant 1 Tour
+       - Cooldown: 3
+       - Description:  Un sort éléctrique aussi brûlant que le feu.
+
+9. Vulcan, Forgeron de l'Enclume Ardente (Image: 11)
+   - Stats (primaires/secondaires): HP: 940, ATK: 32, DEF: 15 | Crit%: 3.0, DgtCrit%: 0.0, Esquive%: 1.0, Précision%: 99.0
+   - Rareté: Épique
+   - Passifs: Aura qui augmente l'attack des alliés de 10%, 1000
+   - Capacités à définir:
+     Capacité 1: Ardeur de la Forge
+       - Élément: Feu
+       - Cible: Self
+       - Dégâts: 0
+       - Effets: Augmente son attack de 10% (pas de durée)
+       - Cooldown: 2
+       - Description:  Canalise la puissance ancestrale des forges ardentes.
+      Capacité 2: Martelage
+        - Élément: Neutre
+        - Cible: 1
+        - Dégâts: 2x attack *0.8
+        - Effets:
+        - Cooldown: 1
+        - Description: Le forgeron frappe de tout son poids avec son marteau, infligeant d’intenses dégâts physiques à son ennemi.
+
+10. Pyrolynx, Lynx Ardent (Image: 72)
+    - Stats (primaires/secondaires): HP: 870, ATK: 35, DEF: 17 | Crit%: 3.0, DgtCrit%: 0.0, Esquive%: 1.0, Précision%: 99.0
+    - Rareté: Épique
+    - Passifs: 
+    - Capacités à définir:
+      Capacité 1: Coup de Griffe Ardente
+        - Élément: Feu et Neutre
+        - Cible: 1
+        - Dégâts: 3x attack *0.6
+        - Effets: 
+        - Cooldown: 2
+        - Description: Lacère sa cible d’un coup de griffe rapide, infligeant des dégâts physiques et de feu à sa cible.
+      Capacité 2: Ardeur
+        - Élément: Feu
+        - Cible: Self
+        - Dégâts: 0
+        - Effets: Rends disponible les autres capacités. (rénitialise les Cds)
+        - Cooldown: 5
+        - Description:  Un feu intérieur envahit la créature, lui permettant d’utiliser à nouveau toutes ses capacités sans attendre.
+
+### RARETÉ MYTHIQUE
+11. Pyrodrake, Dragon de Braise (Image: 1)
+    - Stats (primaires/secondaires): HP: 1200, ATK: 35, DEF: 22 | Crit%: 3.0, DgtCrit%: 0.0, Esquive%: 1.0, Précision%: 99.0
+    - Rareté: Mythique
+    - Passifs: 
+    - Capacités à définir:
+      Capacité 1: Souffle Enflammé
+        - Élément: Feu
+        - Cible: 1, puis 25% de chance de toucher un autre ennemi de façon aléatoire, jusqu'a un maximum de 4 rebonds
+        - Dégâts: attack_plus 1.2
+        - Effets: 
+        - Cooldown: 3
+        - Description: Un terrible souffle de flamme se déchainant sur le champs de bataille.
+      Capacité 2: Ascension Impétueuse
+        - Élément: Air
+        - Cible: 1
+        - Dégâts: attack_plus + 30
+        - Effets: Esquive augmenté de 10% pendant 1 tour.
+        - Cooldown: 4
+        - Description: S’élève dans les airs, soulevant un torrent de poussière avant de redescendre en piquée sur sa cible à toute vitesse.
+      Capacité 3: Tourbillon de flamme
+        - Élément: Feu
+        - Cible: aléatoire
+        - Dégâts: scaling (attack + attack)
+        - Effets: déclenche le passif 1200 pendant 6 tours
+        - Cooldown: 6
+        - Description: Absorbe la chaleur environnante avant cracher du feu tout en battant très vite des ailes. Ce qui provoque un tourbillon de flamme dévastateur.
+
+### RARETÉ SPÉCIALE
+12. Flamby, Lutin des Flammes (Image: 68)
+    - Stats (primaires/secondaires): HP: 710, ATK: 17, DEF: 8 | Crit%: 3.0, DgtCrit%: 0.0, Esquive%: 1.0, Précision%: 99.0
+    - Rareté: Spécial
+    - Passifs: 
+    - Capacités à définir:
+      Capacité 1: Graine enflammée
+        - Élément: Feu
+        - Cible: aléatoire
+        - Dégâts: fixed 5
+        - Effets: Implante une Graine qui inflige 10pts de dégats par cumule quand elle explose. Explose automatiquement après 10 tour et sont ainsi retirée.
+        - Cooldown: 1
+        - Description: Lance des graines enflammées qui explosent après un certains temps.
+      Capacité 2: Graine Explosive
+        - Élément: Feu
+        - Cible: 1
+        - Dégâts: 20 * (Nombre de graine de sa cible/2)
+        - Effets: Fait exploser les graines sur sa cible (les graines sont ainsi retirée)
+        - Cooldown: 2
+        - Description: Lance une graine qui explose au contact.
+
+
+## ÉLÉMENT EAU (8 unités)
+## ======================
+
+### RARETÉ COMMUNE
+13. Cristaline, Ondine Pure (Image: 9)
+    - Stats (primaires/secondaires): HP: 840, ATK: 21, DEF: 11 | Crit%: 3.0, DgtCrit%: 0.0, Esquive%: 1.0, Précision%: 99.0
+    - Rareté: Commune
+    - Passifs: 
+    - Capacités à définir:
+      Capacité 1: Ca coule de source
+        - Élément: Eau
+        - Cible: 1
+        - Dégâts: 0
+        - Effets: Soins 45 Pv
+        - Cooldown: 1
+        - Description: Une eau de source qui revitalise !
+
+14. Torrentis, Gardien de l'Écume (Image: 32)
+    - Stats (primaires/secondaires): HP: 780, ATK: 19, DEF: 19 | Crit%: 3.0, DgtCrit%: 0.0, Esquive%: 1.0, Précision%: 99.0
+    - Rareté: Commune
+    - Passifs: 1001
+      Capacité : 5250
+
+### RARETÉ PEU COMMUNE
+15. Abyssine, Félin des Profondeurs (Image: 57)
+    - Stats (primaires/secondaires): HP: 1020, ATK: 21, DEF: 23 | Crit%: 3.0, DgtCrit%: 0.0, Esquive%: 1.0, Précision%: 99.0
+    - Rareté: Peu commune
+    - Passifs: 
+    - Capacités à définir:
+      Capacité 1:  Voile Aquatique
+        - Élément: Eau
+        - Cible: Self
+        - Dégâts: 0
+        - Effets: Augmente son esquive de 20% pendant 2 tour
+        - Cooldown: 3
+        - Description: Se sert de l'eau comme d'un voile pour refléter l'environnement et s'y fondre. 
+      Capacité 2: Griffure Abyssale
+        - Élément: Eau
+        - Cible: 1
+        - Dégâts: attack_plus + 60
+        - Effets: 
+        - Cooldown: 2
+        - Description: Une lacération qui surgit des tréfonds.
+
+### RARETÉ RARE
+16. Nixie, Fée de la Source (Image: 29)
+    - Stats (primaires/secondaires): HP: 890, ATK: 32, DEF: 12 | Crit%: 3.0, DgtCrit%: 0.0, Esquive%: 1.0, Précision%: 99.0
+    - Rareté: Rare
+    - Passifs: 1001
+    - Capacités à définir:
+      Capacité 1: Larmes Féerique
+        - Élément: Eau
+        - Cible: 1
+        - Dégâts: 0
+        - Effets: Soin de scaling 40 + 10 par utilisation Pv
+        - Cooldown: 2
+        - Description: Des larmes aux propriétées soignante.
+
+17. Abyssalor, Kraken des Profondeurs (Image: 45)
+    - Stats (primaires/secondaires): HP: 1160, ATK: 30, DEF: 27 | Crit%: 3.0, DgtCrit%: 0.0, Esquive%: 1.0, Précision%: 99.0
+    - Rareté: Rare
+    - Passifs: 
+    - Capacités à définir:
+      Capacité 1: Voile d’Encre
+        - Élément: Eau
+        - Cible: lanceur et tous les allié 
+        - Dégâts: 0
+        - Effets: gagne 30% d'esquive pendant 2 tours
+        - Cooldown: 5
+        - Description: Un voile d'encre magique envahit le champ de bataille obstruant la vue des ennemis.
+      Capacité 2: Coup de T'entacule
+        - Élément: Neutre
+        - Cible: 2 aléatoire (différent)
+        - Dégâts: attack *0.6
+        - Effets: 
+        - Cooldown: 1
+        - Description: Un coup de tentacule géant balayant une large zone. 
+
+### RARETÉ ÉPIQUE
+18. Aquaria, Sirène Mystique (Image: 17)
+    - Stats (primaires/secondaires): HP: 1029, ATK: 30, DEF: 20 | Crit%: 3.0, DgtCrit%: 0.0, Esquive%: 1.0, Précision%: 99.0
+    - Rareté: Épique
+    - Passifs: Ne peut pas être la cible d'attaque aléatoire
+    - Capacités à définir:
+      Capacité 1: Mélodie Hypnotique
+        - Élément: Eau
+        - Cible: 1 puis 50% de rebords, maximum 2 rebonds
+        - Dégâts: 0
+        - Effets: Empêche l'utilisation de capacité
+        - Cooldown: 6
+        - Description: Une douce musique qui ensorcèle celui qui l'écoute.
+
+19. Siriona, Enchanteresse des Abysses (Image: 23)
+    - Stats (primaires/secondaires): HP: 1200, ATK: 26, DEF: 34 | Crit%: 3.0, DgtCrit%: 0.0, Esquive%: 1.0, Précision%: 99.0
+    - Rareté: Épique
+    - Passifs: 
+    - Capacités à définir:
+      Capacité 1: Étreinte Liquide
+        - Élément: Eau
+        - Cible: 1
+        - Dégâts: fixed 30
+        - Effets: 80% d'étourdir
+        - Cooldown: 2
+        - Description: Une main faites d'eau vient étreindre sa cible.
+      Capacité 2: Torrent Ensorcelé
+        - Élément: Eau
+        - Cible: 1 + adjacent
+        - Dégâts: fixed 160
+        - Effets: 
+        - Cooldown: 4
+        - Description: 
+
+### RARETÉ MYTHIQUE
+20. Torrick, Gardien du Torrent (Image: 50)
+    - Stats (primaires/secondaires): HP: 1350, ATK: 39, DEF: 24 | Crit%: 3.0, DgtCrit%: 0.0, Esquive%: 1.0, Précision%: 99.0
+    - Rareté: Mythique
+    - Passifs: 1101, La Cible des soins qu'il produit reçoit aussi un bouclier de 50% des Pv restauré.
+    - Capacités à définir:
+      Capacité 1: Soin protecteur
+        - Élément: Eau
+        - Cible: 1
+        - Dégâts: 
+        - Effets: Soigne 60 pv et +10 à la Défense pendant 2 tour
+        - Cooldown: 3
+        - Description: Grâce au pouvoir de son bouclier combinée à sa magie, il soigne et protège une cible.
+      Capacité 2: Coup Tranchant
+        - Élément: Eau et Neutre
+        - Cible: 1
+        - Dégâts: fixed 30
+        - Effets: soigne le lanceur de 50% des dégats infligé
+        - Cooldown: 1
+        - Description: Un coup d'épée runique, on dit que le porteur est revigorer à chaque attaque portée.
+
+21. Typhion, Léviathan du Maelström (Image: 65)
+    - Stats (primaires/secondaires): HP: 1111, ATK: 44, DEF: 16 | Crit%: 3.0, DgtCrit%: 0.0, Esquive%: 1.0, Précision%: 99.0
+    - Rareté: Mythique
+    - Passifs: 
+    - Capacités à définir:
+      Capacité 1: Typhon
+        - Élément: Eau
+        - Cible: all_enemies
+        - Dégâts: 80
+        - Effets: 20% d'étourdir
+        - Cooldown: 3
+        - Description: Un immense Typhon qui emporte tout.
+      Capacité 2: Avalement
+        - Élément: Neutre
+        - Cible: 1
+        - Dégâts: attack_plus + 100
+        - Effets: 
+        - Cooldown: 4
+        - Description: Avale sa cible.
+      Capacité 3: Cri Abyssale
+        - Élément: Eau
+        - Cible: 1 + self
+        - Dégâts: 
+        - Effets: 1201 pendant 2 tours
+        - Cooldown: 4
+        - Description: Un cri qui pousse quiconque qui l'entends à se surpasser de peur de devenir un encas.
+
+
+## ÉLÉMENT TERRE (12 unités)
+## =========================
+
+### RARETÉ COMMUNE
+22. Rock, Colosse de Granit (Image: 6)
+    - Stats (primaires/secondaires): HP: 810, ATK: 28, DEF: 13 | Crit%: 3.0, DgtCrit%: 0.0, Esquive%: 1.0, Précision%: 99.0
+    - Rareté: Commune
+    - Passifs: 1002
+      Capacité: 5500
+
+### RARETÉ PEU COMMUNE
+24. Bersi, Nain Invincible (Image: 18)
+    - Stats (primaires/secondaires): HP: 1160, ATK: 26, DEF: 30 | Crit%: 3.0, DgtCrit%: 0.0, Esquive%: 1.0, Précision%: 99.0
+    - Rareté: Peu commune
+    - Passifs: Hargneu (quand il subit des dégâts augmente sa défense de 5 pendant 1 tour)
+    - Capacités à définir:
+      Capacité 1: Haine Naine
+        - Élément: Terre
+        - Cible: 1
+        - Dégâts: attack (+20 si la cible attaquée lui avait fait des dégats au tour précédent)
+        - Effets: 
+        - Cooldown: 1
+        - Description: Un coup tout ce qu'il y a de plus basique mais donné avec HAINE.
+
+25. Roktus, Gobelin Mineur (Image: 35)
+    - Stats (primaires/secondaires): HP: 845, ATK: 26, DEF: 12 | Crit%: 3.0, DgtCrit%: 0.0, Esquive%: 1.0, Précision%: 99.0
+    - Rareté: Rare
+    - Passifs: 
+    - Capacités à définir:
+      Capacité 1: Piège à Pétards
+        - Élément: Terre et Feu
+        - Cible: 1
+        - Dégâts: fixed 7*4 
+        - Effets: Pose un piège qui explose lorsqu'un attaquant prends pour cible la personne piégée, Augmentant ainsi les dégats de la capacité de Fixed +10. Les dégâts se font à l'attaquant. Explose automatiquement à la fin de 3 tour et inflige des dégats à la cible initialement piégée.
+        - Cooldown: 3
+        - Description: Pose un piège qui explose lorsqu'un attaquant prends pour cible la personne piégée. Ingénieusité Gobeline.
+       Capacité 2: Dynamite
+        - Élément: Feu
+        - Cible: aléatoire
+        - Dégâts: fixed 80
+        - Effets: 
+        - Cooldown: 3
+        - Description: Lance une dynamite qui explose après un court instant. 
+
+26. Rocor, Gardien du Bloc (Image: 47)
+    - Stats (primaires/secondaires): HP: 880, ATK: 22, DEF: 17 | Crit%: 3.0, DgtCrit%: 0.0, Esquive%: 1.0, Précision%: 99.0
+    - Rareté: Peu commune
+    - Passifs: 1002
+    - Capacités à définir:
+      Capacité 1: 5500
+      Capacité 2: 5011
+
+### RARETÉ RARE
+Gladrith, Écho des montagnes (Image: 76)
+Stats (primaires/secondaires): HP: 780, ATK: 31, DEF: 15 | Crit%: 3.0, DgtCrit%: 0.0, Esquive%: 1.0, Précision%: 99.0
+Rareté: Rare
+Passifs:  Rugissement Tellurique :
+En attaquant, produit un cri qui boost les dégâts de ses alliés. (1 tour)
+En subissant une attaque, produit un cri qui boost la défense de ses alliés. (1 tour)
+Capacités à définir:
+ Capacité 1: Frappe sismique
+Cible: Aléatoire
+Dégâts: Scaling (son atk + 10% de son atk à chaque tour)
+Cooldown: 2
+Description: Une frappe au sol déclenchant une onde de choc qui fissure la terre et projette violemment l'ennemi pris pour cible.
+
+28. Terra, Sorcière de la Terre (Image: 7)
+    - Stats (primaires/secondaires): HP: 1400, ATK: 18, DEF: 41 | Crit%: 3.0, DgtCrit%: 0.0, Esquive%: 1.0, Précision%: 99.0
+    - Rareté: Rare
+    - Passifs: 1202
+    - Capacités à définir:
+      Capacité 1: Éboulement
+        - Élément: terre
+        - Cible: chain_enemies
+        - Dégâts: 40 puis +40 pour chaque chain après
+        - Effets: 20% d'étourdir
+        - Cooldown: 6
+        - Description: Provoque un lourd éboulement.
+      Capacité2: 5500
+
+29. Barbak, Guerrier Barbare (Image: 16)
+    - Stats (primaires/secondaires): HP: 1130, ATK: 32, DEF: 18 | Crit%: 3.0, DgtCrit%: 0.0, Esquive%: 1.0, Précision%: 99.0
+    - Rareté: Rare
+    - Passifs: Rage (chaque % de PV manquant est un % d'augmentation de dégat)
+    - Capacités à définir:
+      Capacité 1: Heurtoir
+        - Élément: Neutre
+        - Cible: 1
+        - Dégâts: attack
+        - Effets: 
+        - Cooldown: 1
+        - Description: Coup de Hache simple.
+      Capacité 2: Rage Berseker
+        - Condition : avoir 50% ou moins
+        - Élément: Terre
+        - Cible: Self
+        - Dégâts: 
+        - Effets: Double sa prochaine capacité et lui octroie les propriété de l'élément Terre & Feu (1 tour ou expire après 1 capacité)
+        - Cooldown: 2
+        - Description: Rentre dans une rage incontrollable.
+
+30. Silex, Gardien du Pic Rugueux (Image: 22)
+    - Stats (primaires/secondaires): HP: 900, ATK: 31, DEF: 14 | Crit%: 3.0, DgtCrit%: 0.0, Esquive%: 1.0, Précision%: 99.0
+    - Rareté: Peu commune
+    - Passifs: 
+    - Capacités 1: 5011
+      Capacité 2: Armure de roche
+        - Élément: Terre  
+        - Cible: Self
+        - Dégâts: 0
+        - Effets: Augmente la défense de 20 pendant 2 Tour
+        - Cooldown: 3
+        - Description: Se renforce naturellement.
+
+31. Lixor, Golem Cristallin (Image: 33)
+    - Stats (primaires/secondaires): HP: 870, ATK: 30, DEF: 15 | Crit%: 3.0, DgtCrit%: 0.0, Esquive%: 1.0, Précision%: 99.0
+    - Rareté: Rare
+    - Passifs: Brisé (moins il a de PV et moins il a de défense, chaque tranche 10% de pv en moins = 2 de Def en moins)
+    - Capacités à définir:
+      Capacité 1: Brise-Roc
+        - Élément: Terre
+        - Cible: 1
+        - Dégâts: attack_plus + Def
+        - Effets: étourdit sa cible
+        - Cooldown: 4
+        - Description: Frappe d'un gros coup rendant sa cible désorientée.
+
+32. Lumberjack, Bûcheron du Grand Nord (Image: 28)
+    - Stats (primaires/secondaires): HP: 1190, ATK: 28, DEF: 29 | Crit%: 3.0, DgtCrit%: 0.0, Esquive%: 1.0, Précision%: 99.0
+    - Rareté: Commune
+    - Passifs: 
+    - Capacités à définir:
+      Capacité 1: Heurtoir
+        - Élément: Neutre
+        - Cible: 1
+        - Dégâts: attack
+        - Effets: 
+        - Cooldown: 1
+        - Description: Coup de Hache simple.
+      Capacité2: 5500
+
+### RARETÉ ÉPIQUE
+35. Telluron, Géant de Schiste (Image: 73)
+    - Stats (primaires/secondaires): HP: 830, ATK: 29, DEF: 14 | Crit%: 3.0, DgtCrit%: 0.0, Esquive%: 1.0, Précision%: 99.0
+    - Rareté: Épique
+    - Passifs: Immobile (Ne peut attaquer que la cible ennemie en face de lui, et si elle meurt attaque la prochaine cible ennemie la plus proche)
+    - Capacités à définir:
+      Capacité 1: Brise-Roc
+        - Élément: Terre
+        - Cible: 1
+        - Dégâts: attack_plus + Def
+        - Effets: étourdit sa cible
+        - Cooldown: 4
+        - Description: Frappe d'un gros coup rendant sa cible désorientée.
+      Capacité 2: Glissement de Terrain
+        - Élément: Terre
+        - Cible: 1 + adjacent_enemies
+        - Dégâts: attack *0.8
+        - Effets: Inesquivable
+        - Cooldown: 3
+        - Description: Une secousse brutale fissurant la terre.
+
+### RARETÉ MYTHIQUE
+34. Lithos, Colosse de Quartz (Image: 60)
+    - Stats (primaires/secondaires): HP: 990, ATK: 37, DEF: 16 | Crit%: 3.0, DgtCrit%: 0.0, Esquive%: 1.0, Précision%: 99.0
+    - Rareté: Mythique
+    - Passifs: 
+    - Capacités à définir:
+      Capacité 1: Briseur de Montagne
+        - Élément: Terre
+        - Cible: 1
+        - Dégâts: 10% des pv maximal de la cible
+        - Effets: Empêche la cible d'agir au prochain tour
+        - Cooldown: 5
+        - Description: Un coup si puissant que le vent provoqué par le coup rends inerte sa cible.
+      Capacité 2: Fureur Tellurique
+        - Élément: Terre
+        - Cible: all_enemies
+        - Dégâts: 5% des pv maximal des cibles
+        - Effets: procure le passif 1102 pendant 3 tours aux alliés
+        - Cooldown: 3
+        - Description: Concentre l'énergie de la Terre pour la faire exploser ensuite dans une giganteste décharge.
+
+## ÉLÉMENT AIR (12 unités)
+## =======================
+
+### RARETÉ COMMUNE
+38. Tempestra, Danseuse de la Tornade (Image: 27)
+    - Stats (primaires/secondaires): HP: 760, ATK: 27, DEF: 15 | Crit%: 3.0, DgtCrit%: 0.0, Esquive%: 1.0, Précision%: 99.0
+    - Rareté: Commune
+    - Passifs: 1003
+      Capacité 1: 5750
+
+### RARETÉ PEU COMMUNE
+39. Zepho, Génie des Courants (Image: 44)
+    - Stats (primaires/secondaires): HP: 865, ATK: 29, DEF: 11 | Crit%: 3.0, DgtCrit%: 0.0, Esquive%: 1.0, Précision%: 99.0
+    - Rareté: Peu commune
+    - Passifs: 1103
+    - Capacités à définir:
+      Capacité 1: 5750
+
+### RARETÉ RARE
+40. Skyla, Danseuse des Nuages (Image: 5)
+    - Stats (primaires/secondaires): HP: 1010, ATK: 28, DEF: 21 | Crit%: 3.0, DgtCrit%: 0.0, Esquive%: 1.0, Précision%: 99.0
+    - Rareté: Rare
+    - Passifs: 
+    - Capacités à définir:
+      Capacité 1: Danse des Alizés
+        - Élément: Air
+        - Cible: all_allies
+        - Dégâts: 
+        - Effets: Augmente les chances de critiques des cibles alliées de 20% pendant 1 Tour
+        - Cooldown: 3
+        - Description: Une danse majestueuse et aussi gracieuse que le vent.
+      Capacité 2: Symphonie de l’Air
+        - Élément: Air
+        - Cible: 1
+        - Dégâts: 
+        - Effets: Donne le passif 1203 à une cible pendant 1 tour
+        - Cooldown: 2
+        - Description: Au rythme d’une danse invisible, l’air vibre et s’anime, tissant des mélodies éthérées qui enveloppent sa cible.
+
+41. Sylphar, Archer de la Canopée (Image: 10)
+    - Stats (primaires/secondaires): HP: 960, ATK: 29, DEF: 18 | Crit%: 3.0, DgtCrit%: 0.0, Esquive%: 1.0, Précision%: 99.0
+    - Rareté: Peu Commune
+    - Passifs: 
+    - Capacités à définir:
+      Capacité 1: Tir Sylvestre
+        - Élément: Air
+        - Cible: 1
+        - Dégâts: Fixed 45
+        - Effets: Multiplicateur de critique augmenté de 50%
+        - Cooldown: 2
+        - Description: Un Tir imbibé du pouvoir de l'air.
+
+42. Orbaline, Magicienne Astrale (Image: 19)
+    - Stats (primaires/secondaires): HP: 870, ATK: 35, DEF: 10 | Crit%: 3.0, DgtCrit%: 0.0, Esquive%: 1.0, Précision%: 99.0
+    - Rareté: Rare
+    - Passifs: 
+    - Capacités à définir:
+      Capacité 1: Orbe Astrale
+        - Élément: Glace et Air
+        - Cible: 1
+        - Dégâts: attack_plus + 30
+        - Effets: Augmente les chances de critique du lanceur de 10% pendant 2 tours.
+        - Cooldown: 2
+        - Description: Formée à partir d'air, puis glacée, cette orbe est aussi véloce que mortelle.
+      Capacité2: 5750
+
+### RARETÉ ÉPIQUE
+43. Aeris, Esprit du Zéphyr (Image: 34)
+    - Stats (primaires/secondaires): HP: 950, ATK: 35, DEF: 12 | Crit%: 3.0, DgtCrit%: 0.0, Esquive%: 1.0, Précision%: 99.0
+    - Rareté: Épique
+    - Passifs: 
+    - Capacités à définir:
+      Capacité 1: Baiser Alizée
+        - Élément: Air
+        - Cible: 1
+        - Dégâts: 
+        - Effets: Augmente l'esquive de 40% et les chances de critiques de 30% pendant 1 tour.
+        - Cooldown: 2
+        - Description: Un baiser mystérieux qui fait planer quiconque en est la cible.
+      Capacité2:  Rapidité Aérienne
+        - Élément: Air
+        - Cible: 1
+        - Dégâts: 
+        - Effets: Réduit à 0 le cooldown des capacités de la cible.
+        - Cooldown: 8
+        - Description: La rapidité est telle qu'on ne la voit plus. 
+
+44. Nébulaire, Magicienne du Brouillard (Image: 49)
+    - Stats (primaires/secondaires): HP: 1010, ATK: 35, DEF: 15 | Crit%: 3.0, DgtCrit%: 0.0, Esquive%: 1.0, Précision%: 99.0
+    - Rareté: Épique
+    - Passifs: 
+    - Capacités à définir:
+      Capacité 1: Avancée du Brouillard
+        - Élément: Air
+        - Cible: self + all_allies
+        - Dégâts: 
+        - Effets: Augmente l'esquive de 20% permanent.
+        - Cooldown: 6
+        - Description: Un brouillard apparait et s'épaiçit.
+      Capacité2 : Orage
+        - Élément: Air et Foudre
+        - Cible: 3* Aléatoire (peu touché plusieurs fois la même cible)
+        - Dégâts: Fixed 11 à chaque tour pendant 3 tours
+        - Effets: 
+        - Cooldown: 3
+        - Description: Un orage qui fait s'abbatre la foudre sur le champ de bataille. 
+
+45. Corvus, Corbeau Mystique (Image: 51)
+    - Stats (primaires/secondaires): HP: 1113, ATK: 33, DEF: 21 | Crit%: 3.0, DgtCrit%: 0.0, Esquive%: 1.0, Précision%: 99.0
+    - Rareté: Épique
+    - Passifs: 1336
+    - Capacités à définir:
+      Capacité 1: 3ème Oeil
+        - Élément: Air
+        - Cible: Aléatoire
+        - Dégâts: 
+        - Effets: Empêche l'utilisation de capacité pendant 1 tour.
+        - Cooldown: 3
+        - Description: La vision du futur est réservée qu'a peu d'être vivant.
+      Capacité 2: Malédiction
+        - Élément: Dépendant de l'effet corruption ténèbre brûlure feu poison poison gel Glace et surcharge foudre
+        - Cible: aléatoire
+        - Dégâts: 
+        - Effets: Aléatoire entre corruption brûlure poison gel et surcharge
+        - Cooldown: 1
+        - Description: Une malédiction aussi puissante que mystérieuse.
+
+46. Zéphara, Valkyrie des Vents (Image: 64)
+    - Stats (primaires/secondaires): HP: 980, ATK: 34, DEF: 22 | Crit%: 3.0, DgtCrit%: 0.0, Esquive%: 1.0, Précision%: 99.0
+    - Rareté: Épique
+    - Passifs: 
+    - Capacités à définir:
+      Capacité 1: Égide Aérienne
+        - Élément: Air
+        - Cible: 1
+        - Dégâts: 
+        - Effets: Réduit les dégâts subis de 20% pendant 1 tour
+        - Cooldown: 2
+        - Description: Une puissante barrière de vent tourbillonnant.
+      Capacité 2: Lames du Mistral
+        - Élément: Air
+        - Cible: 1 + 2 aléatoire
+        - Dégâts: attack_plus + 30
+        - Effets: Augmentation des dégâts si critique de 20%
+        - Cooldown: 2
+        - Description: Invoque des courants tranchants et invisibles, frappant ses ennemis comme une tempête de lames de vent.
+
+47. Stratos, Esprit des Courants (Image: 75)
+    - Stats (primaires/secondaires): HP: 950, ATK: 42, DEF: 12 | Crit%: 3.0, DgtCrit%: 0.0, Esquive%: 1.0, Précision%: 99.0
+    - Rareté: Épique
+    - Passifs: 1103
+    - Capacités à définir:
+      Capacité 1:  Voile Astral
+        - Élément: Air
+        - Cible: Self
+        - Dégâts: 
+        - Effets: Augmente ses chances d'esquive au maximum pendant 1 Tour.
+        - Cooldown: 4
+        - Description: Une brume d’air céleste se répand, rendant la créature presque intangible.
+      Capacité 2: Souffle de la Nébuleuse
+        - Élément: Air
+        - Cible: 1
+        - Dégâts: attack_plus + 40
+        - Effets: Réduit la précision de la cible de 3% permanent
+        - Cooldown: 2
+        - Description: Dans une grande inspiration, la créature convoque l’énergie astrale de l’air.
+
+### RARETÉ MYTHIQUE
+48. Nébulo, Fantôme du Brouillard (Image: 15)
+    - Stats (primaires/secondaires): HP: 1220, ATK: 25, DEF: 34 | Crit%: 3.0, DgtCrit%: 0.0, Esquive%: 1.0, Précision%: 99.0
+    - Rareté: Mythique
+    - Passifs: 
+    - Capacités à définir:
+      Capacité 1: Apparition Nébuleuse
+        - Élément: Air
+        - Cible: self
+        - Dégâts: 
+        - Effets: Augmentation des chances de critiques au maximum.
+        - Cooldown: 3
+        - Description: Disparition dans la brume avant de réapparaitre pour une attaque sournoise.
+      Capacité 2: Emprise du Brouillard
+        - Élément: Air et Glace
+        - Cible: all_enemies
+        - Dégâts: fixed 60
+        - Effets: 20% de chance de gel
+        - Cooldown: 2
+        - Description: Une brume spectrale et glaciale qui s’étend silencieusement sur le champ de bataille.
+
+49. Galaxine, Voyageuse Céleste (Image: 21)
+    - Stats (primaires/secondaires): HP: 1100, ATK: 36, DEF: 19 | Crit%: 3.0, DgtCrit%: 0.0, Esquive%: 1.0, Précision%: 99.0
+    - Rareté: Mythique
+    - Passifs: 
+    - Capacités à définir:
+      Capacité 1: Pluie de Météores
+        - Élément: Air Terre et Feu
+        - Cible: 20x aléatoire peut cibler les mêmes cibles plusieurs fois.
+        - Dégâts: 6
+        - Effets: Chaque critique augmente le nombre de cible jusqu'a un maximum de 10 cibles supplémentaire.
+        - Cooldown: 4
+        - Description: Une pluie de météores s'abats.
+      Capacité 2: Lueur de la Voie Lactée
+        - Élément: Tous
+        - Cible: self
+        - Dégâts: 
+        - Effets: Confère toutes les auras 1100 à 1111 pendant 2 tours
+        - Cooldown: 4
+        - Description: Une bande blanchâtre et floue dans le ciel nocturne qui compose notre galaxie.
+      Capacité 3: Poussière d’Aurore
+        - Élément: Air
+        - Cible: 1
+        - Dégâts: 
+        - Effets: Confère le passif 1203 pendant 1 Tour
+        - Cooldown: 2
+        - Description: Un nuage iridescent entoure sa cible.
+
+50. Zyklair, Djinn des Rafales (Image: 39)
+    - Stats (primaires/secondaires): HP: 940, ATK: 28, DEF: 15 | Crit%: 3.0, DgtCrit%: 0.0, Esquive%: 1.0, Précision%: 99.0
+    - Rareté: Rare
+    - Passifs: 
+    - Capacités à définir:
+      Capacité 1: 5000
+
+
+## ÉLÉMENT GLACE (10 unités)
+## =========================
+
+### RARETÉ COMMUNE
+51. Frimousse, Esprit Givré (Image: 4)
+    - Stats (primaires/secondaires): HP: 780, ATK: 23, DEF: 13 | Crit%: 3.0, DgtCrit%: 0.0, Esquive%: 1.0, Précision%: 99.0 
+    - Rareté: Commune
+    - Passifs: 1004
+    - Capacités à définir:
+      Capacité 1: 6000 
+
+52. Gélax, Lutin de la Banquise (Image: 53)
+    - Stats (primaires/secondaires): HP: 810, ATK: 20, DEF: 16 | Crit%: 3.0, DgtCrit%: 0.0, Esquive%: 1.0, Précision%: 99.0 
+    - Rareté: Commune
+    - Passifs: 
+    - Capacités à définir:
+      Capacité 1: 6000
+      Capacité2: 6000
+
+### RARETÉ PEU COMMUNE
+53. Glacia, Yéti Polaire (Image: 25)
+    - Stats (primaires/secondaires): HP: 945, ATK: 25, DEF: 20 | Crit%: 3.0, DgtCrit%: 0.0, Esquive%: 1.0, Précision%: 99.0 
+    - Rareté: Peu commune
+    - Passifs: Fourrure Frigide (Augmente la défense de 5% pour chaque ennemi gelé)
+    - Capacités à définir:
+      Capacité 1: Claque Polaire
+        - Élément: Glace
+        - Cible: 1
+        - Dégâts: attack *1.1
+        - Effets: 30% de chance supplémentaire d’infliger Gel
+        - Cooldown: 2
+        - Description: Un grand coup gorgé d’énergie glaciale, pouvant geler sa victime.
+
+### RARETÉ RARE
+54. Gelgor, Troll du Givre (Image: 37)
+    - Stats (primaires/secondaires): HP: 1040, ATK: 32, DEF: 19 | Crit%: 3.0, DgtCrit%: 0.0, Esquive%: 1.0, Précision%: 99.0 
+    - Rareté: Rare
+    - Passifs: Peau Craquelée (augmente l'attaque de 5% pour chaque ennemi gelé)
+    - Capacités à définir:
+      Capacité 1: Avalanche de Cailloux
+        - Élément: Glace
+        - Cible: 3* aléatoire (le même peut être cibler plusieurs fois)
+        - Dégâts: attack *0.5
+        - Effets: 
+        - Cooldown: 3
+        - Description: Des rocs et de la glace dégringole sur les adversaires.
+
+55. Cryomage, Mage du Givre (Image: 41)
+    - Stats (primaires/secondaires): HP: 1290, ATK: 24, DEF: 36 | Crit%: 3.0, DgtCrit%: 0.0, Esquive%: 1.0, Précision%: 99.0 
+    - Rareté: Rare
+    - Passifs: Énergie Boréale (Tant qu'un ennemi est gelé il a le passif 1204)
+    - Capacités à définir:
+      Capacité 1: Éclat Glacial
+        - Élément: Glace
+        - Cible: 1
+        - Dégâts: attack *1.3
+        - Effets: double les dégats si la cible est déjà gelée.
+        - Cooldown: 2
+        - Description: Un pic massif de glace transperce la cible, redoutable contre les adversaires déjà affaiblis par le froid.
+
+56. Brumys, Fantôme du Givre (Image: 59)
+    - Stats (primaires/secondaires): HP: 980, ATK: 29, DEF: 19 | Crit%: 3.0, DgtCrit%: 0.0, Esquive%: 1.0, Précision%: 99.0 
+    - Rareté: Rare
+    - Passifs: Passifs: Intangibilité (s'active automatiquement après avoir utilisé une capacité, permets d'esquiver la prochaine attaque subie)
+    - Capacités à définir:
+      Capacité 1: Bise Spectrale
+        - Élément: Glace
+        - Cible: 1
+        - Dégâts: Fixed 34
+        - Effets: 25% de chance d'appliquer Gel.
+        - Cooldown: 3
+        - Description: Souffle glacial et fantomatique
+
+57. Glaciar, Yéti des Sommets (Image: 69)
+    - Stats (primaires/secondaires): HP: 920, ATK: 31, DEF: 14 | Crit%: 3.0, DgtCrit%: 0.0, Esquive%: 1.0, Précision%: 99.0 
+    - Rareté: Rare
+    - Passifs: Fort des Cimes (Réduit de 20% tous les dégâts reçus si au moins un ennemi est gelé)
+    - Capacités à définir:
+      Capacité 1:  Choc des Neiges
+        - Élément: Glace  
+        - Cible: aléatoire
+        - Dégâts: attack_plus + 24
+        - Effets: 20% de chance d’appliquer Gel
+        - Cooldown: 2
+        - Description:  Écrase l’ennemi sous une masse de neige.
+
+58. Galádra, Matriarche du Givre (Image: 71)
+    - Stats (primaires/secondaires): HP: 1040, ATK: 29, DEF: 19 | Crit%: 3.0, DgtCrit%: 0.0, Esquive%: 1.0, Précision%: 99.0 
+    - Rareté: Rare
+    - Passifs: Bénédiction Polaire (Tous les alliés récupèrent 5% de leurs PV max au début du tour du joueur)
+    - Capacités à définir:
+Capacité 1: Étreinte Maternelle  
+Élément: Glace  
+Cible: all_allies  
+Dégâts: 0  
+Effets: Soigne 30 PV à tous les alliés  
+Cooldown: 3  
+Description: Enveloppe ses alliés d’un courant de givre régénérateur.
+Capacité 2: Regard de Givre  
+Élément: Glace  
+Cible: single_enemy  
+Dégâts: fixed 22  
+Effets: 20% de chance d’appliquer Gel  
+Cooldown: 2  
+Description: Un regard glacial qui glace le sang de l’ennemi.
+
+### RARETÉ ÉPIQUE
+59. Glacielle, Reine des Flocons (Image: 12)
+    - Stats (primaires/secondaires): HP: 1092, ATK: 30, DEF: 21 | Crit%: 3.0, DgtCrit%: 0.0, Esquive%: 1.0, Précision%: 99.0 
+    - Rareté: Épique
+Passifs: Couronne de Givre (Retire Brûlure et Poison à tous les alliés à l'utilisation de sa capacité)
+Capacités à définir:
+Capacité 1: Avalanche Royale  
+Élément: Glace  
+Cible: all_enemies  
+Dégâts: fixed 45  
+Effets: 20% de chance d’appliquer Gel, +25% dégâts bonus sur les cibles gelées  
+Cooldown: 3  
+Description: Un raz-de-marée de neige s’abat sur l’ennemi.
+
+### RARETÉ MYTHIQUE
+60. Tundrorr, Mammouth Givré (Image: 30)
+    - Stats (primaires/secondaires): HP: 1075, ATK: 34, DEF: 22 | Crit%: 3.0, DgtCrit%: 0.0, Esquive%: 1.0, Précision%: 99.0 
+    - Rareté: Mythique
+    - Passifs: 1104, 1004
+    - Capacités à définir:
+Capacités à définir:
+Capacité 1: Charge Polaire  
+Élément: Glace  
+Cible: front_row  
+Dégâts: attack * 2  
+Effets: 25% de chance d’appliquer Gel aux cibles touchées  
+Cooldown: 4  
+Description: Un coup de défense dévastateur qui glace tout sur son passage
+
+### RARETÉ SPÉCIALE
+61. Gelidar, Chevalier des Neiges (Image: 3)
+    - Stats (primaires/secondaires): HP: 1100, ATK: 25, DEF: 28 | Crit%: 3.0, DgtCrit%: 0.0, Esquive%: 1.0, Précision%: 99.0 
+    - Rareté: Spécial
+Passifs: Protection Boréale (Réduit de 20% les dégâts subis par tous les alliés de type Glace)
+Capacités à définir:
+Capacité 1: Frappe Boréale  
+Élément: Glace  
+Cible: single_enemy  
+Dégâts: attack_plus + 22  
+Effets: 15% de chance de geler  
+Cooldown: 1  
+Description: Frappe inspirée du vent boréal
+
+
+## ÉLÉMENT FOUDRE (6 unités)
+## =========================
+
+### RARETÉ PEU COMMUNE
+62. Stormy, Enfant de la Foudre (Image: 8)
+    - Stats (primaires/secondaires): HP: 825, ATK: 24, DEF: 16 | Crit%: 3.0, DgtCrit%: 0.0, Esquive%: 1.0, Précision%: 99.0
+    - Rareté: Peu commune
+    - Passifs: 1005
+    - Capacités à définir:
+Capacité 1: Morsure Statique  
+Élément: Foudre  
+Cible: single_enemy  
+Dégâts: attack  
+Effets: 15% de chance d’appliquer Éléctrifié (la cible subit +20% dégâts Foudre pendant 2 tours)  
+Cooldown: 1  
+Description: Un coup de crocs libérant une décharge électrique.
+
+### RARETÉ RARE
+63. Voltar, Seigneur de l'Orage (Image: 13)
+    - Stats (primaires/secondaires): HP: 1080, ATK: 28, DEF: 18 | Crit%: 3.0, DgtCrit%: 0.0, Esquive%: 1.0, Précision%: 99.0
+    - Rareté: Rare
+Passifs: Conducteur (Quand il subit une attaque Foudre, renvoie la moitié des dégâts reçus à l'attaquant)
+Capacité 1: Boule d’Énergie
+Élément: Foudre
+Cible: random_enemy
+Dégâts: attack * 1.2
+Effets: 20% de chance d’appliquer Éléctrifié
+Cooldown: 1
+Description: Génère une sphère électrique qui éclate sur un ennemi.
+Capacité 2: Court-circuit
+Élément: Foudre
+Cible: all_enemies
+Dégâts: fixed 28
+Effets: Réduit la précision de toutes les cibles touchées de 10% pour 1 tour
+Cooldown: 3
+Description: Dérègle les nerfs adverses avec une décharge aveuglante
+
+64. Fulminia, Valkyrie de l'Orage (Image: 36)
+    - Stats (primaires/secondaires): HP: 940, ATK: 29, DEF: 17 | Crit%: 3.0, DgtCrit%: 0.0, Esquive%: 1.0, Précision%: 99.0
+    - Rareté: Rare
+    - Passifs: 1105
+    - Capacités à définir:
+Capacité 1 : Éclair Tranchant  
+Élément : Foudre  
+Cible : single_enemy  
+Dégâts : attack + 24  
+Effets : 20% de chance d’infliger Éléctrifié  
+Cooldown : 1  
+Description : Une attaque éclair fulgurante, tranche l’air et foudroie la cible.
+
+65. Fulgo, Orbe Electrique (Image: 46)
+    - Stats (primaires/secondaires): HP: 830, ATK: 28, DEF: 13 | Crit%: 3.0, DgtCrit%: 0.0, Esquive%: 1.0, Précision%: 99.0
+    - Rareté: Rare
+Passif : Cœur Conducteur (Quand Fulgo reçoit un effet de statut, 40% de chance de l’ignorer)
+Capacités :
+Capacité 1 : Sphère Shock  
+Élément : Foudre  
+Cible : random_enemy  
+Dégâts : attack * 1.1  
+Effets : 15% de chance d’infliger d'étourdir 
+Cooldown : 1 
+Description : Lance une sphère électrique instable sur un ennemi.
+
+66. Voltania, Serpent Fulgurant (Image: 56)
+    - Stats (primaires/secondaires): HP: 950, ATK: 25, DEF: 16 | Crit%: 3.0, DgtCrit%: 0.0, Esquive%: 1.0, Précision%: 99.0
+    - Rareté: Rare
+    - Passifs: 
+    - Capacités à définir:
+Capacité 1 : Morsure Fulgurante  
+Élément : Foudre  
+Cible : single_enemy  
+Dégâts : attack  
+Effets : 20% de chance d’infliger Éléctrifié 
+Cooldown : 1  
+Description : Une morsure chargée d’énergie qui peut désarçonner la cible.
+Capacité 2: Double Frappe
+Élément: Neutre
+Cible: single_enemy
+Dégâts: 2 × (attack * 0.8)
+Effets: -
+Cooldown: 2
+Description: Deux coups rapides en rafale.
+
+### RARETÉ ÉPIQUE
+67. Voltix, Lutin Électrique (Image: 24)
+    - Stats (primaires/secondaires): HP: 935, ATK: 30, DEF: 14 | Crit%: 3.0, DgtCrit%: 0.0, Esquive%: 1.0, Précision%: 99.0
+    - Rareté: Épique
+    - Passifs: Survolteur (À chaque fois qu’il inflige surcharge, il gagne +10% ATK cumulable jusqu’à la fin du combat)
+Capacités :
+Capacité 1 : Foudre Bondissante  
+Élément : Foudre  
+Cible : chain_enemies (jusqu’à 3 cibles aléatoires)  
+Dégâts : 37 (+15 pour chaque rebond)  
+Effets : Chaque rebond a 10% d’étourdir la cible  
+Cooldown : 3  
+Description : Un éclair agile frappe plusieurs ennemis en sautant de l’un à l’autre.
+
+
+## ÉLÉMENT LUMIÈRE (4 unités)
+## ==========================
+
+### RARETÉ PEU COMMUNE
+68. Astrilys, Sentinelle Astrale (Image: 61)
+    - Stats (primaires/secondaires): HP: 800, ATK: 23, DEF: 15 | Crit%: 3.0, DgtCrit%: 0.0, Esquive%: 1.0, Précision%: 99.0
+    - Rareté: Peu commune
+    - Passifs: Mur Radieux (Annule le premier effet négatif reçu à chaque combat, puis gagne +20% DEF pour 2 tours)
+Capacité 1 : Rayon Purificateur  
+Élément : Lumière  
+Cible : single_enemy  
+Dégâts : attack + 15  
+Effets : —  
+Cooldown : 1
+Description : Un rayon transcendental traverse l’ombre et blesse la cible.
+
+69. Lumicorne, Licorne Dorée (Image: 70)
+    - Stats (primaires/secondaires): HP: 830, ATK: 28, DEF: 11 | Crit%: 3.0, DgtCrit%: 0.0, Esquive%: 1.0, Précision%: 99.0
+    - Rareté: Peu commune
+    - Passifs: Bénédiction Chatoyante (À chaque fois qu’une attaque Lumière retire un malus à Lumicorne, soigne tous les alliés de 20 HP)
+Capacité 1 : Charge Lumineuse  
+Élément : Lumière  
+Cible : single_enemy  
+Dégâts : attack * 1.2  
+Effets : —  
+Cooldown : 1  
+Description : Percée éclatante dévalant l’arène dans une gerbe d’étincelles dorées.
+
+### RARETÉ ÉPIQUE
+70. Prismalyx, Papillon Lumineux (Image: 66)
+    - Stats (primaires/secondaires): HP: 861, ATK: 28, DEF: 14 | Crit%: 3.0, DgtCrit%: 0.0, Esquive%: 1.0, Précision%: 99.0
+    - Rareté: Épique
+    - Passifs: Lueur de Renaissance (Lorsque Prismalyx est vaincu, réapparaît avec 1 HP au tour suivant, une seule fois par combat)
+Capacité 1 : Éclat Prismatique  
+Élément : Lumière  
+Cible : random_enemy  
+Dégâts : attack + 19  
+Effets : —  
+Cooldown : 1  
+Description : Un rayon polychromatique brise la défense de la cible.
+Capacité 2 : Danse Iridescente  
+Élément : Lumière  
+Cible : all_allies  
+Dégâts : 0  
+Effets : Soigne le lanceur et tous les alliés de 45 HP et Purification sur le lanceur et tous les alliés
+Cooldown : 5  
+Description : Battements d’ailes diffusant une aura réparatrice.
+
+### RARETÉ MYTHIQUE
+71. Lumys, Renardeau Solaire (Image: 74)
+    - Stats (primaires/secondaires): HP: 1030, ATK: 38, DEF: 21 | Crit%: 3.0, DgtCrit%: 0.0, Esquive%: 1.0, Précision%: 99.0
+    - Rareté: Mythique
+    - Passifs: Rayonnement Vital (À chaque purification subie, gagne +8% ATK cumulable jusqu'a la fin du combat et se soigne 25 HP)
+Capacité 1 : Flamboiement Radieux  
+Élément : Lumière  
+Cible : all_enemies  
+Dégâts : attack * 0.8  
+Effets : —  
+Cooldown : 3  
+Description : Vague solaire submergeant tous les adversaires.
+Capacité 2 : Halo Espoir  
+Élément : Lumière  
+Cible : all_allies  
+Dégâts : 0  
+Effets : Protège de la prochaine altération de statut  
+Cooldown : 5  
+Description : Un anneau protecteur illumine les alliés, les immunisant un tour.
+
+
+## ÉLÉMENT TÉNÈBRES (1 unité)
+## ==========================
+
+### RARETÉ ÉPIQUE
+72. Murkax, Ombre Rampante (Image: 67)
+    - Stats (primaires/secondaires): HP: 1300, ATK: 39, DEF: 24 | Crit%: 3.0, DgtCrit%: 0.0, Esquive%: 1.0, Précision%: 99.0
+    - Rareté: Épique
+Passif : Ombre Dévorante (À chaque fois qu’un ennemi est vaincu, Murkax gagne +15% de dégâts sur ses attaques Ténèbres pendant 3 tours (cumulable)).
+Capacité 1 :
+Nom : Griffes de l’Abîme  
+Élément : Ténèbre  
+Cible : single_enemy  
+Dégâts : attack + 30  
+Effets : 25% de chance d’infliger [Cécité (précision -25%, 1 tour)  
+Cooldown : 2  
+Description : Murkax transperce sa cible avec des griffes composées d’ombres pures.
+Capacité 2 :
+Nom : Voile d’Éclipsombre  
+Élément : Ténèbre  
+Cible : all_enemies  
+Dégâts : attack * 0.7  
+Effets : 30% de chance de réduire la défense de chaque ennemi de 25% pendant 2 tours  
+Cooldown : 4  
+Description : Une nappe d’obscurité glacée recouvre l’ennemi, affaiblissant leur volonté.
+
+## ÉLÉMENT POISON (5 unités)
+## ==========================
+
+### RARETÉ PEU COMMUNE
+73. Floralia, Druidesse des Fleurs (Image: 14)
+    - Stats (primaires/secondaires): HP: 990, ATK: 22, DEF: 28 | Crit%: 3.0, DgtCrit%: 0.0, Esquive%: 1.0, Précision%: 99.0
+    - Rareté: Peu commune
+    - Passifs: 1008
+    - Capacités à définir:
+      Capacité 1: 7250
+Capacité 2 : Poussée Toxique  
+Élément : Poison  
+Cible : single_enemy  
+Dégâts : attack + 23  
+Effets : —  
+Cooldown : 3  
+Description : Déclenche une vague de spores agressives.
+
+74. Sylvert, Gardien de la Brume (Image: 63)
+    - Stats (primaires/secondaires): HP: 1200, ATK: 25, DEF: 34 | Crit%: 3.0, DgtCrit%: 0.0, Esquive%: 1.0, Précision%: 99.0
+    - Rareté: Peu commune
+Brume Persistante (Les altérations de type Poison qu’il inflige durent 1 tour de plus et sont donc plus faciles à cumuler.)
+Capacité 1 : Ronce Empoisonnée  
+Élément : Poison  
+Cible : single_enemy  
+Dégâts : attack  
+Effets : —  
+Cooldown : 1  
+Description : Les ronces étouffent la cible, injectant du venin.
+Capacité 2 : Brouillard Corrosif  
+Élément : Poison  
+Cible : all_enemies  
+Dégâts : attack * 0.7  
+Effets : —  
+Cooldown : 6  
+Description : Libère un nuage nocif touchant tous les adversaires.
+
+### RARETÉ RARE
+75. Briselys, Dryade Mousseuse (Image: 43)
+    - Stats (primaires/secondaires): HP: 870, ATK: 28, DEF: 14 | Crit%: 3.0, DgtCrit%: 0.0, Esquive%: 1.0, Précision%: 99.0
+    - Rareté: Rare
+    - Passifs: Couverture Moussue (Réduit tous dégâts subis de 5 % par ennemi actuellement empoisonné.)
+Capacité 1 : Jet Moussu  
+Élément : Poison  
+Cible : random_enemy  
+Dégâts : attack + 19  
+Effets : —  
+Cooldown : 1  
+Description : Projette une boule de mousse chargée de toxines volatiles.
+
+76. Crotignus, Crotte de Nez Mouvante (Image: 77)
+Stats (primaires/secondaires) : HP: 780, ATK: 19, DEF: 16 | Crit%: 3.0, DgtCrit%: 0.0, Esquive%: 2.0, Précision%: 99.0
+    - Rareté: Épique
+    - Passifs: Venimeux (Empoisonne pendant 1 tour quiconque qui l'attaque), Explo-Nez (A sa mort empoisonne tous les ennemis pendant 1 tour)
+    - Capacités à définir:
+      Capacité 1: Lancer de CDN
+        - Élément: Poison
+        - Cible: Aléatoire
+        - Dégâts: Fixed 10
+        - Effets: 10% d'infliger l'effet "Beurk" (augmente les dégats type poison subie par la cible de 10% pendant 1 Tour)
+        - Cooldown: 2
+        - Description: Lance quelque chose verdatre, jaunatre et surtout gluante.
+
+### RARETÉ MYTHIQUE
+77. Mossio, Shaman des Mousses (Image: 40)
+    - Stats (primaires/secondaires): HP: 1020, ATK: 36, DEF: 21 | Crit%: 3.0, DgtCrit%: 0.0, Esquive%: 1.0, Précision%: 99.0
+    - Rareté: Mythique
+    - Passifs: Communion Fongique (Quand Mossio applique un poison, il a 40 % de chance de réduire la DEF de la cible de 20 % pendant 2 tours.)
+Capacité 1 : Vague Nécrotique  
+Élément : Poison  
+Cible : all_enemies  
+Dégâts : attack * 0.7  
+Effets : —  
+Cooldown : 3  
+Description : Déferlement toxique s’étendant sur le champ de bataille.
+Capacité2: 7250
+
+78. Sylvara, Esprit de la Canopée (Image: 55)
+    - Stats (primaires/secondaires): HP: 1220, ATK: 39, DEF: 27 | Crit%: 3.0, DgtCrit%: 0.0, Esquive%: 1.0, Précision%: 99.0
+    - Rareté: Mythique
+    - Passifs: Flétrissure Irréversible (Les dégâts de poison infligés par Sylvara augmentent de 1 % PV max par stack supplémentaire appliqué sur une même cible.)
+Capacité 1 : Essence Mortelle  
+Élément : Poison  
+Cible : single_enemy  
+Dégâts : attack + 44  
+Effets : —  
+Cooldown : 2  
+Description : Synthèse ultime de toxines végétales infligées dans le sang.
+Capacité 2: Toxine Mortelle
+Élément : Poison  
+Cible : aléatoire  
+Dégâts : fixed 10  
+Effets : 10% d'ajouter 3 effets de poison sur sa cible.
+Cooldown : 4
+Description : Un virus mortelle qui tue tout ceux qui l'inhale.
+
+## ÉLÉMENT FEU (UNITÉS MANQUANTES)
+## ================================
+
+79. Venturio, Chevalier Écarlate (Image: 38)
+    - Stats (primaires/secondaires): HP: 900, ATK: 28, DEF: 14 | Crit%: 3.0, DgtCrit%: 0.0, Esquive%: 1.0, Précision%: 99.0
+    - Rareté: Rare
+    - Passifs: 
+    - Capacités à définir:
+      Capacité 1: 5000
+
+80. Incendior, Dragon de Feu (Image: 48)
+    - Stats (primaires/secondaires): HP: 940, ATK: 27, DEF: 18 | Crit%: 3.0, DgtCrit%: 0.0, Esquive%: 1.0, Précision%: 99.0
+    - Rareté: Épique
+    - Passifs: Contre-attaque (quand il se fait toucher il attack sa cible) 
+    - Capacités à définir:
+      Capacité 1: Souffle Enflammé
+        - Élément: Feu
+        - Cible: 1, puis 25% de chance de toucher un autre ennemi de façon aléatoire, jusqu'a un maximum de 4 rebonds
+        - Dégâts: attack_plus 1.2
+        - Effets: 
+        - Cooldown: 3
+        - Description: Un terrible souffle de flamme se déchainant sur le champs de bataille.
+
+81. Firocus, Renard Volcanique (Image: 58)
+    - Stats (primaires/secondaires): HP: 872, ATK: 33, DEF: 14 | Crit%: 3.0, DgtCrit%: 0.0, Esquive%: 1.0, Précision%: 99.0
+    - Rareté: Commune
+    - Passifs: Lent (Ses cooldown sont augmenté de 1)
+      Capacité1: 5000 
+      Capacité2: 5000
+
+82. Alice, la Lame Sanglante (Image: 78)
+    - Stats (primaires/secondaires): HP: 1100, ATK: 28, DEF: 11 | Crit%: 3.0, DgtCrit%: 0.0, Esquive%: 1.0, Précision%: 99.0
+    - Rareté: Épique
+    - Passifs: Marque de l’Éclair (Chaque attaque ajoute un Marqueur à sa cible, au bout de 5 explose pour infliger 100 fixed dégat)
+    - Capacités à définir:
+      Capacité 1: Foudre Éclair
+        - Élément: Foudre
+        - Cible: 1
+        - Dégâts: 3* attack
+        - Effets: 
+        - Cooldown: 4
+        - Description: Canalisant l’énergie du tonnerre, elle déchaîne trois frappes rapides d’une précision surnaturelle.
+Capacité2: Coupe Foudre
+        - Élément: Foudre
+        - Cible: 1
+        - Dégâts: fixed 15
+        - Effets: Après 2 utilisations, la 3ème à un bonus de +30dégâts et touche les cibles adjacente
+        - Cooldown: 2
+        - Description: Après deux Coupes Foudre, la 3ème créer une tornade d’électricité ravageant la zone.
+
+## ÉLÉMENTS MANQUANTS
+## =================
+# Note: Les éléments suivants n'ont pas d'unités dans le fichier actuel :
+# - Arcanique 
+# - Néant
+# - Neutre
+
+# =================================
+# RÉSUMÉ PAR ÉLÉMENT ET RARETÉ
+# =================================
+# FEU (16 unités):
+#   - Commune: 2 unités
+#   - Peu commune: 4 unités
+#   - Rare: 3 unités
+#   - Épique: 6 unités
+#   - Mythique: 1 unité
+#
+# EAU (9 unités):
+#   - Commune: 2 unités
+#   - Peu commune: 1 unité
+#   - Rare: 2 unités
+#   - Épique: 2 unités
+#   - Mythique: 2 unités
+#
+# TERRE (12 unités):
+#   - Peu commune: 5 unités
+#   - Rare: 6 unités
+#   - Épique: 2 unités
+#
+# AIR (13 unités):
+#   - Peu commune: 1 unité
+#   - Rare: 4 unités
+#   - Épique: 5 unités
+#   - Mythique: 2 unités
+#
+# GLACE (10 unités):
+#   - Commune: 2 unités
+#   - Peu commune: 1 unité
+#   - Rare: 5 unités
+#   - Épique: 1 unité
+#   - Mythique: 1 unité
+#   - Spécial: 1 unité
+#
+# FOUDRE (7 unités):
+#   - Peu commune: 1 unité
+#   - Rare: 4 unités
+#   - Épique: 2 unités
+#
+# LUMIÈRE (4 unités):
+#   - Peu commune: 2 unités
+#   - Épique: 1 unité
+#   - Mythique: 1 unité
+#
+# TÉNÈBRES (1 unité):
+#   - Épique: 1 unité
+#
+# POISON (6 unités):
+#   - Peu commune: 2 unités
+#   - Rare: 1 unité
+#   - Épique: 1 unité
+#   - Mythique: 2 unités
+#
+# TOTAL: 78 unités
+# =================================

@@ -1,0 +1,3934 @@
+{
+  "total_tests": 311,
+  "passed_tests": 39,
+  "failed_tests": 272,
+  "errors": [
+    "Erreur lors du test des dégâts attack: 'dict' object has no attribute 'attack'",
+    "Erreur lors du test des dégâts attack_plus: 'dict' object has no attribute 'attack'",
+    "Erreur lors du test des dégâts attack_multiplier: 'dict' object has no attribute 'attack'",
+    "Erreur lors du test des capacités multi-cibles: Population must be a sequence.  For dicts or sets, use sorted(d)."
+  ],
+  "warnings": [
+    "Test de passif Résistance au Feu non implémenté",
+    "Test de passif Résistance à l'Eau non implémenté",
+    "Test de passif Résistance à la Terre non implémenté",
+    "Test de passif Aura de Feu non implémenté",
+    "Test de passif Aura d'Eau non implémenté",
+    "Test de passif Aura de Terre non implémenté",
+    "Test de passif Boost de Feu non implémenté",
+    "Test de passif Boost d'Eau non implémenté",
+    "Test de passif Boost de Terre non implémenté",
+    "Test de passif Gelidar, Chevalier des Neiges - 1321 non implémenté",
+    "Test de passif Gladrith, Écho des montagnes - 1312 non implémenté",
+    "Test de passif Terra, Sorcière de la Terre - 1202 non implémenté",
+    "Test de passif Stormy, Enfant de la Foudre - 1005 non implémenté",
+    "Test de passif Vulcan, Forgeron de l'Enclume Ardente - 1307 non implémenté",
+    "Test de passif Glacielle, Reine des Flocons - 1320 non implémenté",
+    "Test de passif Voltar, Seigneur de l'Orage - 1322 non implémenté",
+    "Test de passif Floralia, Druidesse des Fleurs - 1009 non implémenté",
+    "Test de passif Barbak, Guerrier Barbare - 1314 non implémenté",
+    "Test de passif Aquaria, Sirène Mystique - 1308 non implémenté",
+    "Test de passif Bersi, Nain Invincible - 1313 non implémenté",
+    "Test de passif Voltix, Lutin Électrique - 1324 non implémenté",
+    "Test de passif Tempestra, Danseuse de la Tornade - 1003 non implémenté",
+    "Test de passif Nixie, Fée de la Source - 1001 non implémenté",
+    "Test de passif Tundrorr, Mammouth Givré - 1104 non implémenté",
+    "Test de passif Tundrorr, Mammouth Givré - 1004 non implémenté",
+    "Test de passif Torrentis, Gardien de l'Écume - 1001 non implémenté",
+    "Test de passif Lixor, Golem Cristallin - 1315 non implémenté",
+    "Test de passif Fulminia, Valkyrie de l'Orage - 1105 non implémenté",
+    "Test de passif Mossio, Shaman des Mousses - 1333 non implémenté",
+    "Test de passif Briselys, Dryade Mousseuse - 1330 non implémenté",
+    "Test de passif Zepho, Génie des Courants - 1103 non implémenté",
+    "Test de passif Fulgo, Orbe Electrique - 1323 non implémenté",
+    "Test de passif Rocor, Gardien du Bloc - 1002 non implémenté",
+    "Test de passif Incendior, Dragon de Feu - 1310 non implémenté",
+    "Test de passif Torrick, Gardien du Torrent - 1101 non implémenté",
+    "Test de passif Torrick, Gardien du Torrent - 1309 non implémenté",
+    "Test de passif Corvus, Corbeau Mystique - 112 non implémenté",
+    "Test de passif Solune, Chamane Solaire - 1100 non implémenté",
+    "Test de passif Pyraxis, Élémentaire de Magma - 1000 non implémenté",
+    "Test de passif Sylvara, Esprit de la Canopée - 1334 non implémenté",
+    "Test de passif Crotignus, Crotte de Nez Mouvante - 1331 non implémenté",
+    "Test de passif Crotignus, Crotte de Nez Mouvante - 1332 non implémenté",
+    "Test de passif Firocus, Renard Volcanique - 1311 non implémenté",
+    "Test de passif Astrilys, Sentinelle Astrale - 1325 non implémenté",
+    "Test de passif Ignarok, Roc en Fusion - 1000 non implémenté",
+    "Test de passif Ignarok, Roc en Fusion - 1002 non implémenté",
+    "Test de passif Sylvert, Gardien de la Brume - 1329 non implémenté",
+    "Test de passif Prismalyx, Papillon Lumineux - 1327 non implémenté",
+    "Test de passif Murkax, Ombre Rampante - 1335 non implémenté",
+    "Test de passif Glaciar, Yéti des Sommets - 1318 non implémenté",
+    "Test de passif Lumicorne, Licorne Dorée - 1326 non implémenté",
+    "Test de passif Galádra, Matriarche du Givre - 1319 non implémenté",
+    "Test de passif Telluron, Géant de Schiste - 1316 non implémenté",
+    "Test de passif Lumys, Renardeau Solaire - 1328 non implémenté",
+    "Test de passif Stratos, Esprit des Courants - 1103 non implémenté",
+    "Système de graines non disponible - test ignoré",
+    "Système de pièges non disponible - test ignoré",
+    "Système de capacités avancées non disponible - test ignoré",
+    "Test de passif Murkax - 1335 non implémenté",
+    "Test de passif Floralia - 1009 non implémenté"
+  ],
+  "test_details": [
+    {
+      "name": "Capacité de base Feu",
+      "success": null,
+      "details": {
+        "name": "Attaque basique Feu",
+        "element": "1",
+        "base_cooldown": 1,
+        "damage_type": "fixed",
+        "damage": 20,
+        "description": "Attaque basique de Feu",
+        "effect_ids": [],
+        "target_type": "single_enemy"
+      }
+    },
+    {
+      "name": "Capacité de base Eau",
+      "success": null,
+      "details": {
+        "name": "Attaque basique Eau",
+        "element": "2",
+        "base_cooldown": 1,
+        "damage_type": "fixed",
+        "damage": 20,
+        "description": "Attaque basique de Eau",
+        "effect_ids": [],
+        "target_type": "single_enemy"
+      }
+    },
+    {
+      "name": "Capacité de base Terre",
+      "success": null,
+      "details": {
+        "name": "Attaque basique Terre",
+        "element": "3",
+        "base_cooldown": 1,
+        "damage_type": "fixed",
+        "damage": 20,
+        "description": "Attaque basique de Terre",
+        "effect_ids": [],
+        "target_type": "single_enemy"
+      }
+    },
+    {
+      "name": "Capacité de base Air",
+      "success": null,
+      "details": {
+        "name": "Attaque basique Air",
+        "element": "4",
+        "base_cooldown": 1,
+        "damage_type": "fixed",
+        "damage": 20,
+        "description": "Attaque basique de Air",
+        "effect_ids": [],
+        "target_type": "single_enemy"
+      }
+    },
+    {
+      "name": "Capacité de base Glace",
+      "success": null,
+      "details": {
+        "name": "Attaque basique Glace",
+        "element": "5",
+        "base_cooldown": 1,
+        "damage_type": "fixed",
+        "damage": 20,
+        "description": "Attaque basique de Glace",
+        "effect_ids": [],
+        "target_type": "single_enemy"
+      }
+    },
+    {
+      "name": "Capacité de base Foudre",
+      "success": null,
+      "details": {
+        "name": "Attaque basique Foudre",
+        "element": "6",
+        "base_cooldown": 1,
+        "damage_type": "fixed",
+        "damage": 20,
+        "description": "Attaque basique de Foudre",
+        "effect_ids": [],
+        "target_type": "single_enemy"
+      }
+    },
+    {
+      "name": "Capacité de base Lumière",
+      "success": null,
+      "details": {
+        "name": "Attaque basique Lumière",
+        "element": "7",
+        "base_cooldown": 1,
+        "damage_type": "fixed",
+        "damage": 20,
+        "description": "Attaque basique de Lumière",
+        "effect_ids": [],
+        "target_type": "single_enemy"
+      }
+    },
+    {
+      "name": "Capacité de base Ténèbres",
+      "success": null,
+      "details": {
+        "name": "Attaque basique Ténèbres",
+        "element": "8",
+        "base_cooldown": 1,
+        "damage_type": "fixed",
+        "damage": 20,
+        "description": "Attaque basique de Ténèbres",
+        "effect_ids": [],
+        "target_type": "single_enemy"
+      }
+    },
+    {
+      "name": "Capacité de base Arcanique",
+      "success": null,
+      "details": {
+        "name": "Attaque basique Arcanique",
+        "element": "9",
+        "base_cooldown": 1,
+        "damage_type": "fixed",
+        "damage": 20,
+        "description": "Attaque basique de Arcanique",
+        "effect_ids": [],
+        "target_type": "single_enemy"
+      }
+    },
+    {
+      "name": "Capacité de base Poison",
+      "success": null,
+      "details": {
+        "name": "Attaque basique Poison",
+        "element": "10",
+        "base_cooldown": 1,
+        "damage_type": "fixed",
+        "damage": 20,
+        "description": "Attaque basique de Poison",
+        "effect_ids": [],
+        "target_type": "single_enemy"
+      }
+    },
+    {
+      "name": "Capacité de base Nature",
+      "success": null,
+      "details": {
+        "name": "Attaque basique Néant",
+        "element": "11",
+        "base_cooldown": 1,
+        "damage_type": "fixed",
+        "damage": 20,
+        "description": "Attaque basique de Néant",
+        "effect_ids": [],
+        "target_type": "single_enemy"
+      }
+    },
+    {
+      "name": "Capacité de base Métal",
+      "success": null,
+      "details": {
+        "name": "Attaque basique Neutre",
+        "element": "12",
+        "base_cooldown": 1,
+        "damage_type": "fixed",
+        "damage": 20,
+        "description": "Attaque basique de Neutre",
+        "effect_ids": [],
+        "target_type": "single_enemy"
+      }
+    },
+    {
+      "name": "Capacité 5001 - Explosion",
+      "success": null,
+      "details": {
+        "name": "Explosion",
+        "element": "1",
+        "base_cooldown": 3,
+        "damage_type": "fixed",
+        "damage": 120,
+        "description": "Explosion de feu dévastatrice",
+        "effect_ids": [
+          "100",
+          "150",
+          "160"
+        ],
+        "target_type": "single_enemy"
+      }
+    },
+    {
+      "name": "Capacité 5002 - Souffle ardent",
+      "success": null,
+      "details": {
+        "name": "Souffle ardent",
+        "element": "1",
+        "base_cooldown": 2,
+        "damage_type": "fixed",
+        "damage": 55,
+        "description": "Souffle de flammes",
+        "effect_ids": [
+          "100"
+        ],
+        "target_type": "single_enemy"
+      }
+    },
+    {
+      "name": "Capacité 5003 - Griffe acérée",
+      "success": null,
+      "details": {
+        "name": "Griffe acérée",
+        "element": "1",
+        "base_cooldown": 1,
+        "damage_type": "attack_plus",
+        "damage": 15,
+        "description": "Griffe enflammée (Attaque + 15)",
+        "effect_ids": [
+          "100"
+        ],
+        "target_type": "single_enemy"
+      }
+    },
+    {
+      "name": "Capacité 5004 - Explosion de zone",
+      "success": null,
+      "details": {
+        "name": "Explosion de zone",
+        "element": "1",
+        "base_cooldown": 4,
+        "damage_type": "fixed",
+        "damage": 70,
+        "description": "Explosion touchant tous les ennemis",
+        "effect_ids": [
+          "100"
+        ],
+        "target_type": "all_enemies"
+      }
+    },
+    {
+      "name": "Capacité 5005 - Éclair aléatoire",
+      "success": null,
+      "details": {
+        "name": "Éclair aléatoire",
+        "element": "1",
+        "base_cooldown": 2,
+        "damage_type": "fixed",
+        "damage": 90,
+        "description": "Éclair touchant un ennemi aléatoire",
+        "effect_ids": [
+          "100"
+        ],
+        "target_type": "random_enemy"
+      }
+    },
+    {
+      "name": "Capacité 5006 - Chaîne de feu",
+      "success": null,
+      "details": {
+        "name": "Chaîne de feu",
+        "element": "1",
+        "base_cooldown": 3,
+        "damage_type": "fixed",
+        "damage": 45,
+        "description": "Chaîne de feu rebondissant entre ennemis",
+        "effect_ids": [
+          "100"
+        ],
+        "target_type": "chain_enemies",
+        "bounce_count": 3
+      }
+    },
+    {
+      "name": "Capacité 5007 - Torrent Ardent",
+      "success": null,
+      "details": {
+        "name": "Torrent Ardent",
+        "element": "1",
+        "base_cooldown": 5,
+        "damage_type": "fixed",
+        "damage": 30,
+        "description": "Vague de flammes tourbillonnantes",
+        "effect_ids": [
+          "100"
+        ],
+        "target_type": "random_multiple",
+        "target_count": 2,
+        "same_target_allowed": true
+      }
+    },
+    {
+      "name": "Capacité 5008 - Rocher Magmatique",
+      "success": null,
+      "details": {
+        "name": "Rocher Magmatique",
+        "element": "1",
+        "base_cooldown": 2,
+        "damage_type": "attack_multiplier",
+        "damage": 1.1,
+        "description": "Lance un rocher en fusion qui explose à l'impact",
+        "effect_ids": [
+          "100"
+        ],
+        "target_type": "single_enemy",
+        "splash_damage": 0.5,
+        "splash_targets": "adjacent_enemies"
+      }
+    },
+    {
+      "name": "Capacité 5009 - Coup de Langue",
+      "success": null,
+      "details": {
+        "name": "Coup de Langue",
+        "element": "12",
+        "base_cooldown": 3,
+        "damage_type": "fixed",
+        "damage": 45,
+        "description": "Sa langue s'allonge et frappe vivement sa proie",
+        "effect_ids": [],
+        "target_type": "single_enemy"
+      }
+    },
+    {
+      "name": "Capacité 5010 - Armure Incandescente",
+      "success": null,
+      "details": {
+        "name": "Armure Incandescente",
+        "element": "1",
+        "base_cooldown": 4,
+        "damage_type": "fixed",
+        "damage": 0,
+        "description": "Protège d'une cuirasse brûlante",
+        "effect_ids": [],
+        "target_type": "self",
+        "defense_boost": 10,
+        "counter_burn": true,
+        "counter_duration": 2
+      }
+    },
+    {
+      "name": "Capacité 5011 - Lancer Tellurique",
+      "success": null,
+      "details": {
+        "name": "Lancer Tellurique",
+        "element": "3",
+        "base_cooldown": 3,
+        "damage_type": "attack_plus",
+        "damage": 40,
+        "description": "Lance un énorme rocher qui peut étourdir",
+        "effect_ids": [
+          "106"
+        ],
+        "target_type": "single_enemy",
+        "stun_chance": 50
+      }
+    },
+    {
+      "name": "Capacité 5012 - Pierre Enflammée",
+      "success": null,
+      "details": {
+        "name": "Pierre Enflammée",
+        "element": "1",
+        "base_cooldown": 1,
+        "damage_type": "attack_multiplier",
+        "damage": 0.7,
+        "description": "Lance de petite pierre enflammée",
+        "effect_ids": [
+          "100"
+        ],
+        "target_type": "single_enemy"
+      }
+    },
+    {
+      "name": "Capacité 5013 - Flamme Foudroyante",
+      "success": null,
+      "details": {
+        "name": "Flamme Foudroyante",
+        "element": "1",
+        "base_cooldown": 3,
+        "damage_type": "attack_plus",
+        "damage": 40,
+        "description": "Sort de flamme aux propriétées électriques",
+        "effect_ids": [],
+        "target_type": "single_enemy",
+        "grant_passive": "1205",
+        "passive_duration": 1
+      }
+    },
+    {
+      "name": "Capacité 5014 - Décharge Incandescente",
+      "success": null,
+      "details": {
+        "name": "Décharge Incandescente",
+        "element": "6",
+        "base_cooldown": 3,
+        "damage_type": "attack_plus",
+        "damage": 40,
+        "description": "Sort électrique aussi brûlant que le feu",
+        "effect_ids": [],
+        "target_type": "single_enemy",
+        "grant_passive": "1200",
+        "passive_duration": 1
+      }
+    },
+    {
+      "name": "Capacité 5015 - Ardeur de la Forge",
+      "success": null,
+      "details": {
+        "name": "Ardeur de la Forge",
+        "element": "1",
+        "base_cooldown": 2,
+        "damage_type": "fixed",
+        "damage": 0,
+        "description": "Canalise la puissance ancestrale des forges ardentes",
+        "effect_ids": [],
+        "target_type": "self",
+        "attack_boost": 0.1,
+        "permanent": true
+      }
+    },
+    {
+      "name": "Capacité 5016 - Martelage",
+      "success": null,
+      "details": {
+        "name": "Martelage",
+        "element": "12",
+        "base_cooldown": 1,
+        "damage_type": "attack_multiplier",
+        "damage": 1.6,
+        "description": "Le forgeron frappe de tout son poids avec son marteau",
+        "effect_ids": [],
+        "target_type": "single_enemy"
+      }
+    },
+    {
+      "name": "Capacité 5017 - Coup de Griffe Ardente",
+      "success": null,
+      "details": {
+        "name": "Coup de Griffe Ardente",
+        "element": "1",
+        "base_cooldown": 2,
+        "damage_type": "multi_attack",
+        "damage": 0.6,
+        "attack_count": 3,
+        "description": "Lacère sa cible de coups de griffe rapides",
+        "effect_ids": [
+          "100"
+        ],
+        "target_type": "single_enemy"
+      }
+    },
+    {
+      "name": "Capacité 5018 - Souffle Enflammé",
+      "success": null,
+      "details": {
+        "name": "Souffle Enflammé",
+        "element": "1",
+        "base_cooldown": 3,
+        "damage_type": "attack_plus",
+        "damage": 20,
+        "description": "Terrible souffle de flamme se déchaînant sur le champ de bataille",
+        "effect_ids": [
+          "100"
+        ],
+        "target_type": "chain_random",
+        "chain_chance": 25,
+        "max_bounces": 4
+      }
+    },
+    {
+      "name": "Capacité 5019 - Tourbillon de Flamme",
+      "success": null,
+      "details": {
+        "name": "Tourbillon de Flamme",
+        "element": "1",
+        "base_cooldown": 6,
+        "damage_type": "scaling_attack",
+        "damage": 2.0,
+        "description": "Absorbe la chaleur environnante avant de cracher du feu",
+        "effect_ids": [],
+        "target_type": "random_enemy",
+        "grant_passive": "1200",
+        "passive_duration": 6,
+        "scaling_per_use": true
+      }
+    },
+    {
+      "name": "Capacité 5020 - Graine Enflammée",
+      "success": null,
+      "details": {
+        "name": "Graine Enflammée",
+        "element": "1",
+        "base_cooldown": 1,
+        "damage_type": "fixed",
+        "damage": 5,
+        "description": "Lance des graines enflammées qui explosent après un certain temps",
+        "effect_ids": [],
+        "target_type": "random_enemy",
+        "plant_seed": true,
+        "seed_damage": 10,
+        "seed_duration": 10
+      }
+    },
+    {
+      "name": "Capacité 5021 - Graine Explosive",
+      "success": null,
+      "details": {
+        "name": "Graine Explosive",
+        "element": "1",
+        "base_cooldown": 2,
+        "damage_type": "seed_explosion",
+        "damage": 20,
+        "description": "Lance une graine qui explose au contact",
+        "effect_ids": [],
+        "target_type": "single_enemy",
+        "explode_seeds": true
+      }
+    },
+    {
+      "name": "Capacité 5251 - Vague d'eau",
+      "success": null,
+      "details": {
+        "name": "Vague d'eau",
+        "element": "2",
+        "base_cooldown": 2,
+        "damage_type": "fixed",
+        "damage": 30,
+        "description": "Vague d'eau",
+        "effect_ids": [
+          "102"
+        ],
+        "target_type": "single_enemy"
+      }
+    },
+    {
+      "name": "Capacité 5252 - Soin mineur",
+      "success": null,
+      "details": {
+        "name": "Soin mineur",
+        "element": "2",
+        "base_cooldown": 2,
+        "damage_type": "fixed",
+        "damage": 0,
+        "description": "Soigne un allié",
+        "effect_ids": [
+          "113"
+        ],
+        "target_type": "single_ally"
+      }
+    },
+    {
+      "name": "Capacité 5253 - Tsunami",
+      "success": null,
+      "details": {
+        "name": "Tsunami",
+        "element": "2",
+        "base_cooldown": 4,
+        "damage_type": "fixed",
+        "damage": 60,
+        "description": "Vague géante touchant tous les ennemis",
+        "effect_ids": [
+          "102"
+        ],
+        "target_type": "all_enemies"
+      }
+    },
+    {
+      "name": "Capacité 5254 - Pluie bienfaisante",
+      "success": null,
+      "details": {
+        "name": "Pluie bienfaisante",
+        "element": "2",
+        "base_cooldown": 3,
+        "damage_type": "fixed",
+        "damage": 0,
+        "description": "Soigne tous les alliés",
+        "effect_ids": [
+          "113"
+        ],
+        "target_type": "all_allies"
+      }
+    },
+    {
+      "name": "Capacité 5255 - Ca coule de source",
+      "success": null,
+      "details": {
+        "name": "Ca coule de source",
+        "element": "2",
+        "base_cooldown": 1,
+        "damage_type": "fixed",
+        "damage": 0,
+        "description": "Une eau de source qui revitalise !",
+        "effect_ids": [
+          "113"
+        ],
+        "target_type": "single_ally",
+        "heal_amount": 45
+      }
+    },
+    {
+      "name": "Capacité 5256 - Voile Aquatique",
+      "success": null,
+      "details": {
+        "name": "Voile Aquatique",
+        "element": "2",
+        "base_cooldown": 3,
+        "damage_type": "fixed",
+        "damage": 0,
+        "description": "Se sert de l'eau comme d'un voile pour refléter l'environnement et s'y fondre",
+        "effect_ids": [],
+        "target_type": "self",
+        "dodge_boost": 0.2,
+        "dodge_duration": 2
+      }
+    },
+    {
+      "name": "Capacité 5257 - Griffure Abyssale",
+      "success": null,
+      "details": {
+        "name": "Griffure Abyssale",
+        "element": "2",
+        "base_cooldown": 2,
+        "damage_type": "attack_plus",
+        "damage": 60,
+        "description": "Une lacération qui surgit des tréfonds",
+        "effect_ids": [
+          "102"
+        ],
+        "target_type": "single_enemy"
+      }
+    },
+    {
+      "name": "Capacité 5258 - Larmes Féerique",
+      "success": null,
+      "details": {
+        "name": "Larmes Féerique",
+        "element": "2",
+        "base_cooldown": 2,
+        "damage_type": "scaling_heal",
+        "damage": 40,
+        "description": "Des larmes aux propriétées soignante",
+        "effect_ids": [
+          "113"
+        ],
+        "target_type": "single_ally",
+        "scaling_per_use": 10
+      }
+    },
+    {
+      "name": "Capacité 5259 - Voile d'Encre",
+      "success": null,
+      "details": {
+        "name": "Voile d'Encre",
+        "element": "2",
+        "base_cooldown": 5,
+        "damage_type": "fixed",
+        "damage": 0,
+        "description": "Un voile d'encre magique envahit le champ de bataille obstruant la vue des ennemis",
+        "effect_ids": [],
+        "target_type": "self_and_allies",
+        "dodge_boost": 0.3,
+        "dodge_duration": 2
+      }
+    },
+    {
+      "name": "Capacité 5260 - Coup de Tentacule",
+      "success": null,
+      "details": {
+        "name": "Coup de Tentacule",
+        "element": "12",
+        "base_cooldown": 1,
+        "damage_type": "attack_multiplier",
+        "damage": 0.6,
+        "description": "Un coup de tentacule géant balayant une large zone",
+        "effect_ids": [],
+        "target_type": "random_multiple",
+        "target_count": 2,
+        "same_target_allowed": false
+      }
+    },
+    {
+      "name": "Capacité 5261 - Mélodie Hypnotique",
+      "success": null,
+      "details": {
+        "name": "Mélodie Hypnotique",
+        "element": "2",
+        "base_cooldown": 6,
+        "damage_type": "fixed",
+        "damage": 0,
+        "description": "Une douce musique qui ensorcèle celui qui l'écoute",
+        "effect_ids": [],
+        "target_type": "chain_random",
+        "chain_chance": 50,
+        "max_bounces": 2,
+        "silence_duration": 1
+      }
+    },
+    {
+      "name": "Capacité 5262 - Étreinte Liquide",
+      "success": null,
+      "details": {
+        "name": "Étreinte Liquide",
+        "element": "2",
+        "base_cooldown": 2,
+        "damage_type": "fixed",
+        "damage": 30,
+        "description": "Une main faites d'eau vient étreindre sa cible",
+        "effect_ids": [],
+        "target_type": "single_enemy",
+        "stun_chance": 80
+      }
+    },
+    {
+      "name": "Capacité 5263 - Torrent Ensorcelé",
+      "success": null,
+      "details": {
+        "name": "Torrent Ensorcelé",
+        "element": "2",
+        "base_cooldown": 4,
+        "damage_type": "fixed",
+        "damage": 160,
+        "description": "Torrent magique dévastateur",
+        "effect_ids": [
+          "102"
+        ],
+        "target_type": "single_enemy",
+        "splash_damage": 1.0,
+        "splash_targets": "adjacent_enemies"
+      }
+    },
+    {
+      "name": "Capacité 5264 - Soin Protecteur",
+      "success": null,
+      "details": {
+        "name": "Soin Protecteur",
+        "element": "2",
+        "base_cooldown": 3,
+        "damage_type": "fixed",
+        "damage": 0,
+        "description": "Grâce au pouvoir de son bouclier combinée à sa magie, il soigne et protège une cible",
+        "effect_ids": [
+          "113"
+        ],
+        "target_type": "single_ally",
+        "heal_amount": 60,
+        "defense_boost": 10,
+        "defense_duration": 2
+      }
+    },
+    {
+      "name": "Capacité 5265 - Coup Tranchant",
+      "success": null,
+      "details": {
+        "name": "Coup Tranchant",
+        "element": "2",
+        "base_cooldown": 1,
+        "damage_type": "fixed",
+        "damage": 30,
+        "description": "Un coup d'épée runique, on dit que le porteur est revigorer à chaque attaque portée",
+        "effect_ids": [],
+        "target_type": "single_enemy",
+        "lifesteal_percent": 0.5
+      }
+    },
+    {
+      "name": "Capacité 5266 - Typhon",
+      "success": null,
+      "details": {
+        "name": "Typhon",
+        "element": "2",
+        "base_cooldown": 3,
+        "damage_type": "fixed",
+        "damage": 80,
+        "description": "Un immense Typhon qui emporte tout",
+        "effect_ids": [
+          "102"
+        ],
+        "target_type": "all_enemies",
+        "stun_chance": 20
+      }
+    },
+    {
+      "name": "Capacité 5267 - Avalement",
+      "success": null,
+      "details": {
+        "name": "Avalement",
+        "element": "12",
+        "base_cooldown": 4,
+        "damage_type": "attack_plus",
+        "damage": 100,
+        "description": "Avale sa cible",
+        "effect_ids": [],
+        "target_type": "single_enemy"
+      }
+    },
+    {
+      "name": "Capacité 5268 - Cri Abyssale",
+      "success": null,
+      "details": {
+        "name": "Cri Abyssale",
+        "element": "2",
+        "base_cooldown": 4,
+        "damage_type": "fixed",
+        "damage": 0,
+        "description": "Un cri qui pousse quiconque qui l'entends à se surpasser de peur de devenir un encas",
+        "effect_ids": [],
+        "target_type": "single_ally",
+        "grant_passive": "1201",
+        "passive_duration": 2
+      }
+    },
+    {
+      "name": "Capacité 5501 - Frappe de terre",
+      "success": null,
+      "details": {
+        "name": "Frappe de terre",
+        "element": "3",
+        "base_cooldown": 1,
+        "damage_type": "fixed",
+        "damage": 25,
+        "description": "Frappe terrestre",
+        "effect_ids": [
+          "105"
+        ],
+        "target_type": "single_enemy"
+      }
+    },
+    {
+      "name": "Capacité 5502 - Bouclier protecteur",
+      "success": null,
+      "details": {
+        "name": "Bouclier protecteur",
+        "element": "3",
+        "base_cooldown": 3,
+        "damage_type": "fixed",
+        "damage": 0,
+        "description": "Crée un bouclier",
+        "effect_ids": [
+          "108"
+        ],
+        "target_type": "self"
+      }
+    },
+    {
+      "name": "Capacité 5503 - Frappe puissante",
+      "success": null,
+      "details": {
+        "name": "Frappe puissante",
+        "element": "3",
+        "base_cooldown": 2,
+        "damage_type": "attack_plus",
+        "damage": 25,
+        "description": "Frappe terrestre puissante (Attaque + 25)",
+        "effect_ids": [
+          "105"
+        ],
+        "target_type": "single_enemy"
+      }
+    },
+    {
+      "name": "Capacité 5504 - Séisme",
+      "success": null,
+      "details": {
+        "name": "Séisme",
+        "element": "3",
+        "base_cooldown": 4,
+        "damage_type": "fixed",
+        "damage": 65,
+        "description": "Séisme touchant tous les ennemis",
+        "effect_ids": [
+          "105"
+        ],
+        "target_type": "all_enemies"
+      }
+    },
+    {
+      "name": "Capacité 5505 - Protection de groupe",
+      "success": null,
+      "details": {
+        "name": "Protection de groupe",
+        "element": "3",
+        "base_cooldown": 3,
+        "damage_type": "fixed",
+        "damage": 0,
+        "description": "Bouclier pour tous les alliés",
+        "effect_ids": [
+          "108"
+        ],
+        "target_type": "all_allies"
+      }
+    },
+    {
+      "name": "Capacité 5506 - Haine Naine",
+      "success": null,
+      "details": {
+        "name": "Haine Naine",
+        "element": "3",
+        "base_cooldown": 1,
+        "damage_type": "attack_plus",
+        "damage": 0,
+        "description": "Un coup tout ce qu'il y a de plus basique mais donné avec HAINE",
+        "effect_ids": [],
+        "target_type": "single_enemy",
+        "bonus_damage_if_attacked": 20
+      }
+    },
+    {
+      "name": "Capacité 5507 - Piège à Pétards",
+      "success": null,
+      "details": {
+        "name": "Piège à Pétards",
+        "element": "3",
+        "base_cooldown": 3,
+        "damage_type": "fixed",
+        "damage": 28,
+        "description": "Pose un piège qui explose lorsqu'un attaquant prends pour cible la personne piégée",
+        "effect_ids": [],
+        "target_type": "single_enemy",
+        "plant_trap": true,
+        "trap_damage": 10,
+        "trap_duration": 3,
+        "trap_targets_attacker": true
+      }
+    },
+    {
+      "name": "Capacité 5508 - Dynamite",
+      "success": null,
+      "details": {
+        "name": "Dynamite",
+        "element": "1",
+        "base_cooldown": 3,
+        "damage_type": "fixed",
+        "damage": 80,
+        "description": "Lance une dynamite qui explose après un court instant",
+        "effect_ids": [
+          "100"
+        ],
+        "target_type": "random_enemy"
+      }
+    },
+    {
+      "name": "Capacité 5509 - Frappe sismique",
+      "success": null,
+      "details": {
+        "name": "Frappe sismique",
+        "element": "3",
+        "base_cooldown": 2,
+        "damage_type": "scaling_attack",
+        "damage": 1.0,
+        "description": "Une frappe au sol déclenchant une onde de choc qui fissure la terre et projette violemment l'ennemi pris pour cible",
+        "effect_ids": [
+          "105"
+        ],
+        "target_type": "random_enemy",
+        "scaling_per_use": 0.1
+      }
+    },
+    {
+      "name": "Capacité 5510 - Éboulement",
+      "success": null,
+      "details": {
+        "name": "Éboulement",
+        "element": "3",
+        "base_cooldown": 6,
+        "damage_type": "fixed",
+        "damage": 40,
+        "description": "Provoque un lourd éboulement",
+        "effect_ids": [
+          "105"
+        ],
+        "target_type": "chain_enemies",
+        "chain_damage_increase": 40,
+        "stun_chance": 20
+      }
+    },
+    {
+      "name": "Capacité 5511 - Heurtoir",
+      "success": null,
+      "details": {
+        "name": "Heurtoir",
+        "element": "12",
+        "base_cooldown": 1,
+        "damage_type": "attack",
+        "damage": 1.0,
+        "description": "Coup de Hache simple",
+        "effect_ids": [],
+        "target_type": "single_enemy"
+      }
+    },
+    {
+      "name": "Capacité 5512 - Rage Berseker",
+      "success": null,
+      "details": {
+        "name": "Rage Berseker",
+        "element": "3",
+        "base_cooldown": 2,
+        "damage_type": "fixed",
+        "damage": 0,
+        "description": "Rentre dans une rage incontrollable",
+        "effect_ids": [],
+        "target_type": "self",
+        "double_next_ability": true,
+        "grant_elements": [
+          "3",
+          "1"
+        ],
+        "element_duration": 1,
+        "condition": "hp_percent <= 0.5"
+      }
+    },
+    {
+      "name": "Capacité 5513 - Armure de roche",
+      "success": null,
+      "details": {
+        "name": "Armure de roche",
+        "element": "3",
+        "base_cooldown": 3,
+        "damage_type": "fixed",
+        "damage": 0,
+        "description": "Se renforce naturellement",
+        "effect_ids": [],
+        "target_type": "self",
+        "defense_boost": 20,
+        "defense_duration": 2
+      }
+    },
+    {
+      "name": "Capacité 5514 - Brise-Roc",
+      "success": null,
+      "details": {
+        "name": "Brise-Roc",
+        "element": "3",
+        "base_cooldown": 4,
+        "damage_type": "attack_plus_defense",
+        "damage": 1.0,
+        "description": "Frappe d'un gros coup rendant sa cible désorientée",
+        "effect_ids": [
+          "106"
+        ],
+        "target_type": "single_enemy",
+        "stun_chance": 100
+      }
+    },
+    {
+      "name": "Capacité 5515 - Glissement de Terrain",
+      "success": null,
+      "details": {
+        "name": "Glissement de Terrain",
+        "element": "3",
+        "base_cooldown": 3,
+        "damage_type": "attack_multiplier",
+        "damage": 0.8,
+        "description": "Une secousse brutale fissurant la terre",
+        "effect_ids": [
+          "105"
+        ],
+        "target_type": "single_enemy",
+        "splash_damage": 1.0,
+        "splash_targets": "adjacent_enemies",
+        "inesquivable": true
+      }
+    },
+    {
+      "name": "Capacité 5516 - Briseur de Montagne",
+      "success": null,
+      "details": {
+        "name": "Briseur de Montagne",
+        "element": "3",
+        "base_cooldown": 5,
+        "damage_type": "hp_percent",
+        "damage": 0.1,
+        "description": "Un coup si puissant que le vent provoqué par le coup rends inerte sa cible",
+        "effect_ids": [],
+        "target_type": "single_enemy",
+        "stun_duration": 1
+      }
+    },
+    {
+      "name": "Capacité 5517 - Fureur Tellurique",
+      "success": null,
+      "details": {
+        "name": "Fureur Tellurique",
+        "element": "3",
+        "base_cooldown": 3,
+        "damage_type": "hp_percent",
+        "damage": 0.05,
+        "description": "Concentre l'énergie de la Terre pour la faire exploser ensuite dans une giganteste décharge",
+        "effect_ids": [
+          "105"
+        ],
+        "target_type": "all_enemies",
+        "grant_passive": "1102",
+        "passive_duration": 3
+      }
+    },
+    {
+      "name": "Capacité 5751 - Coup de vent",
+      "success": null,
+      "details": {
+        "name": "Coup de vent",
+        "element": "4",
+        "base_cooldown": 1,
+        "damage_type": "fixed",
+        "damage": 18,
+        "description": "Attaque d'air",
+        "effect_ids": [
+          "106"
+        ],
+        "target_type": "single_enemy"
+      }
+    },
+    {
+      "name": "Capacité 5752 - Tempête",
+      "success": null,
+      "details": {
+        "name": "Tempête",
+        "element": "4",
+        "base_cooldown": 3,
+        "damage_type": "fixed",
+        "damage": 50,
+        "description": "Tempête touchant tous les ennemis",
+        "effect_ids": [
+          "106"
+        ],
+        "target_type": "all_enemies"
+      }
+    },
+    {
+      "name": "Capacité 5753 - Rafale aléatoire",
+      "success": null,
+      "details": {
+        "name": "Rafale aléatoire",
+        "element": "4",
+        "base_cooldown": 2,
+        "damage_type": "fixed",
+        "damage": 35,
+        "description": "Rafale touchant un ennemi aléatoire",
+        "effect_ids": [
+          "106"
+        ],
+        "target_type": "random_enemy"
+      }
+    },
+    {
+      "name": "Capacité 5754 - Danse des Alizés",
+      "success": null,
+      "details": {
+        "name": "Danse des Alizés",
+        "element": "4",
+        "base_cooldown": 3,
+        "damage_type": "fixed",
+        "damage": 0,
+        "description": "Une danse majestueuse et aussi gracieuse que le vent",
+        "effect_ids": [],
+        "target_type": "all_allies",
+        "crit_boost": 0.2,
+        "crit_duration": 1
+      }
+    },
+    {
+      "name": "Capacité 5755 - Symphonie de l'Air",
+      "success": null,
+      "details": {
+        "name": "Symphonie de l'Air",
+        "element": "4",
+        "base_cooldown": 2,
+        "damage_type": "fixed",
+        "damage": 0,
+        "description": "Au rythme d'une danse invisible, l'air vibre et s'anime",
+        "effect_ids": [],
+        "target_type": "single_enemy",
+        "grant_passive": "1203",
+        "passive_duration": 1
+      }
+    },
+    {
+      "name": "Capacité 5756 - Tir Sylvestre",
+      "success": null,
+      "details": {
+        "name": "Tir Sylvestre",
+        "element": "4",
+        "base_cooldown": 2,
+        "damage_type": "fixed",
+        "damage": 45,
+        "description": "Un Tir imbibé du pouvoir de l'air",
+        "effect_ids": [],
+        "target_type": "single_enemy",
+        "crit_multiplier_boost": 0.5
+      }
+    },
+    {
+      "name": "Capacité 5757 - Orbe Astrale",
+      "success": null,
+      "details": {
+        "name": "Orbe Astrale",
+        "element": "5,4",
+        "base_cooldown": 2,
+        "damage_type": "attack_plus",
+        "damage": 30,
+        "description": "Formée à partir d'air, puis glacée, cette orbe est aussi véloce que mortelle",
+        "effect_ids": [],
+        "target_type": "single_enemy",
+        "crit_boost": 0.1,
+        "crit_duration": 2
+      }
+    },
+    {
+      "name": "Capacité 5758 - Baiser Alizée",
+      "success": null,
+      "details": {
+        "name": "Baiser Alizée",
+        "element": "4",
+        "base_cooldown": 2,
+        "damage_type": "fixed",
+        "damage": 0,
+        "description": "Un baiser mystérieux qui fait planer quiconque en est la cible",
+        "effect_ids": [],
+        "target_type": "single_enemy",
+        "dodge_boost": 0.4,
+        "crit_boost": 0.3,
+        "dodge_duration": 1,
+        "crit_duration": 1
+      }
+    },
+    {
+      "name": "Capacité 5759 - Rapidité Aérienne",
+      "success": null,
+      "details": {
+        "name": "Rapidité Aérienne",
+        "element": "4",
+        "base_cooldown": 8,
+        "damage_type": "fixed",
+        "damage": 0,
+        "description": "La rapidité est telle qu'on ne la voit plus",
+        "effect_ids": [],
+        "target_type": "single_ally",
+        "reset_all_cooldowns": true
+      }
+    },
+    {
+      "name": "Capacité 5760 - Avancée du Brouillard",
+      "success": null,
+      "details": {
+        "name": "Avancée du Brouillard",
+        "element": "4",
+        "base_cooldown": 6,
+        "damage_type": "fixed",
+        "damage": 0,
+        "description": "Un brouillard apparait et s'épaiçit",
+        "effect_ids": [],
+        "target_type": "self_and_allies",
+        "dodge_boost": 0.2,
+        "permanent": true
+      }
+    },
+    {
+      "name": "Capacité 5761 - Orage",
+      "success": null,
+      "details": {
+        "name": "Orage",
+        "element": "4,6",
+        "base_cooldown": 3,
+        "damage_type": "fixed",
+        "damage": 11,
+        "description": "Un orage qui fait s'abbatre la foudre sur le champ de bataille",
+        "effect_ids": [],
+        "target_type": "random_multiple",
+        "target_count": 3,
+        "same_target_allowed": false,
+        "damage_per_turn": 11,
+        "damage_duration": 3
+      }
+    },
+    {
+      "name": "Capacité 5762 - 3ème Oeil",
+      "success": null,
+      "details": {
+        "name": "3ème Oeil",
+        "element": "4",
+        "base_cooldown": 3,
+        "damage_type": "fixed",
+        "damage": 0,
+        "description": "La vision du futur est réservée qu'a peu d'être vivant",
+        "effect_ids": [],
+        "target_type": "random_enemy",
+        "silence_duration": 1
+      }
+    },
+    {
+      "name": "Capacité 5763 - Malédiction",
+      "success": null,
+      "details": {
+        "name": "Malédiction",
+        "element": "8",
+        "base_cooldown": 1,
+        "damage_type": "fixed",
+        "damage": 0,
+        "description": "Une malédiction aussi puissante que mystérieuse",
+        "effect_ids": [],
+        "target_type": "random_enemy",
+        "random_debuff": [
+          "corruption",
+          "burn",
+          "poison",
+          "freeze",
+          "overload"
+        ]
+      }
+    },
+    {
+      "name": "Capacité 5764 - Égide Aérienne",
+      "success": null,
+      "details": {
+        "name": "Égide Aérienne",
+        "element": "4",
+        "base_cooldown": 2,
+        "damage_type": "fixed",
+        "damage": 0,
+        "description": "Une puissante barrière de vent tourbillonnant",
+        "effect_ids": [],
+        "target_type": "single_ally",
+        "damage_reduction": 0.2,
+        "damage_reduction_duration": 1
+      }
+    },
+    {
+      "name": "Capacité 5765 - Lames du Mistral",
+      "success": null,
+      "details": {
+        "name": "Lames du Mistral",
+        "element": "4",
+        "base_cooldown": 2,
+        "damage_type": "attack_plus",
+        "damage": 30,
+        "description": "Invoque des courants tranchants et invisibles",
+        "effect_ids": [],
+        "target_type": "single_enemy",
+        "splash_targets": "random_multiple",
+        "splash_count": 2,
+        "crit_damage_boost": 0.2
+      }
+    },
+    {
+      "name": "Capacité 5766 - Voile Astral",
+      "success": null,
+      "details": {
+        "name": "Voile Astral",
+        "element": "4",
+        "base_cooldown": 4,
+        "damage_type": "fixed",
+        "damage": 0,
+        "description": "Une brume d'air céleste se répand, rendant la créature presque intangible",
+        "effect_ids": [],
+        "target_type": "self",
+        "max_dodge": true,
+        "dodge_duration": 1
+      }
+    },
+    {
+      "name": "Capacité 5767 - Souffle de la Nébuleuse",
+      "success": null,
+      "details": {
+        "name": "Souffle de la Nébuleuse",
+        "element": "4",
+        "base_cooldown": 2,
+        "damage_type": "attack_plus",
+        "damage": 40,
+        "description": "Dans une grande inspiration, la créature convoque l'énergie astrale de l'air",
+        "effect_ids": [],
+        "target_type": "single_enemy",
+        "precision_reduction": 3,
+        "permanent": true
+      }
+    },
+    {
+      "name": "Capacité 5768 - Apparition Nébuleuse",
+      "success": null,
+      "details": {
+        "name": "Apparition Nébuleuse",
+        "element": "4",
+        "base_cooldown": 3,
+        "damage_type": "fixed",
+        "damage": 0,
+        "description": "Disparition dans la brume avant de réapparaitre pour une attaque sournoise",
+        "effect_ids": [],
+        "target_type": "self",
+        "max_crit": true
+      }
+    },
+    {
+      "name": "Capacité 5769 - Emprise du Brouillard",
+      "success": null,
+      "details": {
+        "name": "Emprise du Brouillard",
+        "element": "4,5",
+        "base_cooldown": 2,
+        "damage_type": "fixed",
+        "damage": 60,
+        "description": "Une brume spectrale et glaciale qui s'étend silencieusement sur le champ de bataille",
+        "effect_ids": [],
+        "target_type": "all_enemies",
+        "freeze_chance": 20
+      }
+    },
+    {
+      "name": "Capacité 5770 - Pluie de Météores",
+      "success": null,
+      "details": {
+        "name": "Pluie de Météores",
+        "element": "4,3,1",
+        "base_cooldown": 4,
+        "damage_type": "fixed",
+        "damage": 6,
+        "description": "Une pluie de météores s'abats",
+        "effect_ids": [],
+        "target_type": "random_multiple",
+        "target_count": 20,
+        "same_target_allowed": true,
+        "crit_bonus_targets": true,
+        "max_bonus_targets": 10
+      }
+    },
+    {
+      "name": "Capacité 5771 - Lueur de la Voie Lactée",
+      "success": null,
+      "details": {
+        "name": "Lueur de la Voie Lactée",
+        "element": "12",
+        "base_cooldown": 4,
+        "damage_type": "fixed",
+        "damage": 0,
+        "description": "Une bande blanchâtre et floue dans le ciel nocturne qui compose notre galaxie",
+        "effect_ids": [],
+        "target_type": "self",
+        "grant_all_auras": true,
+        "aura_duration": 2
+      }
+    },
+    {
+      "name": "Capacité 5772 - Poussière d'Aurore",
+      "success": null,
+      "details": {
+        "name": "Poussière d'Aurore",
+        "element": "4",
+        "base_cooldown": 2,
+        "damage_type": "fixed",
+        "damage": 0,
+        "description": "Un nuage iridescent entoure sa cible",
+        "effect_ids": [],
+        "target_type": "single_enemy",
+        "grant_passive": "1203",
+        "passive_duration": 1
+      }
+    },
+    {
+      "name": "Capacité 6001 - Fracas glacé",
+      "success": null,
+      "details": {
+        "name": "Fracas glacé",
+        "element": "5",
+        "base_cooldown": 2,
+        "damage_type": "fixed",
+        "damage": 22,
+        "description": "Attaque de glace",
+        "effect_ids": [
+          "101",
+          "170"
+        ],
+        "target_type": "single_enemy"
+      }
+    },
+    {
+      "name": "Capacité 6002 - Blizzard",
+      "success": null,
+      "details": {
+        "name": "Blizzard",
+        "element": "5",
+        "base_cooldown": 4,
+        "damage_type": "fixed",
+        "damage": 55,
+        "description": "Blizzard touchant tous les ennemis",
+        "effect_ids": [
+          "101",
+          "170"
+        ],
+        "target_type": "all_enemies"
+      }
+    },
+    {
+      "name": "Capacité 6003 - Gel aléatoire",
+      "success": null,
+      "details": {
+        "name": "Gel aléatoire",
+        "element": "5",
+        "base_cooldown": 2,
+        "damage_type": "fixed",
+        "damage": 30,
+        "description": "Gel touchant un ennemi aléatoire",
+        "effect_ids": [
+          "101"
+        ],
+        "target_type": "random_enemy"
+      }
+    },
+    {
+      "name": "Capacité 6007 - Bise Spectrale",
+      "success": null,
+      "details": {
+        "name": "Bise Spectrale",
+        "element": "5",
+        "base_cooldown": 3,
+        "damage_type": "fixed",
+        "damage": 34,
+        "description": "Souffle glacial et fantomatique",
+        "effect_ids": [
+          "101"
+        ],
+        "target_type": "single_enemy"
+      }
+    },
+    {
+      "name": "Capacité 6008 - Choc des Neiges",
+      "success": null,
+      "details": {
+        "name": "Choc des Neiges",
+        "element": "5",
+        "base_cooldown": 2,
+        "damage_type": "attack_plus",
+        "damage": 24,
+        "description": "Écrase l'ennemi sous une masse de neige",
+        "effect_ids": [
+          "101"
+        ],
+        "target_type": "random_enemy"
+      }
+    },
+    {
+      "name": "Capacité 6009 - Étreinte Maternelle",
+      "success": null,
+      "details": {
+        "name": "Étreinte Maternelle",
+        "element": "5",
+        "base_cooldown": 3,
+        "damage_type": "fixed",
+        "damage": 0,
+        "description": "Enveloppe ses alliés d'un courant de givre régénérateur",
+        "effect_ids": [
+          "113"
+        ],
+        "target_type": "all_allies"
+      }
+    },
+    {
+      "name": "Capacité 6010 - Regard de Givre",
+      "success": null,
+      "details": {
+        "name": "Regard de Givre",
+        "element": "5",
+        "base_cooldown": 2,
+        "damage_type": "fixed",
+        "damage": 22,
+        "description": "Un regard glacial qui glace le sang de l'ennemi",
+        "effect_ids": [
+          "101"
+        ],
+        "target_type": "single_enemy"
+      }
+    },
+    {
+      "name": "Capacité 6011 - Avalanche Royale",
+      "success": null,
+      "details": {
+        "name": "Avalanche Royale",
+        "element": "5",
+        "base_cooldown": 3,
+        "damage_type": "fixed",
+        "damage": 45,
+        "description": "Un raz-de-marée de neige s'abat sur l'ennemi",
+        "effect_ids": [
+          "101"
+        ],
+        "target_type": "all_enemies"
+      }
+    },
+    {
+      "name": "Capacité 6012 - Charge Polaire",
+      "success": null,
+      "details": {
+        "name": "Charge Polaire",
+        "element": "5",
+        "base_cooldown": 4,
+        "damage_type": "attack_multiplier",
+        "damage": 2.0,
+        "description": "Un coup de défense dévastateur qui glace tout sur son passage",
+        "effect_ids": [
+          "101"
+        ],
+        "target_type": "front_row"
+      }
+    },
+    {
+      "name": "Capacité 6013 - Frappe Boréale",
+      "success": null,
+      "details": {
+        "name": "Frappe Boréale",
+        "element": "5",
+        "base_cooldown": 1,
+        "damage_type": "attack_plus",
+        "damage": 22,
+        "description": "Frappe inspirée du vent boréal",
+        "effect_ids": [
+          "101"
+        ],
+        "target_type": "single_enemy"
+      }
+    },
+    {
+      "name": "Capacité 6751 - Griffes de l'Abîme",
+      "success": null,
+      "details": {
+        "name": "Griffes de l'Abîme",
+        "element": "8",
+        "base_cooldown": 2,
+        "damage_type": "attack_plus",
+        "damage": 30,
+        "description": "Murkax transperce sa cible avec des griffes composées d'ombres pures",
+        "effect_ids": [],
+        "target_type": "single_enemy",
+        "blind_chance": 25,
+        "blind_precision_reduction": 25,
+        "blind_duration": 1
+      }
+    },
+    {
+      "name": "Capacité 6752 - Voile d'Éclipsombre",
+      "success": null,
+      "details": {
+        "name": "Voile d'Éclipsombre",
+        "element": "8",
+        "base_cooldown": 4,
+        "damage_type": "attack_multiplier",
+        "damage": 0.7,
+        "description": "Une nappe d'obscurité glacée recouvre l'ennemi, affaiblissant leur volonté",
+        "effect_ids": [],
+        "target_type": "all_enemies",
+        "defense_reduction_chance": 30,
+        "defense_reduction_amount": 25,
+        "defense_reduction_duration": 2
+      }
+    },
+    {
+      "name": "Capacité 6251 - Morsure Statique",
+      "success": null,
+      "details": {
+        "name": "Morsure Statique",
+        "element": "6",
+        "base_cooldown": 1,
+        "damage_type": "attack",
+        "damage": 1.0,
+        "description": "Un coup de crocs libérant une décharge électrique",
+        "effect_ids": [
+          "116"
+        ],
+        "target_type": "single_enemy",
+        "electrified_chance": 15
+      }
+    },
+    {
+      "name": "Capacité 6252 - Boule d'Énergie",
+      "success": null,
+      "details": {
+        "name": "Boule d'Énergie",
+        "element": "6",
+        "base_cooldown": 1,
+        "damage_type": "attack_multiplier",
+        "damage": 1.2,
+        "description": "Génère une sphère électrique qui éclate sur un ennemi",
+        "effect_ids": [
+          "116"
+        ],
+        "target_type": "random_enemy",
+        "electrified_chance": 20
+      }
+    },
+    {
+      "name": "Capacité 6253 - Court-circuit",
+      "success": null,
+      "details": {
+        "name": "Court-circuit",
+        "element": "6",
+        "base_cooldown": 3,
+        "damage_type": "fixed",
+        "damage": 28,
+        "description": "Dérègle les nerfs adverses avec une décharge aveuglante",
+        "effect_ids": [],
+        "target_type": "all_enemies",
+        "precision_reduction": 10,
+        "precision_duration": 1
+      }
+    },
+    {
+      "name": "Capacité 6254 - Éclair Tranchant",
+      "success": null,
+      "details": {
+        "name": "Éclair Tranchant",
+        "element": "6",
+        "base_cooldown": 1,
+        "damage_type": "attack_plus",
+        "damage": 24,
+        "description": "Une attaque éclair fulgurante, tranche l'air et foudroie la cible",
+        "effect_ids": [
+          "116"
+        ],
+        "target_type": "single_enemy",
+        "electrified_chance": 20
+      }
+    },
+    {
+      "name": "Capacité 6255 - Sphère Shock",
+      "success": null,
+      "details": {
+        "name": "Sphère Shock",
+        "element": "6",
+        "base_cooldown": 1,
+        "damage_type": "attack_multiplier",
+        "damage": 1.1,
+        "description": "Lance une sphère électrique instable sur un ennemi",
+        "effect_ids": [
+          "106"
+        ],
+        "target_type": "random_enemy",
+        "stun_chance": 15
+      }
+    },
+    {
+      "name": "Capacité 6256 - Morsure Fulgurante",
+      "success": null,
+      "details": {
+        "name": "Morsure Fulgurante",
+        "element": "6",
+        "base_cooldown": 1,
+        "damage_type": "attack",
+        "damage": 1.0,
+        "description": "Une morsure chargée d'énergie qui peut désarçonner la cible",
+        "effect_ids": [
+          "116"
+        ],
+        "target_type": "single_enemy",
+        "electrified_chance": 20
+      }
+    },
+    {
+      "name": "Capacité 6257 - Double Frappe",
+      "success": null,
+      "details": {
+        "name": "Double Frappe",
+        "element": "12",
+        "base_cooldown": 2,
+        "damage_type": "multi_attack",
+        "damage": 0.8,
+        "attack_count": 2,
+        "description": "Deux coups rapides en rafale",
+        "effect_ids": [],
+        "target_type": "single_enemy"
+      }
+    },
+    {
+      "name": "Capacité 6258 - Foudre Bondissante",
+      "success": null,
+      "details": {
+        "name": "Foudre Bondissante",
+        "element": "6",
+        "base_cooldown": 3,
+        "damage_type": "fixed",
+        "damage": 37,
+        "description": "Un éclair agile frappe plusieurs ennemis en sautant de l'un à l'autre",
+        "effect_ids": [
+          "106"
+        ],
+        "target_type": "chain_enemies",
+        "max_bounces": 3,
+        "bounce_damage_increase": 15,
+        "stun_chance_per_bounce": 10
+      }
+    },
+    {
+      "name": "Capacité 6501 - Rayon Purificateur",
+      "success": null,
+      "details": {
+        "name": "Rayon Purificateur",
+        "element": "7",
+        "base_cooldown": 1,
+        "damage_type": "attack_plus",
+        "damage": 15,
+        "description": "Un rayon transcendental traverse l'ombre et blesse la cible",
+        "effect_ids": [],
+        "target_type": "single_enemy"
+      }
+    },
+    {
+      "name": "Capacité 6502 - Charge Lumineuse",
+      "success": null,
+      "details": {
+        "name": "Charge Lumineuse",
+        "element": "7",
+        "base_cooldown": 1,
+        "damage_type": "attack_multiplier",
+        "damage": 1.2,
+        "description": "Percée éclatante dévalant l'arène dans une gerbe d'étincelles dorées",
+        "effect_ids": [],
+        "target_type": "single_enemy"
+      }
+    },
+    {
+      "name": "Capacité 6503 - Éclat Prismatique",
+      "success": null,
+      "details": {
+        "name": "Éclat Prismatique",
+        "element": "7",
+        "base_cooldown": 1,
+        "damage_type": "attack_plus",
+        "damage": 19,
+        "description": "Un rayon polychromatique brise la défense de la cible",
+        "effect_ids": [],
+        "target_type": "random_enemy"
+      }
+    },
+    {
+      "name": "Capacité 6504 - Danse Iridescente",
+      "success": null,
+      "details": {
+        "name": "Danse Iridescente",
+        "element": "7",
+        "base_cooldown": 5,
+        "damage_type": "fixed",
+        "damage": 0,
+        "description": "Battements d'ailes diffusant une aura réparatrice",
+        "effect_ids": [
+          "113",
+          "109"
+        ],
+        "target_type": "all_allies",
+        "heal_amount": 45,
+        "purify_all_negative": true
+      }
+    },
+    {
+      "name": "Capacité 6505 - Flamboiement Radieux",
+      "success": null,
+      "details": {
+        "name": "Flamboiement Radieux",
+        "element": "7",
+        "base_cooldown": 3,
+        "damage_type": "attack_multiplier",
+        "damage": 0.8,
+        "description": "Vague solaire submergeant tous les adversaires",
+        "effect_ids": [],
+        "target_type": "all_enemies"
+      }
+    },
+    {
+      "name": "Capacité 6506 - Halo Espoir",
+      "success": null,
+      "details": {
+        "name": "Halo Espoir",
+        "element": "7",
+        "base_cooldown": 5,
+        "damage_type": "fixed",
+        "damage": 0,
+        "description": "Un anneau protecteur illumine les alliés, les immunisant un tour",
+        "effect_ids": [
+          "112"
+        ],
+        "target_type": "all_allies",
+        "immunity_next_status": true,
+        "immunity_not_cumulative": true
+      }
+    },
+    {
+      "name": "Capacité 7251 - Ronce Empoisonnée",
+      "success": null,
+      "details": {
+        "name": "Ronce Empoisonnée",
+        "element": "10",
+        "base_cooldown": 1,
+        "damage_type": "attack",
+        "damage": 1.0,
+        "description": "Les ronces étouffent la cible, injectant du venin",
+        "effect_ids": [
+          "103"
+        ],
+        "target_type": "single_enemy"
+      }
+    },
+    {
+      "name": "Capacité 7252 - Brouillard Corrosif",
+      "success": null,
+      "details": {
+        "name": "Brouillard Corrosif",
+        "element": "10",
+        "base_cooldown": 6,
+        "damage_type": "attack_multiplier",
+        "damage": 0.7,
+        "description": "Libère un nuage nocif touchant tous les adversaires",
+        "effect_ids": [
+          "103"
+        ],
+        "target_type": "all_enemies"
+      }
+    },
+    {
+      "name": "Capacité 7253 - Jet Moussu",
+      "success": null,
+      "details": {
+        "name": "Jet Moussu",
+        "element": "10",
+        "base_cooldown": 1,
+        "damage_type": "attack_plus",
+        "damage": 19,
+        "description": "Projette une boule de mousse chargée de toxines volatiles",
+        "effect_ids": [
+          "103"
+        ],
+        "target_type": "random_enemy"
+      }
+    },
+    {
+      "name": "Capacité 7254 - Lancer de CDN",
+      "success": null,
+      "details": {
+        "name": "Lancer de CDN",
+        "element": "10",
+        "base_cooldown": 2,
+        "damage_type": "fixed",
+        "damage": 10,
+        "description": "Lance quelque chose verdâtre, jaunâtre et surtout gluante",
+        "effect_ids": [
+          "117"
+        ],
+        "target_type": "random_enemy",
+        "beurk_chance": 10
+      }
+    },
+    {
+      "name": "Capacité 7255 - Vague Nécrotique",
+      "success": null,
+      "details": {
+        "name": "Vague Nécrotique",
+        "element": "10",
+        "base_cooldown": 3,
+        "damage_type": "attack_multiplier",
+        "damage": 0.7,
+        "description": "Déferlement toxique s'étendant sur le champ de bataille",
+        "effect_ids": [
+          "103"
+        ],
+        "target_type": "all_enemies"
+      }
+    },
+    {
+      "name": "Capacité 7256 - Essence Mortelle",
+      "success": null,
+      "details": {
+        "name": "Essence Mortelle",
+        "element": "10",
+        "base_cooldown": 2,
+        "damage_type": "attack_plus",
+        "damage": 44,
+        "description": "Synthèse ultime de toxines végétales infligées dans le sang",
+        "effect_ids": [
+          "103"
+        ],
+        "target_type": "single_enemy"
+      }
+    },
+    {
+      "name": "Capacité 7257 - Toxine Mortelle",
+      "success": null,
+      "details": {
+        "name": "Toxine Mortelle",
+        "element": "10",
+        "base_cooldown": 4,
+        "damage_type": "fixed",
+        "damage": 10,
+        "description": "Un virus mortel qui tue tout ceux qui l'inhale",
+        "effect_ids": [
+          "103"
+        ],
+        "target_type": "random_enemy",
+        "enhanced_poison_chance": 10,
+        "enhanced_poison_value": 3
+      }
+    },
+    {
+      "name": "Capacité 7258 - Poussée Toxique",
+      "success": null,
+      "details": {
+        "name": "Poussée Toxique",
+        "element": "10",
+        "base_cooldown": 3,
+        "damage_type": "attack_plus",
+        "damage": 23,
+        "description": "Déclenche une vague de spores agressives",
+        "effect_ids": [
+          "103"
+        ],
+        "target_type": "single_enemy"
+      }
+    },
+    {
+      "name": "Pyrodrake, Dragon de Braise - Capacité 5018",
+      "success": null,
+      "details": {
+        "unit": "Pyrodrake, Dragon de Braise",
+        "ability": "5018"
+      }
+    },
+    {
+      "name": "Pyrodrake, Dragon de Braise - Capacité 5019",
+      "success": null,
+      "details": {
+        "unit": "Pyrodrake, Dragon de Braise",
+        "ability": "5019"
+      }
+    },
+    {
+      "name": "Salamandra, Magicienne Incandescente - Capacité 5013",
+      "success": null,
+      "details": {
+        "unit": "Salamandra, Magicienne Incandescente",
+        "ability": "5013"
+      }
+    },
+    {
+      "name": "Salamandra, Magicienne Incandescente - Capacité 5014",
+      "success": null,
+      "details": {
+        "unit": "Salamandra, Magicienne Incandescente",
+        "ability": "5014"
+      }
+    },
+    {
+      "name": "Gelidar, Chevalier des Neiges - Capacité 6013",
+      "success": null,
+      "details": {
+        "unit": "Gelidar, Chevalier des Neiges",
+        "ability": "6013"
+      }
+    },
+    {
+      "name": "Frimousse, Esprit Givré - Capacité 5000",
+      "success": null,
+      "details": {
+        "unit": "Frimousse, Esprit Givré",
+        "ability": "5000"
+      }
+    },
+    {
+      "name": "Skyla, Danseuse des Nuages - Capacité 5754",
+      "success": null,
+      "details": {
+        "unit": "Skyla, Danseuse des Nuages",
+        "ability": "5754"
+      }
+    },
+    {
+      "name": "Skyla, Danseuse des Nuages - Capacité 5755",
+      "success": null,
+      "details": {
+        "unit": "Skyla, Danseuse des Nuages",
+        "ability": "5755"
+      }
+    },
+    {
+      "name": "Rock, Colosse de Granit - Capacité 5000",
+      "success": null,
+      "details": {
+        "unit": "Rock, Colosse de Granit",
+        "ability": "5000"
+      }
+    },
+    {
+      "name": "Gladrith, Écho des montagnes - Capacité 5509",
+      "success": null,
+      "details": {
+        "unit": "Gladrith, Écho des montagnes",
+        "ability": "5509"
+      }
+    },
+    {
+      "name": "Terra, Sorcière de la Terre - Capacité 5510",
+      "success": null,
+      "details": {
+        "unit": "Terra, Sorcière de la Terre",
+        "ability": "5510"
+      }
+    },
+    {
+      "name": "Terra, Sorcière de la Terre - Capacité 5500",
+      "success": null,
+      "details": {
+        "unit": "Terra, Sorcière de la Terre",
+        "ability": "5500"
+      }
+    },
+    {
+      "name": "Stormy, Enfant de la Foudre - Capacité 6251",
+      "success": null,
+      "details": {
+        "unit": "Stormy, Enfant de la Foudre",
+        "ability": "6251"
+      }
+    },
+    {
+      "name": "Cristaline, Ondine Pure - Capacité 5255",
+      "success": null,
+      "details": {
+        "unit": "Cristaline, Ondine Pure",
+        "ability": "5255"
+      }
+    },
+    {
+      "name": "Sylphar, Archer de la Canopée - Capacité 5756",
+      "success": null,
+      "details": {
+        "unit": "Sylphar, Archer de la Canopée",
+        "ability": "5756"
+      }
+    },
+    {
+      "name": "Vulcan, Forgeron de l'Enclume Ardente - Capacité 5015",
+      "success": null,
+      "details": {
+        "unit": "Vulcan, Forgeron de l'Enclume Ardente",
+        "ability": "5015"
+      }
+    },
+    {
+      "name": "Vulcan, Forgeron de l'Enclume Ardente - Capacité 5016",
+      "success": null,
+      "details": {
+        "unit": "Vulcan, Forgeron de l'Enclume Ardente",
+        "ability": "5016"
+      }
+    },
+    {
+      "name": "Glacielle, Reine des Flocons - Capacité 6011",
+      "success": null,
+      "details": {
+        "unit": "Glacielle, Reine des Flocons",
+        "ability": "6011"
+      }
+    },
+    {
+      "name": "Voltar, Seigneur de l'Orage - Capacité 6252",
+      "success": null,
+      "details": {
+        "unit": "Voltar, Seigneur de l'Orage",
+        "ability": "6252"
+      }
+    },
+    {
+      "name": "Voltar, Seigneur de l'Orage - Capacité 6253",
+      "success": null,
+      "details": {
+        "unit": "Voltar, Seigneur de l'Orage",
+        "ability": "6253"
+      }
+    },
+    {
+      "name": "Floralia, Druidesse des Fleurs - Capacité 7250",
+      "success": null,
+      "details": {
+        "unit": "Floralia, Druidesse des Fleurs",
+        "ability": "7250"
+      }
+    },
+    {
+      "name": "Floralia, Druidesse des Fleurs - Capacité 7258",
+      "success": null,
+      "details": {
+        "unit": "Floralia, Druidesse des Fleurs",
+        "ability": "7258"
+      }
+    },
+    {
+      "name": "Nébulo, Fantôme du Brouillard - Capacité 5768",
+      "success": null,
+      "details": {
+        "unit": "Nébulo, Fantôme du Brouillard",
+        "ability": "5768"
+      }
+    },
+    {
+      "name": "Nébulo, Fantôme du Brouillard - Capacité 5769",
+      "success": null,
+      "details": {
+        "unit": "Nébulo, Fantôme du Brouillard",
+        "ability": "5769"
+      }
+    },
+    {
+      "name": "Barbak, Guerrier Barbare - Capacité 5511",
+      "success": null,
+      "details": {
+        "unit": "Barbak, Guerrier Barbare",
+        "ability": "5511"
+      }
+    },
+    {
+      "name": "Barbak, Guerrier Barbare - Capacité 5512",
+      "success": null,
+      "details": {
+        "unit": "Barbak, Guerrier Barbare",
+        "ability": "5512"
+      }
+    },
+    {
+      "name": "Aquaria, Sirène Mystique - Capacité 5261",
+      "success": null,
+      "details": {
+        "unit": "Aquaria, Sirène Mystique",
+        "ability": "5261"
+      }
+    },
+    {
+      "name": "Bersi, Nain Invincible - Capacité 5506",
+      "success": null,
+      "details": {
+        "unit": "Bersi, Nain Invincible",
+        "ability": "5506"
+      }
+    },
+    {
+      "name": "Orbaline, Magicienne Astrale - Capacité 5757",
+      "success": null,
+      "details": {
+        "unit": "Orbaline, Magicienne Astrale",
+        "ability": "5757"
+      }
+    },
+    {
+      "name": "Orbaline, Magicienne Astrale - Capacité 5750",
+      "success": null,
+      "details": {
+        "unit": "Orbaline, Magicienne Astrale",
+        "ability": "5750"
+      }
+    },
+    {
+      "name": "Pyropoulpe, Poulpe Incandescent - Capacité 5007",
+      "success": null,
+      "details": {
+        "unit": "Pyropoulpe, Poulpe Incandescent",
+        "ability": "5007"
+      }
+    },
+    {
+      "name": "Galaxine, Voyageuse Céleste - Capacité 5770",
+      "success": null,
+      "details": {
+        "unit": "Galaxine, Voyageuse Céleste",
+        "ability": "5770"
+      }
+    },
+    {
+      "name": "Galaxine, Voyageuse Céleste - Capacité 5771",
+      "success": null,
+      "details": {
+        "unit": "Galaxine, Voyageuse Céleste",
+        "ability": "5771"
+      }
+    },
+    {
+      "name": "Galaxine, Voyageuse Céleste - Capacité 5772",
+      "success": null,
+      "details": {
+        "unit": "Galaxine, Voyageuse Céleste",
+        "ability": "5772"
+      }
+    },
+    {
+      "name": "Silex, Gardien du Pic Rugueux - Capacité 5011",
+      "success": null,
+      "details": {
+        "unit": "Silex, Gardien du Pic Rugueux",
+        "ability": "5011"
+      }
+    },
+    {
+      "name": "Silex, Gardien du Pic Rugueux - Capacité 5513",
+      "success": null,
+      "details": {
+        "unit": "Silex, Gardien du Pic Rugueux",
+        "ability": "5513"
+      }
+    },
+    {
+      "name": "Siriona, Enchanteresse des Abysses - Capacité 5262",
+      "success": null,
+      "details": {
+        "unit": "Siriona, Enchanteresse des Abysses",
+        "ability": "5262"
+      }
+    },
+    {
+      "name": "Siriona, Enchanteresse des Abysses - Capacité 5263",
+      "success": null,
+      "details": {
+        "unit": "Siriona, Enchanteresse des Abysses",
+        "ability": "5263"
+      }
+    },
+    {
+      "name": "Voltix, Lutin Électrique - Capacité 6258",
+      "success": null,
+      "details": {
+        "unit": "Voltix, Lutin Électrique",
+        "ability": "6258"
+      }
+    },
+    {
+      "name": "Glacia, Yéti Polaire - Capacité 5000",
+      "success": null,
+      "details": {
+        "unit": "Glacia, Yéti Polaire",
+        "ability": "5000"
+      }
+    },
+    {
+      "name": "Solaris, Paladin du Soleil - Capacité 5010",
+      "success": null,
+      "details": {
+        "unit": "Solaris, Paladin du Soleil",
+        "ability": "5010"
+      }
+    },
+    {
+      "name": "Tempestra, Danseuse de la Tornade - Capacité 5750",
+      "success": null,
+      "details": {
+        "unit": "Tempestra, Danseuse de la Tornade",
+        "ability": "5750"
+      }
+    },
+    {
+      "name": "Lumberjack, Bûcheron du Grand Nord - Capacité 5511",
+      "success": null,
+      "details": {
+        "unit": "Lumberjack, Bûcheron du Grand Nord",
+        "ability": "5511"
+      }
+    },
+    {
+      "name": "Lumberjack, Bûcheron du Grand Nord - Capacité 5500",
+      "success": null,
+      "details": {
+        "unit": "Lumberjack, Bûcheron du Grand Nord",
+        "ability": "5500"
+      }
+    },
+    {
+      "name": "Nixie, Fée de la Source - Capacité 5258",
+      "success": null,
+      "details": {
+        "unit": "Nixie, Fée de la Source",
+        "ability": "5258"
+      }
+    },
+    {
+      "name": "Tundrorr, Mammouth Givré - Capacité 6012",
+      "success": null,
+      "details": {
+        "unit": "Tundrorr, Mammouth Givré",
+        "ability": "6012"
+      }
+    },
+    {
+      "name": "Ignissia, Sorcière des Brasiers - Capacité 5000",
+      "success": null,
+      "details": {
+        "unit": "Ignissia, Sorcière des Brasiers",
+        "ability": "5000"
+      }
+    },
+    {
+      "name": "Torrentis, Gardien de l'Écume - Capacité 5250",
+      "success": null,
+      "details": {
+        "unit": "Torrentis, Gardien de l'Écume",
+        "ability": "5250"
+      }
+    },
+    {
+      "name": "Lixor, Golem Cristallin - Capacité 5514",
+      "success": null,
+      "details": {
+        "unit": "Lixor, Golem Cristallin",
+        "ability": "5514"
+      }
+    },
+    {
+      "name": "Aeris, Esprit du Zéphyr - Capacité 5758",
+      "success": null,
+      "details": {
+        "unit": "Aeris, Esprit du Zéphyr",
+        "ability": "5758"
+      }
+    },
+    {
+      "name": "Aeris, Esprit du Zéphyr - Capacité 5759",
+      "success": null,
+      "details": {
+        "unit": "Aeris, Esprit du Zéphyr",
+        "ability": "5759"
+      }
+    },
+    {
+      "name": "Roktus, Gobelin Mineur - Capacité 5507",
+      "success": null,
+      "details": {
+        "unit": "Roktus, Gobelin Mineur",
+        "ability": "5507"
+      }
+    },
+    {
+      "name": "Roktus, Gobelin Mineur - Capacité 5508",
+      "success": null,
+      "details": {
+        "unit": "Roktus, Gobelin Mineur",
+        "ability": "5508"
+      }
+    },
+    {
+      "name": "Fulminia, Valkyrie de l'Orage - Capacité 6254",
+      "success": null,
+      "details": {
+        "unit": "Fulminia, Valkyrie de l'Orage",
+        "ability": "6254"
+      }
+    },
+    {
+      "name": "Gelgor, Troll du Givre - Capacité 5000",
+      "success": null,
+      "details": {
+        "unit": "Gelgor, Troll du Givre",
+        "ability": "5000"
+      }
+    },
+    {
+      "name": "Venturio, Chevalier Écarlate - Capacité 5000",
+      "success": null,
+      "details": {
+        "unit": "Venturio, Chevalier Écarlate",
+        "ability": "5000"
+      }
+    },
+    {
+      "name": "Zyklair, Djinn des Rafales - Capacité 5000",
+      "success": null,
+      "details": {
+        "unit": "Zyklair, Djinn des Rafales",
+        "ability": "5000"
+      }
+    },
+    {
+      "name": "Mossio, Shaman des Mousses - Capacité 7255",
+      "success": null,
+      "details": {
+        "unit": "Mossio, Shaman des Mousses",
+        "ability": "7255"
+      }
+    },
+    {
+      "name": "Mossio, Shaman des Mousses - Capacité 7250",
+      "success": null,
+      "details": {
+        "unit": "Mossio, Shaman des Mousses",
+        "ability": "7250"
+      }
+    },
+    {
+      "name": "Cryomage, Mage du Givre - Capacité 5000",
+      "success": null,
+      "details": {
+        "unit": "Cryomage, Mage du Givre",
+        "ability": "5000"
+      }
+    },
+    {
+      "name": "Rubra, Salamandre Incandescente - Capacité 5003",
+      "success": null,
+      "details": {
+        "unit": "Rubra, Salamandre Incandescente",
+        "ability": "5003"
+      }
+    },
+    {
+      "name": "Rubra, Salamandre Incandescente - Capacité 5009",
+      "success": null,
+      "details": {
+        "unit": "Rubra, Salamandre Incandescente",
+        "ability": "5009"
+      }
+    },
+    {
+      "name": "Briselys, Dryade Mousseuse - Capacité 7253",
+      "success": null,
+      "details": {
+        "unit": "Briselys, Dryade Mousseuse",
+        "ability": "7253"
+      }
+    },
+    {
+      "name": "Zepho, Génie des Courants - Capacité 5750",
+      "success": null,
+      "details": {
+        "unit": "Zepho, Génie des Courants",
+        "ability": "5750"
+      }
+    },
+    {
+      "name": "Abyssalor, Kraken des Profondeurs - Capacité 5259",
+      "success": null,
+      "details": {
+        "unit": "Abyssalor, Kraken des Profondeurs",
+        "ability": "5259"
+      }
+    },
+    {
+      "name": "Abyssalor, Kraken des Profondeurs - Capacité 5260",
+      "success": null,
+      "details": {
+        "unit": "Abyssalor, Kraken des Profondeurs",
+        "ability": "5260"
+      }
+    },
+    {
+      "name": "Fulgo, Orbe Electrique - Capacité 6255",
+      "success": null,
+      "details": {
+        "unit": "Fulgo, Orbe Electrique",
+        "ability": "6255"
+      }
+    },
+    {
+      "name": "Rocor, Gardien du Bloc - Capacité 5500",
+      "success": null,
+      "details": {
+        "unit": "Rocor, Gardien du Bloc",
+        "ability": "5500"
+      }
+    },
+    {
+      "name": "Rocor, Gardien du Bloc - Capacité 5011",
+      "success": null,
+      "details": {
+        "unit": "Rocor, Gardien du Bloc",
+        "ability": "5011"
+      }
+    },
+    {
+      "name": "Incendior, Dragon de Feu - Capacité 5018",
+      "success": null,
+      "details": {
+        "unit": "Incendior, Dragon de Feu",
+        "ability": "5018"
+      }
+    },
+    {
+      "name": "Nébulaire, Magicienne du Brouillard - Capacité 5760",
+      "success": null,
+      "details": {
+        "unit": "Nébulaire, Magicienne du Brouillard",
+        "ability": "5760"
+      }
+    },
+    {
+      "name": "Nébulaire, Magicienne du Brouillard - Capacité 5761",
+      "success": null,
+      "details": {
+        "unit": "Nébulaire, Magicienne du Brouillard",
+        "ability": "5761"
+      }
+    },
+    {
+      "name": "Torrick, Gardien du Torrent - Capacité 5264",
+      "success": null,
+      "details": {
+        "unit": "Torrick, Gardien du Torrent",
+        "ability": "5264"
+      }
+    },
+    {
+      "name": "Torrick, Gardien du Torrent - Capacité 5265",
+      "success": null,
+      "details": {
+        "unit": "Torrick, Gardien du Torrent",
+        "ability": "5265"
+      }
+    },
+    {
+      "name": "Corvus, Corbeau Mystique - Capacité 5762",
+      "success": null,
+      "details": {
+        "unit": "Corvus, Corbeau Mystique",
+        "ability": "5762"
+      }
+    },
+    {
+      "name": "Corvus, Corbeau Mystique - Capacité 5763",
+      "success": null,
+      "details": {
+        "unit": "Corvus, Corbeau Mystique",
+        "ability": "5763"
+      }
+    },
+    {
+      "name": "Solune, Chamane Solaire - Capacité 5000",
+      "success": null,
+      "details": {
+        "unit": "Solune, Chamane Solaire",
+        "ability": "5000"
+      }
+    },
+    {
+      "name": "Gélax, Lutin de la Banquise - Capacité 5000",
+      "success": null,
+      "details": {
+        "unit": "Gélax, Lutin de la Banquise",
+        "ability": "5000"
+      }
+    },
+    {
+      "name": "Pyraxis, Élémentaire de Magma - Capacité 5008",
+      "success": null,
+      "details": {
+        "unit": "Pyraxis, Élémentaire de Magma",
+        "ability": "5008"
+      }
+    },
+    {
+      "name": "Sylvara, Esprit de la Canopée - Capacité 7256",
+      "success": null,
+      "details": {
+        "unit": "Sylvara, Esprit de la Canopée",
+        "ability": "7256"
+      }
+    },
+    {
+      "name": "Sylvara, Esprit de la Canopée - Capacité 7257",
+      "success": null,
+      "details": {
+        "unit": "Sylvara, Esprit de la Canopée",
+        "ability": "7257"
+      }
+    },
+    {
+      "name": "Crotignus, Crotte de Nez Mouvante - Capacité 7254",
+      "success": null,
+      "details": {
+        "unit": "Crotignus, Crotte de Nez Mouvante",
+        "ability": "7254"
+      }
+    },
+    {
+      "name": "Voltania, Serpent Fulgurant - Capacité 6256",
+      "success": null,
+      "details": {
+        "unit": "Voltania, Serpent Fulgurant",
+        "ability": "6256"
+      }
+    },
+    {
+      "name": "Voltania, Serpent Fulgurant - Capacité 6257",
+      "success": null,
+      "details": {
+        "unit": "Voltania, Serpent Fulgurant",
+        "ability": "6257"
+      }
+    },
+    {
+      "name": "Abyssine, Félin des Profondeurs - Capacité 5256",
+      "success": null,
+      "details": {
+        "unit": "Abyssine, Félin des Profondeurs",
+        "ability": "5256"
+      }
+    },
+    {
+      "name": "Abyssine, Félin des Profondeurs - Capacité 5257",
+      "success": null,
+      "details": {
+        "unit": "Abyssine, Félin des Profondeurs",
+        "ability": "5257"
+      }
+    },
+    {
+      "name": "Firocus, Renard Volcanique - Capacité 5000",
+      "success": null,
+      "details": {
+        "unit": "Firocus, Renard Volcanique",
+        "ability": "5000"
+      }
+    },
+    {
+      "name": "Firocus, Renard Volcanique - Capacité 5000",
+      "success": null,
+      "details": {
+        "unit": "Firocus, Renard Volcanique",
+        "ability": "5000"
+      }
+    },
+    {
+      "name": "Brumys, Fantôme du Givre - Capacité 5000",
+      "success": null,
+      "details": {
+        "unit": "Brumys, Fantôme du Givre",
+        "ability": "5000"
+      }
+    },
+    {
+      "name": "Lithos, Colosse de Quartz - Capacité 5516",
+      "success": null,
+      "details": {
+        "unit": "Lithos, Colosse de Quartz",
+        "ability": "5516"
+      }
+    },
+    {
+      "name": "Lithos, Colosse de Quartz - Capacité 5517",
+      "success": null,
+      "details": {
+        "unit": "Lithos, Colosse de Quartz",
+        "ability": "5517"
+      }
+    },
+    {
+      "name": "Astrilys, Sentinelle Astrale - Capacité 6501",
+      "success": null,
+      "details": {
+        "unit": "Astrilys, Sentinelle Astrale",
+        "ability": "6501"
+      }
+    },
+    {
+      "name": "Ignarok, Roc en Fusion - Capacité 5011",
+      "success": null,
+      "details": {
+        "unit": "Ignarok, Roc en Fusion",
+        "ability": "5011"
+      }
+    },
+    {
+      "name": "Ignarok, Roc en Fusion - Capacité 5012",
+      "success": null,
+      "details": {
+        "unit": "Ignarok, Roc en Fusion",
+        "ability": "5012"
+      }
+    },
+    {
+      "name": "Sylvert, Gardien de la Brume - Capacité 7251",
+      "success": null,
+      "details": {
+        "unit": "Sylvert, Gardien de la Brume",
+        "ability": "7251"
+      }
+    },
+    {
+      "name": "Sylvert, Gardien de la Brume - Capacité 7252",
+      "success": null,
+      "details": {
+        "unit": "Sylvert, Gardien de la Brume",
+        "ability": "7252"
+      }
+    },
+    {
+      "name": "Zéphara, Valkyrie des Vents - Capacité 5764",
+      "success": null,
+      "details": {
+        "unit": "Zéphara, Valkyrie des Vents",
+        "ability": "5764"
+      }
+    },
+    {
+      "name": "Zéphara, Valkyrie des Vents - Capacité 5765",
+      "success": null,
+      "details": {
+        "unit": "Zéphara, Valkyrie des Vents",
+        "ability": "5765"
+      }
+    },
+    {
+      "name": "Typhion, Léviathan du Maelström - Capacité 5266",
+      "success": null,
+      "details": {
+        "unit": "Typhion, Léviathan du Maelström",
+        "ability": "5266"
+      }
+    },
+    {
+      "name": "Typhion, Léviathan du Maelström - Capacité 5267",
+      "success": null,
+      "details": {
+        "unit": "Typhion, Léviathan du Maelström",
+        "ability": "5267"
+      }
+    },
+    {
+      "name": "Typhion, Léviathan du Maelström - Capacité 5268",
+      "success": null,
+      "details": {
+        "unit": "Typhion, Léviathan du Maelström",
+        "ability": "5268"
+      }
+    },
+    {
+      "name": "Prismalyx, Papillon Lumineux - Capacité 6503",
+      "success": null,
+      "details": {
+        "unit": "Prismalyx, Papillon Lumineux",
+        "ability": "6503"
+      }
+    },
+    {
+      "name": "Prismalyx, Papillon Lumineux - Capacité 6504",
+      "success": null,
+      "details": {
+        "unit": "Prismalyx, Papillon Lumineux",
+        "ability": "6504"
+      }
+    },
+    {
+      "name": "Murkax, Ombre Rampante - Capacité 6751",
+      "success": null,
+      "details": {
+        "unit": "Murkax, Ombre Rampante",
+        "ability": "6751"
+      }
+    },
+    {
+      "name": "Murkax, Ombre Rampante - Capacité 6752",
+      "success": null,
+      "details": {
+        "unit": "Murkax, Ombre Rampante",
+        "ability": "6752"
+      }
+    },
+    {
+      "name": "Flamby, Lutin des Flammes - Capacité 5020",
+      "success": null,
+      "details": {
+        "unit": "Flamby, Lutin des Flammes",
+        "ability": "5020"
+      }
+    },
+    {
+      "name": "Flamby, Lutin des Flammes - Capacité 5021",
+      "success": null,
+      "details": {
+        "unit": "Flamby, Lutin des Flammes",
+        "ability": "5021"
+      }
+    },
+    {
+      "name": "Glaciar, Yéti des Sommets - Capacité 6008",
+      "success": null,
+      "details": {
+        "unit": "Glaciar, Yéti des Sommets",
+        "ability": "6008"
+      }
+    },
+    {
+      "name": "Lumicorne, Licorne Dorée - Capacité 6502",
+      "success": null,
+      "details": {
+        "unit": "Lumicorne, Licorne Dorée",
+        "ability": "6502"
+      }
+    },
+    {
+      "name": "Galádra, Matriarche du Givre - Capacité 6009",
+      "success": null,
+      "details": {
+        "unit": "Galádra, Matriarche du Givre",
+        "ability": "6009"
+      }
+    },
+    {
+      "name": "Galádra, Matriarche du Givre - Capacité 6010",
+      "success": null,
+      "details": {
+        "unit": "Galádra, Matriarche du Givre",
+        "ability": "6010"
+      }
+    },
+    {
+      "name": "Pyrolynx, Lynx Ardent - Capacité 5017",
+      "success": null,
+      "details": {
+        "unit": "Pyrolynx, Lynx Ardent",
+        "ability": "5017"
+      }
+    },
+    {
+      "name": "Telluron, Géant de Schiste - Capacité 5514",
+      "success": null,
+      "details": {
+        "unit": "Telluron, Géant de Schiste",
+        "ability": "5514"
+      }
+    },
+    {
+      "name": "Telluron, Géant de Schiste - Capacité 5515",
+      "success": null,
+      "details": {
+        "unit": "Telluron, Géant de Schiste",
+        "ability": "5515"
+      }
+    },
+    {
+      "name": "Lumys, Renardeau Solaire - Capacité 6505",
+      "success": null,
+      "details": {
+        "unit": "Lumys, Renardeau Solaire",
+        "ability": "6505"
+      }
+    },
+    {
+      "name": "Lumys, Renardeau Solaire - Capacité 6506",
+      "success": null,
+      "details": {
+        "unit": "Lumys, Renardeau Solaire",
+        "ability": "6506"
+      }
+    },
+    {
+      "name": "Stratos, Esprit des Courants - Capacité 5766",
+      "success": null,
+      "details": {
+        "unit": "Stratos, Esprit des Courants",
+        "ability": "5766"
+      }
+    },
+    {
+      "name": "Stratos, Esprit des Courants - Capacité 5767",
+      "success": null,
+      "details": {
+        "unit": "Stratos, Esprit des Courants",
+        "ability": "5767"
+      }
+    },
+    {
+      "name": "Ciblage single_enemy",
+      "success": false,
+      "details": {
+        "id": "test_target_single_enemy",
+        "name": "Test single_enemy",
+        "element": 0,
+        "base_cooldown": 1,
+        "damage_type": "attack",
+        "damage": 20,
+        "target_type": "single_enemy",
+        "description": "Test de ciblage single_enemy"
+      }
+    },
+    {
+      "name": "Ciblage single_ally",
+      "success": false,
+      "details": {
+        "id": "test_target_single_ally",
+        "name": "Test single_ally",
+        "element": 0,
+        "base_cooldown": 1,
+        "damage_type": "attack",
+        "damage": 20,
+        "target_type": "single_ally",
+        "description": "Test de ciblage single_ally"
+      }
+    },
+    {
+      "name": "Ciblage self",
+      "success": false,
+      "details": {
+        "id": "test_target_self",
+        "name": "Test self",
+        "element": 0,
+        "base_cooldown": 1,
+        "damage_type": "attack",
+        "damage": 20,
+        "target_type": "self",
+        "description": "Test de ciblage self"
+      }
+    },
+    {
+      "name": "Ciblage all_enemies",
+      "success": false,
+      "details": {
+        "id": "test_target_all_enemies",
+        "name": "Test all_enemies",
+        "element": 0,
+        "base_cooldown": 1,
+        "damage_type": "attack",
+        "damage": 20,
+        "target_type": "all_enemies",
+        "description": "Test de ciblage all_enemies"
+      }
+    },
+    {
+      "name": "Ciblage all_allies",
+      "success": false,
+      "details": {
+        "id": "test_target_all_allies",
+        "name": "Test all_allies",
+        "element": 0,
+        "base_cooldown": 1,
+        "damage_type": "attack",
+        "damage": 20,
+        "target_type": "all_allies",
+        "description": "Test de ciblage all_allies"
+      }
+    },
+    {
+      "name": "Ciblage random_enemy",
+      "success": false,
+      "details": {
+        "id": "test_target_random_enemy",
+        "name": "Test random_enemy",
+        "element": 0,
+        "base_cooldown": 1,
+        "damage_type": "attack",
+        "damage": 20,
+        "target_type": "random_enemy",
+        "description": "Test de ciblage random_enemy"
+      }
+    },
+    {
+      "name": "Ciblage random_ally",
+      "success": false,
+      "details": {
+        "id": "test_target_random_ally",
+        "name": "Test random_ally",
+        "element": 0,
+        "base_cooldown": 1,
+        "damage_type": "attack",
+        "damage": 20,
+        "target_type": "random_ally",
+        "description": "Test de ciblage random_ally"
+      }
+    },
+    {
+      "name": "Ciblage chain_enemies",
+      "success": false,
+      "details": {
+        "id": "test_target_chain_enemies",
+        "name": "Test chain_enemies",
+        "element": 0,
+        "base_cooldown": 1,
+        "damage_type": "attack",
+        "damage": 20,
+        "target_type": "chain_enemies",
+        "description": "Test de ciblage chain_enemies"
+      }
+    },
+    {
+      "name": "Ciblage chain_allies",
+      "success": false,
+      "details": {
+        "id": "test_target_chain_allies",
+        "name": "Test chain_allies",
+        "element": 0,
+        "base_cooldown": 1,
+        "damage_type": "attack",
+        "damage": 20,
+        "target_type": "chain_allies",
+        "description": "Test de ciblage chain_allies"
+      }
+    },
+    {
+      "name": "Ciblage random_multiple",
+      "success": false,
+      "details": {
+        "id": "test_target_random_multiple",
+        "name": "Test random_multiple",
+        "element": 0,
+        "base_cooldown": 1,
+        "damage_type": "attack",
+        "damage": 20,
+        "target_type": "random_multiple",
+        "description": "Test de ciblage random_multiple"
+      }
+    },
+    {
+      "name": "Ciblage self_and_allies",
+      "success": false,
+      "details": {
+        "id": "test_target_self_and_allies",
+        "name": "Test self_and_allies",
+        "element": 0,
+        "base_cooldown": 1,
+        "damage_type": "attack",
+        "damage": 20,
+        "target_type": "self_and_allies",
+        "description": "Test de ciblage self_and_allies"
+      }
+    },
+    {
+      "name": "Ciblage adjacent_enemies",
+      "success": false,
+      "details": {
+        "id": "test_target_adjacent_enemies",
+        "name": "Test adjacent_enemies",
+        "element": 0,
+        "base_cooldown": 1,
+        "damage_type": "attack",
+        "damage": 20,
+        "target_type": "adjacent_enemies",
+        "description": "Test de ciblage adjacent_enemies"
+      }
+    },
+    {
+      "name": "Ciblage front_row",
+      "success": false,
+      "details": {
+        "id": "test_target_front_row",
+        "name": "Test front_row",
+        "element": 0,
+        "base_cooldown": 1,
+        "damage_type": "attack",
+        "damage": 20,
+        "target_type": "front_row",
+        "description": "Test de ciblage front_row"
+      }
+    },
+    {
+      "name": "Ciblage back_row",
+      "success": false,
+      "details": {
+        "id": "test_target_back_row",
+        "name": "Test back_row",
+        "element": 0,
+        "base_cooldown": 1,
+        "damage_type": "attack",
+        "damage": 20,
+        "target_type": "back_row",
+        "description": "Test de ciblage back_row"
+      }
+    },
+    {
+      "name": "Dégâts fixed",
+      "success": true,
+      "details": {
+        "id": "test_damage_fixed",
+        "name": "Test fixed",
+        "element": 0,
+        "base_cooldown": 1,
+        "damage_type": "fixed",
+        "damage": 20,
+        "target_type": "single_enemy",
+        "description": "Test de dégâts fixed"
+      }
+    },
+    {
+      "name": "Dégâts hp_percent",
+      "success": true,
+      "details": {
+        "id": "test_damage_hp_percent",
+        "name": "Test hp_percent",
+        "element": 0,
+        "base_cooldown": 1,
+        "damage_type": "hp_percent",
+        "damage": 20,
+        "target_type": "single_enemy",
+        "description": "Test de dégâts hp_percent"
+      }
+    },
+    {
+      "name": "Dégâts caster_hp_percent",
+      "success": true,
+      "details": {
+        "id": "test_damage_caster_hp_percent",
+        "name": "Test caster_hp_percent",
+        "element": 0,
+        "base_cooldown": 1,
+        "damage_type": "caster_hp_percent",
+        "damage": 20,
+        "target_type": "single_enemy",
+        "description": "Test de dégâts caster_hp_percent"
+      }
+    },
+    {
+      "name": "Dégâts scaling",
+      "success": true,
+      "details": {
+        "id": "test_damage_scaling",
+        "name": "Test scaling",
+        "element": 0,
+        "base_cooldown": 1,
+        "damage_type": "scaling",
+        "damage": 20,
+        "target_type": "single_enemy",
+        "description": "Test de dégâts scaling"
+      }
+    },
+    {
+      "name": "Dégâts random",
+      "success": true,
+      "details": {
+        "id": "test_damage_random",
+        "name": "Test random",
+        "element": 0,
+        "base_cooldown": 1,
+        "damage_type": "random",
+        "damage": 20,
+        "target_type": "single_enemy",
+        "description": "Test de dégâts random"
+      }
+    },
+    {
+      "name": "Dégâts chain",
+      "success": true,
+      "details": {
+        "id": "test_damage_chain",
+        "name": "Test chain",
+        "element": 0,
+        "base_cooldown": 1,
+        "damage_type": "chain",
+        "damage": 20,
+        "target_type": "single_enemy",
+        "description": "Test de dégâts chain"
+      }
+    },
+    {
+      "name": "Dégâts scaling_heal",
+      "success": true,
+      "details": {
+        "id": "test_damage_scaling_heal",
+        "name": "Test scaling_heal",
+        "element": 0,
+        "base_cooldown": 1,
+        "damage_type": "scaling_heal",
+        "damage": 20,
+        "target_type": "single_enemy",
+        "description": "Test de dégâts scaling_heal"
+      }
+    },
+    {
+      "name": "Dégâts multi_attack",
+      "success": true,
+      "details": {
+        "id": "test_damage_multi_attack",
+        "name": "Test multi_attack",
+        "element": 0,
+        "base_cooldown": 1,
+        "damage_type": "multi_attack",
+        "damage": 20,
+        "target_type": "single_enemy",
+        "description": "Test de dégâts multi_attack"
+      }
+    },
+    {
+      "name": "Dégâts seed_explosion",
+      "success": true,
+      "details": {
+        "id": "test_damage_seed_explosion",
+        "name": "Test seed_explosion",
+        "element": 0,
+        "base_cooldown": 1,
+        "damage_type": "seed_explosion",
+        "damage": 20,
+        "target_type": "single_enemy",
+        "description": "Test de dégâts seed_explosion"
+      }
+    },
+    {
+      "name": "Dégâts attack_plus_defense",
+      "success": true,
+      "details": {
+        "id": "test_damage_attack_plus_defense",
+        "name": "Test attack_plus_defense",
+        "element": 0,
+        "base_cooldown": 1,
+        "damage_type": "attack_plus_defense",
+        "damage": 20,
+        "target_type": "single_enemy",
+        "description": "Test de dégâts attack_plus_defense"
+      }
+    },
+    {
+      "name": "Effet burn",
+      "success": true,
+      "details": {
+        "id": "test_effect_burn",
+        "name": "Test burn",
+        "element": 0,
+        "base_cooldown": 1,
+        "damage_type": "attack",
+        "damage": 10,
+        "target_type": "single_enemy",
+        "description": "Test d'effet burn",
+        "burn": true
+      }
+    },
+    {
+      "name": "Effet freeze",
+      "success": true,
+      "details": {
+        "id": "test_effect_freeze",
+        "name": "Test freeze",
+        "element": 0,
+        "base_cooldown": 1,
+        "damage_type": "attack",
+        "damage": 10,
+        "target_type": "single_enemy",
+        "description": "Test d'effet freeze",
+        "freeze": true
+      }
+    },
+    {
+      "name": "Effet wet",
+      "success": true,
+      "details": {
+        "id": "test_effect_wet",
+        "name": "Test wet",
+        "element": 0,
+        "base_cooldown": 1,
+        "damage_type": "attack",
+        "damage": 10,
+        "target_type": "single_enemy",
+        "description": "Test d'effet wet",
+        "wet": true
+      }
+    },
+    {
+      "name": "Effet poison",
+      "success": true,
+      "details": {
+        "id": "test_effect_poison",
+        "name": "Test poison",
+        "element": 0,
+        "base_cooldown": 1,
+        "damage_type": "attack",
+        "damage": 10,
+        "target_type": "single_enemy",
+        "description": "Test d'effet poison",
+        "poison": true
+      }
+    },
+    {
+      "name": "Effet overload",
+      "success": true,
+      "details": {
+        "id": "test_effect_overload",
+        "name": "Test overload",
+        "element": 0,
+        "base_cooldown": 1,
+        "damage_type": "attack",
+        "damage": 10,
+        "target_type": "single_enemy",
+        "description": "Test d'effet overload",
+        "overload": true
+      }
+    },
+    {
+      "name": "Effet fragile",
+      "success": true,
+      "details": {
+        "id": "test_effect_fragile",
+        "name": "Test fragile",
+        "element": 0,
+        "base_cooldown": 1,
+        "damage_type": "attack",
+        "damage": 10,
+        "target_type": "single_enemy",
+        "description": "Test d'effet fragile",
+        "fragile": true
+      }
+    },
+    {
+      "name": "Effet stunned",
+      "success": true,
+      "details": {
+        "id": "test_effect_stunned",
+        "name": "Test stunned",
+        "element": 0,
+        "base_cooldown": 1,
+        "damage_type": "attack",
+        "damage": 10,
+        "target_type": "single_enemy",
+        "description": "Test d'effet stunned",
+        "stunned": true
+      }
+    },
+    {
+      "name": "Effet aspiration",
+      "success": true,
+      "details": {
+        "id": "test_effect_aspiration",
+        "name": "Test aspiration",
+        "element": 0,
+        "base_cooldown": 1,
+        "damage_type": "attack",
+        "damage": 10,
+        "target_type": "single_enemy",
+        "description": "Test d'effet aspiration",
+        "aspiration": true
+      }
+    },
+    {
+      "name": "Effet shield",
+      "success": true,
+      "details": {
+        "id": "test_effect_shield",
+        "name": "Test shield",
+        "element": 0,
+        "base_cooldown": 1,
+        "damage_type": "attack",
+        "damage": 10,
+        "target_type": "single_enemy",
+        "description": "Test d'effet shield",
+        "shield": true
+      }
+    },
+    {
+      "name": "Effet purify",
+      "success": true,
+      "details": {
+        "id": "test_effect_purify",
+        "name": "Test purify",
+        "element": 0,
+        "base_cooldown": 1,
+        "damage_type": "attack",
+        "damage": 10,
+        "target_type": "single_enemy",
+        "description": "Test d'effet purify",
+        "purify": true
+      }
+    },
+    {
+      "name": "Effet corruption",
+      "success": true,
+      "details": {
+        "id": "test_effect_corruption",
+        "name": "Test corruption",
+        "element": 0,
+        "base_cooldown": 1,
+        "damage_type": "attack",
+        "damage": 10,
+        "target_type": "single_enemy",
+        "description": "Test d'effet corruption",
+        "corruption": true
+      }
+    },
+    {
+      "name": "Effet annihilation",
+      "success": true,
+      "details": {
+        "id": "test_effect_annihilation",
+        "name": "Test annihilation",
+        "element": 0,
+        "base_cooldown": 1,
+        "damage_type": "attack",
+        "damage": 10,
+        "target_type": "single_enemy",
+        "description": "Test d'effet annihilation",
+        "annihilation": true
+      }
+    },
+    {
+      "name": "Effet immunity",
+      "success": true,
+      "details": {
+        "id": "test_effect_immunity",
+        "name": "Test immunity",
+        "element": 0,
+        "base_cooldown": 1,
+        "damage_type": "attack",
+        "damage": 10,
+        "target_type": "single_enemy",
+        "description": "Test d'effet immunity",
+        "immunity": true
+      }
+    },
+    {
+      "name": "Effet heal",
+      "success": true,
+      "details": {
+        "id": "test_effect_heal",
+        "name": "Test heal",
+        "element": 0,
+        "base_cooldown": 1,
+        "damage_type": "attack",
+        "damage": 10,
+        "target_type": "single_enemy",
+        "description": "Test d'effet heal",
+        "heal": true
+      }
+    },
+    {
+      "name": "Effet void",
+      "success": true,
+      "details": {
+        "id": "test_effect_void",
+        "name": "Test void",
+        "element": 0,
+        "base_cooldown": 1,
+        "damage_type": "attack",
+        "damage": 10,
+        "target_type": "single_enemy",
+        "description": "Test d'effet void",
+        "void": true
+      }
+    },
+    {
+      "name": "Effet arcanic_magic",
+      "success": true,
+      "details": {
+        "id": "test_effect_arcanic_magic",
+        "name": "Test arcanic_magic",
+        "element": 0,
+        "base_cooldown": 1,
+        "damage_type": "attack",
+        "damage": 10,
+        "target_type": "single_enemy",
+        "description": "Test d'effet arcanic_magic",
+        "arcanic_magic": true
+      }
+    },
+    {
+      "name": "Effet heal_reduction",
+      "success": true,
+      "details": {
+        "id": "test_effect_heal_reduction",
+        "name": "Test heal_reduction",
+        "element": 0,
+        "base_cooldown": 1,
+        "damage_type": "attack",
+        "damage": 10,
+        "target_type": "single_enemy",
+        "description": "Test d'effet heal_reduction",
+        "heal_reduction": true
+      }
+    },
+    {
+      "name": "Effet defense_reduction",
+      "success": true,
+      "details": {
+        "id": "test_effect_defense_reduction",
+        "name": "Test defense_reduction",
+        "element": 0,
+        "base_cooldown": 1,
+        "damage_type": "attack",
+        "damage": 10,
+        "target_type": "single_enemy",
+        "description": "Test d'effet defense_reduction",
+        "defense_reduction": true
+      }
+    },
+    {
+      "name": "Effet dodge_boost",
+      "success": true,
+      "details": {
+        "id": "test_effect_dodge_boost",
+        "name": "Test dodge_boost",
+        "element": 0,
+        "base_cooldown": 1,
+        "damage_type": "attack",
+        "damage": 10,
+        "target_type": "single_enemy",
+        "description": "Test d'effet dodge_boost",
+        "dodge_boost": true
+      }
+    },
+    {
+      "name": "Effet crit_boost",
+      "success": true,
+      "details": {
+        "id": "test_effect_crit_boost",
+        "name": "Test crit_boost",
+        "element": 0,
+        "base_cooldown": 1,
+        "damage_type": "attack",
+        "damage": 10,
+        "target_type": "single_enemy",
+        "description": "Test d'effet crit_boost",
+        "crit_boost": true
+      }
+    },
+    {
+      "name": "Effet random_debuff",
+      "success": true,
+      "details": {
+        "id": "test_effect_random_debuff",
+        "name": "Test random_debuff",
+        "element": 0,
+        "base_cooldown": 1,
+        "damage_type": "attack",
+        "damage": 10,
+        "target_type": "single_enemy",
+        "description": "Test d'effet random_debuff",
+        "random_debuff": true
+      }
+    },
+    {
+      "name": "Effet steal_mana",
+      "success": true,
+      "details": {
+        "id": "test_effect_steal_mana",
+        "name": "Test steal_mana",
+        "element": 0,
+        "base_cooldown": 1,
+        "damage_type": "attack",
+        "damage": 10,
+        "target_type": "single_enemy",
+        "description": "Test d'effet steal_mana",
+        "steal_mana": true
+      }
+    },
+    {
+      "name": "Effet damage_boost",
+      "success": true,
+      "details": {
+        "id": "test_effect_damage_boost",
+        "name": "Test damage_boost",
+        "element": 0,
+        "base_cooldown": 1,
+        "damage_type": "attack",
+        "damage": 10,
+        "target_type": "single_enemy",
+        "description": "Test d'effet damage_boost",
+        "damage_boost": true
+      }
+    },
+    {
+      "name": "Effet silence",
+      "success": true,
+      "details": {
+        "id": "test_effect_silence",
+        "name": "Test silence",
+        "element": 0,
+        "base_cooldown": 1,
+        "damage_type": "attack",
+        "damage": 10,
+        "target_type": "single_enemy",
+        "description": "Test d'effet silence",
+        "silence": true
+      }
+    },
+    {
+      "name": "Effet damage_per_turn",
+      "success": true,
+      "details": {
+        "id": "test_effect_damage_per_turn",
+        "name": "Test damage_per_turn",
+        "element": 0,
+        "base_cooldown": 1,
+        "damage_type": "attack",
+        "damage": 10,
+        "target_type": "single_enemy",
+        "description": "Test d'effet damage_per_turn",
+        "damage_per_turn": true
+      }
+    },
+    {
+      "name": "Effet damage_reduction",
+      "success": true,
+      "details": {
+        "id": "test_effect_damage_reduction",
+        "name": "Test damage_reduction",
+        "element": 0,
+        "base_cooldown": 1,
+        "damage_type": "attack",
+        "damage": 10,
+        "target_type": "single_enemy",
+        "description": "Test d'effet damage_reduction",
+        "damage_reduction": true
+      }
+    },
+    {
+      "name": "Effet precision_reduction",
+      "success": true,
+      "details": {
+        "id": "test_effect_precision_reduction",
+        "name": "Test precision_reduction",
+        "element": 0,
+        "base_cooldown": 1,
+        "damage_type": "attack",
+        "damage": 10,
+        "target_type": "single_enemy",
+        "description": "Test d'effet precision_reduction",
+        "precision_reduction": true
+      }
+    },
+    {
+      "name": "Effet electrified",
+      "success": true,
+      "details": {
+        "id": "test_effect_electrified",
+        "name": "Test electrified",
+        "element": 0,
+        "base_cooldown": 1,
+        "damage_type": "attack",
+        "damage": 10,
+        "target_type": "single_enemy",
+        "description": "Test d'effet electrified",
+        "electrified": true
+      }
+    },
+    {
+      "name": "Effet beurk",
+      "success": true,
+      "details": {
+        "id": "test_effect_beurk",
+        "name": "Test beurk",
+        "element": 0,
+        "base_cooldown": 1,
+        "damage_type": "attack",
+        "damage": 10,
+        "target_type": "single_enemy",
+        "description": "Test d'effet beurk",
+        "beurk": true
+      }
+    },
+    {
+      "name": "Interaction Feu vs Eau",
+      "success": null,
+      "details": {
+        "attacker": "Feu",
+        "defender": "Eau",
+        "ability": "5000"
+      }
+    },
+    {
+      "name": "Interaction Eau vs Terre",
+      "success": null,
+      "details": {
+        "attacker": "Eau",
+        "defender": "Terre",
+        "ability": "5250"
+      }
+    },
+    {
+      "name": "Interaction Terre vs Air",
+      "success": null,
+      "details": {
+        "attacker": "Terre",
+        "defender": "Air",
+        "ability": "5500"
+      }
+    },
+    {
+      "name": "Interaction Air vs Feu",
+      "success": null,
+      "details": {
+        "attacker": "Air",
+        "defender": "Feu",
+        "ability": "5750"
+      }
+    },
+    {
+      "name": "Interaction Glace vs Foudre",
+      "success": null,
+      "details": {
+        "attacker": "Glace",
+        "defender": "Foudre",
+        "ability": "6000"
+      }
+    },
+    {
+      "name": "Interaction Foudre vs Lumière",
+      "success": null,
+      "details": {
+        "attacker": "Foudre",
+        "defender": "Lumière",
+        "ability": "6250"
+      }
+    },
+    {
+      "name": "Interaction Lumière vs Ténèbres",
+      "success": null,
+      "details": {
+        "attacker": "Lumière",
+        "defender": "Ténèbres",
+        "ability": "6500"
+      }
+    },
+    {
+      "name": "Interaction Ténèbres vs Arcanique",
+      "success": null,
+      "details": {
+        "attacker": "Ténèbres",
+        "defender": "Arcanique",
+        "ability": "6750"
+      }
+    },
+    {
+      "name": "Interaction Arcanique vs Poison",
+      "success": null,
+      "details": {
+        "attacker": "Arcanique",
+        "defender": "Poison",
+        "ability": "7000"
+      }
+    },
+    {
+      "name": "Interaction Poison vs Nature",
+      "success": null,
+      "details": {
+        "attacker": "Poison",
+        "defender": "Nature",
+        "ability": "7250"
+      }
+    },
+    {
+      "name": "Interaction Nature vs Métal",
+      "success": null,
+      "details": {
+        "attacker": "Nature",
+        "defender": "Métal",
+        "ability": "7500"
+      }
+    },
+    {
+      "name": "Interaction Métal vs Glace",
+      "success": null,
+      "details": {
+        "attacker": "Métal",
+        "defender": "Glace",
+        "ability": "7750"
+      }
+    },
+    {
+      "name": "Murkax - Capacité 6751",
+      "success": null,
+      "details": {
+        "unit": "Murkax",
+        "ability": "6751"
+      }
+    },
+    {
+      "name": "Murkax - Capacité 6752",
+      "success": null,
+      "details": {
+        "unit": "Murkax",
+        "ability": "6752"
+      }
+    },
+    {
+      "name": "Floralia - Capacité 7250",
+      "success": null,
+      "details": {
+        "unit": "Floralia",
+        "ability": "7250"
+      }
+    },
+    {
+      "name": "Floralia - Capacité 7258",
+      "success": null,
+      "details": {
+        "unit": "Floralia",
+        "ability": "7258"
+      }
+    }
+  ]
+}

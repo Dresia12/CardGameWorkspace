@@ -1,0 +1,479 @@
+2025-08-21 17:02:08,654 - DEBUG - [ÉLÉMENTAIRE] Calcul multiplicateur élémentaire
+2025-08-21 17:02:08,654 - DEBUG - [ÉLÉMENTAIRE] Attaquant: Feu
+2025-08-21 17:02:08,654 - DEBUG - [ÉLÉMENTAIRE] Défenseur: Feu
+2025-08-21 17:02:08,654 - DEBUG - [ÉLÉMENTAIRE] Multiplicateur: 1.0
+2025-08-21 17:02:08,654 - DEBUG - [EFFET] === DÉBUT APPLICATION EFFET ===
+2025-08-21 17:02:08,654 - DEBUG - [EFFET] Type: damage
+2025-08-21 17:02:08,654 - DEBUG - [EFFET] Valeur: 20
+2025-08-21 17:02:08,654 - DEBUG - [EFFET] Durée: 1
+2025-08-21 17:02:08,654 - DEBUG - [EFFET] Élément: Feu
+2025-08-21 17:02:08,654 - DEBUG - [EFFET] Source: Solaris, Champion des Cendres
+2025-08-21 17:02:08,654 - DEBUG - [EFFET] Cible: Rubra, Salamandre Incandescente
+2025-08-21 17:02:08,804 - DEBUG - [INTERACTION] === DÉBUT INTERACTIONS AVANCÉES ===
+2025-08-21 17:02:08,804 - DEBUG - [INTERACTION] Type d'effet: damage
+2025-08-21 17:02:08,804 - DEBUG - [INTERACTION] Élément source: Feu
+2025-08-21 17:02:08,804 - DEBUG - [INTERACTION] Cible: Rubra, Salamandre Incandescente
+2025-08-21 17:02:08,804 - DEBUG - [DÉGÂTS] Application des dégâts
+2025-08-21 17:02:08,804 - DEBUG - [DÉGÂTS] HP avant: 780
+2025-08-21 17:02:08,804 - DEBUG - [DÉGÂTS] Dégâts infligés: 20
+2025-08-21 17:02:08,804 - DEBUG - [DÉGÂTS] HP après: 760
+2025-08-21 17:02:08,804 - DEBUG - [EFFET] === DÉBUT APPLICATION EFFET ===
+2025-08-21 17:02:08,804 - DEBUG - [EFFET] Type: damage
+2025-08-21 17:02:08,804 - DEBUG - [EFFET] Valeur: 20
+2025-08-21 17:02:08,804 - DEBUG - [EFFET] Durée: 1
+2025-08-21 17:02:08,804 - DEBUG - [EFFET] Élément: Feu
+2025-08-21 17:02:08,804 - DEBUG - [EFFET] Source: Solaris, Champion des Cendres
+2025-08-21 17:02:08,804 - DEBUG - [EFFET] Cible: Incendior, Dragon de Feu
+2025-08-21 17:02:08,804 - DEBUG - [INTERACTION] === DÉBUT INTERACTIONS AVANCÉES ===
+2025-08-21 17:02:08,804 - DEBUG - [INTERACTION] Type d'effet: damage
+2025-08-21 17:02:08,804 - DEBUG - [INTERACTION] Élément source: Feu
+2025-08-21 17:02:08,804 - DEBUG - [INTERACTION] Cible: Incendior, Dragon de Feu
+2025-08-21 17:02:08,805 - DEBUG - [DÉGÂTS] Application des dégâts
+2025-08-21 17:02:08,805 - DEBUG - [DÉGÂTS] HP avant: 940
+2025-08-21 17:02:08,805 - DEBUG - [DÉGÂTS] Dégâts infligés: 20
+2025-08-21 17:02:08,805 - DEBUG - [DÉGÂTS] HP après: 920
+2025-08-21 17:02:08,805 - DEBUG - [EFFET] === DÉBUT APPLICATION EFFET ===
+2025-08-21 17:02:08,805 - DEBUG - [EFFET] Type: damage
+2025-08-21 17:02:08,805 - DEBUG - [EFFET] Valeur: 20
+2025-08-21 17:02:08,805 - DEBUG - [EFFET] Durée: 1
+2025-08-21 17:02:08,805 - DEBUG - [EFFET] Élément: Feu
+2025-08-21 17:02:08,805 - DEBUG - [EFFET] Source: Solaris, Champion des Cendres
+2025-08-21 17:02:08,805 - DEBUG - [EFFET] Cible: Solune, Chamane Solaire
+2025-08-21 17:02:08,805 - DEBUG - [INTERACTION] === DÉBUT INTERACTIONS AVANCÉES ===
+2025-08-21 17:02:08,805 - DEBUG - [INTERACTION] Type d'effet: damage
+2025-08-21 17:02:08,805 - DEBUG - [INTERACTION] Élément source: Feu
+2025-08-21 17:02:08,805 - DEBUG - [INTERACTION] Cible: Solune, Chamane Solaire
+2025-08-21 17:02:08,805 - DEBUG - [DÉGÂTS] Application des dégâts
+2025-08-21 17:02:08,805 - DEBUG - [DÉGÂTS] HP avant: 850
+2025-08-21 17:02:08,805 - DEBUG - [DÉGÂTS] Dégâts infligés: 20
+2025-08-21 17:02:08,805 - DEBUG - [DÉGÂTS] HP après: 830
+2025-08-21 17:02:08,812 - DEBUG - [ÉLÉMENTAIRE] Calcul multiplicateur élémentaire
+2025-08-21 17:02:08,812 - DEBUG - [ÉLÉMENTAIRE] Attaquant: Feu
+2025-08-21 17:02:08,812 - DEBUG - [ÉLÉMENTAIRE] Défenseur: Feu
+2025-08-21 17:02:08,812 - DEBUG - [ÉLÉMENTAIRE] Multiplicateur: 1.0
+2025-08-21 17:02:08,812 - DEBUG - [EFFET] === DÉBUT APPLICATION EFFET ===
+2025-08-21 17:02:08,812 - DEBUG - [EFFET] Type: damage
+2025-08-21 17:02:08,812 - DEBUG - [EFFET] Valeur: 20
+2025-08-21 17:02:08,812 - DEBUG - [EFFET] Durée: 1
+2025-08-21 17:02:08,813 - DEBUG - [EFFET] Élément: Feu
+2025-08-21 17:02:08,813 - DEBUG - [EFFET] Source: Solaris, Champion des Cendres
+2025-08-21 17:02:08,813 - DEBUG - [EFFET] Cible: Gelgor, Troll du Givre
+2025-08-21 17:02:08,813 - DEBUG - [INTERACTION] === DÉBUT INTERACTIONS AVANCÉES ===
+2025-08-21 17:02:08,813 - DEBUG - [INTERACTION] Type d'effet: damage
+2025-08-21 17:02:08,813 - DEBUG - [INTERACTION] Élément source: Feu
+2025-08-21 17:02:08,813 - DEBUG - [INTERACTION] Cible: Gelgor, Troll du Givre
+2025-08-21 17:02:08,813 - DEBUG - [DÉGÂTS] Application des dégâts
+2025-08-21 17:02:08,813 - DEBUG - [DÉGÂTS] HP avant: 1040
+2025-08-21 17:02:08,813 - DEBUG - [DÉGÂTS] Dégâts infligés: 20
+2025-08-21 17:02:08,813 - DEBUG - [DÉGÂTS] HP après: 1020
+2025-08-21 17:02:08,813 - DEBUG - [EFFET] === DÉBUT APPLICATION EFFET ===
+2025-08-21 17:02:08,813 - DEBUG - [EFFET] Type: damage
+2025-08-21 17:02:08,813 - DEBUG - [EFFET] Valeur: 20
+2025-08-21 17:02:08,813 - DEBUG - [EFFET] Durée: 1
+2025-08-21 17:02:08,813 - DEBUG - [EFFET] Élément: Feu
+2025-08-21 17:02:08,813 - DEBUG - [EFFET] Source: Solaris, Champion des Cendres
+2025-08-21 17:02:08,813 - DEBUG - [EFFET] Cible: Cryomage, Mage du Givre
+2025-08-21 17:02:08,813 - DEBUG - [INTERACTION] === DÉBUT INTERACTIONS AVANCÉES ===
+2025-08-21 17:02:08,813 - DEBUG - [INTERACTION] Type d'effet: damage
+2025-08-21 17:02:08,813 - DEBUG - [INTERACTION] Élément source: Feu
+2025-08-21 17:02:08,813 - DEBUG - [INTERACTION] Cible: Cryomage, Mage du Givre
+2025-08-21 17:02:08,813 - DEBUG - [DÉGÂTS] Application des dégâts
+2025-08-21 17:02:08,813 - DEBUG - [DÉGÂTS] HP avant: 1290
+2025-08-21 17:02:08,813 - DEBUG - [DÉGÂTS] Dégâts infligés: 20
+2025-08-21 17:02:08,813 - DEBUG - [DÉGÂTS] HP après: 1270
+2025-08-21 17:02:08,813 - DEBUG - [EFFET] === DÉBUT APPLICATION EFFET ===
+2025-08-21 17:02:08,813 - DEBUG - [EFFET] Type: damage
+2025-08-21 17:02:08,813 - DEBUG - [EFFET] Valeur: 20
+2025-08-21 17:02:08,813 - DEBUG - [EFFET] Durée: 1
+2025-08-21 17:02:08,813 - DEBUG - [EFFET] Élément: Feu
+2025-08-21 17:02:08,813 - DEBUG - [EFFET] Source: Solaris, Champion des Cendres
+2025-08-21 17:02:08,813 - DEBUG - [EFFET] Cible: Gélax, Lutin de la Banquise
+2025-08-21 17:02:08,814 - DEBUG - [INTERACTION] === DÉBUT INTERACTIONS AVANCÉES ===
+2025-08-21 17:02:08,814 - DEBUG - [INTERACTION] Type d'effet: damage
+2025-08-21 17:02:08,814 - DEBUG - [INTERACTION] Élément source: Feu
+2025-08-21 17:02:08,814 - DEBUG - [INTERACTION] Cible: Gélax, Lutin de la Banquise
+2025-08-21 17:02:08,814 - DEBUG - [DÉGÂTS] Application des dégâts
+2025-08-21 17:02:08,814 - DEBUG - [DÉGÂTS] HP avant: 810
+2025-08-21 17:02:08,814 - DEBUG - [DÉGÂTS] Dégâts infligés: 20
+2025-08-21 17:02:08,814 - DEBUG - [DÉGÂTS] HP après: 790
+2025-08-21 17:02:08,819 - DEBUG - [ÉLÉMENTAIRE] Calcul multiplicateur élémentaire
+2025-08-21 17:02:08,819 - DEBUG - [ÉLÉMENTAIRE] Attaquant: Feu
+2025-08-21 17:02:08,819 - DEBUG - [ÉLÉMENTAIRE] Défenseur: Feu
+2025-08-21 17:02:08,819 - DEBUG - [ÉLÉMENTAIRE] Multiplicateur: 1.0
+2025-08-21 17:02:08,819 - DEBUG - [EFFET] === DÉBUT APPLICATION EFFET ===
+2025-08-21 17:02:08,820 - DEBUG - [EFFET] Type: damage
+2025-08-21 17:02:08,820 - DEBUG - [EFFET] Valeur: 20
+2025-08-21 17:02:08,820 - DEBUG - [EFFET] Durée: 1
+2025-08-21 17:02:08,820 - DEBUG - [EFFET] Élément: Feu
+2025-08-21 17:02:08,820 - DEBUG - [EFFET] Source: Solaris, Champion des Cendres
+2025-08-21 17:02:08,820 - DEBUG - [EFFET] Cible: Aeris, Esprit du Zéphyr
+2025-08-21 17:02:08,820 - DEBUG - [INTERACTION] === DÉBUT INTERACTIONS AVANCÉES ===
+2025-08-21 17:02:08,820 - DEBUG - [INTERACTION] Type d'effet: damage
+2025-08-21 17:02:08,820 - DEBUG - [INTERACTION] Élément source: Feu
+2025-08-21 17:02:08,820 - DEBUG - [INTERACTION] Cible: Aeris, Esprit du Zéphyr
+2025-08-21 17:02:08,820 - DEBUG - [DÉGÂTS] Application des dégâts
+2025-08-21 17:02:08,820 - DEBUG - [DÉGÂTS] HP avant: 950
+2025-08-21 17:02:08,820 - DEBUG - [DÉGÂTS] Dégâts infligés: 20
+2025-08-21 17:02:08,820 - DEBUG - [DÉGÂTS] HP après: 930
+2025-08-21 17:02:08,820 - DEBUG - [EFFET] === DÉBUT APPLICATION EFFET ===
+2025-08-21 17:02:08,820 - DEBUG - [EFFET] Type: damage
+2025-08-21 17:02:08,820 - DEBUG - [EFFET] Valeur: 20
+2025-08-21 17:02:08,820 - DEBUG - [EFFET] Durée: 1
+2025-08-21 17:02:08,820 - DEBUG - [EFFET] Élément: Feu
+2025-08-21 17:02:08,820 - DEBUG - [EFFET] Source: Solaris, Champion des Cendres
+2025-08-21 17:02:08,820 - DEBUG - [EFFET] Cible: Zyklair, Djinn des Rafales
+2025-08-21 17:02:08,820 - DEBUG - [INTERACTION] === DÉBUT INTERACTIONS AVANCÉES ===
+2025-08-21 17:02:08,820 - DEBUG - [INTERACTION] Type d'effet: damage
+2025-08-21 17:02:08,820 - DEBUG - [INTERACTION] Élément source: Feu
+2025-08-21 17:02:08,820 - DEBUG - [INTERACTION] Cible: Zyklair, Djinn des Rafales
+2025-08-21 17:02:08,820 - DEBUG - [DÉGÂTS] Application des dégâts
+2025-08-21 17:02:08,820 - DEBUG - [DÉGÂTS] HP avant: 940
+2025-08-21 17:02:08,820 - DEBUG - [DÉGÂTS] Dégâts infligés: 20
+2025-08-21 17:02:08,820 - DEBUG - [DÉGÂTS] HP après: 920
+2025-08-21 17:02:08,820 - DEBUG - [EFFET] === DÉBUT APPLICATION EFFET ===
+2025-08-21 17:02:08,820 - DEBUG - [EFFET] Type: damage
+2025-08-21 17:02:08,820 - DEBUG - [EFFET] Valeur: 20
+2025-08-21 17:02:08,820 - DEBUG - [EFFET] Durée: 1
+2025-08-21 17:02:08,821 - DEBUG - [EFFET] Élément: Feu
+2025-08-21 17:02:08,821 - DEBUG - [EFFET] Source: Solaris, Champion des Cendres
+2025-08-21 17:02:08,821 - DEBUG - [EFFET] Cible: Zepho, Génie des Courants
+2025-08-21 17:02:08,821 - DEBUG - [INTERACTION] === DÉBUT INTERACTIONS AVANCÉES ===
+2025-08-21 17:02:08,821 - DEBUG - [INTERACTION] Type d'effet: damage
+2025-08-21 17:02:08,821 - DEBUG - [INTERACTION] Élément source: Feu
+2025-08-21 17:02:08,821 - DEBUG - [INTERACTION] Cible: Zepho, Génie des Courants
+2025-08-21 17:02:08,821 - DEBUG - [DÉGÂTS] Application des dégâts
+2025-08-21 17:02:08,821 - DEBUG - [DÉGÂTS] HP avant: 865
+2025-08-21 17:02:08,821 - DEBUG - [DÉGÂTS] Dégâts infligés: 20
+2025-08-21 17:02:08,821 - DEBUG - [DÉGÂTS] HP après: 845
+2025-08-21 17:02:08,827 - DEBUG - [ÉLÉMENTAIRE] Calcul multiplicateur élémentaire
+2025-08-21 17:02:08,827 - DEBUG - [ÉLÉMENTAIRE] Attaquant: Feu
+2025-08-21 17:02:08,827 - DEBUG - [ÉLÉMENTAIRE] Défenseur: Feu
+2025-08-21 17:02:08,827 - DEBUG - [ÉLÉMENTAIRE] Multiplicateur: 1.0
+2025-08-21 17:02:08,827 - DEBUG - [EFFET] === DÉBUT APPLICATION EFFET ===
+2025-08-21 17:02:08,827 - DEBUG - [EFFET] Type: damage
+2025-08-21 17:02:08,827 - DEBUG - [EFFET] Valeur: 20
+2025-08-21 17:02:08,827 - DEBUG - [EFFET] Durée: 1
+2025-08-21 17:02:08,827 - DEBUG - [EFFET] Élément: Feu
+2025-08-21 17:02:08,827 - DEBUG - [EFFET] Source: Solaris, Champion des Cendres
+2025-08-21 17:02:08,827 - DEBUG - [EFFET] Cible: Lumberjack, Bûcheron du Grand Nord
+2025-08-21 17:02:08,827 - DEBUG - [INTERACTION] === DÉBUT INTERACTIONS AVANCÉES ===
+2025-08-21 17:02:08,827 - DEBUG - [INTERACTION] Type d'effet: damage
+2025-08-21 17:02:08,827 - DEBUG - [INTERACTION] Élément source: Feu
+2025-08-21 17:02:08,827 - DEBUG - [INTERACTION] Cible: Lumberjack, Bûcheron du Grand Nord
+2025-08-21 17:02:08,827 - DEBUG - [DÉGÂTS] Application des dégâts
+2025-08-21 17:02:08,827 - DEBUG - [DÉGÂTS] HP avant: 1190
+2025-08-21 17:02:08,827 - DEBUG - [DÉGÂTS] Dégâts infligés: 20
+2025-08-21 17:02:08,827 - DEBUG - [DÉGÂTS] HP après: 1170
+2025-08-21 17:02:08,827 - DEBUG - [EFFET] === DÉBUT APPLICATION EFFET ===
+2025-08-21 17:02:08,827 - DEBUG - [EFFET] Type: damage
+2025-08-21 17:02:08,827 - DEBUG - [EFFET] Valeur: 20
+2025-08-21 17:02:08,827 - DEBUG - [EFFET] Durée: 1
+2025-08-21 17:02:08,828 - DEBUG - [EFFET] Élément: Feu
+2025-08-21 17:02:08,828 - DEBUG - [EFFET] Source: Solaris, Champion des Cendres
+2025-08-21 17:02:08,828 - DEBUG - [EFFET] Cible: Lixor, Golem Cristallin
+2025-08-21 17:02:08,828 - DEBUG - [INTERACTION] === DÉBUT INTERACTIONS AVANCÉES ===
+2025-08-21 17:02:08,828 - DEBUG - [INTERACTION] Type d'effet: damage
+2025-08-21 17:02:08,828 - DEBUG - [INTERACTION] Élément source: Feu
+2025-08-21 17:02:08,828 - DEBUG - [INTERACTION] Cible: Lixor, Golem Cristallin
+2025-08-21 17:02:08,828 - DEBUG - [DÉGÂTS] Application des dégâts
+2025-08-21 17:02:08,828 - DEBUG - [DÉGÂTS] HP avant: 870
+2025-08-21 17:02:08,828 - DEBUG - [DÉGÂTS] Dégâts infligés: 20
+2025-08-21 17:02:08,828 - DEBUG - [DÉGÂTS] HP après: 850
+2025-08-21 17:02:08,828 - DEBUG - [EFFET] === DÉBUT APPLICATION EFFET ===
+2025-08-21 17:02:08,828 - DEBUG - [EFFET] Type: damage
+2025-08-21 17:02:08,828 - DEBUG - [EFFET] Valeur: 20
+2025-08-21 17:02:08,828 - DEBUG - [EFFET] Durée: 1
+2025-08-21 17:02:08,828 - DEBUG - [EFFET] Élément: Feu
+2025-08-21 17:02:08,828 - DEBUG - [EFFET] Source: Solaris, Champion des Cendres
+2025-08-21 17:02:08,828 - DEBUG - [EFFET] Cible: Roktus, Gobelin Mineur
+2025-08-21 17:02:08,828 - DEBUG - [INTERACTION] === DÉBUT INTERACTIONS AVANCÉES ===
+2025-08-21 17:02:08,828 - DEBUG - [INTERACTION] Type d'effet: damage
+2025-08-21 17:02:08,828 - DEBUG - [INTERACTION] Élément source: Feu
+2025-08-21 17:02:08,828 - DEBUG - [INTERACTION] Cible: Roktus, Gobelin Mineur
+2025-08-21 17:02:08,828 - DEBUG - [DÉGÂTS] Application des dégâts
+2025-08-21 17:02:08,828 - DEBUG - [DÉGÂTS] HP avant: 845
+2025-08-21 17:02:08,828 - DEBUG - [DÉGÂTS] Dégâts infligés: 20
+2025-08-21 17:02:08,828 - DEBUG - [DÉGÂTS] HP après: 825
+2025-08-21 17:02:08,834 - DEBUG - [ÉLÉMENTAIRE] Calcul multiplicateur élémentaire
+2025-08-21 17:02:08,834 - DEBUG - [ÉLÉMENTAIRE] Attaquant: Feu
+2025-08-21 17:02:08,834 - DEBUG - [ÉLÉMENTAIRE] Défenseur: Feu
+2025-08-21 17:02:08,834 - DEBUG - [ÉLÉMENTAIRE] Multiplicateur: 1.0
+2025-08-21 17:02:08,835 - DEBUG - [EFFET] === DÉBUT APPLICATION EFFET ===
+2025-08-21 17:02:08,835 - DEBUG - [EFFET] Type: damage
+2025-08-21 17:02:08,835 - DEBUG - [EFFET] Valeur: 20
+2025-08-21 17:02:08,835 - DEBUG - [EFFET] Durée: 1
+2025-08-21 17:02:08,835 - DEBUG - [EFFET] Élément: Feu
+2025-08-21 17:02:08,835 - DEBUG - [EFFET] Source: Solaris, Champion des Cendres
+2025-08-21 17:02:08,835 - DEBUG - [EFFET] Cible: Fulminia, Valkyrie de l'Orage
+2025-08-21 17:02:08,835 - DEBUG - [INTERACTION] === DÉBUT INTERACTIONS AVANCÉES ===
+2025-08-21 17:02:08,835 - DEBUG - [INTERACTION] Type d'effet: damage
+2025-08-21 17:02:08,835 - DEBUG - [INTERACTION] Élément source: Feu
+2025-08-21 17:02:08,835 - DEBUG - [INTERACTION] Cible: Fulminia, Valkyrie de l'Orage
+2025-08-21 17:02:08,835 - DEBUG - [DÉGÂTS] Application des dégâts
+2025-08-21 17:02:08,835 - DEBUG - [DÉGÂTS] HP avant: 940
+2025-08-21 17:02:08,835 - DEBUG - [DÉGÂTS] Dégâts infligés: 20
+2025-08-21 17:02:08,835 - DEBUG - [DÉGÂTS] HP après: 920
+2025-08-21 17:02:08,835 - DEBUG - [EFFET] === DÉBUT APPLICATION EFFET ===
+2025-08-21 17:02:08,835 - DEBUG - [EFFET] Type: damage
+2025-08-21 17:02:08,835 - DEBUG - [EFFET] Valeur: 20
+2025-08-21 17:02:08,835 - DEBUG - [EFFET] Durée: 1
+2025-08-21 17:02:08,835 - DEBUG - [EFFET] Élément: Feu
+2025-08-21 17:02:08,835 - DEBUG - [EFFET] Source: Solaris, Champion des Cendres
+2025-08-21 17:02:08,835 - DEBUG - [EFFET] Cible: Fulgo, Orbe Electrique
+2025-08-21 17:02:08,835 - DEBUG - [INTERACTION] === DÉBUT INTERACTIONS AVANCÉES ===
+2025-08-21 17:02:08,835 - DEBUG - [INTERACTION] Type d'effet: damage
+2025-08-21 17:02:08,835 - DEBUG - [INTERACTION] Élément source: Feu
+2025-08-21 17:02:08,835 - DEBUG - [INTERACTION] Cible: Fulgo, Orbe Electrique
+2025-08-21 17:02:08,835 - DEBUG - [DÉGÂTS] Application des dégâts
+2025-08-21 17:02:08,835 - DEBUG - [DÉGÂTS] HP avant: 830
+2025-08-21 17:02:08,835 - DEBUG - [DÉGÂTS] Dégâts infligés: 20
+2025-08-21 17:02:08,835 - DEBUG - [DÉGÂTS] HP après: 810
+2025-08-21 17:02:08,835 - DEBUG - [EFFET] === DÉBUT APPLICATION EFFET ===
+2025-08-21 17:02:08,835 - DEBUG - [EFFET] Type: damage
+2025-08-21 17:02:08,835 - DEBUG - [EFFET] Valeur: 20
+2025-08-21 17:02:08,835 - DEBUG - [EFFET] Durée: 1
+2025-08-21 17:02:08,836 - DEBUG - [EFFET] Élément: Feu
+2025-08-21 17:02:08,836 - DEBUG - [EFFET] Source: Solaris, Champion des Cendres
+2025-08-21 17:02:08,836 - DEBUG - [EFFET] Cible: Voltania, Serpent Fulgurant
+2025-08-21 17:02:08,836 - DEBUG - [INTERACTION] === DÉBUT INTERACTIONS AVANCÉES ===
+2025-08-21 17:02:08,836 - DEBUG - [INTERACTION] Type d'effet: damage
+2025-08-21 17:02:08,836 - DEBUG - [INTERACTION] Élément source: Feu
+2025-08-21 17:02:08,836 - DEBUG - [INTERACTION] Cible: Voltania, Serpent Fulgurant
+2025-08-21 17:02:08,836 - DEBUG - [DÉGÂTS] Application des dégâts
+2025-08-21 17:02:08,836 - DEBUG - [DÉGÂTS] HP avant: 950
+2025-08-21 17:02:08,836 - DEBUG - [DÉGÂTS] Dégâts infligés: 20
+2025-08-21 17:02:08,836 - DEBUG - [DÉGÂTS] HP après: 930
+2025-08-21 17:02:08,841 - DEBUG - [ÉLÉMENTAIRE] Calcul multiplicateur élémentaire
+2025-08-21 17:02:08,842 - DEBUG - [ÉLÉMENTAIRE] Attaquant: Feu
+2025-08-21 17:02:08,842 - DEBUG - [ÉLÉMENTAIRE] Défenseur: Feu
+2025-08-21 17:02:08,842 - DEBUG - [ÉLÉMENTAIRE] Multiplicateur: 1.0
+2025-08-21 17:02:08,842 - DEBUG - [EFFET] === DÉBUT APPLICATION EFFET ===
+2025-08-21 17:02:08,842 - DEBUG - [EFFET] Type: damage
+2025-08-21 17:02:08,842 - DEBUG - [EFFET] Valeur: 20
+2025-08-21 17:02:08,842 - DEBUG - [EFFET] Durée: 1
+2025-08-21 17:02:08,842 - DEBUG - [EFFET] Élément: Feu
+2025-08-21 17:02:08,842 - DEBUG - [EFFET] Source: Solaris, Champion des Cendres
+2025-08-21 17:02:08,842 - DEBUG - [EFFET] Cible: Torrentis, Gardien de l'Écume
+2025-08-21 17:02:08,842 - DEBUG - [INTERACTION] === DÉBUT INTERACTIONS AVANCÉES ===
+2025-08-21 17:02:08,842 - DEBUG - [INTERACTION] Type d'effet: damage
+2025-08-21 17:02:08,842 - DEBUG - [INTERACTION] Élément source: Feu
+2025-08-21 17:02:08,842 - DEBUG - [INTERACTION] Cible: Torrentis, Gardien de l'Écume
+2025-08-21 17:02:08,842 - DEBUG - [DÉGÂTS] Application des dégâts
+2025-08-21 17:02:08,842 - DEBUG - [DÉGÂTS] HP avant: 780
+2025-08-21 17:02:08,842 - DEBUG - [DÉGÂTS] Dégâts infligés: 20
+2025-08-21 17:02:08,842 - DEBUG - [DÉGÂTS] HP après: 760
+2025-08-21 17:02:08,842 - DEBUG - [EFFET] === DÉBUT APPLICATION EFFET ===
+2025-08-21 17:02:08,842 - DEBUG - [EFFET] Type: damage
+2025-08-21 17:02:08,842 - DEBUG - [EFFET] Valeur: 20
+2025-08-21 17:02:08,842 - DEBUG - [EFFET] Durée: 1
+2025-08-21 17:02:08,842 - DEBUG - [EFFET] Élément: Feu
+2025-08-21 17:02:08,842 - DEBUG - [EFFET] Source: Solaris, Champion des Cendres
+2025-08-21 17:02:08,842 - DEBUG - [EFFET] Cible: Abyssalor, Kraken des Profondeurs
+2025-08-21 17:02:08,842 - DEBUG - [INTERACTION] === DÉBUT INTERACTIONS AVANCÉES ===
+2025-08-21 17:02:08,842 - DEBUG - [INTERACTION] Type d'effet: damage
+2025-08-21 17:02:08,842 - DEBUG - [INTERACTION] Élément source: Feu
+2025-08-21 17:02:08,842 - DEBUG - [INTERACTION] Cible: Abyssalor, Kraken des Profondeurs
+2025-08-21 17:02:08,842 - DEBUG - [DÉGÂTS] Application des dégâts
+2025-08-21 17:02:08,842 - DEBUG - [DÉGÂTS] HP avant: 1160
+2025-08-21 17:02:08,843 - DEBUG - [DÉGÂTS] Dégâts infligés: 20
+2025-08-21 17:02:08,843 - DEBUG - [DÉGÂTS] HP après: 1140
+2025-08-21 17:02:08,843 - DEBUG - [EFFET] === DÉBUT APPLICATION EFFET ===
+2025-08-21 17:02:08,843 - DEBUG - [EFFET] Type: damage
+2025-08-21 17:02:08,843 - DEBUG - [EFFET] Valeur: 20
+2025-08-21 17:02:08,843 - DEBUG - [EFFET] Durée: 1
+2025-08-21 17:02:08,843 - DEBUG - [EFFET] Élément: Feu
+2025-08-21 17:02:08,843 - DEBUG - [EFFET] Source: Solaris, Champion des Cendres
+2025-08-21 17:02:08,843 - DEBUG - [EFFET] Cible: Torrick, Gardien du Torrent
+2025-08-21 17:02:08,843 - DEBUG - [INTERACTION] === DÉBUT INTERACTIONS AVANCÉES ===
+2025-08-21 17:02:08,843 - DEBUG - [INTERACTION] Type d'effet: damage
+2025-08-21 17:02:08,843 - DEBUG - [INTERACTION] Élément source: Feu
+2025-08-21 17:02:08,843 - DEBUG - [INTERACTION] Cible: Torrick, Gardien du Torrent
+2025-08-21 17:02:08,843 - DEBUG - [DÉGÂTS] Application des dégâts
+2025-08-21 17:02:08,843 - DEBUG - [DÉGÂTS] HP avant: 1350
+2025-08-21 17:02:08,843 - DEBUG - [DÉGÂTS] Dégâts infligés: 20
+2025-08-21 17:02:08,843 - DEBUG - [DÉGÂTS] HP après: 1330
+2025-08-21 17:02:08,849 - DEBUG - [ÉLÉMENTAIRE] Calcul multiplicateur élémentaire
+2025-08-21 17:02:08,849 - DEBUG - [ÉLÉMENTAIRE] Attaquant: Feu
+2025-08-21 17:02:08,849 - DEBUG - [ÉLÉMENTAIRE] Défenseur: Feu
+2025-08-21 17:02:08,849 - DEBUG - [ÉLÉMENTAIRE] Multiplicateur: 1.0
+2025-08-21 17:02:08,849 - DEBUG - [EFFET] === DÉBUT APPLICATION EFFET ===
+2025-08-21 17:02:08,849 - DEBUG - [EFFET] Type: damage
+2025-08-21 17:02:08,849 - DEBUG - [EFFET] Valeur: 20
+2025-08-21 17:02:08,849 - DEBUG - [EFFET] Durée: 1
+2025-08-21 17:02:08,849 - DEBUG - [EFFET] Élément: Feu
+2025-08-21 17:02:08,849 - DEBUG - [EFFET] Source: Solaris, Champion des Cendres
+2025-08-21 17:02:08,849 - DEBUG - [EFFET] Cible: Sylvara, Esprit de la Canopée
+2025-08-21 17:02:08,849 - DEBUG - [INTERACTION] === DÉBUT INTERACTIONS AVANCÉES ===
+2025-08-21 17:02:08,850 - DEBUG - [INTERACTION] Type d'effet: damage
+2025-08-21 17:02:08,850 - DEBUG - [INTERACTION] Élément source: Feu
+2025-08-21 17:02:08,850 - DEBUG - [INTERACTION] Cible: Sylvara, Esprit de la Canopée
+2025-08-21 17:02:08,850 - DEBUG - [DÉGÂTS] Application des dégâts
+2025-08-21 17:02:08,850 - DEBUG - [DÉGÂTS] HP avant: 1220
+2025-08-21 17:02:08,850 - DEBUG - [DÉGÂTS] Dégâts infligés: 20
+2025-08-21 17:02:08,850 - DEBUG - [DÉGÂTS] HP après: 1200
+2025-08-21 17:02:08,850 - DEBUG - [EFFET] === DÉBUT APPLICATION EFFET ===
+2025-08-21 17:02:08,850 - DEBUG - [EFFET] Type: damage
+2025-08-21 17:02:08,850 - DEBUG - [EFFET] Valeur: 20
+2025-08-21 17:02:08,850 - DEBUG - [EFFET] Durée: 1
+2025-08-21 17:02:08,850 - DEBUG - [EFFET] Élément: Feu
+2025-08-21 17:02:08,850 - DEBUG - [EFFET] Source: Solaris, Champion des Cendres
+2025-08-21 17:02:08,850 - DEBUG - [EFFET] Cible: Crotignus, Crotte de Nez Mouvante
+2025-08-21 17:02:08,850 - DEBUG - [INTERACTION] === DÉBUT INTERACTIONS AVANCÉES ===
+2025-08-21 17:02:08,850 - DEBUG - [INTERACTION] Type d'effet: damage
+2025-08-21 17:02:08,850 - DEBUG - [INTERACTION] Élément source: Feu
+2025-08-21 17:02:08,850 - DEBUG - [INTERACTION] Cible: Crotignus, Crotte de Nez Mouvante
+2025-08-21 17:02:08,850 - DEBUG - [DÉGÂTS] Application des dégâts
+2025-08-21 17:02:08,850 - DEBUG - [DÉGÂTS] HP avant: 780
+2025-08-21 17:02:08,850 - DEBUG - [DÉGÂTS] Dégâts infligés: 20
+2025-08-21 17:02:08,850 - DEBUG - [DÉGÂTS] HP après: 760
+2025-08-21 17:02:08,850 - DEBUG - [EFFET] === DÉBUT APPLICATION EFFET ===
+2025-08-21 17:02:08,850 - DEBUG - [EFFET] Type: damage
+2025-08-21 17:02:08,850 - DEBUG - [EFFET] Valeur: 20
+2025-08-21 17:02:08,850 - DEBUG - [EFFET] Durée: 1
+2025-08-21 17:02:08,850 - DEBUG - [EFFET] Élément: Feu
+2025-08-21 17:02:08,850 - DEBUG - [EFFET] Source: Solaris, Champion des Cendres
+2025-08-21 17:02:08,850 - DEBUG - [EFFET] Cible: Sylvert, Gardien de la Brume
+2025-08-21 17:02:08,850 - DEBUG - [INTERACTION] === DÉBUT INTERACTIONS AVANCÉES ===
+2025-08-21 17:02:08,850 - DEBUG - [INTERACTION] Type d'effet: damage
+2025-08-21 17:02:08,850 - DEBUG - [INTERACTION] Élément source: Feu
+2025-08-21 17:02:08,850 - DEBUG - [INTERACTION] Cible: Sylvert, Gardien de la Brume
+2025-08-21 17:02:08,850 - DEBUG - [DÉGÂTS] Application des dégâts
+2025-08-21 17:02:08,850 - DEBUG - [DÉGÂTS] HP avant: 1200
+2025-08-21 17:02:08,851 - DEBUG - [DÉGÂTS] Dégâts infligés: 20
+2025-08-21 17:02:08,851 - DEBUG - [DÉGÂTS] HP après: 1180
+2025-08-21 17:02:08,856 - DEBUG - [ÉLÉMENTAIRE] Calcul multiplicateur élémentaire
+2025-08-21 17:02:08,856 - DEBUG - [ÉLÉMENTAIRE] Attaquant: Feu
+2025-08-21 17:02:08,856 - DEBUG - [ÉLÉMENTAIRE] Défenseur: Feu
+2025-08-21 17:02:08,856 - DEBUG - [ÉLÉMENTAIRE] Multiplicateur: 1.0
+2025-08-21 17:02:08,856 - DEBUG - [EFFET] === DÉBUT APPLICATION EFFET ===
+2025-08-21 17:02:08,856 - DEBUG - [EFFET] Type: damage
+2025-08-21 17:02:08,856 - DEBUG - [EFFET] Valeur: 20
+2025-08-21 17:02:08,856 - DEBUG - [EFFET] Durée: 1
+2025-08-21 17:02:08,856 - DEBUG - [EFFET] Élément: Feu
+2025-08-21 17:02:08,856 - DEBUG - [EFFET] Source: Solaris, Champion des Cendres
+2025-08-21 17:02:08,856 - DEBUG - [EFFET] Cible: Lumicorne, Licorne Dorée
+2025-08-21 17:02:08,856 - DEBUG - [INTERACTION] === DÉBUT INTERACTIONS AVANCÉES ===
+2025-08-21 17:02:08,856 - DEBUG - [INTERACTION] Type d'effet: damage
+2025-08-21 17:02:08,856 - DEBUG - [INTERACTION] Élément source: Feu
+2025-08-21 17:02:08,856 - DEBUG - [INTERACTION] Cible: Lumicorne, Licorne Dorée
+2025-08-21 17:02:08,856 - DEBUG - [DÉGÂTS] Application des dégâts
+2025-08-21 17:02:08,856 - DEBUG - [DÉGÂTS] HP avant: 830
+2025-08-21 17:02:08,856 - DEBUG - [DÉGÂTS] Dégâts infligés: 20
+2025-08-21 17:02:08,856 - DEBUG - [DÉGÂTS] HP après: 810
+2025-08-21 17:02:08,856 - DEBUG - [EFFET] === DÉBUT APPLICATION EFFET ===
+2025-08-21 17:02:08,856 - DEBUG - [EFFET] Type: damage
+2025-08-21 17:02:08,857 - DEBUG - [EFFET] Valeur: 20
+2025-08-21 17:02:08,857 - DEBUG - [EFFET] Durée: 1
+2025-08-21 17:02:08,857 - DEBUG - [EFFET] Élément: Feu
+2025-08-21 17:02:08,857 - DEBUG - [EFFET] Source: Solaris, Champion des Cendres
+2025-08-21 17:02:08,857 - DEBUG - [EFFET] Cible: Lumys, Renardeau Solaire
+2025-08-21 17:02:08,857 - DEBUG - [INTERACTION] === DÉBUT INTERACTIONS AVANCÉES ===
+2025-08-21 17:02:08,857 - DEBUG - [INTERACTION] Type d'effet: damage
+2025-08-21 17:02:08,857 - DEBUG - [INTERACTION] Élément source: Feu
+2025-08-21 17:02:08,857 - DEBUG - [INTERACTION] Cible: Lumys, Renardeau Solaire
+2025-08-21 17:02:08,857 - DEBUG - [DÉGÂTS] Application des dégâts
+2025-08-21 17:02:08,857 - DEBUG - [DÉGÂTS] HP avant: 1030
+2025-08-21 17:02:08,857 - DEBUG - [DÉGÂTS] Dégâts infligés: 20
+2025-08-21 17:02:08,857 - DEBUG - [DÉGÂTS] HP après: 1010
+2025-08-21 17:02:08,861 - DEBUG - [ÉLÉMENTAIRE] Calcul multiplicateur élémentaire
+2025-08-21 17:02:08,861 - DEBUG - [ÉLÉMENTAIRE] Attaquant: Feu
+2025-08-21 17:02:08,861 - DEBUG - [ÉLÉMENTAIRE] Défenseur: Feu
+2025-08-21 17:02:08,861 - DEBUG - [ÉLÉMENTAIRE] Multiplicateur: 1.0
+2025-08-21 17:02:08,862 - DEBUG - [EFFET] === DÉBUT APPLICATION EFFET ===
+2025-08-21 17:02:08,862 - DEBUG - [EFFET] Type: damage
+2025-08-21 17:02:08,862 - DEBUG - [EFFET] Valeur: 20
+2025-08-21 17:02:08,862 - DEBUG - [EFFET] Durée: 1
+2025-08-21 17:02:08,862 - DEBUG - [EFFET] Élément: Feu
+2025-08-21 17:02:08,862 - DEBUG - [EFFET] Source: Solaris, Champion des Cendres
+2025-08-21 17:02:08,862 - DEBUG - [EFFET] Cible: Gelidar, Chevalier des Neiges
+2025-08-21 17:02:08,862 - DEBUG - [INTERACTION] === DÉBUT INTERACTIONS AVANCÉES ===
+2025-08-21 17:02:08,862 - DEBUG - [INTERACTION] Type d'effet: damage
+2025-08-21 17:02:08,862 - DEBUG - [INTERACTION] Élément source: Feu
+2025-08-21 17:02:08,862 - DEBUG - [INTERACTION] Cible: Gelidar, Chevalier des Neiges
+2025-08-21 17:02:08,862 - DEBUG - [DÉGÂTS] Application des dégâts
+2025-08-21 17:02:08,862 - DEBUG - [DÉGÂTS] HP avant: 1100
+2025-08-21 17:02:08,862 - DEBUG - [DÉGÂTS] Dégâts infligés: 20
+2025-08-21 17:02:08,862 - DEBUG - [DÉGÂTS] HP après: 1080
+2025-08-21 17:02:08,862 - DEBUG - [EFFET] === DÉBUT APPLICATION EFFET ===
+2025-08-21 17:02:08,862 - DEBUG - [EFFET] Type: damage
+2025-08-21 17:02:08,862 - DEBUG - [EFFET] Valeur: 20
+2025-08-21 17:02:08,862 - DEBUG - [EFFET] Durée: 1
+2025-08-21 17:02:08,862 - DEBUG - [EFFET] Élément: Feu
+2025-08-21 17:02:08,862 - DEBUG - [EFFET] Source: Solaris, Champion des Cendres
+2025-08-21 17:02:08,862 - DEBUG - [EFFET] Cible: Frimousse, Esprit Givré
+2025-08-21 17:02:08,862 - DEBUG - [INTERACTION] === DÉBUT INTERACTIONS AVANCÉES ===
+2025-08-21 17:02:08,862 - DEBUG - [INTERACTION] Type d'effet: damage
+2025-08-21 17:02:08,862 - DEBUG - [INTERACTION] Élément source: Feu
+2025-08-21 17:02:08,862 - DEBUG - [INTERACTION] Cible: Frimousse, Esprit Givré
+2025-08-21 17:02:08,862 - DEBUG - [DÉGÂTS] Application des dégâts
+2025-08-21 17:02:08,862 - DEBUG - [DÉGÂTS] HP avant: 780
+2025-08-21 17:02:08,862 - DEBUG - [DÉGÂTS] Dégâts infligés: 20
+2025-08-21 17:02:08,862 - DEBUG - [DÉGÂTS] HP après: 760
+2025-08-21 17:02:08,866 - DEBUG - [ÉLÉMENTAIRE] Calcul multiplicateur élémentaire
+2025-08-21 17:02:08,866 - DEBUG - [ÉLÉMENTAIRE] Attaquant: Feu
+2025-08-21 17:02:08,866 - DEBUG - [ÉLÉMENTAIRE] Défenseur: Feu
+2025-08-21 17:02:08,867 - DEBUG - [ÉLÉMENTAIRE] Multiplicateur: 1.0
+2025-08-21 17:02:08,867 - DEBUG - [EFFET] === DÉBUT APPLICATION EFFET ===
+2025-08-21 17:02:08,867 - DEBUG - [EFFET] Type: damage
+2025-08-21 17:02:08,867 - DEBUG - [EFFET] Valeur: 20
+2025-08-21 17:02:08,867 - DEBUG - [EFFET] Durée: 1
+2025-08-21 17:02:08,867 - DEBUG - [EFFET] Élément: Feu
+2025-08-21 17:02:08,867 - DEBUG - [EFFET] Source: Solaris, Champion des Cendres
+2025-08-21 17:02:08,867 - DEBUG - [EFFET] Cible: Skyla, Danseuse des Nuages
+2025-08-21 17:02:08,867 - DEBUG - [INTERACTION] === DÉBUT INTERACTIONS AVANCÉES ===
+2025-08-21 17:02:08,867 - DEBUG - [INTERACTION] Type d'effet: damage
+2025-08-21 17:02:08,867 - DEBUG - [INTERACTION] Élément source: Feu
+2025-08-21 17:02:08,867 - DEBUG - [INTERACTION] Cible: Skyla, Danseuse des Nuages
+2025-08-21 17:02:08,867 - DEBUG - [DÉGÂTS] Application des dégâts
+2025-08-21 17:02:08,867 - DEBUG - [DÉGÂTS] HP avant: 1010
+2025-08-21 17:02:08,867 - DEBUG - [DÉGÂTS] Dégâts infligés: 20
+2025-08-21 17:02:08,867 - DEBUG - [DÉGÂTS] HP après: 990
+2025-08-21 17:02:08,867 - DEBUG - [EFFET] === DÉBUT APPLICATION EFFET ===
+2025-08-21 17:02:08,867 - DEBUG - [EFFET] Type: damage
+2025-08-21 17:02:08,867 - DEBUG - [EFFET] Valeur: 20
+2025-08-21 17:02:08,867 - DEBUG - [EFFET] Durée: 1
+2025-08-21 17:02:08,867 - DEBUG - [EFFET] Élément: Feu
+2025-08-21 17:02:08,867 - DEBUG - [EFFET] Source: Solaris, Champion des Cendres
+2025-08-21 17:02:08,867 - DEBUG - [EFFET] Cible: Sylphar, Archer de la Canopée
+2025-08-21 17:02:08,867 - DEBUG - [INTERACTION] === DÉBUT INTERACTIONS AVANCÉES ===
+2025-08-21 17:02:08,867 - DEBUG - [INTERACTION] Type d'effet: damage
+2025-08-21 17:02:08,867 - DEBUG - [INTERACTION] Élément source: Feu
+2025-08-21 17:02:08,867 - DEBUG - [INTERACTION] Cible: Sylphar, Archer de la Canopée
+2025-08-21 17:02:08,867 - DEBUG - [DÉGÂTS] Application des dégâts
+2025-08-21 17:02:08,867 - DEBUG - [DÉGÂTS] HP avant: 960
+2025-08-21 17:02:08,868 - DEBUG - [DÉGÂTS] Dégâts infligés: 20
+2025-08-21 17:02:08,868 - DEBUG - [DÉGÂTS] HP après: 940
+2025-08-21 17:02:08,872 - DEBUG - [ÉLÉMENTAIRE] Calcul multiplicateur élémentaire
+2025-08-21 17:02:08,872 - DEBUG - [ÉLÉMENTAIRE] Attaquant: Feu
+2025-08-21 17:02:08,872 - DEBUG - [ÉLÉMENTAIRE] Défenseur: Feu
+2025-08-21 17:02:08,872 - DEBUG - [ÉLÉMENTAIRE] Multiplicateur: 1.0
+2025-08-21 17:02:08,872 - DEBUG - [EFFET] === DÉBUT APPLICATION EFFET ===
+2025-08-21 17:02:08,872 - DEBUG - [EFFET] Type: damage
+2025-08-21 17:02:08,872 - DEBUG - [EFFET] Valeur: 20
+2025-08-21 17:02:08,872 - DEBUG - [EFFET] Durée: 1
+2025-08-21 17:02:08,872 - DEBUG - [EFFET] Élément: Feu
+2025-08-21 17:02:08,872 - DEBUG - [EFFET] Source: Solaris, Champion des Cendres
+2025-08-21 17:02:08,872 - DEBUG - [EFFET] Cible: Rock, Colosse de Granit
+2025-08-21 17:02:08,872 - DEBUG - [INTERACTION] === DÉBUT INTERACTIONS AVANCÉES ===
+2025-08-21 17:02:08,872 - DEBUG - [INTERACTION] Type d'effet: damage
+2025-08-21 17:02:08,872 - DEBUG - [INTERACTION] Élément source: Feu
+2025-08-21 17:02:08,872 - DEBUG - [INTERACTION] Cible: Rock, Colosse de Granit
+2025-08-21 17:02:08,872 - DEBUG - [DÉGÂTS] Application des dégâts
+2025-08-21 17:02:08,872 - DEBUG - [DÉGÂTS] HP avant: 810
+2025-08-21 17:02:08,872 - DEBUG - [DÉGÂTS] Dégâts infligés: 20
+2025-08-21 17:02:08,873 - DEBUG - [DÉGÂTS] HP après: 790
+2025-08-21 17:02:08,873 - DEBUG - [EFFET] === DÉBUT APPLICATION EFFET ===
+2025-08-21 17:02:08,873 - DEBUG - [EFFET] Type: damage
+2025-08-21 17:02:08,873 - DEBUG - [EFFET] Valeur: 20
+2025-08-21 17:02:08,873 - DEBUG - [EFFET] Durée: 1
+2025-08-21 17:02:08,873 - DEBUG - [EFFET] Élément: Feu
+2025-08-21 17:02:08,873 - DEBUG - [EFFET] Source: Solaris, Champion des Cendres
+2025-08-21 17:02:08,873 - DEBUG - [EFFET] Cible: Gladrith, Écho des montagnes
+2025-08-21 17:02:08,873 - DEBUG - [INTERACTION] === DÉBUT INTERACTIONS AVANCÉES ===
+2025-08-21 17:02:08,873 - DEBUG - [INTERACTION] Type d'effet: damage
+2025-08-21 17:02:08,873 - DEBUG - [INTERACTION] Élément source: Feu
+2025-08-21 17:02:08,873 - DEBUG - [INTERACTION] Cible: Gladrith, Écho des montagnes
+2025-08-21 17:02:08,873 - DEBUG - [DÉGÂTS] Application des dégâts
+2025-08-21 17:02:08,873 - DEBUG - [DÉGÂTS] HP avant: 780
+2025-08-21 17:02:08,873 - DEBUG - [DÉGÂTS] Dégâts infligés: 20
+2025-08-21 17:02:08,873 - DEBUG - [DÉGÂTS] HP après: 760

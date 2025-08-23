@@ -1,0 +1,426 @@
+2025-08-21 10:19:41,041 - DEBUG - Starting new HTTP connection (1): localhost:5000
+2025-08-21 10:19:43,553 - DEBUG - http://localhost:5000 "POST /api/matchmaking/join HTTP/1.1" 200 130
+2025-08-21 10:19:43,555 - DEBUG - Starting new HTTP connection (1): localhost:5000
+2025-08-21 10:19:43,556 - DEBUG - Starting new HTTP connection (1): localhost:5000
+2025-08-21 10:19:45,596 - DEBUG - http://localhost:5000 "GET /api/matchmaking/status HTTP/1.1" 200 713
+2025-08-21 10:19:45,596 - DEBUG - http://localhost:5000 "POST /api/matchmaking/poll HTTP/1.1" 200 404
+2025-08-21 10:19:45,604 - DEBUG - Starting new HTTP connection (1): localhost:5000
+2025-08-21 10:19:46,599 - DEBUG - Starting new HTTP connection (1): localhost:5000
+2025-08-21 10:19:47,668 - DEBUG - http://localhost:5000 "POST /api/game/initialize HTTP/1.1" 200 169
+2025-08-21 10:19:47,689 - DEBUG - [CONVERSION] Données JSON pour héros Aquarielle, Gardienne des Marées: {'name': 'Aquarielle, Gardienne des Marées', 'element': 'Eau', 'type': 'hero', 'base_stats': {'hp': 1200, 'attack': 28, 'defense': 24}, 'cost': 0, 'rarity': 'Héros', 'description': "Protectrice des océans, Aquarielle utilise les pouvoirs curatifs de l'eau pour soutenir ses alliés.", 'image': 'default_hero.png', 'ability_name': 'Vague Régénératrice', 'ability_description': 'Vague Régénératrice : Soigne 70 PV à tous les alliés + retire Brûlure/Poison.', 'ability_cooldown': 3, 'basic_attack_cooldown': 1, 'passive': 'Alliés Eau -10 % dégâts subit. (+2 coût)', 'image_path': 'Hero/2.png', 'crit_pct': 5.0, 'esquive_pct': 5.0, 'precision_pct': 99.0}
+2025-08-21 10:19:47,690 - DEBUG - [CONVERSION] base_stats extrait pour héros: {'hp': 1200, 'attack': 28, 'defense': 24}
+2025-08-21 10:19:47,690 - DEBUG - [CONVERSION] Stats héros initialisées depuis JSON: {'hp': 1200, 'attack': 28, 'defense': 24}
+2025-08-21 10:19:47,690 - DEBUG - [CONVERSION] Héros Aquarielle, Gardienne des Marées converti - HP: 1200, ATK: 28, DEF: 24, Image: Hero/2.png
+2025-08-21 10:19:47,692 - DEBUG - [CONVERSION] Données JSON pour Gelidar, Chevalier des Neiges: {'name': 'Gelidar, Chevalier des Neiges', 'element': 'Glace', 'type': 'unit', 'description': 'LORE A VENIR', 'image': 'default.png', 'hp': 1100, 'attack': 25, 'defense': 28, 'crit_pct': 3.0, 'dgtcrit_pct': 0.0, 'esquive_pct': 1.0, 'precision_pct': 99.0, 'image_path': 'Crea/3.png', 'rarity': 'Spécial', 'cost': 0, 'ability_ids': ['6013'], 'cooldown_modifiers': {}, 'passive_ids': ['1321']}
+2025-08-21 10:19:47,692 - DEBUG - [CONVERSION] Stats extraites: {'hp': 1100, 'attack': 25, 'defense': 28}
+2025-08-21 10:19:47,692 - DEBUG - [CONVERSION] Stats initialisées depuis JSON: {'hp': 1100, 'attack': 25, 'defense': 28}
+2025-08-21 10:19:47,693 - DEBUG - [CONVERSION] Unité Gelidar, Chevalier des Neiges convertie - HP: 1100, ATK: 25, DEF: 28, Image: Crea/3.png
+2025-08-21 10:19:47,693 - DEBUG - [CONVERSION] Unité Gelidar, Chevalier des Neiges - base_stats: {'hp': 1100, 'attack': 25, 'defense': 28}
+2025-08-21 10:19:47,693 - DEBUG - [CONVERSION] Unité Gelidar, Chevalier des Neiges - stats: {'hp': 1100, 'attack': 25, 'defense': 28}
+2025-08-21 10:19:47,693 - DEBUG - [CONVERSION] Données JSON pour Frimousse, Esprit Givré: {'name': 'Frimousse, Esprit Givré', 'element': 'Glace', 'type': 'unit', 'description': 'LORE A VENIR', 'image': 'default.png', 'hp': 780, 'attack': 23, 'defense': 13, 'crit_pct': 3.0, 'dgtcrit_pct': 0.0, 'esquive_pct': 1.0, 'precision_pct': 99.0, 'image_path': 'Crea/4.png', 'rarity': 'Commun', 'cost': 0, 'ability_ids': ['5000'], 'cooldown_modifiers': {}}
+2025-08-21 10:19:47,694 - DEBUG - [CONVERSION] Stats extraites: {'hp': 780, 'attack': 23, 'defense': 13}
+2025-08-21 10:19:47,694 - DEBUG - [CONVERSION] Stats initialisées depuis JSON: {'hp': 780, 'attack': 23, 'defense': 13}
+2025-08-21 10:19:47,694 - DEBUG - [CONVERSION] Unité Frimousse, Esprit Givré convertie - HP: 780, ATK: 23, DEF: 13, Image: Crea/4.png
+2025-08-21 10:19:47,694 - DEBUG - [CONVERSION] Unité Frimousse, Esprit Givré - base_stats: {'hp': 780, 'attack': 23, 'defense': 13}
+2025-08-21 10:19:47,694 - DEBUG - [CONVERSION] Unité Frimousse, Esprit Givré - stats: {'hp': 780, 'attack': 23, 'defense': 13}
+2025-08-21 10:19:47,695 - DEBUG - [CONVERSION] Données JSON pour Skyla, Danseuse des Nuages: {'name': 'Skyla, Danseuse des Nuages', 'element': 'Air', 'type': 'unit', 'description': 'LORE A VENIR', 'image': 'default.png', 'hp': 1010, 'attack': 28, 'defense': 21, 'crit_pct': 3.0, 'dgtcrit_pct': 0.0, 'esquive_pct': 1.0, 'precision_pct': 99.0, 'image_path': 'Crea/5.png', 'rarity': 'Rare', 'cost': 0, 'ability_ids': ['5754', '5755'], 'cooldown_modifiers': {}, 'passive_ids': []}
+2025-08-21 10:19:47,695 - DEBUG - [CONVERSION] Stats extraites: {'hp': 1010, 'attack': 28, 'defense': 21}
+2025-08-21 10:19:47,695 - DEBUG - [CONVERSION] Stats initialisées depuis JSON: {'hp': 1010, 'attack': 28, 'defense': 21}
+2025-08-21 10:19:47,695 - DEBUG - [CONVERSION] Unité Skyla, Danseuse des Nuages convertie - HP: 1010, ATK: 28, DEF: 21, Image: Crea/5.png
+2025-08-21 10:19:47,695 - DEBUG - [CONVERSION] Unité Skyla, Danseuse des Nuages - base_stats: {'hp': 1010, 'attack': 28, 'defense': 21}
+2025-08-21 10:19:47,696 - DEBUG - [CONVERSION] Unité Skyla, Danseuse des Nuages - stats: {'hp': 1010, 'attack': 28, 'defense': 21}
+2025-08-21 10:19:47,696 - DEBUG - [CONVERSION] Données JSON pour Roktus, Gobelin Mineur: {'name': 'Roktus, Gobelin Mineur', 'element': 'Terre', 'type': 'unit', 'description': 'LORE A VENIR', 'image': 'default.png', 'hp': 845, 'attack': 26, 'defense': 12, 'crit_pct': 3.0, 'dgtcrit_pct': 0.0, 'esquive_pct': 1.0, 'precision_pct': 99.0, 'image_path': 'Crea/35.png', 'rarity': 'Peu Commun', 'cost': 0, 'ability_ids': ['5507', '5508'], 'cooldown_modifiers': {}, 'passive_ids': []}
+2025-08-21 10:19:47,696 - DEBUG - [CONVERSION] Stats extraites: {'hp': 845, 'attack': 26, 'defense': 12}
+2025-08-21 10:19:47,696 - DEBUG - [CONVERSION] Stats initialisées depuis JSON: {'hp': 845, 'attack': 26, 'defense': 12}
+2025-08-21 10:19:47,697 - DEBUG - [CONVERSION] Unité Roktus, Gobelin Mineur convertie - HP: 845, ATK: 26, DEF: 12, Image: Crea/35.png
+2025-08-21 10:19:47,697 - DEBUG - [CONVERSION] Unité Roktus, Gobelin Mineur - base_stats: {'hp': 845, 'attack': 26, 'defense': 12}
+2025-08-21 10:19:47,697 - DEBUG - [CONVERSION] Unité Roktus, Gobelin Mineur - stats: {'hp': 845, 'attack': 26, 'defense': 12}
+2025-08-21 10:19:47,697 - DEBUG - [CONVERSION] Données JSON pour Corvus, Corbeau Mystique: {'name': 'Corvus, Corbeau Mystique', 'element': 'Air', 'type': 'unit', 'description': 'LORE A VENIR', 'image': 'default.png', 'hp': 1113, 'attack': 33, 'defense': 21, 'crit_pct': 3.0, 'dgtcrit_pct': 0.0, 'esquive_pct': 1.0, 'precision_pct': 99.0, 'image_path': 'Crea/51.png', 'rarity': 'Épique', 'cost': 0, 'ability_ids': ['5762', '5763'], 'cooldown_modifiers': {}, 'passive_ids': ['1336']}
+2025-08-21 10:19:47,697 - DEBUG - [CONVERSION] Stats extraites: {'hp': 1113, 'attack': 33, 'defense': 21}
+2025-08-21 10:19:47,698 - DEBUG - [CONVERSION] Stats initialisées depuis JSON: {'hp': 1113, 'attack': 33, 'defense': 21}
+2025-08-21 10:19:47,698 - DEBUG - [CONVERSION] Unité Corvus, Corbeau Mystique convertie - HP: 1113, ATK: 33, DEF: 21, Image: Crea/51.png
+2025-08-21 10:19:47,698 - DEBUG - [CONVERSION] Unité Corvus, Corbeau Mystique - base_stats: {'hp': 1113, 'attack': 33, 'defense': 21}
+2025-08-21 10:19:47,698 - DEBUG - [CONVERSION] Unité Corvus, Corbeau Mystique - stats: {'hp': 1113, 'attack': 33, 'defense': 21}
+2025-08-21 10:19:47,698 - DEBUG - [CONVERSION] Données JSON pour héros Solaris, Champion des Cendres: {'name': 'Solaris, Champion des Cendres', 'element': 'Feu', 'type': 'hero', 'base_stats': {'hp': 1100, 'attack': 35, 'defense': 22}, 'cost': 0, 'rarity': 'Héros', 'description': 'Champion légendaire du feu, Solaris maîtrise les flammes purificatrices pour consumer ses ennemis.', 'image': 'default_hero.png', 'ability_name': 'Inferno Purificateur', 'ability_description': 'Inferno Purificateur : Inflige 80 dégâts à tous les ennemis + Brûlure (2 tours).', 'ability_cooldown': 3, 'basic_attack_cooldown': 1, 'passive': 'Alliés Feu +10 % dégâts. (+2 coût)', 'image_path': 'Hero/1.png', 'crit_pct': 5.0, 'esquive_pct': 5.0, 'precision_pct': 99.0}
+2025-08-21 10:19:47,699 - DEBUG - [CONVERSION] base_stats extrait pour héros: {'hp': 1100, 'attack': 35, 'defense': 22}
+2025-08-21 10:19:47,699 - DEBUG - [CONVERSION] Stats héros initialisées depuis JSON: {'hp': 1100, 'attack': 35, 'defense': 22}
+2025-08-21 10:19:47,699 - DEBUG - [CONVERSION] Héros Solaris, Champion des Cendres converti - HP: 1100, ATK: 35, DEF: 22, Image: Hero/1.png
+2025-08-21 10:19:47,700 - DEBUG - [CONVERSION] Données JSON pour Sylvara, Esprit de la Canopée: {'name': 'Sylvara, Esprit de la Canopée', 'element': 'Poison', 'type': 'unit', 'description': 'LORE A VENIR', 'image': 'default.png', 'hp': 1220, 'attack': 39, 'defense': 27, 'crit_pct': 3.0, 'dgtcrit_pct': 0.0, 'esquive_pct': 1.0, 'precision_pct': 99.0, 'image_path': 'Crea/55.png', 'rarity': 'Mythique', 'cost': 0, 'ability_ids': ['7256', '7257'], 'cooldown_modifiers': {}, 'passive_ids': ['1334']}
+2025-08-21 10:19:47,701 - DEBUG - [CONVERSION] Stats extraites: {'hp': 1220, 'attack': 39, 'defense': 27}
+2025-08-21 10:19:47,701 - DEBUG - [CONVERSION] Stats initialisées depuis JSON: {'hp': 1220, 'attack': 39, 'defense': 27}
+2025-08-21 10:19:47,701 - DEBUG - [CONVERSION] Unité Sylvara, Esprit de la Canopée convertie - HP: 1220, ATK: 39, DEF: 27, Image: Crea/55.png
+2025-08-21 10:19:47,701 - DEBUG - [CONVERSION] Unité Sylvara, Esprit de la Canopée - base_stats: {'hp': 1220, 'attack': 39, 'defense': 27}
+2025-08-21 10:19:47,701 - DEBUG - [CONVERSION] Unité Sylvara, Esprit de la Canopée - stats: {'hp': 1220, 'attack': 39, 'defense': 27}
+2025-08-21 10:19:47,701 - DEBUG - [CONVERSION] Données JSON pour Abyssalor, Kraken des Profondeurs: {'name': 'Abyssalor, Kraken des Profondeurs', 'element': 'Eau', 'type': 'unit', 'description': 'LORE A VENIR', 'image': 'default.png', 'hp': 1160, 'attack': 30, 'defense': 27, 'crit_pct': 3.0, 'dgtcrit_pct': 0.0, 'esquive_pct': 1.0, 'precision_pct': 99.0, 'image_path': 'Crea/45.png', 'rarity': 'Rare', 'cost': 0, 'ability_ids': ['5259', '5260'], 'cooldown_modifiers': {}, 'passive_ids': []}
+2025-08-21 10:19:47,702 - DEBUG - [CONVERSION] Stats extraites: {'hp': 1160, 'attack': 30, 'defense': 27}
+2025-08-21 10:19:47,702 - DEBUG - [CONVERSION] Stats initialisées depuis JSON: {'hp': 1160, 'attack': 30, 'defense': 27}
+2025-08-21 10:19:47,702 - DEBUG - [CONVERSION] Unité Abyssalor, Kraken des Profondeurs convertie - HP: 1160, ATK: 30, DEF: 27, Image: Crea/45.png
+2025-08-21 10:19:47,702 - DEBUG - [CONVERSION] Unité Abyssalor, Kraken des Profondeurs - base_stats: {'hp': 1160, 'attack': 30, 'defense': 27}
+2025-08-21 10:19:47,702 - DEBUG - [CONVERSION] Unité Abyssalor, Kraken des Profondeurs - stats: {'hp': 1160, 'attack': 30, 'defense': 27}
+2025-08-21 10:19:47,702 - DEBUG - [CONVERSION] Données JSON pour Fulgo, Orbe Electrique: {'name': 'Fulgo, Orbe Electrique', 'element': 'Foudre', 'type': 'unit', 'description': 'LORE A VENIR', 'image': 'default.png', 'hp': 830, 'attack': 28, 'defense': 13, 'crit_pct': 3.0, 'dgtcrit_pct': 0.0, 'esquive_pct': 1.0, 'precision_pct': 99.0, 'image_path': 'Crea/46.png', 'rarity': 'Rare', 'cost': 0, 'ability_ids': ['6255'], 'cooldown_modifiers': {}, 'passive_ids': ['1323']}
+2025-08-21 10:19:47,703 - DEBUG - [CONVERSION] Stats extraites: {'hp': 830, 'attack': 28, 'defense': 13}
+2025-08-21 10:19:47,703 - DEBUG - [CONVERSION] Stats initialisées depuis JSON: {'hp': 830, 'attack': 28, 'defense': 13}
+2025-08-21 10:19:47,703 - DEBUG - [CONVERSION] Unité Fulgo, Orbe Electrique convertie - HP: 830, ATK: 28, DEF: 13, Image: Crea/46.png
+2025-08-21 10:19:47,703 - DEBUG - [CONVERSION] Unité Fulgo, Orbe Electrique - base_stats: {'hp': 830, 'attack': 28, 'defense': 13}
+2025-08-21 10:19:47,703 - DEBUG - [CONVERSION] Unité Fulgo, Orbe Electrique - stats: {'hp': 830, 'attack': 28, 'defense': 13}
+2025-08-21 10:19:47,703 - DEBUG - [CONVERSION] Données JSON pour Pyraxis, Élémentaire de Magma: {'name': 'Pyraxis, Élémentaire de Magma', 'element': 'Feu', 'type': 'unit', 'description': 'LORE A VENIR', 'image': 'default.png', 'hp': 780, 'attack': 25, 'defense': 13, 'crit_pct': 3.0, 'dgtcrit_pct': 0.0, 'esquive_pct': 1.0, 'precision_pct': 99.0, 'image_path': 'Crea/54.png', 'rarity': 'Peu Commun', 'cost': 0, 'ability_ids': ['5008'], 'cooldown_modifiers': {}, 'passive_ids': ['1000']}
+2025-08-21 10:19:47,704 - DEBUG - [CONVERSION] Stats extraites: {'hp': 780, 'attack': 25, 'defense': 13}
+2025-08-21 10:19:47,704 - DEBUG - [CONVERSION] Stats initialisées depuis JSON: {'hp': 780, 'attack': 25, 'defense': 13}
+2025-08-21 10:19:47,704 - DEBUG - [CONVERSION] Unité Pyraxis, Élémentaire de Magma convertie - HP: 780, ATK: 25, DEF: 13, Image: Crea/54.png
+2025-08-21 10:19:47,704 - DEBUG - [CONVERSION] Unité Pyraxis, Élémentaire de Magma - base_stats: {'hp': 780, 'attack': 25, 'defense': 13}
+2025-08-21 10:19:47,704 - DEBUG - [CONVERSION] Unité Pyraxis, Élémentaire de Magma - stats: {'hp': 780, 'attack': 25, 'defense': 13}
+2025-08-21 10:19:47,704 - DEBUG - [CONVERSION] Données JSON pour Gladrith, Écho des montagnes: {'name': 'Gladrith, Écho des montagnes', 'element': 'Terre', 'type': 'unit', 'description': 'LORE A VENIR', 'image': 'default.png', 'hp': 780, 'attack': 31, 'defense': 15, 'crit_pct': 3.0, 'dgtcrit_pct': 0.0, 'esquive_pct': 1.0, 'precision_pct': 99.0, 'image_path': 'Crea/76.png', 'rarity': 'Rare', 'cost': 0, 'ability_ids': ['5509'], 'cooldown_modifiers': {}, 'passive_ids': ['1312']}
+2025-08-21 10:19:47,705 - DEBUG - [CONVERSION] Stats extraites: {'hp': 780, 'attack': 31, 'defense': 15}
+2025-08-21 10:19:47,705 - DEBUG - [CONVERSION] Stats initialisées depuis JSON: {'hp': 780, 'attack': 31, 'defense': 15}
+2025-08-21 10:19:47,705 - DEBUG - [CONVERSION] Unité Gladrith, Écho des montagnes convertie - HP: 780, ATK: 31, DEF: 15, Image: Crea/76.png
+2025-08-21 10:19:47,705 - DEBUG - [CONVERSION] Unité Gladrith, Écho des montagnes - base_stats: {'hp': 780, 'attack': 31, 'defense': 15}
+2025-08-21 10:19:47,705 - DEBUG - [CONVERSION] Unité Gladrith, Écho des montagnes - stats: {'hp': 780, 'attack': 31, 'defense': 15}
+2025-08-21 10:19:47,708 - DEBUG - [POST-INIT] Vérification des stats après initialisation du moteur:
+2025-08-21 10:19:47,708 - DEBUG - [POST-INIT] Unité Gelidar, Chevalier des Neiges - HP: 1100, ATK: 25, DEF: 28
+2025-08-21 10:19:47,708 - DEBUG - [POST-INIT] Unité Gelidar, Chevalier des Neiges - base_stats: {'hp': 1100, 'attack': 25, 'defense': 28}
+2025-08-21 10:19:47,708 - DEBUG - [POST-INIT] Unité Gelidar, Chevalier des Neiges - stats: {'hp': 1100, 'attack': 25, 'defense': 28}
+2025-08-21 10:19:47,708 - DEBUG - [POST-INIT] Unité Frimousse, Esprit Givré - HP: 780, ATK: 23, DEF: 13
+2025-08-21 10:19:47,708 - DEBUG - [POST-INIT] Unité Frimousse, Esprit Givré - base_stats: {'hp': 780, 'attack': 23, 'defense': 13}
+2025-08-21 10:19:47,709 - DEBUG - [POST-INIT] Unité Frimousse, Esprit Givré - stats: {'hp': 780, 'attack': 23, 'defense': 13}
+2025-08-21 10:19:47,709 - DEBUG - [POST-INIT] Unité Skyla, Danseuse des Nuages - HP: 1010, ATK: 28, DEF: 21
+2025-08-21 10:19:47,709 - DEBUG - [POST-INIT] Unité Skyla, Danseuse des Nuages - base_stats: {'hp': 1010, 'attack': 28, 'defense': 21}
+2025-08-21 10:19:47,709 - DEBUG - [POST-INIT] Unité Skyla, Danseuse des Nuages - stats: {'hp': 1010, 'attack': 28, 'defense': 21}
+2025-08-21 10:19:47,709 - DEBUG - [POST-INIT] Unité Roktus, Gobelin Mineur - HP: 845, ATK: 26, DEF: 12
+2025-08-21 10:19:47,709 - DEBUG - [POST-INIT] Unité Roktus, Gobelin Mineur - base_stats: {'hp': 845, 'attack': 26, 'defense': 12}
+2025-08-21 10:19:47,709 - DEBUG - [POST-INIT] Unité Roktus, Gobelin Mineur - stats: {'hp': 845, 'attack': 26, 'defense': 12}
+2025-08-21 10:19:47,710 - DEBUG - [POST-INIT] Unité Corvus, Corbeau Mystique - HP: 1113, ATK: 33, DEF: 21
+2025-08-21 10:19:47,710 - DEBUG - [POST-INIT] Unité Corvus, Corbeau Mystique - base_stats: {'hp': 1113, 'attack': 33, 'defense': 21}
+2025-08-21 10:19:47,710 - DEBUG - [POST-INIT] Unité Corvus, Corbeau Mystique - stats: {'hp': 1113, 'attack': 33, 'defense': 21}
+2025-08-21 10:19:47,712 - DEBUG - Starting new HTTP connection (1): localhost:5000
+2025-08-21 10:19:47,729 - DEBUG - [DEBUG] Vérification unités ennemies: opponent=<Engine.engine.Player object at 0x000002597904B9D0>, units=[<Engine.models.Unit object at 0x0000025979075910>, <Engine.models.Unit object at 0x0000025978FA7240>, <Engine.models.Unit object at 0x0000025978FA7350>, <Engine.models.Unit object at 0x000002597906B150>, <Engine.models.Unit object at 0x000002597906B250>]
+2025-08-21 10:19:47,729 - DEBUG - [DEBUG] Appel draw_opponent_units à Y=232
+2025-08-21 10:19:47,729 - DEBUG - [DEBUG] draw_opponent_units appelée avec y_pos=232
+2025-08-21 10:19:47,730 - DEBUG - [DEBUG] 5 unités ennemies à dessiner
+2025-08-21 10:19:47,730 - DEBUG - [DEBUG] Traitement unité ennemie 0: Sylvara, Esprit de la Canopée, HP=1220
+2025-08-21 10:19:47,730 - DEBUG - [DEBUG] Chargement image unité: Crea/55.png
+2025-08-21 10:19:47,730 - DEBUG - [DEBUG] Image trouvée pour Sylvara, Esprit de la Canopée: Crea/55.png
+2025-08-21 10:19:47,730 - DEBUG - [DEBUG] Taille originale: (912, 1312)
+2025-08-21 10:19:47,731 - DEBUG - [DEBUG] Taille redimensionnée: (200, 288)
+2025-08-21 10:19:47,731 - DEBUG - [DEBUG] Image dessinée sur overlay_surface avec coins arrondis
+2025-08-21 10:19:47,732 - DEBUG - [DEBUG] Stats unité Sylvara, Esprit de la Canopée: HP=1220, ATK=39, DEF=27
+2025-08-21 10:19:47,732 - DEBUG - [DEBUG] Stats unité Sylvara, Esprit de la Canopée (base_stats): {'hp': 1220, 'attack': 39, 'defense': 27}
+2025-08-21 10:19:47,732 - DEBUG - [DEBUG] Stats unité Sylvara, Esprit de la Canopée (stats): {'hp': 1220, 'attack': 39, 'defense': 27}
+2025-08-21 10:19:47,736 - DEBUG - [DEBUG] Traitement unité ennemie 1: Abyssalor, Kraken des Profondeurs, HP=1160
+2025-08-21 10:19:47,736 - DEBUG - [DEBUG] Chargement image unité: Crea/45.png
+2025-08-21 10:19:47,736 - DEBUG - [DEBUG] Image trouvée pour Abyssalor, Kraken des Profondeurs: Crea/45.png
+2025-08-21 10:19:47,736 - DEBUG - [DEBUG] Taille originale: (912, 1312)
+2025-08-21 10:19:47,737 - DEBUG - [DEBUG] Taille redimensionnée: (200, 288)
+2025-08-21 10:19:47,737 - DEBUG - [DEBUG] Image dessinée sur overlay_surface avec coins arrondis
+2025-08-21 10:19:47,738 - DEBUG - [DEBUG] Stats unité Abyssalor, Kraken des Profondeurs: HP=1160, ATK=30, DEF=27
+2025-08-21 10:19:47,738 - DEBUG - [DEBUG] Stats unité Abyssalor, Kraken des Profondeurs (base_stats): {'hp': 1160, 'attack': 30, 'defense': 27}
+2025-08-21 10:19:47,738 - DEBUG - [DEBUG] Stats unité Abyssalor, Kraken des Profondeurs (stats): {'hp': 1160, 'attack': 30, 'defense': 27}
+2025-08-21 10:19:47,743 - DEBUG - [DEBUG] Traitement unité ennemie 2: Fulgo, Orbe Electrique, HP=830
+2025-08-21 10:19:47,744 - DEBUG - [DEBUG] Chargement image unité: Crea/46.png
+2025-08-21 10:19:47,744 - DEBUG - [DEBUG] Image trouvée pour Fulgo, Orbe Electrique: Crea/46.png
+2025-08-21 10:19:47,744 - DEBUG - [DEBUG] Taille originale: (912, 1312)
+2025-08-21 10:19:47,745 - DEBUG - [DEBUG] Taille redimensionnée: (200, 288)
+2025-08-21 10:19:47,745 - DEBUG - [DEBUG] Image dessinée sur overlay_surface avec coins arrondis
+2025-08-21 10:19:47,745 - DEBUG - [DEBUG] Stats unité Fulgo, Orbe Electrique: HP=830, ATK=28, DEF=13
+2025-08-21 10:19:47,746 - DEBUG - [DEBUG] Stats unité Fulgo, Orbe Electrique (base_stats): {'hp': 830, 'attack': 28, 'defense': 13}
+2025-08-21 10:19:47,746 - DEBUG - [DEBUG] Stats unité Fulgo, Orbe Electrique (stats): {'hp': 830, 'attack': 28, 'defense': 13}
+2025-08-21 10:19:47,748 - DEBUG - [DEBUG] Traitement unité ennemie 3: Pyraxis, Élémentaire de Magma, HP=780
+2025-08-21 10:19:47,748 - DEBUG - [DEBUG] Chargement image unité: Crea/54.png
+2025-08-21 10:19:47,748 - DEBUG - [DEBUG] Image trouvée pour Pyraxis, Élémentaire de Magma: Crea/54.png
+2025-08-21 10:19:47,748 - DEBUG - [DEBUG] Taille originale: (912, 1312)
+2025-08-21 10:19:47,749 - DEBUG - [DEBUG] Taille redimensionnée: (200, 288)
+2025-08-21 10:19:47,749 - DEBUG - [DEBUG] Image dessinée sur overlay_surface avec coins arrondis
+2025-08-21 10:19:47,750 - DEBUG - [DEBUG] Stats unité Pyraxis, Élémentaire de Magma: HP=780, ATK=25, DEF=13
+2025-08-21 10:19:47,750 - DEBUG - [DEBUG] Stats unité Pyraxis, Élémentaire de Magma (base_stats): {'hp': 780, 'attack': 25, 'defense': 13}
+2025-08-21 10:19:47,750 - DEBUG - [DEBUG] Stats unité Pyraxis, Élémentaire de Magma (stats): {'hp': 780, 'attack': 25, 'defense': 13}
+2025-08-21 10:19:47,752 - DEBUG - [DEBUG] Traitement unité ennemie 4: Gladrith, Écho des montagnes, HP=780
+2025-08-21 10:19:47,752 - DEBUG - [DEBUG] Chargement image unité: Crea/76.png
+2025-08-21 10:19:47,752 - DEBUG - [DEBUG] Image trouvée pour Gladrith, Écho des montagnes: Crea/76.png
+2025-08-21 10:19:47,753 - DEBUG - [DEBUG] Taille originale: (896, 1344)
+2025-08-21 10:19:47,753 - DEBUG - [DEBUG] Taille redimensionnée: (200, 288)
+2025-08-21 10:19:47,753 - DEBUG - [DEBUG] Image dessinée sur overlay_surface avec coins arrondis
+2025-08-21 10:19:47,754 - DEBUG - [DEBUG] Stats unité Gladrith, Écho des montagnes: HP=780, ATK=31, DEF=15
+2025-08-21 10:19:47,754 - DEBUG - [DEBUG] Stats unité Gladrith, Écho des montagnes (base_stats): {'hp': 780, 'attack': 31, 'defense': 15}
+2025-08-21 10:19:47,754 - DEBUG - [DEBUG] Stats unité Gladrith, Écho des montagnes (stats): {'hp': 780, 'attack': 31, 'defense': 15}
+2025-08-21 10:19:47,755 - DEBUG - [DEBUG] Vérification unités joueur: player=<Engine.engine.Player object at 0x0000025979062270>, units=[<Engine.models.Unit object at 0x00000259790623C0>, <Engine.models.Unit object at 0x000002597904B4D0>, <Engine.models.Unit object at 0x000002597904B610>, <Engine.models.Unit object at 0x0000025979067230>, <Engine.models.Unit object at 0x0000025979067360>]
+2025-08-21 10:19:47,755 - DEBUG - [DEBUG] Appel draw_player_units à Y=560
+2025-08-21 10:19:47,756 - DEBUG - [DEBUG] draw_player_units appelée avec y_pos=560
+2025-08-21 10:19:47,756 - DEBUG - [DEBUG] 5 unités joueur à dessiner
+2025-08-21 10:19:47,756 - DEBUG - [DEBUG] Chargement image unité: Crea/3.png
+2025-08-21 10:19:47,756 - DEBUG - [DEBUG] Image trouvée pour Gelidar, Chevalier des Neiges: Crea/3.png
+2025-08-21 10:19:47,757 - DEBUG - [DEBUG] Taille originale: (912, 1312)
+2025-08-21 10:19:47,757 - DEBUG - [DEBUG] Taille redimensionnée: (200, 288)
+2025-08-21 10:19:47,757 - DEBUG - [DEBUG] Image dessinée sur overlay_surface avec coins arrondis
+2025-08-21 10:19:47,758 - DEBUG - [DEBUG] Stats unité Gelidar, Chevalier des Neiges: HP=1100, ATK=25, DEF=28
+2025-08-21 10:19:47,758 - DEBUG - [DEBUG] Stats unité Gelidar, Chevalier des Neiges (base_stats): {'hp': 1100, 'attack': 25, 'defense': 28}
+2025-08-21 10:19:47,758 - DEBUG - [DEBUG] Stats unité Gelidar, Chevalier des Neiges (stats): {'hp': 1100, 'attack': 25, 'defense': 28}
+2025-08-21 10:19:47,760 - DEBUG - [DEBUG] Chargement image unité: Crea/4.png
+2025-08-21 10:19:47,760 - DEBUG - [DEBUG] Image trouvée pour Frimousse, Esprit Givré: Crea/4.png
+2025-08-21 10:19:47,760 - DEBUG - [DEBUG] Taille originale: (912, 1312)
+2025-08-21 10:19:47,761 - DEBUG - [DEBUG] Taille redimensionnée: (200, 288)
+2025-08-21 10:19:47,761 - DEBUG - [DEBUG] Image dessinée sur overlay_surface avec coins arrondis
+2025-08-21 10:19:47,762 - DEBUG - [DEBUG] Stats unité Frimousse, Esprit Givré: HP=780, ATK=23, DEF=13
+2025-08-21 10:19:47,762 - DEBUG - [DEBUG] Stats unité Frimousse, Esprit Givré (base_stats): {'hp': 780, 'attack': 23, 'defense': 13}
+2025-08-21 10:19:47,762 - DEBUG - [DEBUG] Stats unité Frimousse, Esprit Givré (stats): {'hp': 780, 'attack': 23, 'defense': 13}
+2025-08-21 10:19:47,764 - DEBUG - [DEBUG] Chargement image unité: Crea/5.png
+2025-08-21 10:19:47,764 - DEBUG - [DEBUG] Image trouvée pour Skyla, Danseuse des Nuages: Crea/5.png
+2025-08-21 10:19:47,764 - DEBUG - [DEBUG] Taille originale: (912, 1312)
+2025-08-21 10:19:47,764 - DEBUG - [DEBUG] Taille redimensionnée: (200, 288)
+2025-08-21 10:19:47,765 - DEBUG - [DEBUG] Image dessinée sur overlay_surface avec coins arrondis
+2025-08-21 10:19:47,765 - DEBUG - [DEBUG] Stats unité Skyla, Danseuse des Nuages: HP=1010, ATK=28, DEF=21
+2025-08-21 10:19:47,765 - DEBUG - [DEBUG] Stats unité Skyla, Danseuse des Nuages (base_stats): {'hp': 1010, 'attack': 28, 'defense': 21}
+2025-08-21 10:19:47,765 - DEBUG - [DEBUG] Stats unité Skyla, Danseuse des Nuages (stats): {'hp': 1010, 'attack': 28, 'defense': 21}
+2025-08-21 10:19:47,768 - DEBUG - [DEBUG] Chargement image unité: Crea/35.png
+2025-08-21 10:19:47,768 - DEBUG - [DEBUG] Image trouvée pour Roktus, Gobelin Mineur: Crea/35.png
+2025-08-21 10:19:47,768 - DEBUG - [DEBUG] Taille originale: (912, 1312)
+2025-08-21 10:19:47,769 - DEBUG - [DEBUG] Taille redimensionnée: (200, 288)
+2025-08-21 10:19:47,769 - DEBUG - [DEBUG] Image dessinée sur overlay_surface avec coins arrondis
+2025-08-21 10:19:47,769 - DEBUG - [DEBUG] Stats unité Roktus, Gobelin Mineur: HP=845, ATK=26, DEF=12
+2025-08-21 10:19:47,769 - DEBUG - [DEBUG] Stats unité Roktus, Gobelin Mineur (base_stats): {'hp': 845, 'attack': 26, 'defense': 12}
+2025-08-21 10:19:47,769 - DEBUG - [DEBUG] Stats unité Roktus, Gobelin Mineur (stats): {'hp': 845, 'attack': 26, 'defense': 12}
+2025-08-21 10:19:47,772 - DEBUG - [DEBUG] Chargement image unité: Crea/51.png
+2025-08-21 10:19:47,773 - DEBUG - [DEBUG] Image trouvée pour Corvus, Corbeau Mystique: Crea/51.png
+2025-08-21 10:19:47,773 - DEBUG - [DEBUG] Taille originale: (912, 1312)
+2025-08-21 10:19:47,774 - DEBUG - [DEBUG] Taille redimensionnée: (200, 288)
+2025-08-21 10:19:47,774 - DEBUG - [DEBUG] Image dessinée sur overlay_surface avec coins arrondis
+2025-08-21 10:19:47,774 - DEBUG - [DEBUG] Stats unité Corvus, Corbeau Mystique: HP=1113, ATK=33, DEF=21
+2025-08-21 10:19:47,775 - DEBUG - [DEBUG] Stats unité Corvus, Corbeau Mystique (base_stats): {'hp': 1113, 'attack': 33, 'defense': 21}
+2025-08-21 10:19:47,775 - DEBUG - [DEBUG] Stats unité Corvus, Corbeau Mystique (stats): {'hp': 1113, 'attack': 33, 'defense': 21}
+2025-08-21 10:19:47,783 - DEBUG - [DEBUG] Traitement unité 0: Gelidar, Chevalier des Neiges, HP=1100
+2025-08-21 10:19:47,783 - DEBUG - [DEBUG] Traitement unité 1: Frimousse, Esprit Givré, HP=780
+2025-08-21 10:19:47,783 - DEBUG - [DEBUG] Traitement unité 2: Skyla, Danseuse des Nuages, HP=1010
+2025-08-21 10:19:47,783 - DEBUG - [DEBUG] Traitement unité 3: Roktus, Gobelin Mineur, HP=845
+2025-08-21 10:19:47,784 - DEBUG - [DEBUG] Traitement unité 4: Corvus, Corbeau Mystique, HP=1113
+2025-08-21 10:19:47,832 - DEBUG - [DEBUG] Vérification unités ennemies: opponent=<Engine.engine.Player object at 0x000002597904B9D0>, units=[<Engine.models.Unit object at 0x0000025979075910>, <Engine.models.Unit object at 0x0000025978FA7240>, <Engine.models.Unit object at 0x0000025978FA7350>, <Engine.models.Unit object at 0x000002597906B150>, <Engine.models.Unit object at 0x000002597906B250>]
+2025-08-21 10:19:47,832 - DEBUG - [DEBUG] Appel draw_opponent_units à Y=232
+2025-08-21 10:19:47,832 - DEBUG - [DEBUG] draw_opponent_units appelée avec y_pos=232
+2025-08-21 10:19:47,832 - DEBUG - [DEBUG] 5 unités ennemies à dessiner
+2025-08-21 10:19:47,833 - DEBUG - [DEBUG] Traitement unité ennemie 0: Sylvara, Esprit de la Canopée, HP=1220
+2025-08-21 10:19:47,833 - DEBUG - [DEBUG] Chargement image unité: Crea/55.png
+2025-08-21 10:19:47,833 - DEBUG - [DEBUG] Image trouvée pour Sylvara, Esprit de la Canopée: Crea/55.png
+2025-08-21 10:19:47,833 - DEBUG - [DEBUG] Taille originale: (912, 1312)
+2025-08-21 10:19:47,834 - DEBUG - [DEBUG] Taille redimensionnée: (200, 288)
+2025-08-21 10:19:47,834 - DEBUG - [DEBUG] Image dessinée sur overlay_surface avec coins arrondis
+2025-08-21 10:19:47,834 - DEBUG - [DEBUG] Stats unité Sylvara, Esprit de la Canopée: HP=1220, ATK=39, DEF=27
+2025-08-21 10:19:47,834 - DEBUG - [DEBUG] Stats unité Sylvara, Esprit de la Canopée (base_stats): {'hp': 1220, 'attack': 39, 'defense': 27}
+2025-08-21 10:19:47,835 - DEBUG - [DEBUG] Stats unité Sylvara, Esprit de la Canopée (stats): {'hp': 1220, 'attack': 39, 'defense': 27}
+2025-08-21 10:19:47,837 - DEBUG - [DEBUG] Traitement unité ennemie 1: Abyssalor, Kraken des Profondeurs, HP=1160
+2025-08-21 10:19:47,837 - DEBUG - [DEBUG] Chargement image unité: Crea/45.png
+2025-08-21 10:19:47,837 - DEBUG - [DEBUG] Image trouvée pour Abyssalor, Kraken des Profondeurs: Crea/45.png
+2025-08-21 10:19:47,837 - DEBUG - [DEBUG] Taille originale: (912, 1312)
+2025-08-21 10:19:47,838 - DEBUG - [DEBUG] Taille redimensionnée: (200, 288)
+2025-08-21 10:19:47,838 - DEBUG - [DEBUG] Image dessinée sur overlay_surface avec coins arrondis
+2025-08-21 10:19:47,839 - DEBUG - [DEBUG] Stats unité Abyssalor, Kraken des Profondeurs: HP=1160, ATK=30, DEF=27
+2025-08-21 10:19:47,839 - DEBUG - [DEBUG] Stats unité Abyssalor, Kraken des Profondeurs (base_stats): {'hp': 1160, 'attack': 30, 'defense': 27}
+2025-08-21 10:19:47,839 - DEBUG - [DEBUG] Stats unité Abyssalor, Kraken des Profondeurs (stats): {'hp': 1160, 'attack': 30, 'defense': 27}
+2025-08-21 10:19:47,842 - DEBUG - [DEBUG] Traitement unité ennemie 2: Fulgo, Orbe Electrique, HP=830
+2025-08-21 10:19:47,842 - DEBUG - [DEBUG] Chargement image unité: Crea/46.png
+2025-08-21 10:19:47,843 - DEBUG - [DEBUG] Image trouvée pour Fulgo, Orbe Electrique: Crea/46.png
+2025-08-21 10:19:47,843 - DEBUG - [DEBUG] Taille originale: (912, 1312)
+2025-08-21 10:19:47,843 - DEBUG - [DEBUG] Taille redimensionnée: (200, 288)
+2025-08-21 10:19:47,844 - DEBUG - [DEBUG] Image dessinée sur overlay_surface avec coins arrondis
+2025-08-21 10:19:47,844 - DEBUG - [DEBUG] Stats unité Fulgo, Orbe Electrique: HP=830, ATK=28, DEF=13
+2025-08-21 10:19:47,844 - DEBUG - [DEBUG] Stats unité Fulgo, Orbe Electrique (base_stats): {'hp': 830, 'attack': 28, 'defense': 13}
+2025-08-21 10:19:47,844 - DEBUG - [DEBUG] Stats unité Fulgo, Orbe Electrique (stats): {'hp': 830, 'attack': 28, 'defense': 13}
+2025-08-21 10:19:47,846 - DEBUG - [DEBUG] Traitement unité ennemie 3: Pyraxis, Élémentaire de Magma, HP=780
+2025-08-21 10:19:47,846 - DEBUG - [DEBUG] Chargement image unité: Crea/54.png
+2025-08-21 10:19:47,846 - DEBUG - [DEBUG] Image trouvée pour Pyraxis, Élémentaire de Magma: Crea/54.png
+2025-08-21 10:19:47,846 - DEBUG - [DEBUG] Taille originale: (912, 1312)
+2025-08-21 10:19:47,847 - DEBUG - [DEBUG] Taille redimensionnée: (200, 288)
+2025-08-21 10:19:47,847 - DEBUG - [DEBUG] Image dessinée sur overlay_surface avec coins arrondis
+2025-08-21 10:19:47,847 - DEBUG - [DEBUG] Stats unité Pyraxis, Élémentaire de Magma: HP=780, ATK=25, DEF=13
+2025-08-21 10:19:47,847 - DEBUG - [DEBUG] Stats unité Pyraxis, Élémentaire de Magma (base_stats): {'hp': 780, 'attack': 25, 'defense': 13}
+2025-08-21 10:19:47,847 - DEBUG - [DEBUG] Stats unité Pyraxis, Élémentaire de Magma (stats): {'hp': 780, 'attack': 25, 'defense': 13}
+2025-08-21 10:19:47,849 - DEBUG - [DEBUG] Traitement unité ennemie 4: Gladrith, Écho des montagnes, HP=780
+2025-08-21 10:19:47,849 - DEBUG - [DEBUG] Chargement image unité: Crea/76.png
+2025-08-21 10:19:47,849 - DEBUG - [DEBUG] Image trouvée pour Gladrith, Écho des montagnes: Crea/76.png
+2025-08-21 10:19:47,850 - DEBUG - [DEBUG] Taille originale: (896, 1344)
+2025-08-21 10:19:47,850 - DEBUG - [DEBUG] Taille redimensionnée: (200, 288)
+2025-08-21 10:19:47,850 - DEBUG - [DEBUG] Image dessinée sur overlay_surface avec coins arrondis
+2025-08-21 10:19:47,851 - DEBUG - [DEBUG] Stats unité Gladrith, Écho des montagnes: HP=780, ATK=31, DEF=15
+2025-08-21 10:19:47,851 - DEBUG - [DEBUG] Stats unité Gladrith, Écho des montagnes (base_stats): {'hp': 780, 'attack': 31, 'defense': 15}
+2025-08-21 10:19:47,851 - DEBUG - [DEBUG] Stats unité Gladrith, Écho des montagnes (stats): {'hp': 780, 'attack': 31, 'defense': 15}
+2025-08-21 10:19:47,852 - DEBUG - [DEBUG] Vérification unités joueur: player=<Engine.engine.Player object at 0x0000025979062270>, units=[<Engine.models.Unit object at 0x00000259790623C0>, <Engine.models.Unit object at 0x000002597904B4D0>, <Engine.models.Unit object at 0x000002597904B610>, <Engine.models.Unit object at 0x0000025979067230>, <Engine.models.Unit object at 0x0000025979067360>]
+2025-08-21 10:19:47,853 - DEBUG - [DEBUG] Appel draw_player_units à Y=560
+2025-08-21 10:19:47,853 - DEBUG - [DEBUG] draw_player_units appelée avec y_pos=560
+2025-08-21 10:19:47,853 - DEBUG - [DEBUG] 5 unités joueur à dessiner
+2025-08-21 10:19:47,853 - DEBUG - [DEBUG] Chargement image unité: Crea/3.png
+2025-08-21 10:19:47,853 - DEBUG - [DEBUG] Image trouvée pour Gelidar, Chevalier des Neiges: Crea/3.png
+2025-08-21 10:19:47,853 - DEBUG - [DEBUG] Taille originale: (912, 1312)
+2025-08-21 10:19:47,854 - DEBUG - [DEBUG] Taille redimensionnée: (200, 288)
+2025-08-21 10:19:47,854 - DEBUG - [DEBUG] Image dessinée sur overlay_surface avec coins arrondis
+2025-08-21 10:19:47,854 - DEBUG - [DEBUG] Stats unité Gelidar, Chevalier des Neiges: HP=1100, ATK=25, DEF=28
+2025-08-21 10:19:47,854 - DEBUG - [DEBUG] Stats unité Gelidar, Chevalier des Neiges (base_stats): {'hp': 1100, 'attack': 25, 'defense': 28}
+2025-08-21 10:19:47,855 - DEBUG - [DEBUG] Stats unité Gelidar, Chevalier des Neiges (stats): {'hp': 1100, 'attack': 25, 'defense': 28}
+2025-08-21 10:19:47,856 - DEBUG - [DEBUG] Chargement image unité: Crea/4.png
+2025-08-21 10:19:47,857 - DEBUG - [DEBUG] Image trouvée pour Frimousse, Esprit Givré: Crea/4.png
+2025-08-21 10:19:47,857 - DEBUG - [DEBUG] Taille originale: (912, 1312)
+2025-08-21 10:19:47,858 - DEBUG - [DEBUG] Taille redimensionnée: (200, 288)
+2025-08-21 10:19:47,858 - DEBUG - [DEBUG] Image dessinée sur overlay_surface avec coins arrondis
+2025-08-21 10:19:47,859 - DEBUG - [DEBUG] Stats unité Frimousse, Esprit Givré: HP=780, ATK=23, DEF=13
+2025-08-21 10:19:47,859 - DEBUG - [DEBUG] Stats unité Frimousse, Esprit Givré (base_stats): {'hp': 780, 'attack': 23, 'defense': 13}
+2025-08-21 10:19:47,859 - DEBUG - [DEBUG] Stats unité Frimousse, Esprit Givré (stats): {'hp': 780, 'attack': 23, 'defense': 13}
+2025-08-21 10:19:47,861 - DEBUG - [DEBUG] Chargement image unité: Crea/5.png
+2025-08-21 10:19:47,861 - DEBUG - [DEBUG] Image trouvée pour Skyla, Danseuse des Nuages: Crea/5.png
+2025-08-21 10:19:47,861 - DEBUG - [DEBUG] Taille originale: (912, 1312)
+2025-08-21 10:19:47,861 - DEBUG - [DEBUG] Taille redimensionnée: (200, 288)
+2025-08-21 10:19:47,862 - DEBUG - [DEBUG] Image dessinée sur overlay_surface avec coins arrondis
+2025-08-21 10:19:47,862 - DEBUG - [DEBUG] Stats unité Skyla, Danseuse des Nuages: HP=1010, ATK=28, DEF=21
+2025-08-21 10:19:47,862 - DEBUG - [DEBUG] Stats unité Skyla, Danseuse des Nuages (base_stats): {'hp': 1010, 'attack': 28, 'defense': 21}
+2025-08-21 10:19:47,862 - DEBUG - [DEBUG] Stats unité Skyla, Danseuse des Nuages (stats): {'hp': 1010, 'attack': 28, 'defense': 21}
+2025-08-21 10:19:47,865 - DEBUG - [DEBUG] Chargement image unité: Crea/35.png
+2025-08-21 10:19:47,865 - DEBUG - [DEBUG] Image trouvée pour Roktus, Gobelin Mineur: Crea/35.png
+2025-08-21 10:19:47,865 - DEBUG - [DEBUG] Taille originale: (912, 1312)
+2025-08-21 10:19:47,866 - DEBUG - [DEBUG] Taille redimensionnée: (200, 288)
+2025-08-21 10:19:47,866 - DEBUG - [DEBUG] Image dessinée sur overlay_surface avec coins arrondis
+2025-08-21 10:19:47,866 - DEBUG - [DEBUG] Stats unité Roktus, Gobelin Mineur: HP=845, ATK=26, DEF=12
+2025-08-21 10:19:47,867 - DEBUG - [DEBUG] Stats unité Roktus, Gobelin Mineur (base_stats): {'hp': 845, 'attack': 26, 'defense': 12}
+2025-08-21 10:19:47,867 - DEBUG - [DEBUG] Stats unité Roktus, Gobelin Mineur (stats): {'hp': 845, 'attack': 26, 'defense': 12}
+2025-08-21 10:19:47,869 - DEBUG - [DEBUG] Chargement image unité: Crea/51.png
+2025-08-21 10:19:47,870 - DEBUG - [DEBUG] Image trouvée pour Corvus, Corbeau Mystique: Crea/51.png
+2025-08-21 10:19:47,870 - DEBUG - [DEBUG] Taille originale: (912, 1312)
+2025-08-21 10:19:47,870 - DEBUG - [DEBUG] Taille redimensionnée: (200, 288)
+2025-08-21 10:19:47,871 - DEBUG - [DEBUG] Image dessinée sur overlay_surface avec coins arrondis
+2025-08-21 10:19:47,871 - DEBUG - [DEBUG] Stats unité Corvus, Corbeau Mystique: HP=1113, ATK=33, DEF=21
+2025-08-21 10:19:47,871 - DEBUG - [DEBUG] Stats unité Corvus, Corbeau Mystique (base_stats): {'hp': 1113, 'attack': 33, 'defense': 21}
+2025-08-21 10:19:47,871 - DEBUG - [DEBUG] Stats unité Corvus, Corbeau Mystique (stats): {'hp': 1113, 'attack': 33, 'defense': 21}
+2025-08-21 10:19:47,875 - DEBUG - [DEBUG] Traitement unité 0: Gelidar, Chevalier des Neiges, HP=1100
+2025-08-21 10:19:47,875 - DEBUG - [DEBUG] Traitement unité 1: Frimousse, Esprit Givré, HP=780
+2025-08-21 10:19:47,875 - DEBUG - [DEBUG] Traitement unité 2: Skyla, Danseuse des Nuages, HP=1010
+2025-08-21 10:19:47,875 - DEBUG - [DEBUG] Traitement unité 3: Roktus, Gobelin Mineur, HP=845
+2025-08-21 10:19:47,876 - DEBUG - [DEBUG] Traitement unité 4: Corvus, Corbeau Mystique, HP=1113
+2025-08-21 10:19:47,921 - DEBUG - [DEBUG] Vérification unités ennemies: opponent=<Engine.engine.Player object at 0x000002597904B9D0>, units=[<Engine.models.Unit object at 0x0000025979075910>, <Engine.models.Unit object at 0x0000025978FA7240>, <Engine.models.Unit object at 0x0000025978FA7350>, <Engine.models.Unit object at 0x000002597906B150>, <Engine.models.Unit object at 0x000002597906B250>]
+2025-08-21 10:19:47,922 - DEBUG - [DEBUG] Appel draw_opponent_units à Y=232
+2025-08-21 10:19:47,922 - DEBUG - [DEBUG] draw_opponent_units appelée avec y_pos=232
+2025-08-21 10:19:47,922 - DEBUG - [DEBUG] 5 unités ennemies à dessiner
+2025-08-21 10:19:47,922 - DEBUG - [DEBUG] Traitement unité ennemie 0: Sylvara, Esprit de la Canopée, HP=1220
+2025-08-21 10:19:47,922 - DEBUG - [DEBUG] Chargement image unité: Crea/55.png
+2025-08-21 10:19:47,923 - DEBUG - [DEBUG] Image trouvée pour Sylvara, Esprit de la Canopée: Crea/55.png
+2025-08-21 10:19:47,923 - DEBUG - [DEBUG] Taille originale: (912, 1312)
+2025-08-21 10:19:47,923 - DEBUG - [DEBUG] Taille redimensionnée: (200, 288)
+2025-08-21 10:19:47,924 - DEBUG - [DEBUG] Image dessinée sur overlay_surface avec coins arrondis
+2025-08-21 10:19:47,924 - DEBUG - [DEBUG] Stats unité Sylvara, Esprit de la Canopée: HP=1220, ATK=39, DEF=27
+2025-08-21 10:19:47,924 - DEBUG - [DEBUG] Stats unité Sylvara, Esprit de la Canopée (base_stats): {'hp': 1220, 'attack': 39, 'defense': 27}
+2025-08-21 10:19:47,925 - DEBUG - [DEBUG] Stats unité Sylvara, Esprit de la Canopée (stats): {'hp': 1220, 'attack': 39, 'defense': 27}
+2025-08-21 10:19:47,927 - DEBUG - [DEBUG] Traitement unité ennemie 1: Abyssalor, Kraken des Profondeurs, HP=1160
+2025-08-21 10:19:47,928 - DEBUG - [DEBUG] Chargement image unité: Crea/45.png
+2025-08-21 10:19:47,928 - DEBUG - [DEBUG] Image trouvée pour Abyssalor, Kraken des Profondeurs: Crea/45.png
+2025-08-21 10:19:47,928 - DEBUG - [DEBUG] Taille originale: (912, 1312)
+2025-08-21 10:19:47,928 - DEBUG - [DEBUG] Taille redimensionnée: (200, 288)
+2025-08-21 10:19:47,929 - DEBUG - [DEBUG] Image dessinée sur overlay_surface avec coins arrondis
+2025-08-21 10:19:47,929 - DEBUG - [DEBUG] Stats unité Abyssalor, Kraken des Profondeurs: HP=1160, ATK=30, DEF=27
+2025-08-21 10:19:47,929 - DEBUG - [DEBUG] Stats unité Abyssalor, Kraken des Profondeurs (base_stats): {'hp': 1160, 'attack': 30, 'defense': 27}
+2025-08-21 10:19:47,929 - DEBUG - [DEBUG] Stats unité Abyssalor, Kraken des Profondeurs (stats): {'hp': 1160, 'attack': 30, 'defense': 27}
+2025-08-21 10:19:47,932 - DEBUG - [DEBUG] Traitement unité ennemie 2: Fulgo, Orbe Electrique, HP=830
+2025-08-21 10:19:47,932 - DEBUG - [DEBUG] Chargement image unité: Crea/46.png
+2025-08-21 10:19:47,932 - DEBUG - [DEBUG] Image trouvée pour Fulgo, Orbe Electrique: Crea/46.png
+2025-08-21 10:19:47,932 - DEBUG - [DEBUG] Taille originale: (912, 1312)
+2025-08-21 10:19:47,932 - DEBUG - [DEBUG] Taille redimensionnée: (200, 288)
+2025-08-21 10:19:47,933 - DEBUG - [DEBUG] Image dessinée sur overlay_surface avec coins arrondis
+2025-08-21 10:19:47,933 - DEBUG - [DEBUG] Stats unité Fulgo, Orbe Electrique: HP=830, ATK=28, DEF=13
+2025-08-21 10:19:47,933 - DEBUG - [DEBUG] Stats unité Fulgo, Orbe Electrique (base_stats): {'hp': 830, 'attack': 28, 'defense': 13}
+2025-08-21 10:19:47,933 - DEBUG - [DEBUG] Stats unité Fulgo, Orbe Electrique (stats): {'hp': 830, 'attack': 28, 'defense': 13}
+2025-08-21 10:19:47,935 - DEBUG - [DEBUG] Traitement unité ennemie 3: Pyraxis, Élémentaire de Magma, HP=780
+2025-08-21 10:19:47,935 - DEBUG - [DEBUG] Chargement image unité: Crea/54.png
+2025-08-21 10:19:47,935 - DEBUG - [DEBUG] Image trouvée pour Pyraxis, Élémentaire de Magma: Crea/54.png
+2025-08-21 10:19:47,935 - DEBUG - [DEBUG] Taille originale: (912, 1312)
+2025-08-21 10:19:47,936 - DEBUG - [DEBUG] Taille redimensionnée: (200, 288)
+2025-08-21 10:19:47,936 - DEBUG - [DEBUG] Image dessinée sur overlay_surface avec coins arrondis
+2025-08-21 10:19:47,936 - DEBUG - [DEBUG] Stats unité Pyraxis, Élémentaire de Magma: HP=780, ATK=25, DEF=13
+2025-08-21 10:19:47,936 - DEBUG - [DEBUG] Stats unité Pyraxis, Élémentaire de Magma (base_stats): {'hp': 780, 'attack': 25, 'defense': 13}
+2025-08-21 10:19:47,937 - DEBUG - [DEBUG] Stats unité Pyraxis, Élémentaire de Magma (stats): {'hp': 780, 'attack': 25, 'defense': 13}
+2025-08-21 10:19:47,938 - DEBUG - [DEBUG] Traitement unité ennemie 4: Gladrith, Écho des montagnes, HP=780
+2025-08-21 10:19:47,938 - DEBUG - [DEBUG] Chargement image unité: Crea/76.png
+2025-08-21 10:19:47,938 - DEBUG - [DEBUG] Image trouvée pour Gladrith, Écho des montagnes: Crea/76.png
+2025-08-21 10:19:47,939 - DEBUG - [DEBUG] Taille originale: (896, 1344)
+2025-08-21 10:19:47,940 - DEBUG - [DEBUG] Taille redimensionnée: (200, 288)
+2025-08-21 10:19:47,940 - DEBUG - [DEBUG] Image dessinée sur overlay_surface avec coins arrondis
+2025-08-21 10:19:47,941 - DEBUG - [DEBUG] Stats unité Gladrith, Écho des montagnes: HP=780, ATK=31, DEF=15
+2025-08-21 10:19:47,941 - DEBUG - [DEBUG] Stats unité Gladrith, Écho des montagnes (base_stats): {'hp': 780, 'attack': 31, 'defense': 15}
+2025-08-21 10:19:47,941 - DEBUG - [DEBUG] Stats unité Gladrith, Écho des montagnes (stats): {'hp': 780, 'attack': 31, 'defense': 15}
+2025-08-21 10:19:47,943 - DEBUG - [DEBUG] Vérification unités joueur: player=<Engine.engine.Player object at 0x0000025979062270>, units=[<Engine.models.Unit object at 0x00000259790623C0>, <Engine.models.Unit object at 0x000002597904B4D0>, <Engine.models.Unit object at 0x000002597904B610>, <Engine.models.Unit object at 0x0000025979067230>, <Engine.models.Unit object at 0x0000025979067360>]
+2025-08-21 10:19:47,943 - DEBUG - [DEBUG] Appel draw_player_units à Y=560
+2025-08-21 10:19:47,943 - DEBUG - [DEBUG] draw_player_units appelée avec y_pos=560
+2025-08-21 10:19:47,943 - DEBUG - [DEBUG] 5 unités joueur à dessiner
+2025-08-21 10:19:47,944 - DEBUG - [DEBUG] Chargement image unité: Crea/3.png
+2025-08-21 10:19:47,944 - DEBUG - [DEBUG] Image trouvée pour Gelidar, Chevalier des Neiges: Crea/3.png
+2025-08-21 10:19:47,944 - DEBUG - [DEBUG] Taille originale: (912, 1312)
+2025-08-21 10:19:47,944 - DEBUG - [DEBUG] Taille redimensionnée: (200, 288)
+2025-08-21 10:19:47,945 - DEBUG - [DEBUG] Image dessinée sur overlay_surface avec coins arrondis
+2025-08-21 10:19:47,945 - DEBUG - [DEBUG] Stats unité Gelidar, Chevalier des Neiges: HP=1100, ATK=25, DEF=28
+2025-08-21 10:19:47,945 - DEBUG - [DEBUG] Stats unité Gelidar, Chevalier des Neiges (base_stats): {'hp': 1100, 'attack': 25, 'defense': 28}
+2025-08-21 10:19:47,945 - DEBUG - [DEBUG] Stats unité Gelidar, Chevalier des Neiges (stats): {'hp': 1100, 'attack': 25, 'defense': 28}
+2025-08-21 10:19:47,947 - DEBUG - [DEBUG] Chargement image unité: Crea/4.png
+2025-08-21 10:19:47,947 - DEBUG - [DEBUG] Image trouvée pour Frimousse, Esprit Givré: Crea/4.png
+2025-08-21 10:19:47,947 - DEBUG - [DEBUG] Taille originale: (912, 1312)
+2025-08-21 10:19:47,948 - DEBUG - [DEBUG] Taille redimensionnée: (200, 288)
+2025-08-21 10:19:47,948 - DEBUG - [DEBUG] Image dessinée sur overlay_surface avec coins arrondis
+2025-08-21 10:19:47,948 - DEBUG - [DEBUG] Stats unité Frimousse, Esprit Givré: HP=780, ATK=23, DEF=13
+2025-08-21 10:19:47,948 - DEBUG - [DEBUG] Stats unité Frimousse, Esprit Givré (base_stats): {'hp': 780, 'attack': 23, 'defense': 13}
+2025-08-21 10:19:47,949 - DEBUG - [DEBUG] Stats unité Frimousse, Esprit Givré (stats): {'hp': 780, 'attack': 23, 'defense': 13}
+2025-08-21 10:19:47,950 - DEBUG - [DEBUG] Chargement image unité: Crea/5.png
+2025-08-21 10:19:47,950 - DEBUG - [DEBUG] Image trouvée pour Skyla, Danseuse des Nuages: Crea/5.png
+2025-08-21 10:19:47,951 - DEBUG - [DEBUG] Taille originale: (912, 1312)
+2025-08-21 10:19:47,951 - DEBUG - [DEBUG] Taille redimensionnée: (200, 288)
+2025-08-21 10:19:47,952 - DEBUG - [DEBUG] Image dessinée sur overlay_surface avec coins arrondis
+2025-08-21 10:19:47,952 - DEBUG - [DEBUG] Stats unité Skyla, Danseuse des Nuages: HP=1010, ATK=28, DEF=21
+2025-08-21 10:19:47,952 - DEBUG - [DEBUG] Stats unité Skyla, Danseuse des Nuages (base_stats): {'hp': 1010, 'attack': 28, 'defense': 21}
+2025-08-21 10:19:47,952 - DEBUG - [DEBUG] Stats unité Skyla, Danseuse des Nuages (stats): {'hp': 1010, 'attack': 28, 'defense': 21}
+2025-08-21 10:19:47,955 - DEBUG - [DEBUG] Chargement image unité: Crea/35.png
+2025-08-21 10:19:47,955 - DEBUG - [DEBUG] Image trouvée pour Roktus, Gobelin Mineur: Crea/35.png
+2025-08-21 10:19:47,955 - DEBUG - [DEBUG] Taille originale: (912, 1312)
+2025-08-21 10:19:47,955 - DEBUG - [DEBUG] Taille redimensionnée: (200, 288)
+2025-08-21 10:19:47,956 - DEBUG - [DEBUG] Image dessinée sur overlay_surface avec coins arrondis
+2025-08-21 10:19:47,956 - DEBUG - [DEBUG] Stats unité Roktus, Gobelin Mineur: HP=845, ATK=26, DEF=12
+2025-08-21 10:19:47,957 - DEBUG - [DEBUG] Stats unité Roktus, Gobelin Mineur (base_stats): {'hp': 845, 'attack': 26, 'defense': 12}
+2025-08-21 10:19:47,957 - DEBUG - [DEBUG] Stats unité Roktus, Gobelin Mineur (stats): {'hp': 845, 'attack': 26, 'defense': 12}
+2025-08-21 10:19:47,959 - DEBUG - [DEBUG] Chargement image unité: Crea/51.png
+2025-08-21 10:19:47,960 - DEBUG - [DEBUG] Image trouvée pour Corvus, Corbeau Mystique: Crea/51.png
+2025-08-21 10:19:47,960 - DEBUG - [DEBUG] Taille originale: (912, 1312)
+2025-08-21 10:19:47,960 - DEBUG - [DEBUG] Taille redimensionnée: (200, 288)
+2025-08-21 10:19:47,961 - DEBUG - [DEBUG] Image dessinée sur overlay_surface avec coins arrondis
+2025-08-21 10:19:47,961 - DEBUG - [DEBUG] Stats unité Corvus, Corbeau Mystique: HP=1113, ATK=33, DEF=21
+2025-08-21 10:19:47,961 - DEBUG - [DEBUG] Stats unité Corvus, Corbeau Mystique (base_stats): {'hp': 1113, 'attack': 33, 'defense': 21}
+2025-08-21 10:19:47,961 - DEBUG - [DEBUG] Stats unité Corvus, Corbeau Mystique (stats): {'hp': 1113, 'attack': 33, 'defense': 21}
+2025-08-21 10:19:47,965 - DEBUG - [DEBUG] Traitement unité 0: Gelidar, Chevalier des Neiges, HP=1100
+2025-08-21 10:19:47,965 - DEBUG - [DEBUG] Traitement unité 1: Frimousse, Esprit Givré, HP=780
+2025-08-21 10:19:47,965 - DEBUG - [DEBUG] Traitement unité 2: Skyla, Danseuse des Nuages, HP=1010
+2025-08-21 10:19:47,965 - DEBUG - [DEBUG] Traitement unité 3: Roktus, Gobelin Mineur, HP=845
+2025-08-21 10:19:47,965 - DEBUG - [DEBUG] Traitement unité 4: Corvus, Corbeau Mystique, HP=1113
+2025-08-21 10:19:48,627 - DEBUG - http://localhost:5000 "GET /api/matchmaking/status HTTP/1.1" 200 292
+2025-08-21 10:19:49,630 - DEBUG - Starting new HTTP connection (1): localhost:5000
+2025-08-21 10:19:49,747 - DEBUG - http://localhost:5000 "POST /api/game/state HTTP/1.1" 200 188
+2025-08-21 10:19:50,249 - DEBUG - Starting new HTTP connection (1): localhost:5000
+2025-08-21 10:19:51,660 - DEBUG - http://localhost:5000 "GET /api/matchmaking/status HTTP/1.1" 200 292
+2025-08-21 10:19:52,297 - DEBUG - http://localhost:5000 "POST /api/game/state HTTP/1.1" 200 188
+2025-08-21 10:19:52,661 - DEBUG - Starting new HTTP connection (1): localhost:5000
+2025-08-21 10:19:52,800 - DEBUG - Starting new HTTP connection (1): localhost:5000
+2025-08-21 10:19:54,714 - DEBUG - http://localhost:5000 "GET /api/matchmaking/status HTTP/1.1" 200 293
+2025-08-21 10:19:54,826 - DEBUG - http://localhost:5000 "POST /api/game/state HTTP/1.1" 200 188
+2025-08-21 10:19:55,329 - DEBUG - Starting new HTTP connection (1): localhost:5000
+2025-08-21 10:19:55,715 - DEBUG - Starting new HTTP connection (1): localhost:5000
+2025-08-21 10:19:57,370 - DEBUG - http://localhost:5000 "POST /api/game/state HTTP/1.1" 200 188
+2025-08-21 10:19:57,761 - DEBUG - http://localhost:5000 "GET /api/matchmaking/status HTTP/1.1" 200 292
+2025-08-21 10:19:57,872 - DEBUG - Starting new HTTP connection (1): localhost:5000
+2025-08-21 10:19:58,764 - DEBUG - Starting new HTTP connection (1): localhost:5000
+2025-08-21 10:19:59,916 - DEBUG - http://localhost:5000 "POST /api/game/state HTTP/1.1" 200 188
+2025-08-21 10:20:00,419 - DEBUG - Starting new HTTP connection (1): localhost:5000
+2025-08-21 10:20:00,787 - DEBUG - http://localhost:5000 "GET /api/matchmaking/status HTTP/1.1" 200 292
+2025-08-21 10:20:01,793 - DEBUG - Starting new HTTP connection (1): localhost:5000
+2025-08-21 10:20:02,462 - DEBUG - http://localhost:5000 "POST /api/game/state HTTP/1.1" 200 188
+2025-08-21 10:20:02,965 - DEBUG - Starting new HTTP connection (1): localhost:5000
+2025-08-21 10:20:03,832 - DEBUG - http://localhost:5000 "GET /api/matchmaking/status HTTP/1.1" 200 293
+2025-08-21 10:20:04,834 - DEBUG - Starting new HTTP connection (1): localhost:5000
+2025-08-21 10:20:05,008 - DEBUG - http://localhost:5000 "POST /api/game/state HTTP/1.1" 200 188
+2025-08-21 10:20:05,510 - DEBUG - Starting new HTTP connection (1): localhost:5000
+2025-08-21 10:20:06,869 - DEBUG - http://localhost:5000 "GET /api/matchmaking/status HTTP/1.1" 200 293
+2025-08-21 10:20:07,540 - DEBUG - http://localhost:5000 "POST /api/game/state HTTP/1.1" 200 188
+2025-08-21 10:20:07,871 - DEBUG - Starting new HTTP connection (1): localhost:5000
+2025-08-21 10:20:08,041 - DEBUG - Starting new HTTP connection (1): localhost:5000
+2025-08-21 10:20:09,915 - DEBUG - http://localhost:5000 "GET /api/matchmaking/status HTTP/1.1" 200 293
+2025-08-21 10:20:10,085 - DEBUG - http://localhost:5000 "POST /api/game/state HTTP/1.1" 200 188
+2025-08-21 10:20:10,587 - DEBUG - Starting new HTTP connection (1): localhost:5000
+2025-08-21 10:20:10,918 - DEBUG - Starting new HTTP connection (1): localhost:5000
+2025-08-21 10:20:12,630 - DEBUG - http://localhost:5000 "POST /api/game/state HTTP/1.1" 200 188
+2025-08-21 10:20:12,968 - DEBUG - http://localhost:5000 "GET /api/matchmaking/status HTTP/1.1" 200 293
+2025-08-21 10:20:13,132 - DEBUG - Starting new HTTP connection (1): localhost:5000
+2025-08-21 10:20:13,970 - DEBUG - Starting new HTTP connection (1): localhost:5000

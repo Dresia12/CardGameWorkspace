@@ -1,0 +1,1368 @@
+{
+  "decks": [
+    {
+      "name": "Deck Eau",
+      "hero": {
+        "name": "Aquarielle, Gardienne des Marées",
+        "element": "Eau",
+        "type": "hero",
+        "base_stats": {
+          "hp": 1200,
+          "attack": 28,
+          "defense": 24
+        },
+        "cost": 0,
+        "rarity": "LEGENDARY",
+        "description": "Protectrice des océans, Aquarielle utilise les pouvoirs curatifs de l'eau pour soutenir ses alliés.",
+        "image": "default_hero.png",
+        "ability_name": "Vague Régénératrice",
+        "ability_description": "Vague Régénératrice : Soigne 70 PV à tous les alliés + retire Brûlure/Poison.",
+        "ability_cooldown": 3,
+        "basic_attack_cooldown": 1,
+        "passive": "Alliés Eau -10 % dégâts subit. (+2 coût)",
+        "image_path": "Hero/2.png",
+        "crit_pct": 5.0,
+        "esquive_pct": 5.0,
+        "precision_pct": 99.0
+      },
+      "units": [
+        {
+          "name": "Cristaline, Ondine Pure",
+          "element": "Eau",
+          "type": "unit",
+          "description": "Souffle Vicié : Empoisonne 2 ennemis. Vague : inflige des dégâts élément eau avec un effet secondaire.",
+          "image": "default.png",
+          "abilities": [],
+          "hp": 840,
+          "attack": 21,
+          "defense": 11,
+          "crit_pct": 3.0,
+          "dgtcrit_pct": 0.0,
+          "esquive_pct": 1.0,
+          "precision_pct": 99.0,
+          "image_path": "Crea/9.png",
+          "cooldown": 1,
+          "rarity": "Commune",
+          "cost": 0
+        },
+        {
+          "name": "Aquaria, Sirène Mystique",
+          "element": "Eau",
+          "type": "unit",
+          "description": "Mélopée Hypnotique : Endort (1 tour) une cible. Si la cible Mouillée : Endormissement dure 2 tours (Eau prolonge ses propres statuts). Si Brûlée : retire Brûlure avant d'appliquer le sommeil. [Boost: +5% PV/ATK, +1 DEF, promue EPIQUE]",
+          "image": "default.png",
+          "abilities": [],
+          "hp": 1029,
+          "attack": 30,
+          "defense": 20,
+          "crit_pct": 3.0,
+          "dgtcrit_pct": 0.0,
+          "esquive_pct": 1.0,
+          "precision_pct": 99.0,
+          "image_path": "Crea/17.png",
+          "cooldown": 1,
+          "rarity": "Épique",
+          "cost": 0
+        },
+        {
+          "name": "Siriona, Enchanteresse des Abysses",
+          "element": "Eau",
+          "type": "unit",
+          "description": "Purification : inflige des dégâts élément eau avec un effet secondaire. Empêche les cibles Air d'esquiver (Terre > Air). Si cible sous Bouclier : 50% de casser le bouclier directement.",
+          "image": "default.png",
+          "abilities": [],
+          "hp": 1200,
+          "attack": 26,
+          "defense": 34,
+          "crit_pct": 3.0,
+          "dgtcrit_pct": 0.0,
+          "esquive_pct": 1.0,
+          "precision_pct": 99.0,
+          "image_path": "Crea/23.png",
+          "cooldown": 1,
+          "rarity": "Épique",
+          "cost": 0
+        },
+        {
+          "name": "Nixie, Fée de la Source",
+          "element": "Eau",
+          "type": "unit",
+          "description": "Soin mineur : inflige des dégâts élément eau avec un effet secondaire. Cibles Mouillées : Poison + durée. Sous Lumière : Silence sur Vesperine (lumière purifie la magie sombre).",
+          "image": "default.png",
+          "abilities": [],
+          "hp": 890,
+          "attack": 32,
+          "defense": 12,
+          "crit_pct": 3.0,
+          "dgtcrit_pct": 0.0,
+          "esquive_pct": 1.0,
+          "precision_pct": 99.0,
+          "image_path": "Crea/29.png",
+          "cooldown": 1,
+          "rarity": "Rare",
+          "cost": 0
+        },
+        {
+          "name": "Torrentis, Gardien de l'Écume",
+          "element": "Eau",
+          "type": "unit",
+          "description": "Soin mineur : inflige des dégâts élément eau avec un effet secondaire. Si subit Eau/Air : Bouclier retiré immédiatement. Si sur Terrain Glacé : DEF doublée ce tour.",
+          "image": "default.png",
+          "abilities": [],
+          "hp": 780,
+          "attack": 19,
+          "defense": 19,
+          "crit_pct": 3.0,
+          "dgtcrit_pct": 0.0,
+          "esquive_pct": 1.0,
+          "precision_pct": 99.0,
+          "image_path": "Crea/32.png",
+          "cooldown": 1,
+          "rarity": "Commune",
+          "cost": 0
+        }
+      ],
+      "cards": [
+        {
+          "name": "Tempête de Mana",
+          "element": "NEUTRE",
+          "rarity": "RARITY.MYTHIC",
+          "cost": 10,
+          "image_path": "",
+          "description": "32 dégâts à tous ennemis, silence (1t) sur tous si 4+ cartes jouées ce tour.",
+          "card_type": "CARDTYPE.SPELL",
+          "effect": "<function effet_tempete_de_mana at 0x0000017FD16E3400>",
+          "set_name": "BaseSet",
+          "effects": [
+            {
+              "type": "damage",
+              "amount": 32,
+              "target": "all_enemies"
+            }
+          ]
+        },
+        {
+          "name": "Tempête de Mana",
+          "element": "NEUTRE",
+          "rarity": "RARITY.MYTHIC",
+          "cost": 10,
+          "image_path": "",
+          "description": "32 dégâts à tous ennemis, silence (1t) sur tous si 4+ cartes jouées ce tour.",
+          "card_type": "CARDTYPE.SPELL",
+          "effect": "<function effet_tempete_de_mana at 0x0000017FD16E3400>",
+          "set_name": "BaseSet",
+          "effects": [
+            {
+              "type": "damage",
+              "amount": 32,
+              "target": "all_enemies"
+            }
+          ]
+        },
+        {
+          "name": "Coup Rapide",
+          "element": "NEUTRE",
+          "rarity": "RARITY.MYTHIC",
+          "cost": 1,
+          "image_path": "",
+          "description": "Inflige 20 points de dégâts à un ennemi.",
+          "card_type": "CARDTYPE.SPELL",
+          "effect": "<function effet_coup_rapide at 0x0000017FD16E3490>",
+          "set_name": "BaseSet",
+          "effects": [
+            {
+              "type": "damage",
+              "amount": 20,
+              "target": "enemy"
+            }
+          ]
+        },
+        {
+          "name": "Coup Rapide",
+          "element": "NEUTRE",
+          "rarity": "RARITY.MYTHIC",
+          "cost": 1,
+          "image_path": "",
+          "description": "Inflige 20 points de dégâts à un ennemi.",
+          "card_type": "CARDTYPE.SPELL",
+          "effect": "<function effet_coup_rapide at 0x0000017FD16E3490>",
+          "set_name": "BaseSet",
+          "effects": [
+            {
+              "type": "damage",
+              "amount": 20,
+              "target": "enemy"
+            }
+          ]
+        },
+        {
+          "name": "Bouclier Léger",
+          "element": "NEUTRE",
+          "rarity": "RARITY.MYTHIC",
+          "cost": 1,
+          "image_path": "",
+          "description": "Confère un bouclier de 20 points à un allié.",
+          "card_type": "CARDTYPE.SPELL",
+          "effect": "<function effet_bouclier_leger at 0x0000017FD16E3520>",
+          "set_name": "BaseSet",
+          "effects": [
+            {
+              "type": "shield",
+              "amount": 20,
+              "target": "ally"
+            }
+          ]
+        },
+        {
+          "name": "Bouclier Léger",
+          "element": "NEUTRE",
+          "rarity": "RARITY.MYTHIC",
+          "cost": 1,
+          "image_path": "",
+          "description": "Confère un bouclier de 20 points à un allié.",
+          "card_type": "CARDTYPE.SPELL",
+          "effect": "<function effet_bouclier_leger at 0x0000017FD16E3520>",
+          "set_name": "BaseSet",
+          "effects": [
+            {
+              "type": "shield",
+              "amount": 20,
+              "target": "ally"
+            }
+          ]
+        },
+        {
+          "name": "Soin Mineur",
+          "element": "NEUTRE",
+          "rarity": "RARITY.MYTHIC",
+          "cost": 1,
+          "image_path": "",
+          "description": "Restaure 25 points de vie à un allié.",
+          "card_type": "CARDTYPE.SPELL",
+          "effect": "<function effet_soin_mineur at 0x0000017FD16E35B0>",
+          "set_name": "BaseSet",
+          "effects": [
+            {
+              "type": "heal",
+              "amount": 25,
+              "target": "ally"
+            }
+          ]
+        },
+        {
+          "name": "Soin Mineur",
+          "element": "NEUTRE",
+          "rarity": "RARITY.MYTHIC",
+          "cost": 1,
+          "image_path": "",
+          "description": "Restaure 25 points de vie à un allié.",
+          "card_type": "CARDTYPE.SPELL",
+          "effect": "<function effet_soin_mineur at 0x0000017FD16E35B0>",
+          "set_name": "BaseSet",
+          "effects": [
+            {
+              "type": "heal",
+              "amount": 25,
+              "target": "ally"
+            }
+          ]
+        },
+        {
+          "name": "Dissipation Mineure",
+          "element": "NEUTRE",
+          "rarity": "RARITY.MYTHIC",
+          "cost": 2,
+          "image_path": "",
+          "description": "Retire un effet négatif d'un allié.",
+          "card_type": "CARDTYPE.SPELL",
+          "effect": "<function effet_dissipation_mineure at 0x0000017FD16E3640>",
+          "set_name": "BaseSet",
+          "effects": [
+            {
+              "type": "dispel",
+              "amount": 20,
+              "target": "ally"
+            }
+          ]
+        },
+        {
+          "name": "Dissipation Mineure",
+          "element": "NEUTRE",
+          "rarity": "RARITY.MYTHIC",
+          "cost": 2,
+          "image_path": "",
+          "description": "Retire un effet négatif d'un allié.",
+          "card_type": "CARDTYPE.SPELL",
+          "effect": "<function effet_dissipation_mineure at 0x0000017FD16E3640>",
+          "set_name": "BaseSet",
+          "effects": [
+            {
+              "type": "dispel",
+              "amount": 20,
+              "target": "ally"
+            }
+          ]
+        },
+        {
+          "name": "Frappe Précise",
+          "element": "NEUTRE",
+          "rarity": "RARITY.MYTHIC",
+          "cost": 1,
+          "image_path": "",
+          "description": "Inflige 20 points de dégâts à un ennemi et ignore les provocations.",
+          "card_type": "CARDTYPE.SPELL",
+          "effect": "<function effet_frappe_precise at 0x0000017FD16E36D0>",
+          "set_name": "BaseSet",
+          "effects": [
+            {
+              "type": "damage",
+              "amount": 20,
+              "target": "enemy"
+            }
+          ]
+        },
+        {
+          "name": "Frappe Précise",
+          "element": "NEUTRE",
+          "rarity": "RARITY.MYTHIC",
+          "cost": 1,
+          "image_path": "",
+          "description": "Inflige 20 points de dégâts à un ennemi et ignore les provocations.",
+          "card_type": "CARDTYPE.SPELL",
+          "effect": "<function effet_frappe_precise at 0x0000017FD16E36D0>",
+          "set_name": "BaseSet",
+          "effects": [
+            {
+              "type": "damage",
+              "amount": 20,
+              "target": "enemy"
+            }
+          ]
+        },
+        {
+          "name": "Concentration",
+          "element": "NEUTRE",
+          "rarity": "RARITY.MYTHIC",
+          "cost": 1,
+          "image_path": "",
+          "description": "Augmente les chances de coup critique d'un allié de 10% pendant 2 tours.",
+          "card_type": "CARDTYPE.SPELL",
+          "effect": "<function effet_concentration at 0x0000017FD16E3A30>",
+          "set_name": "BaseSet",
+          "effects": [
+            {
+              "type": "crit_buff",
+              "amount": 10,
+              "duration": 2,
+              "target": "ally"
+            }
+          ]
+        },
+        {
+          "name": "Concentration",
+          "element": "NEUTRE",
+          "rarity": "RARITY.MYTHIC",
+          "cost": 1,
+          "image_path": "",
+          "description": "Augmente les chances de coup critique d'un allié de 10% pendant 2 tours.",
+          "card_type": "CARDTYPE.SPELL",
+          "effect": "<function effet_concentration at 0x0000017FD16E3A30>",
+          "set_name": "BaseSet",
+          "effects": [
+            {
+              "type": "crit_buff",
+              "amount": 10,
+              "duration": 2,
+              "target": "ally"
+            }
+          ]
+        },
+        {
+          "name": "Flou",
+          "element": "NEUTRE",
+          "rarity": "RARITY.MYTHIC",
+          "cost": 1,
+          "image_path": "",
+          "description": "Augmente l'esquive d'un allié de 10% pendant 2 tours.",
+          "card_type": "CARDTYPE.SPELL",
+          "effect": "<function effet_flou at 0x0000017FD16E39A0>",
+          "set_name": "BaseSet",
+          "effects": [
+            {
+              "type": "esquive_buff",
+              "amount": 10,
+              "duration": 2,
+              "target": "ally"
+            }
+          ]
+        },
+        {
+          "name": "Flou",
+          "element": "NEUTRE",
+          "rarity": "RARITY.MYTHIC",
+          "cost": 1,
+          "image_path": "",
+          "description": "Augmente l'esquive d'un allié de 10% pendant 2 tours.",
+          "card_type": "CARDTYPE.SPELL",
+          "effect": "<function effet_flou at 0x0000017FD16E39A0>",
+          "set_name": "BaseSet",
+          "effects": [
+            {
+              "type": "esquive_buff",
+              "amount": 10,
+              "duration": 2,
+              "target": "ally"
+            }
+          ]
+        },
+        {
+          "name": "Éclaircissement",
+          "element": "NEUTRE",
+          "rarity": "RARITY.MYTHIC",
+          "cost": 1,
+          "image_path": "",
+          "description": "Augmente la précision d'un allié de 10% pendant 2 tours.",
+          "card_type": "CARDTYPE.SPELL",
+          "effect": "<function effet_eclaircissement at 0x0000017FD16E3910>",
+          "set_name": "BaseSet",
+          "effects": [
+            {
+              "type": "precision_buff",
+              "amount": 10,
+              "duration": 2,
+              "target": "ally"
+            }
+          ]
+        },
+        {
+          "name": "Éclaircissement",
+          "element": "NEUTRE",
+          "rarity": "RARITY.MYTHIC",
+          "cost": 1,
+          "image_path": "",
+          "description": "Augmente la précision d'un allié de 10% pendant 2 tours.",
+          "card_type": "CARDTYPE.SPELL",
+          "effect": "<function effet_eclaircissement at 0x0000017FD16E3910>",
+          "set_name": "BaseSet",
+          "effects": [
+            {
+              "type": "precision_buff",
+              "amount": 10,
+              "duration": 2,
+              "target": "ally"
+            }
+          ]
+        },
+        {
+          "name": "Faiblesse",
+          "element": "NEUTRE",
+          "rarity": "RARITY.MYTHIC",
+          "cost": 1,
+          "image_path": "",
+          "description": "Réduit l'attaque d'un ennemi de 10% pendant 2 tours.",
+          "card_type": "CARDTYPE.SPELL",
+          "effect": "<function effet_faiblesse at 0x0000017FD16E3880>",
+          "set_name": "BaseSet",
+          "effects": [
+            {
+              "type": "attack_debuff",
+              "amount": 20,
+              "target": "enemy"
+            }
+          ]
+        },
+        {
+          "name": "Faiblesse",
+          "element": "NEUTRE",
+          "rarity": "RARITY.MYTHIC",
+          "cost": 1,
+          "image_path": "",
+          "description": "Réduit l'attaque d'un ennemi de 10% pendant 2 tours.",
+          "card_type": "CARDTYPE.SPELL",
+          "effect": "<function effet_faiblesse at 0x0000017FD16E3880>",
+          "set_name": "BaseSet",
+          "effects": [
+            {
+              "type": "attack_debuff",
+              "amount": 20,
+              "target": "enemy"
+            }
+          ]
+        },
+        {
+          "name": "Protection",
+          "element": "NEUTRE",
+          "rarity": "RARITY.MYTHIC",
+          "cost": 1,
+          "image_path": "",
+          "description": "Augmente la défense d'un allié de 10% pendant 2 tours.",
+          "card_type": "CARDTYPE.SPELL",
+          "effect": "<function effet_protection at 0x0000017FD16E37F0>",
+          "set_name": "BaseSet",
+          "effects": [
+            {
+              "type": "defense_buff",
+              "amount": 10,
+              "duration": 2,
+              "target": "ally"
+            }
+          ]
+        },
+        {
+          "name": "Protection",
+          "element": "NEUTRE",
+          "rarity": "RARITY.MYTHIC",
+          "cost": 1,
+          "image_path": "",
+          "description": "Augmente la défense d'un allié de 10% pendant 2 tours.",
+          "card_type": "CARDTYPE.SPELL",
+          "effect": "<function effet_protection at 0x0000017FD16E37F0>",
+          "set_name": "BaseSet",
+          "effects": [
+            {
+              "type": "defense_buff",
+              "amount": 10,
+              "duration": 2,
+              "target": "ally"
+            }
+          ]
+        },
+        {
+          "name": "Renforcement",
+          "element": "NEUTRE",
+          "rarity": "RARITY.MYTHIC",
+          "cost": 1,
+          "image_path": "",
+          "description": "Augmente l'attaque d'un allié de 10% pendant 2 tours.",
+          "card_type": "CARDTYPE.SPELL",
+          "effect": "<function effet_renforcement at 0x0000017FD16E3760>",
+          "set_name": "BaseSet",
+          "effects": [
+            {
+              "type": "attack_buff",
+              "amount": 20,
+              "target": "ally"
+            }
+          ]
+        },
+        {
+          "name": "Renforcement",
+          "element": "NEUTRE",
+          "rarity": "RARITY.MYTHIC",
+          "cost": 1,
+          "image_path": "",
+          "description": "Augmente l'attaque d'un allié de 10% pendant 2 tours.",
+          "card_type": "CARDTYPE.SPELL",
+          "effect": "<function effet_renforcement at 0x0000017FD16E3760>",
+          "set_name": "BaseSet",
+          "effects": [
+            {
+              "type": "attack_buff",
+              "amount": 20,
+              "target": "ally"
+            }
+          ]
+        },
+        {
+          "name": "Désorientation",
+          "element": "NEUTRE",
+          "rarity": "RARITY.MYTHIC",
+          "cost": 1,
+          "image_path": "",
+          "description": "Réduit la précision d'un ennemi de 10% pendant 2 tours.",
+          "card_type": "CARDTYPE.SPELL",
+          "effect": "<function effet_desorientation at 0x0000017FD16E3AC0>",
+          "set_name": "BaseSet",
+          "effects": [
+            {
+              "type": "precision_debuff",
+              "amount": 10,
+              "duration": 2,
+              "target": "enemy"
+            }
+          ]
+        },
+        {
+          "name": "Désorientation",
+          "element": "NEUTRE",
+          "rarity": "RARITY.MYTHIC",
+          "cost": 1,
+          "image_path": "",
+          "description": "Réduit la précision d'un ennemi de 10% pendant 2 tours.",
+          "card_type": "CARDTYPE.SPELL",
+          "effect": "<function effet_desorientation at 0x0000017FD16E3AC0>",
+          "set_name": "BaseSet",
+          "effects": [
+            {
+              "type": "precision_debuff",
+              "amount": 10,
+              "duration": 2,
+              "target": "enemy"
+            }
+          ]
+        },
+        {
+          "name": "Affaiblissement",
+          "element": "NEUTRE",
+          "rarity": "RARITY.MYTHIC",
+          "cost": 1,
+          "image_path": "",
+          "description": "Réduit la défense d'un ennemi de 10% pendant 2 tours.",
+          "card_type": "CARDTYPE.SPELL",
+          "effect": "<function effet_affaiblissement at 0x0000017FD16E3B50>",
+          "set_name": "BaseSet",
+          "effects": [
+            {
+              "type": "defense_debuff",
+              "amount": 10,
+              "duration": 2,
+              "target": "enemy"
+            }
+          ]
+        },
+        {
+          "name": "Affaiblissement",
+          "element": "NEUTRE",
+          "rarity": "RARITY.MYTHIC",
+          "cost": 1,
+          "image_path": "",
+          "description": "Réduit la défense d'un ennemi de 10% pendant 2 tours.",
+          "card_type": "CARDTYPE.SPELL",
+          "effect": "<function effet_affaiblissement at 0x0000017FD16E3B50>",
+          "set_name": "BaseSet",
+          "effects": [
+            {
+              "type": "defense_debuff",
+              "amount": 10,
+              "duration": 2,
+              "target": "enemy"
+            }
+          ]
+        },
+        {
+          "name": "Soin de Groupe",
+          "element": "NEUTRE",
+          "rarity": "RARITY.MYTHIC",
+          "cost": 2,
+          "image_path": "",
+          "description": "Restaure 15 points de vie à tous les alliés.",
+          "card_type": "CARDTYPE.SPELL",
+          "effect": "<function effet_soin_de_groupe at 0x0000017FD16E3BE0>",
+          "set_name": "BaseSet",
+          "effects": [
+            {
+              "type": "heal",
+              "amount": 15,
+              "target": "all_allies"
+            }
+          ]
+        },
+        {
+          "name": "Soin de Groupe",
+          "element": "NEUTRE",
+          "rarity": "RARITY.MYTHIC",
+          "cost": 2,
+          "image_path": "",
+          "description": "Restaure 15 points de vie à tous les alliés.",
+          "card_type": "CARDTYPE.SPELL",
+          "effect": "<function effet_soin_de_groupe at 0x0000017FD16E3BE0>",
+          "set_name": "BaseSet",
+          "effects": [
+            {
+              "type": "heal",
+              "amount": 15,
+              "target": "all_allies"
+            }
+          ]
+        }
+      ],
+      "customizations": {},
+      "created_date": "2025-08-01T04:31:20.200442",
+      "last_modified": "2025-08-01T04:32:02.183921",
+      "version": "1.0"
+    },
+    {
+      "name": "Deck Feu",
+      "hero": {
+        "name": "Solaris, Champion des Cendres",
+        "element": "Feu",
+        "type": "hero",
+        "base_stats": {
+          "hp": 1100,
+          "attack": 35,
+          "defense": 22
+        },
+        "cost": 0,
+        "rarity": "LEGENDARY",
+        "description": "Champion légendaire du feu, Solaris maîtrise les flammes purificatrices pour consumer ses ennemis.",
+        "image": "default_hero.png",
+        "ability_name": "Inferno Purificateur",
+        "ability_description": "Inferno Purificateur : Inflige 80 dégâts à tous les ennemis + Brûlure (2 tours).",
+        "ability_cooldown": 3,
+        "basic_attack_cooldown": 1,
+        "passive": "Alliés Feu +10 % dégâts. (+2 coût)",
+        "image_path": "Hero/1.png",
+        "crit_pct": 5.0,
+        "esquive_pct": 5.0,
+        "precision_pct": 99.0
+      },
+      "units": [
+        {
+          "name": "Pyrodrake, Dragon de Braise",
+          "element": "Feu",
+          "type": "unit",
+          "description": "Explosion : inflige des dégâts élément feu avec un effet secondaire. Si la cible est Gelée : annule Gel, cible est maintenant Échaudée (soins reçus -30%, 1 tour). Si la cible est Mouillée : annule Mouillé et la rend sous 'Vapeur' (précision -15%, 1 tour).",
+          "image": "default.png",
+          "abilities": [],
+          "hp": 1200,
+          "attack": 35,
+          "defense": 22,
+          "crit_pct": 3.0,
+          "dgtcrit_pct": 0.0,
+          "esquive_pct": 1.0,
+          "precision_pct": 99.0,
+          "image_path": "Crea/1.png",
+          "cooldown": 2,
+          "rarity": "Mythique",
+          "cost": 0
+        },
+        {
+          "name": "Salamandra, Magicienne Incandescente",
+          "element": "Feu",
+          "type": "unit",
+          "description": "Souffle ardent : inflige des dégâts élément feu avec un effet secondaire. 50% de Brûlure. Si la cible est Mouillée : retire Mouillé, applique Vapeur (précision -15%). Si la cible est Gelée : annule Gel, cible Échaudée (soins -30%).",
+          "image": "default.png",
+          "abilities": [],
+          "hp": 950,
+          "attack": 30,
+          "defense": 16,
+          "crit_pct": 3.0,
+          "dgtcrit_pct": 0.0,
+          "esquive_pct": 1.0,
+          "precision_pct": 99.0,
+          "image_path": "Crea/2.png",
+          "cooldown": 2,
+          "rarity": "Épique",
+          "cost": 0
+        },
+        {
+          "name": "Vulcan, Forgeron de l'Enclume Ardente",
+          "element": "Feu",
+          "type": "unit",
+          "description": "Souffle ardent : inflige des dégâts élément feu avec un effet secondaire. Si ce bouclier casse à cause d'une attaque de Feu : l'attaquant subit Gel (1 tour). Si brisé par Air : retire aussi un bonus du porteur (anti-buff Air).",
+          "image": "default.png",
+          "abilities": [],
+          "hp": 940,
+          "attack": 32,
+          "defense": 15,
+          "crit_pct": 3.0,
+          "dgtcrit_pct": 0.0,
+          "esquive_pct": 1.0,
+          "precision_pct": 99.0,
+          "image_path": "Crea/11.png",
+          "cooldown": 2,
+          "rarity": "Épique",
+          "cost": 0
+        },
+        {
+          "name": "Solaris, Paladin du Soleil",
+          "element": "Feu",
+          "type": "unit",
+          "description": "Attaque de base : inflige des dégâts élément feu/lumière avec un effet secondaire. Si cible Lumière : applique Silencieux (Silence 1 tour). Si cible Ténèbres : vol de PV doublé.",
+          "image": "default.png",
+          "abilities": [],
+          "hp": 940,
+          "attack": 32,
+          "defense": 13,
+          "crit_pct": 3.0,
+          "dgtcrit_pct": 0.0,
+          "esquive_pct": 1.0,
+          "precision_pct": 99.0,
+          "image_path": "Crea/26.png",
+          "cooldown": 1,
+          "rarity": "Rare",
+          "cost": 0
+        },
+        {
+          "name": "Rubra, Salamandre Incandescente",
+          "element": "Feu",
+          "type": "unit",
+          "description": "Danse de Cristal : Esquive +50% pour 1 tour, 33% de chance de Geler un ennemi en esquivant. Si l'attaquant est Mouillé : Gel garanti. Si subit Feu : perd son bonus d'esquive.",
+          "image": "default.png",
+          "abilities": [],
+          "hp": 780,
+          "attack": 21,
+          "defense": 12,
+          "crit_pct": 3.0,
+          "dgtcrit_pct": 0.0,
+          "esquive_pct": 1.0,
+          "precision_pct": 99.0,
+          "image_path": "Crea/42.png",
+          "cooldown": 1,
+          "rarity": "Peu commune",
+          "cost": 0
+        }
+      ],
+      "cards": [
+        {
+          "name": "Tempête de Mana",
+          "element": "NEUTRE",
+          "rarity": "RARITY.MYTHIC",
+          "cost": 10,
+          "image_path": "",
+          "description": "32 dégâts à tous ennemis, silence (1t) sur tous si 4+ cartes jouées ce tour.",
+          "card_type": "CARDTYPE.SPELL",
+          "effect": "<function effet_tempete_de_mana at 0x0000017FD16E3400>",
+          "set_name": "BaseSet",
+          "effects": [
+            {
+              "type": "damage",
+              "amount": 32,
+              "target": "all_enemies"
+            }
+          ]
+        },
+        {
+          "name": "Tempête de Mana",
+          "element": "NEUTRE",
+          "rarity": "RARITY.MYTHIC",
+          "cost": 10,
+          "image_path": "",
+          "description": "32 dégâts à tous ennemis, silence (1t) sur tous si 4+ cartes jouées ce tour.",
+          "card_type": "CARDTYPE.SPELL",
+          "effect": "<function effet_tempete_de_mana at 0x0000017FD16E3400>",
+          "set_name": "BaseSet",
+          "effects": [
+            {
+              "type": "damage",
+              "amount": 32,
+              "target": "all_enemies"
+            }
+          ]
+        },
+        {
+          "name": "Coup Rapide",
+          "element": "NEUTRE",
+          "rarity": "RARITY.MYTHIC",
+          "cost": 1,
+          "image_path": "",
+          "description": "Inflige 20 points de dégâts à un ennemi.",
+          "card_type": "CARDTYPE.SPELL",
+          "effect": "<function effet_coup_rapide at 0x0000017FD16E3490>",
+          "set_name": "BaseSet",
+          "effects": [
+            {
+              "type": "damage",
+              "amount": 20,
+              "target": "enemy"
+            }
+          ]
+        },
+        {
+          "name": "Coup Rapide",
+          "element": "NEUTRE",
+          "rarity": "RARITY.MYTHIC",
+          "cost": 1,
+          "image_path": "",
+          "description": "Inflige 20 points de dégâts à un ennemi.",
+          "card_type": "CARDTYPE.SPELL",
+          "effect": "<function effet_coup_rapide at 0x0000017FD16E3490>",
+          "set_name": "BaseSet",
+          "effects": [
+            {
+              "type": "damage",
+              "amount": 20,
+              "target": "enemy"
+            }
+          ]
+        },
+        {
+          "name": "Bouclier Léger",
+          "element": "NEUTRE",
+          "rarity": "RARITY.MYTHIC",
+          "cost": 1,
+          "image_path": "",
+          "description": "Confère un bouclier de 20 points à un allié.",
+          "card_type": "CARDTYPE.SPELL",
+          "effect": "<function effet_bouclier_leger at 0x0000017FD16E3520>",
+          "set_name": "BaseSet",
+          "effects": [
+            {
+              "type": "shield",
+              "amount": 20,
+              "target": "ally"
+            }
+          ]
+        },
+        {
+          "name": "Bouclier Léger",
+          "element": "NEUTRE",
+          "rarity": "RARITY.MYTHIC",
+          "cost": 1,
+          "image_path": "",
+          "description": "Confère un bouclier de 20 points à un allié.",
+          "card_type": "CARDTYPE.SPELL",
+          "effect": "<function effet_bouclier_leger at 0x0000017FD16E3520>",
+          "set_name": "BaseSet",
+          "effects": [
+            {
+              "type": "shield",
+              "amount": 20,
+              "target": "ally"
+            }
+          ]
+        },
+        {
+          "name": "Soin Mineur",
+          "element": "NEUTRE",
+          "rarity": "RARITY.MYTHIC",
+          "cost": 1,
+          "image_path": "",
+          "description": "Restaure 25 points de vie à un allié.",
+          "card_type": "CARDTYPE.SPELL",
+          "effect": "<function effet_soin_mineur at 0x0000017FD16E35B0>",
+          "set_name": "BaseSet",
+          "effects": [
+            {
+              "type": "heal",
+              "amount": 25,
+              "target": "ally"
+            }
+          ]
+        },
+        {
+          "name": "Soin Mineur",
+          "element": "NEUTRE",
+          "rarity": "RARITY.MYTHIC",
+          "cost": 1,
+          "image_path": "",
+          "description": "Restaure 25 points de vie à un allié.",
+          "card_type": "CARDTYPE.SPELL",
+          "effect": "<function effet_soin_mineur at 0x0000017FD16E35B0>",
+          "set_name": "BaseSet",
+          "effects": [
+            {
+              "type": "heal",
+              "amount": 25,
+              "target": "ally"
+            }
+          ]
+        },
+        {
+          "name": "Dissipation Mineure",
+          "element": "NEUTRE",
+          "rarity": "RARITY.MYTHIC",
+          "cost": 2,
+          "image_path": "",
+          "description": "Retire un effet négatif d'un allié.",
+          "card_type": "CARDTYPE.SPELL",
+          "effect": "<function effet_dissipation_mineure at 0x0000017FD16E3640>",
+          "set_name": "BaseSet",
+          "effects": [
+            {
+              "type": "dispel",
+              "amount": 20,
+              "target": "ally"
+            }
+          ]
+        },
+        {
+          "name": "Dissipation Mineure",
+          "element": "NEUTRE",
+          "rarity": "RARITY.MYTHIC",
+          "cost": 2,
+          "image_path": "",
+          "description": "Retire un effet négatif d'un allié.",
+          "card_type": "CARDTYPE.SPELL",
+          "effect": "<function effet_dissipation_mineure at 0x0000017FD16E3640>",
+          "set_name": "BaseSet",
+          "effects": [
+            {
+              "type": "dispel",
+              "amount": 20,
+              "target": "ally"
+            }
+          ]
+        },
+        {
+          "name": "Frappe Précise",
+          "element": "NEUTRE",
+          "rarity": "RARITY.MYTHIC",
+          "cost": 1,
+          "image_path": "",
+          "description": "Inflige 20 points de dégâts à un ennemi et ignore les provocations.",
+          "card_type": "CARDTYPE.SPELL",
+          "effect": "<function effet_frappe_precise at 0x0000017FD16E36D0>",
+          "set_name": "BaseSet",
+          "effects": [
+            {
+              "type": "damage",
+              "amount": 20,
+              "target": "enemy"
+            }
+          ]
+        },
+        {
+          "name": "Frappe Précise",
+          "element": "NEUTRE",
+          "rarity": "RARITY.MYTHIC",
+          "cost": 1,
+          "image_path": "",
+          "description": "Inflige 20 points de dégâts à un ennemi et ignore les provocations.",
+          "card_type": "CARDTYPE.SPELL",
+          "effect": "<function effet_frappe_precise at 0x0000017FD16E36D0>",
+          "set_name": "BaseSet",
+          "effects": [
+            {
+              "type": "damage",
+              "amount": 20,
+              "target": "enemy"
+            }
+          ]
+        },
+        {
+          "name": "Concentration",
+          "element": "NEUTRE",
+          "rarity": "RARITY.MYTHIC",
+          "cost": 1,
+          "image_path": "",
+          "description": "Augmente les chances de coup critique d'un allié de 10% pendant 2 tours.",
+          "card_type": "CARDTYPE.SPELL",
+          "effect": "<function effet_concentration at 0x0000017FD16E3A30>",
+          "set_name": "BaseSet",
+          "effects": [
+            {
+              "type": "crit_buff",
+              "amount": 10,
+              "duration": 2,
+              "target": "ally"
+            }
+          ]
+        },
+        {
+          "name": "Concentration",
+          "element": "NEUTRE",
+          "rarity": "RARITY.MYTHIC",
+          "cost": 1,
+          "image_path": "",
+          "description": "Augmente les chances de coup critique d'un allié de 10% pendant 2 tours.",
+          "card_type": "CARDTYPE.SPELL",
+          "effect": "<function effet_concentration at 0x0000017FD16E3A30>",
+          "set_name": "BaseSet",
+          "effects": [
+            {
+              "type": "crit_buff",
+              "amount": 10,
+              "duration": 2,
+              "target": "ally"
+            }
+          ]
+        },
+        {
+          "name": "Flou",
+          "element": "NEUTRE",
+          "rarity": "RARITY.MYTHIC",
+          "cost": 1,
+          "image_path": "",
+          "description": "Augmente l'esquive d'un allié de 10% pendant 2 tours.",
+          "card_type": "CARDTYPE.SPELL",
+          "effect": "<function effet_flou at 0x0000017FD16E39A0>",
+          "set_name": "BaseSet",
+          "effects": [
+            {
+              "type": "esquive_buff",
+              "amount": 10,
+              "duration": 2,
+              "target": "ally"
+            }
+          ]
+        },
+        {
+          "name": "Flou",
+          "element": "NEUTRE",
+          "rarity": "RARITY.MYTHIC",
+          "cost": 1,
+          "image_path": "",
+          "description": "Augmente l'esquive d'un allié de 10% pendant 2 tours.",
+          "card_type": "CARDTYPE.SPELL",
+          "effect": "<function effet_flou at 0x0000017FD16E39A0>",
+          "set_name": "BaseSet",
+          "effects": [
+            {
+              "type": "esquive_buff",
+              "amount": 10,
+              "duration": 2,
+              "target": "ally"
+            }
+          ]
+        },
+        {
+          "name": "Éclaircissement",
+          "element": "NEUTRE",
+          "rarity": "RARITY.MYTHIC",
+          "cost": 1,
+          "image_path": "",
+          "description": "Augmente la précision d'un allié de 10% pendant 2 tours.",
+          "card_type": "CARDTYPE.SPELL",
+          "effect": "<function effet_eclaircissement at 0x0000017FD16E3910>",
+          "set_name": "BaseSet",
+          "effects": [
+            {
+              "type": "precision_buff",
+              "amount": 10,
+              "duration": 2,
+              "target": "ally"
+            }
+          ]
+        },
+        {
+          "name": "Éclaircissement",
+          "element": "NEUTRE",
+          "rarity": "RARITY.MYTHIC",
+          "cost": 1,
+          "image_path": "",
+          "description": "Augmente la précision d'un allié de 10% pendant 2 tours.",
+          "card_type": "CARDTYPE.SPELL",
+          "effect": "<function effet_eclaircissement at 0x0000017FD16E3910>",
+          "set_name": "BaseSet",
+          "effects": [
+            {
+              "type": "precision_buff",
+              "amount": 10,
+              "duration": 2,
+              "target": "ally"
+            }
+          ]
+        },
+        {
+          "name": "Faiblesse",
+          "element": "NEUTRE",
+          "rarity": "RARITY.MYTHIC",
+          "cost": 1,
+          "image_path": "",
+          "description": "Réduit l'attaque d'un ennemi de 10% pendant 2 tours.",
+          "card_type": "CARDTYPE.SPELL",
+          "effect": "<function effet_faiblesse at 0x0000017FD16E3880>",
+          "set_name": "BaseSet",
+          "effects": [
+            {
+              "type": "attack_debuff",
+              "amount": 20,
+              "target": "enemy"
+            }
+          ]
+        },
+        {
+          "name": "Faiblesse",
+          "element": "NEUTRE",
+          "rarity": "RARITY.MYTHIC",
+          "cost": 1,
+          "image_path": "",
+          "description": "Réduit l'attaque d'un ennemi de 10% pendant 2 tours.",
+          "card_type": "CARDTYPE.SPELL",
+          "effect": "<function effet_faiblesse at 0x0000017FD16E3880>",
+          "set_name": "BaseSet",
+          "effects": [
+            {
+              "type": "attack_debuff",
+              "amount": 20,
+              "target": "enemy"
+            }
+          ]
+        },
+        {
+          "name": "Protection",
+          "element": "NEUTRE",
+          "rarity": "RARITY.MYTHIC",
+          "cost": 1,
+          "image_path": "",
+          "description": "Augmente la défense d'un allié de 10% pendant 2 tours.",
+          "card_type": "CARDTYPE.SPELL",
+          "effect": "<function effet_protection at 0x0000017FD16E37F0>",
+          "set_name": "BaseSet",
+          "effects": [
+            {
+              "type": "defense_buff",
+              "amount": 10,
+              "duration": 2,
+              "target": "ally"
+            }
+          ]
+        },
+        {
+          "name": "Protection",
+          "element": "NEUTRE",
+          "rarity": "RARITY.MYTHIC",
+          "cost": 1,
+          "image_path": "",
+          "description": "Augmente la défense d'un allié de 10% pendant 2 tours.",
+          "card_type": "CARDTYPE.SPELL",
+          "effect": "<function effet_protection at 0x0000017FD16E37F0>",
+          "set_name": "BaseSet",
+          "effects": [
+            {
+              "type": "defense_buff",
+              "amount": 10,
+              "duration": 2,
+              "target": "ally"
+            }
+          ]
+        },
+        {
+          "name": "Renforcement",
+          "element": "NEUTRE",
+          "rarity": "RARITY.MYTHIC",
+          "cost": 1,
+          "image_path": "",
+          "description": "Augmente l'attaque d'un allié de 10% pendant 2 tours.",
+          "card_type": "CARDTYPE.SPELL",
+          "effect": "<function effet_renforcement at 0x0000017FD16E3760>",
+          "set_name": "BaseSet",
+          "effects": [
+            {
+              "type": "attack_buff",
+              "amount": 20,
+              "target": "ally"
+            }
+          ]
+        },
+        {
+          "name": "Renforcement",
+          "element": "NEUTRE",
+          "rarity": "RARITY.MYTHIC",
+          "cost": 1,
+          "image_path": "",
+          "description": "Augmente l'attaque d'un allié de 10% pendant 2 tours.",
+          "card_type": "CARDTYPE.SPELL",
+          "effect": "<function effet_renforcement at 0x0000017FD16E3760>",
+          "set_name": "BaseSet",
+          "effects": [
+            {
+              "type": "attack_buff",
+              "amount": 20,
+              "target": "ally"
+            }
+          ]
+        },
+        {
+          "name": "Désorientation",
+          "element": "NEUTRE",
+          "rarity": "RARITY.MYTHIC",
+          "cost": 1,
+          "image_path": "",
+          "description": "Réduit la précision d'un ennemi de 10% pendant 2 tours.",
+          "card_type": "CARDTYPE.SPELL",
+          "effect": "<function effet_desorientation at 0x0000017FD16E3AC0>",
+          "set_name": "BaseSet",
+          "effects": [
+            {
+              "type": "precision_debuff",
+              "amount": 10,
+              "duration": 2,
+              "target": "enemy"
+            }
+          ]
+        },
+        {
+          "name": "Désorientation",
+          "element": "NEUTRE",
+          "rarity": "RARITY.MYTHIC",
+          "cost": 1,
+          "image_path": "",
+          "description": "Réduit la précision d'un ennemi de 10% pendant 2 tours.",
+          "card_type": "CARDTYPE.SPELL",
+          "effect": "<function effet_desorientation at 0x0000017FD16E3AC0>",
+          "set_name": "BaseSet",
+          "effects": [
+            {
+              "type": "precision_debuff",
+              "amount": 10,
+              "duration": 2,
+              "target": "enemy"
+            }
+          ]
+        },
+        {
+          "name": "Affaiblissement",
+          "element": "NEUTRE",
+          "rarity": "RARITY.MYTHIC",
+          "cost": 1,
+          "image_path": "",
+          "description": "Réduit la défense d'un ennemi de 10% pendant 2 tours.",
+          "card_type": "CARDTYPE.SPELL",
+          "effect": "<function effet_affaiblissement at 0x0000017FD16E3B50>",
+          "set_name": "BaseSet",
+          "effects": [
+            {
+              "type": "defense_debuff",
+              "amount": 10,
+              "duration": 2,
+              "target": "enemy"
+            }
+          ]
+        },
+        {
+          "name": "Affaiblissement",
+          "element": "NEUTRE",
+          "rarity": "RARITY.MYTHIC",
+          "cost": 1,
+          "image_path": "",
+          "description": "Réduit la défense d'un ennemi de 10% pendant 2 tours.",
+          "card_type": "CARDTYPE.SPELL",
+          "effect": "<function effet_affaiblissement at 0x0000017FD16E3B50>",
+          "set_name": "BaseSet",
+          "effects": [
+            {
+              "type": "defense_debuff",
+              "amount": 10,
+              "duration": 2,
+              "target": "enemy"
+            }
+          ]
+        },
+        {
+          "name": "Soin de Groupe",
+          "element": "NEUTRE",
+          "rarity": "RARITY.MYTHIC",
+          "cost": 2,
+          "image_path": "",
+          "description": "Restaure 15 points de vie à tous les alliés.",
+          "card_type": "CARDTYPE.SPELL",
+          "effect": "<function effet_soin_de_groupe at 0x0000017FD16E3BE0>",
+          "set_name": "BaseSet",
+          "effects": [
+            {
+              "type": "heal",
+              "amount": 15,
+              "target": "all_allies"
+            }
+          ]
+        },
+        {
+          "name": "Soin de Groupe",
+          "element": "NEUTRE",
+          "rarity": "RARITY.MYTHIC",
+          "cost": 2,
+          "image_path": "",
+          "description": "Restaure 15 points de vie à tous les alliés.",
+          "card_type": "CARDTYPE.SPELL",
+          "effect": "<function effet_soin_de_groupe at 0x0000017FD16E3BE0>",
+          "set_name": "BaseSet",
+          "effects": [
+            {
+              "type": "heal",
+              "amount": 15,
+              "target": "all_allies"
+            }
+          ]
+        }
+      ],
+      "customizations": {},
+      "created_date": "2025-08-01T04:37:35.480109",
+      "last_modified": "2025-08-01T04:38:09.428570",
+      "version": "1.0"
+    }
+  ],
+  "current_deck": "Deck Feu",
+  "last_save": "2025-08-01T04:38:09.430602"
+}

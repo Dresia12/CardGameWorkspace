@@ -1,0 +1,376 @@
+2025-08-20 09:52:34,710 - INFO - ============================================================
+2025-08-20 09:52:34,943 - INFO - ----------------------------------------
+2025-08-20 09:52:34,943 - INFO - État avant initialisation:
+2025-08-20 09:52:34,943 - INFO -   - Joueurs: 2
+2025-08-20 09:52:34,943 - INFO -   - Tour: 1
+2025-08-20 09:52:34,944 - INFO -   - Joueur actuel: 0
+2025-08-20 09:52:34,944 - INFO -   - Logs: 2
+2025-08-20 09:52:34,946 - INFO - 
+État après initialisation:
+2025-08-20 09:52:34,946 - INFO -   - Tour: 1
+2025-08-20 09:52:34,946 - INFO -   - Joueur actuel: 0
+2025-08-20 09:52:34,946 - INFO -   - Logs: 74
+2025-08-20 09:52:34,948 - INFO -   - Mana: 1/1
+2025-08-20 09:52:34,948 - INFO -   - Cartes en main: 5
+2025-08-20 09:52:34,949 - INFO -   - Cartes en deck: 25
+2025-08-20 09:52:34,949 - INFO -   - Unités: 5
+2025-08-20 09:52:34,950 - INFO -   - Mulligans: 0/1
+2025-08-20 09:52:34,952 - INFO -   - Mana: 1/1
+2025-08-20 09:52:34,952 - INFO -   - Cartes en main: 5
+2025-08-20 09:52:34,952 - INFO -   - Cartes en deck: 25
+2025-08-20 09:52:34,952 - INFO -   - Unités: 5
+2025-08-20 09:52:34,952 - INFO -   - Mulligans: 0/2
+2025-08-20 09:52:34,954 - INFO -   [INIT] Combat initialisé - Tour 1
+2025-08-20 09:52:34,954 - INFO -   [INIT] Gestionnaire d'effets initialisé
+2025-08-20 09:52:34,954 - INFO -   [INITIALISATION] Validation des decks...
+2025-08-20 09:52:34,955 - INFO -   [VALIDATION] Validation du deck de Joueur
+2025-08-20 09:52:34,955 - INFO -   [VALIDATION] Héros: <Engine.models.Hero object at 0x000002330CE73230>
+2025-08-20 09:52:34,955 - INFO -   [VALIDATION] Unités: 5
+2025-08-20 09:52:34,955 - INFO -   [VALIDATION] Cartes: 30
+2025-08-20 09:52:34,955 - INFO -   [VALIDATION] Héros valide: Toxina, Reine des Venins
+2025-08-20 09:52:34,955 - INFO -   [VALIDATION] Unités valides: 5
+2025-08-20 09:52:34,955 - INFO -   [VALIDATION] Unités uniques OK
+2025-08-20 09:52:34,955 - INFO -   [VALIDATION] Cartes valides: 30
+2025-08-20 09:52:34,956 - INFO -   [VALIDATION] Résultat: 0 erreurs, 0 warnings
+2025-08-20 09:52:34,956 - INFO -   [VALIDATION] Deck du joueur Joueur validé avec succès
+2025-08-20 09:52:34,956 - INFO -   [VALIDATION] Validation du deck de IA
+2025-08-20 09:52:34,956 - INFO -   [VALIDATION] Héros: <Engine.models.Hero object at 0x000002330CF48550>
+2025-08-20 09:52:34,956 - INFO -   [VALIDATION] Unités: 5
+2025-08-20 09:52:34,956 - INFO -   [VALIDATION] Cartes: 30
+2025-08-20 09:52:34,956 - INFO -   [VALIDATION] Héros valide: Aquarielle, Gardienne des Marées
+2025-08-20 09:52:34,956 - INFO -   [VALIDATION] Unités valides: 5
+2025-08-20 09:52:34,957 - INFO -   [VALIDATION] Unités uniques OK
+2025-08-20 09:52:34,957 - INFO -   [VALIDATION] Cartes valides: 30
+2025-08-20 09:52:34,957 - INFO -   [VALIDATION] Résultat: 0 erreurs, 0 warnings
+2025-08-20 09:52:34,957 - INFO -   [VALIDATION] Deck du joueur IA validé avec succès
+2025-08-20 09:52:34,957 - INFO -   [HÉROS] Initialisation du héros Toxina, Reine des Venins pour Joueur...
+2025-08-20 09:52:34,957 - INFO -   [HÉROS] Rareté par défaut assignée pour Toxina, Reine des Venins: Commun
+2025-08-20 09:52:34,957 - INFO -   [HÉROS] Joueur a le héros Toxina, Reine des Venins (HP: 1100, ATK: 36, DEF: 20)
+2025-08-20 09:52:34,958 - INFO -   [HÉROS] Initialisation du héros Aquarielle, Gardienne des Marées pour IA...
+2025-08-20 09:52:34,958 - INFO -   [HÉROS] Rareté par défaut assignée pour Aquarielle, Gardienne des Marées: Commun
+2025-08-20 09:52:34,958 - INFO -   [HÉROS] IA a le héros Aquarielle, Gardienne des Marées (HP: 1200, ATK: 28, DEF: 24)
+2025-08-20 09:52:34,958 - INFO -   [INITIALISATION] Cooldown initialisé pour Toxina, Reine des Venins - Nuage Infectieux: 0 (prêt à utiliser)
+2025-08-20 09:52:34,958 - INFO -   [INITIALISATION] Cooldown initialisé pour Aquarielle, Gardienne des Marées - Vague Régénératrice: 0 (prêt à utiliser)
+2025-08-20 09:52:34,958 - INFO -   [INITIALISATION] Déploiement des unités pour Joueur - Unités avant: 5
+2025-08-20 09:52:34,958 - INFO -   [DÉPLOIEMENT] Déploiement des unités pour Joueur...
+2025-08-20 09:52:34,958 - INFO -   [DÉPLOIEMENT] Joueur déploie Telluron, Géant de Schiste sur le champ de bataille (HP: 830, ATK: 29, DEF: 14)
+2025-08-20 09:52:34,959 - INFO -   [DÉPLOIEMENT] Joueur déploie Flamby, Lutin des Flammes sur le champ de bataille (HP: 710, ATK: 17, DEF: 8)
+2025-08-20 09:52:34,959 - INFO -   [DÉPLOIEMENT] Joueur déploie Solune, Chamane Solaire sur le champ de bataille (HP: 850, ATK: 23, DEF: 14)
+2025-08-20 09:52:34,959 - INFO -   [DÉPLOIEMENT] Joueur déploie Voltix, Lutin Électrique sur le champ de bataille (HP: 935, ATK: 30, DEF: 14)
+2025-08-20 09:52:34,959 - INFO -   [DÉPLOIEMENT] Joueur déploie Zyklair, Djinn des Rafales sur le champ de bataille (HP: 940, ATK: 28, DEF: 15)
+2025-08-20 09:52:34,959 - INFO -   [DÉPLOIEMENT] Joueur a déployé 5 unités sur le champ de bataille
+2025-08-20 09:52:34,959 - INFO -   [DÉPLOIEMENT] Joueur a 30 cartes dans son deck
+2025-08-20 09:52:34,959 - INFO -   [INITIALISATION] Déploiement terminé pour Joueur - Unités après: 5
+2025-08-20 09:52:34,960 - INFO -   [INITIALISATION] Déploiement des unités pour IA - Unités avant: 5
+2025-08-20 09:52:34,960 - INFO -   [DÉPLOIEMENT] Déploiement des unités pour IA...
+2025-08-20 09:52:34,960 - INFO -   [DÉPLOIEMENT] IA déploie Tempestra, Danseuse de la Tornade sur le champ de bataille (HP: 760, ATK: 27, DEF: 15)
+2025-08-20 09:52:34,960 - INFO -   [DÉPLOIEMENT] IA déploie Flamby, Lutin des Flammes sur le champ de bataille (HP: 710, ATK: 17, DEF: 8)
+2025-08-20 09:52:34,960 - INFO -   [DÉPLOIEMENT] IA déploie Ignissia, Sorcière des Brasiers sur le champ de bataille (HP: 850, ATK: 23, DEF: 15)
+2025-08-20 09:52:34,960 - INFO -   [DÉPLOIEMENT] IA déploie Brumys, Fantôme du Givre sur le champ de bataille (HP: 980, ATK: 29, DEF: 19)
+2025-08-20 09:52:34,960 - INFO -   [DÉPLOIEMENT] IA déploie Voltania, Serpent Fulgurant sur le champ de bataille (HP: 950, ATK: 25, DEF: 16)
+2025-08-20 09:52:34,961 - INFO -   [DÉPLOIEMENT] IA a déployé 5 unités sur le champ de bataille
+2025-08-20 09:52:34,961 - INFO -   [DÉPLOIEMENT] IA a 30 cartes dans son deck
+2025-08-20 09:52:34,961 - INFO -   [INITIALISATION] Déploiement terminé pour IA - Unités après: 5
+2025-08-20 09:52:34,961 - INFO -   [INIT] === INITIALISATION DES COOLDOWNS ===
+2025-08-20 09:52:34,961 - INFO -   [INIT] Initialisation des cooldowns pour Joueur
+2025-08-20 09:52:34,961 - INFO -   [INIT] Joueur - Telluron, Géant de Schiste : cooldowns initialisés à [0, 0]
+2025-08-20 09:52:34,961 - INFO -   [INIT] Joueur - Flamby, Lutin des Flammes : cooldowns initialisés à [0, 0]
+2025-08-20 09:52:34,962 - INFO -   [INIT] Joueur - Solune, Chamane Solaire : cooldowns initialisés à [0]
+2025-08-20 09:52:34,962 - INFO -   [INIT] Joueur - Voltix, Lutin Électrique : cooldowns initialisés à [0]
+2025-08-20 09:52:34,962 - INFO -   [INIT] Joueur - Zyklair, Djinn des Rafales : cooldowns initialisés à [0]
+2025-08-20 09:52:34,962 - INFO -   [INIT] Joueur - Toxina, Reine des Venins : cooldown initialisé à 0
+2025-08-20 09:52:34,962 - INFO -   [INIT] Initialisation des cooldowns pour IA
+2025-08-20 09:52:34,962 - INFO -   [INIT] IA - Tempestra, Danseuse de la Tornade : cooldowns initialisés à [0]
+2025-08-20 09:52:34,962 - INFO -   [INIT] IA - Flamby, Lutin des Flammes : cooldowns initialisés à [0, 0]
+2025-08-20 09:52:34,962 - INFO -   [INIT] IA - Ignissia, Sorcière des Brasiers : cooldowns initialisés à [0]
+2025-08-20 09:52:34,963 - INFO -   [INIT] IA - Brumys, Fantôme du Givre : cooldowns initialisés à [0]
+2025-08-20 09:52:34,963 - INFO -   [INIT] IA - Voltania, Serpent Fulgurant : cooldowns initialisés à [0, 0]
+2025-08-20 09:52:34,963 - INFO -   [INIT] IA - Aquarielle, Gardienne des Marées : cooldown initialisé à 0
+2025-08-20 09:52:34,963 - INFO -   [INIT] === FIN INITIALISATION DES COOLDOWNS ===
+2025-08-20 09:52:34,963 - INFO -   [MÉLANGE] Deck de Joueur mélangé (30 cartes)
+2025-08-20 09:52:34,963 - INFO -   [MÉLANGE] Deck de IA mélangé (30 cartes)
+2025-08-20 09:52:34,963 - INFO -   [MULLIGAN] Joueur a 1 mulligan(s)
+2025-08-20 09:52:34,963 - INFO -   [MULLIGAN] IA a 2 mulligan(s)
+2025-08-20 09:52:34,964 - INFO -   [PIOCHE INITIALE] Joueur a pioché 5 cartes
+2025-08-20 09:52:34,964 - INFO -   [PIOCHE INITIALE] IA a pioché 5 cartes
+2025-08-20 09:52:34,964 - INFO -   [INITIALISATION] Jeu initialisé avec succès
+2025-08-20 09:52:34,966 - INFO - ----------------------------------------
+2025-08-20 09:52:34,966 - INFO - 
+--- TOUR 1 ---
+2025-08-20 09:52:34,966 - INFO - Avant le tour:
+2025-08-20 09:52:34,966 - INFO -   - Tour: 1
+2025-08-20 09:52:34,967 - INFO -   - Joueur actuel: 0
+2025-08-20 09:52:34,967 - INFO -   - Joueur: Joueur
+2025-08-20 09:52:34,967 - DEBUG - [ÉLÉMENTAIRE] Calcul multiplicateur élémentaire
+2025-08-20 09:52:34,967 - DEBUG - [ÉLÉMENTAIRE] Attaquant: Terre
+2025-08-20 09:52:34,967 - DEBUG - [ÉLÉMENTAIRE] Défenseur: Feu
+2025-08-20 09:52:34,967 - DEBUG - [ÉLÉMENTAIRE] Multiplicateur: 0.95
+2025-08-20 09:52:34,968 - DEBUG - [ÉLÉMENTAIRE] Calcul multiplicateur élémentaire
+2025-08-20 09:52:34,968 - DEBUG - [ÉLÉMENTAIRE] Attaquant: Feu
+2025-08-20 09:52:34,968 - DEBUG - [ÉLÉMENTAIRE] Défenseur: Foudre
+2025-08-20 09:52:34,968 - DEBUG - [ÉLÉMENTAIRE] Multiplicateur: 1.0
+2025-08-20 09:52:34,968 - DEBUG - [ÉLÉMENTAIRE] Calcul multiplicateur élémentaire
+2025-08-20 09:52:34,969 - DEBUG - [ÉLÉMENTAIRE] Attaquant: Feu
+2025-08-20 09:52:34,969 - DEBUG - [ÉLÉMENTAIRE] Défenseur: Feu
+2025-08-20 09:52:34,969 - DEBUG - [ÉLÉMENTAIRE] Multiplicateur: 1.0
+2025-08-20 09:52:34,970 - DEBUG - [ÉLÉMENTAIRE] Calcul multiplicateur élémentaire
+2025-08-20 09:52:34,970 - DEBUG - [ÉLÉMENTAIRE] Attaquant: Foudre
+2025-08-20 09:52:34,970 - DEBUG - [ÉLÉMENTAIRE] Défenseur: Foudre
+2025-08-20 09:52:34,970 - DEBUG - [ÉLÉMENTAIRE] Multiplicateur: 1.0
+2025-08-20 09:52:34,970 - DEBUG - [ÉLÉMENTAIRE] Calcul multiplicateur élémentaire
+2025-08-20 09:52:34,970 - DEBUG - [ÉLÉMENTAIRE] Attaquant: Air
+2025-08-20 09:52:34,971 - DEBUG - [ÉLÉMENTAIRE] Défenseur: Feu
+2025-08-20 09:52:34,971 - DEBUG - [ÉLÉMENTAIRE] Multiplicateur: 1.0
+2025-08-20 09:52:34,971 - INFO - Après next_turn():
+2025-08-20 09:52:34,971 - INFO -   - Tour: 1
+2025-08-20 09:52:34,971 - INFO -   - Joueur actuel: 1
+2025-08-20 09:52:34,971 - INFO -   - Joueur: IA
+2025-08-20 09:52:34,972 - INFO - 
+--- TOUR 2 ---
+2025-08-20 09:52:34,972 - INFO - Avant le tour:
+2025-08-20 09:52:34,972 - INFO -   - Tour: 1
+2025-08-20 09:52:34,972 - INFO -   - Joueur actuel: 1
+2025-08-20 09:52:34,972 - INFO -   - Joueur: IA
+2025-08-20 09:52:34,972 - DEBUG - [ÉLÉMENTAIRE] Calcul multiplicateur élémentaire
+2025-08-20 09:52:34,972 - DEBUG - [ÉLÉMENTAIRE] Attaquant: Air
+2025-08-20 09:52:34,973 - DEBUG - [ÉLÉMENTAIRE] Défenseur: Foudre
+2025-08-20 09:52:34,973 - DEBUG - [ÉLÉMENTAIRE] Multiplicateur: 1.0
+2025-08-20 09:52:34,973 - DEBUG - [ÉLÉMENTAIRE] Calcul multiplicateur élémentaire
+2025-08-20 09:52:34,973 - DEBUG - [ÉLÉMENTAIRE] Attaquant: Feu
+2025-08-20 09:52:34,973 - DEBUG - [ÉLÉMENTAIRE] Défenseur: Terre
+2025-08-20 09:52:34,974 - DEBUG - [ÉLÉMENTAIRE] Multiplicateur: 1.2
+2025-08-20 09:52:34,974 - DEBUG - [ÉLÉMENTAIRE] Calcul multiplicateur élémentaire
+2025-08-20 09:52:34,974 - DEBUG - [ÉLÉMENTAIRE] Attaquant: Feu
+2025-08-20 09:52:34,974 - DEBUG - [ÉLÉMENTAIRE] Défenseur: Feu
+2025-08-20 09:52:34,974 - DEBUG - [ÉLÉMENTAIRE] Multiplicateur: 1.0
+2025-08-20 09:52:34,975 - DEBUG - [ÉLÉMENTAIRE] Calcul multiplicateur élémentaire
+2025-08-20 09:52:34,975 - DEBUG - [ÉLÉMENTAIRE] Attaquant: Glace
+2025-08-20 09:52:34,975 - DEBUG - [ÉLÉMENTAIRE] Défenseur: Foudre
+2025-08-20 09:52:34,975 - DEBUG - [ÉLÉMENTAIRE] Multiplicateur: 1.0
+2025-08-20 09:52:34,975 - DEBUG - [ÉLÉMENTAIRE] Calcul multiplicateur élémentaire
+2025-08-20 09:52:34,975 - DEBUG - [ÉLÉMENTAIRE] Attaquant: Foudre
+2025-08-20 09:52:34,976 - DEBUG - [ÉLÉMENTAIRE] Défenseur: Feu
+2025-08-20 09:52:34,976 - DEBUG - [ÉLÉMENTAIRE] Multiplicateur: 1.0
+2025-08-20 09:52:34,992 - INFO - Après next_turn():
+2025-08-20 09:52:34,993 - INFO -   - Tour: 2
+2025-08-20 09:52:34,993 - INFO -   - Joueur actuel: 0
+2025-08-20 09:52:34,993 - INFO -   - Joueur: Joueur
+2025-08-20 09:52:34,993 - INFO - 
+--- TOUR 3 ---
+2025-08-20 09:52:34,993 - INFO - Avant le tour:
+2025-08-20 09:52:34,994 - INFO -   - Tour: 2
+2025-08-20 09:52:34,994 - INFO -   - Joueur actuel: 0
+2025-08-20 09:52:34,994 - INFO -   - Joueur: Joueur
+2025-08-20 09:52:34,994 - DEBUG - [ÉLÉMENTAIRE] Calcul multiplicateur élémentaire
+2025-08-20 09:52:34,994 - DEBUG - [ÉLÉMENTAIRE] Attaquant: Terre
+2025-08-20 09:52:34,995 - DEBUG - [ÉLÉMENTAIRE] Défenseur: Glace
+2025-08-20 09:52:34,995 - DEBUG - [ÉLÉMENTAIRE] Multiplicateur: 1.0
+2025-08-20 09:52:34,995 - DEBUG - [ÉLÉMENTAIRE] Calcul multiplicateur élémentaire
+2025-08-20 09:52:34,995 - DEBUG - [ÉLÉMENTAIRE] Attaquant: Feu
+2025-08-20 09:52:34,996 - DEBUG - [ÉLÉMENTAIRE] Défenseur: Air
+2025-08-20 09:52:34,996 - DEBUG - [ÉLÉMENTAIRE] Multiplicateur: 1.0
+2025-08-20 09:52:34,996 - DEBUG - [ÉLÉMENTAIRE] Calcul multiplicateur élémentaire
+2025-08-20 09:52:34,996 - DEBUG - [ÉLÉMENTAIRE] Attaquant: Feu
+2025-08-20 09:52:34,996 - DEBUG - [ÉLÉMENTAIRE] Défenseur: Glace
+2025-08-20 09:52:34,997 - DEBUG - [ÉLÉMENTAIRE] Multiplicateur: 1.0
+2025-08-20 09:52:34,997 - DEBUG - [ÉLÉMENTAIRE] Calcul multiplicateur élémentaire
+2025-08-20 09:52:34,997 - DEBUG - [ÉLÉMENTAIRE] Attaquant: Foudre
+2025-08-20 09:52:34,997 - DEBUG - [ÉLÉMENTAIRE] Défenseur: Feu
+2025-08-20 09:52:34,997 - DEBUG - [ÉLÉMENTAIRE] Multiplicateur: 1.0
+2025-08-20 09:52:34,998 - DEBUG - [ÉLÉMENTAIRE] Calcul multiplicateur élémentaire
+2025-08-20 09:52:34,998 - DEBUG - [ÉLÉMENTAIRE] Attaquant: Air
+2025-08-20 09:52:34,998 - DEBUG - [ÉLÉMENTAIRE] Défenseur: Feu
+2025-08-20 09:52:34,998 - DEBUG - [ÉLÉMENTAIRE] Multiplicateur: 1.0
+2025-08-20 09:52:34,998 - INFO - Après next_turn():
+2025-08-20 09:52:34,998 - INFO -   - Tour: 2
+2025-08-20 09:52:34,999 - INFO -   - Joueur actuel: 1
+2025-08-20 09:52:34,999 - INFO -   - Joueur: IA
+2025-08-20 09:52:35,001 - INFO - ----------------------------------------
+2025-08-20 09:56:44,685 - INFO - ============================================================
+2025-08-20 09:56:44,886 - INFO - ----------------------------------------
+2025-08-20 09:56:44,886 - INFO - État avant initialisation:
+2025-08-20 09:56:44,886 - INFO -   - Joueurs: 2
+2025-08-20 09:56:44,887 - INFO -   - Tour: 1
+2025-08-20 09:56:44,887 - INFO -   - Joueur actuel: 0
+2025-08-20 09:56:44,887 - INFO -   - Logs: 2
+2025-08-20 09:56:44,890 - INFO - 
+État après initialisation:
+2025-08-20 09:56:44,890 - INFO -   - Tour: 1
+2025-08-20 09:56:44,890 - INFO -   - Joueur actuel: 0
+2025-08-20 09:56:44,890 - INFO -   - Logs: 74
+2025-08-20 09:56:44,893 - INFO -   - Mana: 1/1
+2025-08-20 09:56:44,894 - INFO -   - Cartes en main: 5
+2025-08-20 09:56:44,894 - INFO -   - Cartes en deck: 25
+2025-08-20 09:56:44,894 - INFO -   - Unités: 5
+2025-08-20 09:56:44,894 - INFO -   - Mulligans: 0/1
+2025-08-20 09:56:44,897 - INFO -   - Mana: 1/1
+2025-08-20 09:56:44,897 - INFO -   - Cartes en main: 5
+2025-08-20 09:56:44,897 - INFO -   - Cartes en deck: 25
+2025-08-20 09:56:44,898 - INFO -   - Unités: 5
+2025-08-20 09:56:44,898 - INFO -   - Mulligans: 0/2
+2025-08-20 09:56:44,900 - INFO -   [INIT] Combat initialisé - Tour 1
+2025-08-20 09:56:44,900 - INFO -   [INIT] Gestionnaire d'effets initialisé
+2025-08-20 09:56:44,901 - INFO -   [INITIALISATION] Validation des decks...
+2025-08-20 09:56:44,901 - INFO -   [VALIDATION] Validation du deck de Joueur
+2025-08-20 09:56:44,901 - INFO -   [VALIDATION] Héros: <Engine.models.Hero object at 0x0000014FFF4570E0>
+2025-08-20 09:56:44,901 - INFO -   [VALIDATION] Unités: 5
+2025-08-20 09:56:44,901 - INFO -   [VALIDATION] Cartes: 30
+2025-08-20 09:56:44,901 - INFO -   [VALIDATION] Héros valide: Voltarn, Seigneur des Orages
+2025-08-20 09:56:44,902 - INFO -   [VALIDATION] Unités valides: 5
+2025-08-20 09:56:44,902 - INFO -   [VALIDATION] Unités uniques OK
+2025-08-20 09:56:44,902 - INFO -   [VALIDATION] Cartes valides: 30
+2025-08-20 09:56:44,902 - INFO -   [VALIDATION] Résultat: 0 erreurs, 0 warnings
+2025-08-20 09:56:44,902 - INFO -   [VALIDATION] Deck du joueur Joueur validé avec succès
+2025-08-20 09:56:44,903 - INFO -   [VALIDATION] Validation du deck de IA
+2025-08-20 09:56:44,903 - INFO -   [VALIDATION] Héros: <Engine.models.Hero object at 0x0000014FFF3542D0>
+2025-08-20 09:56:44,903 - INFO -   [VALIDATION] Unités: 5
+2025-08-20 09:56:44,903 - INFO -   [VALIDATION] Cartes: 30
+2025-08-20 09:56:44,903 - INFO -   [VALIDATION] Héros valide: Aquarielle, Gardienne des Marées
+2025-08-20 09:56:44,904 - INFO -   [VALIDATION] Unités valides: 5
+2025-08-20 09:56:44,904 - INFO -   [VALIDATION] Unités uniques OK
+2025-08-20 09:56:44,904 - INFO -   [VALIDATION] Cartes valides: 30
+2025-08-20 09:56:44,904 - INFO -   [VALIDATION] Résultat: 0 erreurs, 0 warnings
+2025-08-20 09:56:44,904 - INFO -   [VALIDATION] Deck du joueur IA validé avec succès
+2025-08-20 09:56:44,905 - INFO -   [HÉROS] Initialisation du héros Voltarn, Seigneur des Orages pour Joueur...
+2025-08-20 09:56:44,905 - INFO -   [HÉROS] Rareté par défaut assignée pour Voltarn, Seigneur des Orages: Commun
+2025-08-20 09:56:44,905 - INFO -   [HÉROS] Joueur a le héros Voltarn, Seigneur des Orages (HP: 1050, ATK: 41, DEF: 18)
+2025-08-20 09:56:44,905 - INFO -   [HÉROS] Initialisation du héros Aquarielle, Gardienne des Marées pour IA...
+2025-08-20 09:56:44,905 - INFO -   [HÉROS] Rareté par défaut assignée pour Aquarielle, Gardienne des Marées: Commun
+2025-08-20 09:56:44,905 - INFO -   [HÉROS] IA a le héros Aquarielle, Gardienne des Marées (HP: 1200, ATK: 28, DEF: 24)
+2025-08-20 09:56:44,906 - INFO -   [INITIALISATION] Cooldown initialisé pour Voltarn, Seigneur des Orages - Orage Implacable: 0 (prêt à utiliser)
+2025-08-20 09:56:44,906 - INFO -   [INITIALISATION] Cooldown initialisé pour Aquarielle, Gardienne des Marées - Vague Régénératrice: 0 (prêt à utiliser)
+2025-08-20 09:56:44,906 - INFO -   [INITIALISATION] Déploiement des unités pour Joueur - Unités avant: 5
+2025-08-20 09:56:44,906 - INFO -   [DÉPLOIEMENT] Déploiement des unités pour Joueur...
+2025-08-20 09:56:44,907 - INFO -   [DÉPLOIEMENT] Joueur déploie Telluron, Géant de Schiste sur le champ de bataille (HP: 830, ATK: 29, DEF: 14)
+2025-08-20 09:56:44,907 - INFO -   [DÉPLOIEMENT] Joueur déploie Typhion, Léviathan du Maelström sur le champ de bataille (HP: 1111, ATK: 44, DEF: 16)
+2025-08-20 09:56:44,907 - INFO -   [DÉPLOIEMENT] Joueur déploie Cryomage, Mage du Givre sur le champ de bataille (HP: 1290, ATK: 24, DEF: 36)
+2025-08-20 09:56:44,907 - INFO -   [DÉPLOIEMENT] Joueur déploie Sylvert, Gardien de la Brume sur le champ de bataille (HP: 1200, ATK: 25, DEF: 34)
+2025-08-20 09:56:44,907 - INFO -   [DÉPLOIEMENT] Joueur déploie Fulgo, Orbe Electrique sur le champ de bataille (HP: 830, ATK: 28, DEF: 13)
+2025-08-20 09:56:44,908 - INFO -   [DÉPLOIEMENT] Joueur a déployé 5 unités sur le champ de bataille
+2025-08-20 09:56:44,908 - INFO -   [DÉPLOIEMENT] Joueur a 30 cartes dans son deck
+2025-08-20 09:56:44,908 - INFO -   [INITIALISATION] Déploiement terminé pour Joueur - Unités après: 5
+2025-08-20 09:56:44,908 - INFO -   [INITIALISATION] Déploiement des unités pour IA - Unités avant: 5
+2025-08-20 09:56:44,908 - INFO -   [DÉPLOIEMENT] Déploiement des unités pour IA...
+2025-08-20 09:56:44,909 - INFO -   [DÉPLOIEMENT] IA déploie Fulgo, Orbe Electrique sur le champ de bataille (HP: 830, ATK: 28, DEF: 13)
+2025-08-20 09:56:44,909 - INFO -   [DÉPLOIEMENT] IA déploie Glacia, Yéti Polaire sur le champ de bataille (HP: 945, ATK: 25, DEF: 20)
+2025-08-20 09:56:44,909 - INFO -   [DÉPLOIEMENT] IA déploie Lumicorne, Licorne Dorée sur le champ de bataille (HP: 830, ATK: 28, DEF: 11)
+2025-08-20 09:56:44,909 - INFO -   [DÉPLOIEMENT] IA déploie Stormy, Enfant de la Foudre sur le champ de bataille (HP: 825, ATK: 24, DEF: 16)
+2025-08-20 09:56:44,909 - INFO -   [DÉPLOIEMENT] IA déploie Aeris, Esprit du Zéphyr sur le champ de bataille (HP: 950, ATK: 35, DEF: 12)
+2025-08-20 09:56:44,910 - INFO -   [DÉPLOIEMENT] IA a déployé 5 unités sur le champ de bataille
+2025-08-20 09:56:44,910 - INFO -   [DÉPLOIEMENT] IA a 30 cartes dans son deck
+2025-08-20 09:56:44,910 - INFO -   [INITIALISATION] Déploiement terminé pour IA - Unités après: 5
+2025-08-20 09:56:44,910 - INFO -   [INIT] === INITIALISATION DES COOLDOWNS ===
+2025-08-20 09:56:44,911 - INFO -   [INIT] Initialisation des cooldowns pour Joueur
+2025-08-20 09:56:44,911 - INFO -   [INIT] Joueur - Telluron, Géant de Schiste : cooldowns initialisés à [0, 0]
+2025-08-20 09:56:44,911 - INFO -   [INIT] Joueur - Typhion, Léviathan du Maelström : cooldowns initialisés à [0, 0, 0]
+2025-08-20 09:56:44,911 - INFO -   [INIT] Joueur - Cryomage, Mage du Givre : cooldowns initialisés à [0]
+2025-08-20 09:56:44,911 - INFO -   [INIT] Joueur - Sylvert, Gardien de la Brume : cooldowns initialisés à [0, 0]
+2025-08-20 09:56:44,912 - INFO -   [INIT] Joueur - Fulgo, Orbe Electrique : cooldowns initialisés à [0]
+2025-08-20 09:56:44,912 - INFO -   [INIT] Joueur - Voltarn, Seigneur des Orages : cooldown initialisé à 0
+2025-08-20 09:56:44,912 - INFO -   [INIT] Initialisation des cooldowns pour IA
+2025-08-20 09:56:44,912 - INFO -   [INIT] IA - Fulgo, Orbe Electrique : cooldowns initialisés à [0]
+2025-08-20 09:56:44,912 - INFO -   [INIT] IA - Glacia, Yéti Polaire : cooldowns initialisés à [0]
+2025-08-20 09:56:44,913 - INFO -   [INIT] IA - Lumicorne, Licorne Dorée : cooldowns initialisés à [0]
+2025-08-20 09:56:44,913 - INFO -   [INIT] IA - Stormy, Enfant de la Foudre : cooldowns initialisés à [0]
+2025-08-20 09:56:44,913 - INFO -   [INIT] IA - Aeris, Esprit du Zéphyr : cooldowns initialisés à [0, 0]
+2025-08-20 09:56:44,913 - INFO -   [INIT] IA - Aquarielle, Gardienne des Marées : cooldown initialisé à 0
+2025-08-20 09:56:44,913 - INFO -   [INIT] === FIN INITIALISATION DES COOLDOWNS ===
+2025-08-20 09:56:44,914 - INFO -   [MÉLANGE] Deck de Joueur mélangé (30 cartes)
+2025-08-20 09:56:44,914 - INFO -   [MÉLANGE] Deck de IA mélangé (30 cartes)
+2025-08-20 09:56:44,914 - INFO -   [MULLIGAN] Joueur a 1 mulligan(s)
+2025-08-20 09:56:44,914 - INFO -   [MULLIGAN] IA a 2 mulligan(s)
+2025-08-20 09:56:44,914 - INFO -   [PIOCHE INITIALE] Joueur a pioché 5 cartes
+2025-08-20 09:56:44,914 - INFO -   [PIOCHE INITIALE] IA a pioché 5 cartes
+2025-08-20 09:56:44,914 - INFO -   [INITIALISATION] Jeu initialisé avec succès
+2025-08-20 09:56:44,917 - INFO - ----------------------------------------
+2025-08-20 09:56:44,917 - INFO - 
+--- TOUR 1 ---
+2025-08-20 09:56:44,917 - INFO - Avant le tour:
+2025-08-20 09:56:44,917 - INFO -   - Tour: 1
+2025-08-20 09:56:44,917 - INFO -   - Joueur actuel: 0
+2025-08-20 09:56:44,917 - INFO -   - Joueur: Joueur
+2025-08-20 09:56:44,918 - DEBUG - [ÉLÉMENTAIRE] Calcul multiplicateur élémentaire
+2025-08-20 09:56:44,918 - DEBUG - [ÉLÉMENTAIRE] Attaquant: Terre
+2025-08-20 09:56:44,918 - DEBUG - [ÉLÉMENTAIRE] Défenseur: Air
+2025-08-20 09:56:44,918 - DEBUG - [ÉLÉMENTAIRE] Multiplicateur: 1.2
+2025-08-20 09:56:44,919 - DEBUG - [ÉLÉMENTAIRE] Calcul multiplicateur élémentaire
+2025-08-20 09:56:44,919 - DEBUG - [ÉLÉMENTAIRE] Attaquant: Eau
+2025-08-20 09:56:44,919 - DEBUG - [ÉLÉMENTAIRE] Défenseur: Air
+2025-08-20 09:56:44,919 - DEBUG - [ÉLÉMENTAIRE] Multiplicateur: 1.0
+2025-08-20 09:56:44,919 - DEBUG - [ÉLÉMENTAIRE] Calcul multiplicateur élémentaire
+2025-08-20 09:56:44,919 - DEBUG - [ÉLÉMENTAIRE] Attaquant: Glace
+2025-08-20 09:56:44,920 - DEBUG - [ÉLÉMENTAIRE] Défenseur: Air
+2025-08-20 09:56:44,920 - DEBUG - [ÉLÉMENTAIRE] Multiplicateur: 1.2
+2025-08-20 09:56:44,921 - DEBUG - [ÉLÉMENTAIRE] Calcul multiplicateur élémentaire
+2025-08-20 09:56:44,921 - DEBUG - [ÉLÉMENTAIRE] Attaquant: Poison
+2025-08-20 09:56:44,921 - DEBUG - [ÉLÉMENTAIRE] Défenseur: Air
+2025-08-20 09:56:44,921 - DEBUG - [ÉLÉMENTAIRE] Multiplicateur: 1.15
+2025-08-20 09:56:44,921 - DEBUG - [ÉLÉMENTAIRE] Calcul multiplicateur élémentaire
+2025-08-20 09:56:44,921 - DEBUG - [ÉLÉMENTAIRE] Attaquant: Foudre
+2025-08-20 09:56:44,922 - DEBUG - [ÉLÉMENTAIRE] Défenseur: Foudre
+2025-08-20 09:56:44,922 - DEBUG - [ÉLÉMENTAIRE] Multiplicateur: 1.0
+2025-08-20 09:56:44,922 - INFO - Après next_turn():
+2025-08-20 09:56:44,922 - INFO -   - Tour: 1
+2025-08-20 09:56:44,922 - INFO -   - Joueur actuel: 1
+2025-08-20 09:56:44,923 - INFO -   - Joueur: IA
+2025-08-20 09:56:44,923 - INFO - 
+--- TOUR 2 ---
+2025-08-20 09:56:44,923 - INFO - Avant le tour:
+2025-08-20 09:56:44,923 - INFO -   - Tour: 1
+2025-08-20 09:56:44,923 - INFO -   - Joueur actuel: 1
+2025-08-20 09:56:44,924 - INFO -   - Joueur: IA
+2025-08-20 09:56:44,924 - DEBUG - [ÉLÉMENTAIRE] Calcul multiplicateur élémentaire
+2025-08-20 09:56:44,924 - DEBUG - [ÉLÉMENTAIRE] Attaquant: Foudre
+2025-08-20 09:56:44,924 - DEBUG - [ÉLÉMENTAIRE] Défenseur: Terre
+2025-08-20 09:56:44,924 - DEBUG - [ÉLÉMENTAIRE] Multiplicateur: 1.0
+2025-08-20 09:56:44,925 - DEBUG - [ÉLÉMENTAIRE] Calcul multiplicateur élémentaire
+2025-08-20 09:56:44,925 - DEBUG - [ÉLÉMENTAIRE] Attaquant: Glace
+2025-08-20 09:56:44,925 - DEBUG - [ÉLÉMENTAIRE] Défenseur: Poison
+2025-08-20 09:56:44,925 - DEBUG - [ÉLÉMENTAIRE] Multiplicateur: 1.0
+2025-08-20 09:56:44,926 - DEBUG - [ÉLÉMENTAIRE] Calcul multiplicateur élémentaire
+2025-08-20 09:56:44,926 - DEBUG - [ÉLÉMENTAIRE] Attaquant: Lumière
+2025-08-20 09:56:44,926 - DEBUG - [ÉLÉMENTAIRE] Défenseur: Poison
+2025-08-20 09:56:44,926 - DEBUG - [ÉLÉMENTAIRE] Multiplicateur: 1.0
+2025-08-20 09:56:44,927 - DEBUG - [ÉLÉMENTAIRE] Calcul multiplicateur élémentaire
+2025-08-20 09:56:44,927 - DEBUG - [ÉLÉMENTAIRE] Attaquant: Foudre
+2025-08-20 09:56:44,927 - DEBUG - [ÉLÉMENTAIRE] Défenseur: Terre
+2025-08-20 09:56:44,927 - DEBUG - [ÉLÉMENTAIRE] Multiplicateur: 1.0
+2025-08-20 09:56:44,927 - DEBUG - [ÉLÉMENTAIRE] Calcul multiplicateur élémentaire
+2025-08-20 09:56:44,927 - DEBUG - [ÉLÉMENTAIRE] Attaquant: Air
+2025-08-20 09:56:44,928 - DEBUG - [ÉLÉMENTAIRE] Défenseur: Foudre
+2025-08-20 09:56:44,928 - DEBUG - [ÉLÉMENTAIRE] Multiplicateur: 1.0
+2025-08-20 09:56:44,928 - INFO - Après next_turn():
+2025-08-20 09:56:44,928 - INFO -   - Tour: 2
+2025-08-20 09:56:44,928 - INFO -   - Joueur actuel: 0
+2025-08-20 09:56:44,928 - INFO -   - Joueur: Joueur
+2025-08-20 09:56:44,929 - INFO - 
+--- TOUR 3 ---
+2025-08-20 09:56:44,929 - INFO - Avant le tour:
+2025-08-20 09:56:44,929 - INFO -   - Tour: 2
+2025-08-20 09:56:44,929 - INFO -   - Joueur actuel: 0
+2025-08-20 09:56:44,929 - INFO -   - Joueur: Joueur
+2025-08-20 09:56:44,929 - DEBUG - [ÉLÉMENTAIRE] Calcul multiplicateur élémentaire
+2025-08-20 09:56:44,930 - DEBUG - [ÉLÉMENTAIRE] Attaquant: Terre
+2025-08-20 09:56:44,930 - DEBUG - [ÉLÉMENTAIRE] Défenseur: Foudre
+2025-08-20 09:56:44,930 - DEBUG - [ÉLÉMENTAIRE] Multiplicateur: 1.0
+2025-08-20 09:56:44,930 - DEBUG - [ÉLÉMENTAIRE] Calcul multiplicateur élémentaire
+2025-08-20 09:56:44,930 - DEBUG - [ÉLÉMENTAIRE] Attaquant: Eau
+2025-08-20 09:56:44,931 - DEBUG - [ÉLÉMENTAIRE] Défenseur: Glace
+2025-08-20 09:56:44,931 - DEBUG - [ÉLÉMENTAIRE] Multiplicateur: 1.0
+2025-08-20 09:56:44,931 - DEBUG - [ÉLÉMENTAIRE] Calcul multiplicateur élémentaire
+2025-08-20 09:56:44,931 - DEBUG - [ÉLÉMENTAIRE] Attaquant: Glace
+2025-08-20 09:56:44,931 - DEBUG - [ÉLÉMENTAIRE] Défenseur: Foudre
+2025-08-20 09:56:44,931 - DEBUG - [ÉLÉMENTAIRE] Multiplicateur: 1.0
+2025-08-20 09:56:44,932 - DEBUG - [ÉLÉMENTAIRE] Calcul multiplicateur élémentaire
+2025-08-20 09:56:44,932 - DEBUG - [ÉLÉMENTAIRE] Attaquant: Poison
+2025-08-20 09:56:44,932 - DEBUG - [ÉLÉMENTAIRE] Défenseur: Foudre
+2025-08-20 09:56:44,932 - DEBUG - [ÉLÉMENTAIRE] Multiplicateur: 1.15
+2025-08-20 09:56:44,932 - DEBUG - [ÉLÉMENTAIRE] Calcul multiplicateur élémentaire
+2025-08-20 09:56:44,932 - DEBUG - [ÉLÉMENTAIRE] Attaquant: Foudre
+2025-08-20 09:56:44,933 - DEBUG - [ÉLÉMENTAIRE] Défenseur: Air
+2025-08-20 09:56:44,933 - DEBUG - [ÉLÉMENTAIRE] Multiplicateur: 1.0
+2025-08-20 09:56:44,933 - INFO - Après next_turn():
+2025-08-20 09:56:44,933 - INFO -   - Tour: 2
+2025-08-20 09:56:44,933 - INFO -   - Joueur actuel: 1
+2025-08-20 09:56:44,933 - INFO -   - Joueur: IA
+2025-08-20 09:56:44,936 - INFO - ----------------------------------------

@@ -1,0 +1,160 @@
+2025-08-20 07:15:55,026 - DEBUG - [ÉLÉMENTAIRE] Calcul multiplicateur élémentaire
+2025-08-20 07:15:55,027 - DEBUG - [ÉLÉMENTAIRE] Attaquant: Glace
+2025-08-20 07:15:55,027 - DEBUG - [ÉLÉMENTAIRE] Défenseur: Feu
+2025-08-20 07:15:55,027 - DEBUG - [ÉLÉMENTAIRE] Multiplicateur: 1.0
+2025-08-20 07:15:55,027 - DEBUG - [ÉLÉMENTAIRE] Calcul multiplicateur élémentaire
+2025-08-20 07:15:55,027 - DEBUG - [ÉLÉMENTAIRE] Attaquant: Glace
+2025-08-20 07:15:55,027 - DEBUG - [ÉLÉMENTAIRE] Défenseur: Air
+2025-08-20 07:15:55,028 - DEBUG - [ÉLÉMENTAIRE] Multiplicateur: 1.2
+2025-08-20 07:15:55,028 - DEBUG - [ÉLÉMENTAIRE] Calcul multiplicateur élémentaire
+2025-08-20 07:15:55,028 - DEBUG - [ÉLÉMENTAIRE] Attaquant: Air
+2025-08-20 07:15:55,029 - DEBUG - [ÉLÉMENTAIRE] Défenseur: Air
+2025-08-20 07:15:55,029 - DEBUG - [ÉLÉMENTAIRE] Multiplicateur: 1.0
+2025-08-20 07:15:55,029 - DEBUG - [ÉLÉMENTAIRE] Calcul multiplicateur élémentaire
+2025-08-20 07:15:55,029 - DEBUG - [ÉLÉMENTAIRE] Attaquant: Terre
+2025-08-20 07:15:55,029 - DEBUG - [ÉLÉMENTAIRE] Défenseur: Glace
+2025-08-20 07:15:55,030 - DEBUG - [ÉLÉMENTAIRE] Multiplicateur: 1.0
+2025-08-20 07:15:55,030 - DEBUG - [ÉLÉMENTAIRE] Calcul multiplicateur élémentaire
+2025-08-20 07:15:55,030 - DEBUG - [ÉLÉMENTAIRE] Attaquant: Air
+2025-08-20 07:15:55,030 - DEBUG - [ÉLÉMENTAIRE] Défenseur: Air
+2025-08-20 07:15:55,030 - DEBUG - [ÉLÉMENTAIRE] Multiplicateur: 1.0
+2025-08-20 07:15:57,564 - DEBUG - [ÉLÉMENTAIRE] Calcul multiplicateur élémentaire
+2025-08-20 07:15:57,564 - DEBUG - [ÉLÉMENTAIRE] Attaquant: Glace
+2025-08-20 07:15:57,564 - DEBUG - [ÉLÉMENTAIRE] Défenseur: Terre
+2025-08-20 07:15:57,564 - DEBUG - [ÉLÉMENTAIRE] Multiplicateur: 1.0
+2025-08-20 07:15:57,565 - DEBUG - [ÉLÉMENTAIRE] Calcul multiplicateur élémentaire
+2025-08-20 07:15:57,565 - DEBUG - [ÉLÉMENTAIRE] Attaquant: Feu
+2025-08-20 07:15:57,565 - DEBUG - [ÉLÉMENTAIRE] Défenseur: Air
+2025-08-20 07:15:57,565 - DEBUG - [ÉLÉMENTAIRE] Multiplicateur: 1.0
+2025-08-20 07:15:57,565 - DEBUG - [ÉLÉMENTAIRE] Calcul multiplicateur élémentaire
+2025-08-20 07:15:57,565 - DEBUG - [ÉLÉMENTAIRE] Attaquant: Glace
+2025-08-20 07:15:57,566 - DEBUG - [ÉLÉMENTAIRE] Défenseur: Glace
+2025-08-20 07:15:57,566 - DEBUG - [ÉLÉMENTAIRE] Multiplicateur: 1.0
+2025-08-20 07:15:57,566 - DEBUG - [ÉLÉMENTAIRE] Calcul multiplicateur élémentaire
+2025-08-20 07:15:57,566 - DEBUG - [ÉLÉMENTAIRE] Attaquant: Terre
+2025-08-20 07:15:57,566 - DEBUG - [ÉLÉMENTAIRE] Défenseur: Glace
+2025-08-20 07:15:57,566 - DEBUG - [ÉLÉMENTAIRE] Multiplicateur: 1.0
+2025-08-20 07:15:57,566 - DEBUG - [ÉLÉMENTAIRE] Calcul multiplicateur élémentaire
+2025-08-20 07:15:57,567 - DEBUG - [ÉLÉMENTAIRE] Attaquant: Air
+2025-08-20 07:15:57,567 - DEBUG - [ÉLÉMENTAIRE] Défenseur: Air
+2025-08-20 07:15:57,567 - DEBUG - [ÉLÉMENTAIRE] Multiplicateur: 1.0
+2025-08-20 07:16:16,606 - DEBUG - [ÉLÉMENTAIRE] Calcul multiplicateur élémentaire
+2025-08-20 07:16:16,606 - DEBUG - [ÉLÉMENTAIRE] Attaquant: Glace
+2025-08-20 07:16:16,606 - DEBUG - [ÉLÉMENTAIRE] Défenseur: Glace
+2025-08-20 07:16:16,607 - DEBUG - [ÉLÉMENTAIRE] Multiplicateur: 1.0
+2025-08-20 07:16:16,607 - DEBUG - [ÉLÉMENTAIRE] Calcul multiplicateur élémentaire
+2025-08-20 07:16:16,607 - DEBUG - [ÉLÉMENTAIRE] Attaquant: Glace
+2025-08-20 07:16:16,607 - DEBUG - [ÉLÉMENTAIRE] Défenseur: Terre
+2025-08-20 07:16:16,607 - DEBUG - [ÉLÉMENTAIRE] Multiplicateur: 1.0
+2025-08-20 07:16:16,607 - DEBUG - [ÉLÉMENTAIRE] Calcul multiplicateur élémentaire
+2025-08-20 07:16:16,608 - DEBUG - [ÉLÉMENTAIRE] Attaquant: Air
+2025-08-20 07:16:16,608 - DEBUG - [ÉLÉMENTAIRE] Défenseur: Glace
+2025-08-20 07:16:16,608 - DEBUG - [ÉLÉMENTAIRE] Multiplicateur: 0.95
+2025-08-20 07:16:22,242 - DEBUG - [ÉLÉMENTAIRE] Calcul multiplicateur élémentaire
+2025-08-20 07:16:22,242 - DEBUG - [ÉLÉMENTAIRE] Attaquant: Glace
+2025-08-20 07:16:22,242 - DEBUG - [ÉLÉMENTAIRE] Défenseur: Feu
+2025-08-20 07:16:22,242 - DEBUG - [ÉLÉMENTAIRE] Multiplicateur: 1.0
+2025-08-20 07:16:22,242 - DEBUG - [ÉLÉMENTAIRE] Calcul multiplicateur élémentaire
+2025-08-20 07:16:22,242 - DEBUG - [ÉLÉMENTAIRE] Attaquant: Glace
+2025-08-20 07:16:22,243 - DEBUG - [ÉLÉMENTAIRE] Défenseur: Air
+2025-08-20 07:16:22,243 - DEBUG - [ÉLÉMENTAIRE] Multiplicateur: 1.2
+2025-08-20 07:16:22,243 - DEBUG - [ÉLÉMENTAIRE] Calcul multiplicateur élémentaire
+2025-08-20 07:16:22,243 - DEBUG - [ÉLÉMENTAIRE] Attaquant: Air
+2025-08-20 07:16:22,243 - DEBUG - [ÉLÉMENTAIRE] Défenseur: Air
+2025-08-20 07:16:22,243 - DEBUG - [ÉLÉMENTAIRE] Multiplicateur: 1.0
+2025-08-20 07:16:23,500 - DEBUG - [ÉLÉMENTAIRE] Calcul multiplicateur élémentaire
+2025-08-20 07:16:23,500 - DEBUG - [ÉLÉMENTAIRE] Attaquant: Glace
+2025-08-20 07:16:23,501 - DEBUG - [ÉLÉMENTAIRE] Défenseur: Terre
+2025-08-20 07:16:23,501 - DEBUG - [ÉLÉMENTAIRE] Multiplicateur: 1.0
+2025-08-20 07:16:23,501 - DEBUG - [ÉLÉMENTAIRE] Calcul multiplicateur élémentaire
+2025-08-20 07:16:23,501 - DEBUG - [ÉLÉMENTAIRE] Attaquant: Glace
+2025-08-20 07:16:23,501 - DEBUG - [ÉLÉMENTAIRE] Défenseur: Feu
+2025-08-20 07:16:23,501 - DEBUG - [ÉLÉMENTAIRE] Multiplicateur: 1.0
+2025-08-20 07:16:23,502 - DEBUG - [ÉLÉMENTAIRE] Calcul multiplicateur élémentaire
+2025-08-20 07:16:23,502 - DEBUG - [ÉLÉMENTAIRE] Attaquant: Air
+2025-08-20 07:16:23,502 - DEBUG - [ÉLÉMENTAIRE] Défenseur: Feu
+2025-08-20 07:16:23,502 - DEBUG - [ÉLÉMENTAIRE] Multiplicateur: 1.0
+2025-08-20 07:16:23,651 - DEBUG - [ÉLÉMENTAIRE] Calcul multiplicateur élémentaire
+2025-08-20 07:16:23,651 - DEBUG - [ÉLÉMENTAIRE] Attaquant: Glace
+2025-08-20 07:16:23,652 - DEBUG - [ÉLÉMENTAIRE] Défenseur: Glace
+2025-08-20 07:16:23,652 - DEBUG - [ÉLÉMENTAIRE] Multiplicateur: 1.0
+2025-08-20 07:16:23,652 - DEBUG - [ÉLÉMENTAIRE] Calcul multiplicateur élémentaire
+2025-08-20 07:16:23,652 - DEBUG - [ÉLÉMENTAIRE] Attaquant: Glace
+2025-08-20 07:16:23,652 - DEBUG - [ÉLÉMENTAIRE] Défenseur: Feu
+2025-08-20 07:16:23,652 - DEBUG - [ÉLÉMENTAIRE] Multiplicateur: 1.0
+2025-08-20 07:16:23,653 - DEBUG - [ÉLÉMENTAIRE] Calcul multiplicateur élémentaire
+2025-08-20 07:16:23,653 - DEBUG - [ÉLÉMENTAIRE] Attaquant: Air
+2025-08-20 07:16:23,653 - DEBUG - [ÉLÉMENTAIRE] Défenseur: Terre
+2025-08-20 07:16:23,653 - DEBUG - [ÉLÉMENTAIRE] Multiplicateur: 1.0
+2025-08-20 07:16:23,806 - DEBUG - [ÉLÉMENTAIRE] Calcul multiplicateur élémentaire
+2025-08-20 07:16:23,806 - DEBUG - [ÉLÉMENTAIRE] Attaquant: Glace
+2025-08-20 07:16:23,806 - DEBUG - [ÉLÉMENTAIRE] Défenseur: Air
+2025-08-20 07:16:23,806 - DEBUG - [ÉLÉMENTAIRE] Multiplicateur: 1.2
+2025-08-20 07:16:23,806 - DEBUG - [ÉLÉMENTAIRE] Calcul multiplicateur élémentaire
+2025-08-20 07:16:23,806 - DEBUG - [ÉLÉMENTAIRE] Attaquant: Glace
+2025-08-20 07:16:23,807 - DEBUG - [ÉLÉMENTAIRE] Défenseur: Glace
+2025-08-20 07:16:23,807 - DEBUG - [ÉLÉMENTAIRE] Multiplicateur: 1.0
+2025-08-20 07:16:23,807 - DEBUG - [ÉLÉMENTAIRE] Calcul multiplicateur élémentaire
+2025-08-20 07:16:23,807 - DEBUG - [ÉLÉMENTAIRE] Attaquant: Air
+2025-08-20 07:16:23,807 - DEBUG - [ÉLÉMENTAIRE] Défenseur: Air
+2025-08-20 07:16:23,807 - DEBUG - [ÉLÉMENTAIRE] Multiplicateur: 1.0
+2025-08-20 07:16:23,957 - DEBUG - [ÉLÉMENTAIRE] Calcul multiplicateur élémentaire
+2025-08-20 07:16:23,957 - DEBUG - [ÉLÉMENTAIRE] Attaquant: Glace
+2025-08-20 07:16:23,957 - DEBUG - [ÉLÉMENTAIRE] Défenseur: Feu
+2025-08-20 07:16:23,958 - DEBUG - [ÉLÉMENTAIRE] Multiplicateur: 1.0
+2025-08-20 07:16:23,958 - DEBUG - [ÉLÉMENTAIRE] Calcul multiplicateur élémentaire
+2025-08-20 07:16:23,958 - DEBUG - [ÉLÉMENTAIRE] Attaquant: Glace
+2025-08-20 07:16:23,958 - DEBUG - [ÉLÉMENTAIRE] Défenseur: Feu
+2025-08-20 07:16:23,958 - DEBUG - [ÉLÉMENTAIRE] Multiplicateur: 1.0
+2025-08-20 07:16:23,958 - DEBUG - [ÉLÉMENTAIRE] Calcul multiplicateur élémentaire
+2025-08-20 07:16:23,959 - DEBUG - [ÉLÉMENTAIRE] Attaquant: Air
+2025-08-20 07:16:23,959 - DEBUG - [ÉLÉMENTAIRE] Défenseur: Feu
+2025-08-20 07:16:23,959 - DEBUG - [ÉLÉMENTAIRE] Multiplicateur: 1.0
+2025-08-20 07:16:24,111 - DEBUG - [ÉLÉMENTAIRE] Calcul multiplicateur élémentaire
+2025-08-20 07:16:24,111 - DEBUG - [ÉLÉMENTAIRE] Attaquant: Glace
+2025-08-20 07:16:24,111 - DEBUG - [ÉLÉMENTAIRE] Défenseur: Glace
+2025-08-20 07:16:24,111 - DEBUG - [ÉLÉMENTAIRE] Multiplicateur: 1.0
+2025-08-20 07:16:24,111 - DEBUG - [ÉLÉMENTAIRE] Calcul multiplicateur élémentaire
+2025-08-20 07:16:24,111 - DEBUG - [ÉLÉMENTAIRE] Attaquant: Glace
+2025-08-20 07:16:24,112 - DEBUG - [ÉLÉMENTAIRE] Défenseur: Feu
+2025-08-20 07:16:24,112 - DEBUG - [ÉLÉMENTAIRE] Multiplicateur: 1.0
+2025-08-20 07:16:24,112 - DEBUG - [ÉLÉMENTAIRE] Calcul multiplicateur élémentaire
+2025-08-20 07:16:24,112 - DEBUG - [ÉLÉMENTAIRE] Attaquant: Air
+2025-08-20 07:16:24,112 - DEBUG - [ÉLÉMENTAIRE] Défenseur: Glace
+2025-08-20 07:16:24,112 - DEBUG - [ÉLÉMENTAIRE] Multiplicateur: 0.95
+2025-08-20 07:16:24,263 - DEBUG - [ÉLÉMENTAIRE] Calcul multiplicateur élémentaire
+2025-08-20 07:16:24,263 - DEBUG - [ÉLÉMENTAIRE] Attaquant: Glace
+2025-08-20 07:16:24,263 - DEBUG - [ÉLÉMENTAIRE] Défenseur: Terre
+2025-08-20 07:16:24,263 - DEBUG - [ÉLÉMENTAIRE] Multiplicateur: 1.0
+2025-08-20 07:16:24,263 - DEBUG - [ÉLÉMENTAIRE] Calcul multiplicateur élémentaire
+2025-08-20 07:16:24,264 - DEBUG - [ÉLÉMENTAIRE] Attaquant: Glace
+2025-08-20 07:16:24,264 - DEBUG - [ÉLÉMENTAIRE] Défenseur: Feu
+2025-08-20 07:16:24,264 - DEBUG - [ÉLÉMENTAIRE] Multiplicateur: 1.0
+2025-08-20 07:16:24,264 - DEBUG - [ÉLÉMENTAIRE] Calcul multiplicateur élémentaire
+2025-08-20 07:16:24,264 - DEBUG - [ÉLÉMENTAIRE] Attaquant: Air
+2025-08-20 07:16:24,264 - DEBUG - [ÉLÉMENTAIRE] Défenseur: Terre
+2025-08-20 07:16:24,265 - DEBUG - [ÉLÉMENTAIRE] Multiplicateur: 1.0
+2025-08-20 07:16:24,415 - DEBUG - [ÉLÉMENTAIRE] Calcul multiplicateur élémentaire
+2025-08-20 07:16:24,415 - DEBUG - [ÉLÉMENTAIRE] Attaquant: Glace
+2025-08-20 07:16:24,415 - DEBUG - [ÉLÉMENTAIRE] Défenseur: Feu
+2025-08-20 07:16:24,415 - DEBUG - [ÉLÉMENTAIRE] Multiplicateur: 1.0
+2025-08-20 07:16:24,416 - DEBUG - [ÉLÉMENTAIRE] Calcul multiplicateur élémentaire
+2025-08-20 07:16:24,416 - DEBUG - [ÉLÉMENTAIRE] Attaquant: Glace
+2025-08-20 07:16:24,416 - DEBUG - [ÉLÉMENTAIRE] Défenseur: Feu
+2025-08-20 07:16:24,416 - DEBUG - [ÉLÉMENTAIRE] Multiplicateur: 1.0
+2025-08-20 07:16:24,416 - DEBUG - [ÉLÉMENTAIRE] Calcul multiplicateur élémentaire
+2025-08-20 07:16:24,416 - DEBUG - [ÉLÉMENTAIRE] Attaquant: Air
+2025-08-20 07:16:24,416 - DEBUG - [ÉLÉMENTAIRE] Défenseur: Feu
+2025-08-20 07:16:24,417 - DEBUG - [ÉLÉMENTAIRE] Multiplicateur: 1.0
+2025-08-20 07:16:26,823 - DEBUG - [ÉLÉMENTAIRE] Calcul multiplicateur élémentaire
+2025-08-20 07:16:26,823 - DEBUG - [ÉLÉMENTAIRE] Attaquant: Glace
+2025-08-20 07:16:26,823 - DEBUG - [ÉLÉMENTAIRE] Défenseur: Terre
+2025-08-20 07:16:26,823 - DEBUG - [ÉLÉMENTAIRE] Multiplicateur: 1.0
+2025-08-20 07:16:26,824 - DEBUG - [ÉLÉMENTAIRE] Calcul multiplicateur élémentaire
+2025-08-20 07:16:26,824 - DEBUG - [ÉLÉMENTAIRE] Attaquant: Glace
+2025-08-20 07:16:26,824 - DEBUG - [ÉLÉMENTAIRE] Défenseur: Glace
+2025-08-20 07:16:26,824 - DEBUG - [ÉLÉMENTAIRE] Multiplicateur: 1.0
+2025-08-20 07:16:26,824 - DEBUG - [ÉLÉMENTAIRE] Calcul multiplicateur élémentaire
+2025-08-20 07:16:26,824 - DEBUG - [ÉLÉMENTAIRE] Attaquant: Air
+2025-08-20 07:16:26,824 - DEBUG - [ÉLÉMENTAIRE] Défenseur: Feu
+2025-08-20 07:16:26,825 - DEBUG - [ÉLÉMENTAIRE] Multiplicateur: 1.0

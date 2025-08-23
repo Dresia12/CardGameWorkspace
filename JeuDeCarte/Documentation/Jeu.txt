@@ -1,0 +1,528 @@
+================================================================================
+                           JEU DE CARTES - MÉCANIQUES COMPLÈTES
+================================================================================
+
+🎯 OBJECTIF PRINCIPAL
+=====================
+Affronter un adversaire (IA ou joueur) en utilisant stratégiquement des cartes, 
+des unités et un héros. 
+Le premier joueur qui n'a plus d'unité en jeu, ou si son héros meurt perds la partie.
+
+🏗️ STRUCTURE DU DECK
+====================
+Chaque joueur doit construire un deck composé de :
+
+• 1 HÉROS (obligatoire)
+  - Personnage principal avec capacités spéciales
+  - Chaque héros a des stats et capacités uniques
+  - Possibilité de personnalisation des stats avant de l'ajouter au deck
+  - Capacité d'activation spéciale
+  - S'active une fois pour intégré le combat mais est déjà en jeu
+
+• 5 UNITÉS DIFFERENTE ET MAXIMUM (obligatoire)
+  - Créatures qui combattent sur le plateau
+  - Chaque unité a des stats et capacités uniques
+  - Coût de déploiement en mana
+  - Positionnement stratégique sur le plateau
+  - Les unités sont déjà en jeu et en combat
+
+• CARTES DE SORTS 30 (obligatoire)
+  - Maximum 2 fois la même cartes
+  - Effets divers : dégâts, soins, buffs, debuffs
+  - Coût en mana variable
+
+⚔️ SYSTÈME DE COMBAT DÉTAILLÉ
+=============================
+
+DEBUT DU COMBAT 
+	- Les unités sont mise sur le terrain (et actif directement)
+	- Les héros sont mis sur le terrain (mais inactif)
+	- Le Deck est mélangé aléatoirement
+	- Chaque joueur commence le jeu avec 5 cartes en main
+
+PHASES DE TOUR (5 phases par tour) :
+-----------------------------------
+
+1. PHASE 1 : PIOCHE
+   • Le joueur tire des cartes de son deck
+   • Nombre de cartes piochées selon les règles du jeu : 1 (Pioche conditionnelle (seulement si < 9 cartes))
+   • Si le deck est vide, le héros du joueurs perds 10% de ses pv max
+
+2. PHASE 2 : MANA
+   • Le joueur gagne du mana (généralement +1 par tour) (commence à 1, max 15)
+   • Le mana maximum peut augmenter selon les cartes/effets
+   • Le mana non utilisé est perdu à la fin du tour
+
+3. PHASE 3 : ACTIONS
+   • Le joueur peut effectuer plusieurs actions :
+     - Jouer des cartes de sorts (coût en mana)
+     - Utiliser les capacités des unités/héros (cooldowns)
+     - Activer le héros (coût spécial)
+   • Ordre libre des actions
+   • Possibilité de passer la phase
+
+4. PHASE 4 : FIN DE TOUR
+   • Nettoyage des effets temporaires (si besoin)
+   • Réduction des cooldowns (-1 pour les unités/héros du joueur concerné)
+   • Application des effets de fin de tour
+4.5 Intégration du COMBAT
+   • Les unités s'affrontent automatiquement
+   • Ordre d'attaque déterminé par les obligations du Jeu (Effet capacité/sort/etc), sinon aléatoirement
+   • Calcul des dégâts selon les stats de la carte et les intéractions/effets élémentaires
+   • Application des effets de combats
+   • Passage au joueur suivant
+
+🎴 TYPES DE CARTES DÉTAILLÉS
+============================
+
+CARTES DE SORTS :
+----------------
+• PROPRIÉTÉS :
+  - Nom unique
+  - Type : "spell"
+  - Coût en mana (1-10+)
+  - Élément : Feu, Eau, Terre, Air, Lumière, Ombre, NEUTRE
+  - Effet principal
+  - Cibles possibles (ennemis, alliés, ou les deux)
+
+• EXEMPLES D'EFFETS :
+  - Dégâts directs
+  - Soins
+  - Buffs (augmentation de stats)
+  - Debuffs (réduction de stats)
+  - Effets de zone
+  - Contrôle (immobilisation, silence)
+  - Pioche de cartes
+  - Gain de mana
+
+UNITÉS :
+--------
+• PROPRIÉTÉS :
+  - Nom unique
+  - Type : "unit"
+  - Élément : Feu, Eau, Terre, Air, Lumière, Ombre, NEUTRE, Poison, Arcanique
+  - Stats de base : HP, Attaque, Défense
+  - Capacités spéciales (1-3 capacités par unité)
+  - Cooldowns des capacités
+
+• CAPACITÉS DES UNITÉS :
+  - Dégâts spéciaux
+  - Soins
+  - Buffs/Debuffs
+  - Effets de zone
+  - Capacités passives
+  - Capacités de réaction
+
+🔥 SYSTÈME ÉLÉMENTAIRE COMPLET
+==============================
+
+INTERACTIONS ÉLÉMENTAIRES :
+--------------------------
+• FEU > TERRE : Dégâts augmentés de 20%
+• EAU > FEU : Dégâts augmentés de 20%
+• TERRE > AIR : Dégâts augmentés de 20%
+• AIR > EAU : Dégâts augmentés de 20%
+• LUMIÈRE ↔ OMBRE : Dégâts augmentés de 30%
+• NEUTRE : Pas de bonus/malus
+• FOUDRE > EAU : Dégâts augmentés de 20%
+• GLACE > AIR : Dégâts augmentés de 20%
+• LUMIÈRE ↔ TÉNÈBRES : Dégâts augmentés de 30%
+• POISON > TOUS : Dégâts augmentés de 15% (sauf contre Arcanique)
+• ARCANIQUE > POISON : Dégâts augmentés de 30%
+• NÉANT > TOUS : Dégâts augmentés de 10% (sauf contre Lumière)
+• LUMIÈRE > NÉANT : Dégâts augmentés de 30%
+
+Les malus lorsqu'un élément tappe son élément contraire est de 5% (ex : FEU tappe EAU à 95% au lieu de 100%)
+
+EFFETS ÉLÉMENTAIRES SPÉCIAUX :
+-----------------------------
+• FEU : Peut causer des brûlures et échauder
+• EAU : Peut causer l'effet "mouillé" et soigner
+• TERRE : Peut causer des ralentissements et fragiliser
+• AIR : Peut causer des étourdissements et purifier
+• GLACE : Peut causer des gels et ralentir
+• FOUDRE : Peut causer des surcharges et paralyser
+• LUMIÈRE : Peut purifier les debuffs et soigner
+• TÉNÈBRES : Peut causer des poisons et corrompre
+• ARCANIQUE : Peut causer des effets magiques complexes & aspirations
+• POISON : Peut causer des intoxications et affaiblir
+• NÉANT : Peut causer des annihilations et vider
+• NEUTRE : Effets basiques sans bonus élémentaire
+
+⚡ EFFETS TEMPORAIRES DÉTAILLÉS
+==============================
+
+POISON :
+--------
+• Effet : Dégâts sur plusieurs tours
+• Durée : 1 tour
+• Dégâts : 3% PV max par tour
+• Cumulable : Oui (intensité augmentée et tour augmenté)
+• Remède : Temps, Soins ou purification
+• Éléments : Poison, Ténèbres
+
+BRÛLURE :
+---------
+• Effet : Dégâts immédiats + continus
+• Durée : 2-4 tours
+• Dégâts : 1% Pv max direct + 3% Pv actuel par tour
+• Cumulable : Oui (intensité augmentée pour les dégats par tour)
+• Remède : Temps, Eau, purification ou soins
+• Éléments : Feu, Foudre
+
+MOUILLÉ :
+---------
+• Effet : Réduction de dégâts
+• Durée : 2-3 tours
+• Réduction : -20% aux dégâts d'attaque
+• Cumulable : Non
+• Remède : Feu ou temps
+• Éléments : Eau, Glace
+
+GEL :
+-----
+• Effet : Immobilisation temporaire
+• Durée : 1 tour
+• Effet : Ne peut pas attaquer ni utiliser de capacités
+• Cumulable : Oui
+• Remède : Feu, temps ou purification
+• Éléments : Glace, Air (froid)
+
+ÉCHAUDÉ :
+---------
+• Effet : Réduction des soins reçus
+• Durée : 1 tour
+• Réduction : -50% soins reçus
+• Cumulable : Non
+• Remède : Temps ou purification
+• Éléments : Feu (sur cible mouillée/gelée)
+
+VAPEUR :
+---------	
+• Effet : Réduction de précision
+• Durée : 1 tour
+• Réduction : -20% précision
+• Cumulable : Non
+• Remède : Temps
+• Éléments : Feu (sur cible mouillée)
+
+CORRUPTION :
+---------
+• Effet : Dégâts continus et affaiblissement
+• Durée : 3 tours
+• Dégâts : 2% PV max par tour
+• Effet : -10% toutes les stats
+• Cumulable : Oui
+• Remède : Lumière ou purification
+• Éléments : Ténèbres, Néant
+
+ANNIHILATION :
+---------
+• Effet : Dégâts massifs et suppression d'effets
+• Durée : 1 tour
+• Dégâts : 10% PV max
+• Effet : Supprime tous les effets positifs
+• Cumulable : Non
+• Remède : Lumière uniquement
+• Éléments : Néant
+
+MAGIE ARCANIQUE :
+---------
+• Effet : Effets magiques variables
+• Durée : 1-3 tours
+• Effets : Variables selon le sort (buffs, debuffs, transformations)
+• Cumulable : Selon l'effet
+• Remède : Temps ou purification
+• Éléments : Arcanique
+
+SURCHARGE :
+---------
+• Effet : Dégâts électriques continus
+• Durée : 2 tours
+• Dégâts : 5% PV actuel par tour
+• Cumulable : Oui (intensité augmentée)
+• Remède : Temps ou purification
+• Éléments : Foudre
+
+FRAGILISÉ :
+---------
+• Effet : Réduction de défense
+• Durée : 1-2 tours
+• Réduction : -20% défense
+• Cumulable : Oui
+• Remède : Temps ou purification
+• Éléments : Terre, Glace
+
+ÉTOURDISSEMENT :
+----------------
+• Effet : Réduction de précision
+• Durée : 1 tour
+• Effet : Ne peut pas attaquer ni utiliser de capacités, et les cooldowns ne sont pas réduit
+• Cumulable : Oui (mais avec 50% de chance de réussite)
+• Remède : Temps ou purification
+• Éléments : Air, Foudre
+
+ASPIRATION :
+----------------
+• Effet : Réduction du mana
+• Durée : 1 tour
+• Effet : Réduit le mana au prochain tour uniquement de 1
+• Cumulable : Oui
+• Remède : Temps
+• Éléments : Arcanique
+
+👑 SYSTÈME DE HÉROS COMPLET
+===========================
+
+PROPRIÉTÉS DE BASE :
+-------------------
+• Stats de base : HP , Attaque , Défense 
+• Élément principal
+• Capacité unique
+• Capacités passives
+• Cout d'activation
+
+PERSONNALISATION :
+-----------------
+• Modification des stats de base :
+  - HP : +0% - +5% (+1 mana) - +10%(+2 mana) - +15%(+3 mana) (1 choix unique)
+  - Attaque : +0% - +5% (+1 mana) - +10%(+2 mana) - +15%(+3 mana) (1 choix unique)
+  - Défense : +0% - +5% (+1 mana) - +10%(+2 mana) - +15%(+3 mana) (1 choix unique)
+• Modification de sa capacité (choix unique) :
+  - Attaque basique ou Capacité du Héro (+1 mana)
+• Impact sur le coût d'activation (3 mana de base + les choix)
+• Sauvegarde des modifications
+
+CAPACITÉ D'ACTIVATION :
+----------------------
+• Pouvoir spécial coûteux
+• Coût calculé selon les modifications :
+  - Base : 3
+  - +5% stats : +1 mana
+  - +10% stats : +2 mana
+  - etc.
+• Effets puissants mais limités
+
+🎮 MÉCANIQUES AVANCÉES DÉTAILLÉES
+=================================
+
+SYSTÈME DE CIBLAGE :
+-------------------
+• MODES DE CIBLAGE :
+  - Ennemi unique
+  - Allié unique
+  - Tous les ennemis
+  - Tous les alliés
+  - Zone (cercle autour d'une cible)
+  - Ligne (en avant d'une unité)
+
+• VALIDATION DES CIBLES :
+  - Vérification des cibles valides
+  - Affichage visuel des cibles possibles
+  - Indication des cibles invalides
+  - Possibilité d'annulation
+
+• INTERFACE DE CIBLAGE :
+  - Surbrillance des cibles valides
+  - Clic pour sélectionner
+  - Annulation avec Échap ou clique droit souris
+
+SYSTÈME DE COOLDOWNS :
+---------------------
+• GESTION DES COOLDOWNS :
+  - Réduction : -1 par tour pour les unités/héros du joueur
+  - Affichage : Compteur visuel sur chaque capacité
+  - Utilisation : Impossible si cooldown > 0
+  - Reset : Certains effets peuvent reset les cooldowns
+
+• TYPES DE COOLDOWNS :
+  - Court : 1-2 tours
+  - Moyen : 3-5 tours
+  - Long : 6-10 tours
+  - Ultime : 10+ tours
+
+COMBAT AUTOMATIQUE DE FIN DE TOUR :
+-------------------
+• ORDRE D'ATTAQUE :
+  - Déterminé aléatoirement
+  - Ciblé aléatoirement hors exception : si un effet oblige à cibler une unité ennemis en particulier
+
+• CALCUL DES DÉGÂTS :
+  - Dégâts = Attaque - Défense (en%) de la cible (si condition réunies :)
+	- %précision = Chance en % de réussir son attaque
+	- %évasion (de l'adversaire) = Chance en % que l'adversaire réussisse à esquiver l'attaque
+	- %Critique = Chance en % d'avoir un multiplicateur de dégâts sur son attaque
+		- Multiplicateur Critique = 20%
+  - Minimum : 1 dégât
+  - Multiplicateurs élémentaires
+  - Modificateurs d'effets
+
+• EFFETS DE COMBAT :
+  - Contre-attaque (si l'unité survit)
+  - Effets de zone
+  - Déclenchement de capacités dites passives
+
+🔄 GESTION DES TOURS DÉTAILLÉE
+==============================
+
+COMPTEUR DE TOURS :
+------------------
+• Incrémentation : Après chaque cycle complet (Joueur + IA)
+• Affichage : "Tour X" dans l'interface
+• Impact : Sur les cooldowns et effets temporaires
+
+ALTERNANCE :
+------------
+• Ordre : Joueur → IA → Joueur...
+• Synchronisation : Tous les effets se synchronisent
+• Équité : Même nombre d'actions par tour
+
+EFFETS TEMPORAIRES :
+-------------------
+• Application : Au début du tour du joueur
+• Réduction : À la fin du tour du joueur
+• Nettoyage : Suppression des effets expirés
+
+🎯 CONDITIONS DE VICTOIRE/DÉFAITE
+=================================
+
+VICTOIRE :
+----------
+• Les unités adverses sont mortes alors que héros = inactif
+• Héros adverse mort
+• L'adversaire abandonne
+• Conditions spéciales de certaines cartes
+
+DÉFAITE :
+---------
+• les unités du joueur sont morte alors que son héros = inactif
+• Mort de son Héro
+• Abandon
+• Conditions spéciales de certaines cartes
+
+MATCH NUL :
+-----------
+• Les deux joueurs meurent simultanément
+• Boucle infinie détectée
+• Timeout (si implémenté)
+
+💾 SYSTÈME DE PERSISTANCE
+=========================
+
+SAUVEGARDE :
+------------
+• Deck complet (héros, unités, cartes)
+• Personnalisations du héros
+• Préférences utilisateur
+• Statistiques de jeu
+
+CHARGEMENT :
+------------
+• Récupération automatique au lancement
+• Validation de l'intégrité des données
+• Fallback vers un deck par défaut si erreur
+
+VALIDATION :
+------------
+• Vérification de la cohérence du deck
+• Contrôle des limites (5 unités, 1 héros, 30 cartes avec 2 exemplaires de la même carte au maximum)
+• Validation des cartes/unités existantes
+• Messages d'erreur explicites
+
+🎨 INTERFACE UTILISATEUR
+========================
+
+Généralité :
+Tous les écrans en plein écran fenêtré (sans bordure)
+Avec raccourcis clavier (F11, Échap)
+Bouton Retour pour revenir à l'écran antérieur
+Chaque Widgets devra avoir une fonction CLIQUE DROIT pour mettre en grand l'unités/héros/cartes avec descriptions des capacités ou de la carte
+Image petite (deck builder) : 200x288 pixels
+Image petite (combat) : 200x288 pixels
+Image dos de carte : 80x115 pixels
+Image du Clique droit : 447x648 pixels
+
+ÉCRAN PRINCIPAL :
+----------------
+• Menu principal, boutons avec :
+	- Jouer => ECRAN PRE-COMBAT
+	- DECK => DECK BUILDER
+	- BOUTIQUE => Affichage des booster achetable contre de la monnaie en jeu (système à clarifier)
+	- Option : Liste d'option classique pour gérer les graphismes, l'affichage, le son, etc
+	- Quitter
+	
+ECRAN PRE-COMBAT :
+--------------
+• Menu avec des boutons :
+	- Combat IA
+	- Matchmaking (pas encore à implémenter mais à prévoir)
+	- Multijoueur (pas encore à implémenter mais à prévoir)
+
+DECK BUILDER :
+--------------
+• Boutons d'action tout en bas :
+	- Retour
+	- Sauvegarder (DECK)
+	- Rénitialisation (DECK)
+• Interface en deux colonnes
+Colonnes de gauche (80%~ de l'écran) : Affichage en widget (et images)
+		• 3 Onglets : héros/unité/cartes
+		• Filtres (par élément/cout mana et par recherche)
+Colonnes de droite (20%~ de l'écran) : Prévisualisation du deck en liste textuel (avec une limite longueur de texte représenté par "...")
+		• Compteurs en temps réel (sur le bas)
+		• Sur le haut, avoir la possibilité de choix des deck et de renommer (système de sauvegarde multiple de deck)
+• Ajout par clique
+• Enlever du deck par clique (sur la prévisualisation du deck)
+
+ÉCRAN DE COMBAT :
+-----------------
+• Plateau de jeu central
+• Mains des joueurs (cartes face cachée pour l'Adversaire)
+• Zones d'unités (Centré et collé) et héros (sur le coté gauche pour joueur et donc droite pour l'adversaire)
+• Interface d'information (mana, tour, capacité disponible)
+• Boutons d'action (Fin de tour, Activer héros, Abandon)
+• Boutons pour afficher logs de combat
+
+PERSONNALISATION HÉROS :
+------------------------
+• Fenêtre modale redimensionnable
+• Sliders pour modifier les stats
+• Mise à jour en temps réel
+• Prévisualisation des changements
+• Bouton de validation qui ajoute au deck
+• Bouton de rénitialisation et de retour
+
+🔧 SYSTÈME TECHNIQUE
+====================
+
+Utiliser le moteur pour le maximum de mécanique
+
+MOTEUR DE JEU :
+---------------
+• Classe CombatEngine : Gestion de la logique
+• Classe Player : Représentation des joueurs
+• Gestion des tours et phases
+• Calcul des dégâts et effets
+• Validation des actions
+
+INTERFACE :
+-----------
+• Tkinter pour l'interface graphique
+• Widgets personnalisés pour les cartes/unités
+• Gestion des événements
+• Mise à jour en temps réel
+
+DONNÉES :
+---------
+• Fichiers JSON pour les données de jeu
+• Images PNG pour les assets visuels
+	- Dans le dossier \img
+		- Pour les unité \img\crea
+		- Pour les héros \img\hero
+		- Pour les cartes \img\cartes
+• Structure de dossiers organisée
+• Cache d'images pour les performances
+
+================================================================================
+                           FIN DES MÉCANIQUES
+================================================================================ 
