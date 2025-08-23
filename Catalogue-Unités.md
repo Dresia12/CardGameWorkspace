@@ -105,8 +105,13 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Aeris, Esprit du Zéphyr
 
-![Aeris, Esprit du Zéphyr](JeuDeCarte/Assets/img/Crea/34.png)
+<div style="display: flex; align-items: flex-start; gap: 20px; margin: 10px 0;">
 
+<div style="flex: 0 0 auto;">
+<img src="JeuDeCarte/Assets/img/Crea/34.png" alt="Aeris, Esprit du Zéphyr" style="width: 60%; height: auto; max-width: 200px;">
+</div>
+
+<div style="flex: 1;">
 **Élément:** Air | **Rareté:** Épique | **Coût:** 0
 
 **Description:** LORE A VENIR
@@ -123,13 +128,19 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 #### ⚡ Capacités
 - **Capacité 5758** (ID: 5758)
 - **Capacité 5759** (ID: 5759)
+</div></div>
 
 ---
 
 ### Corvus, Corbeau Mystique
 
-![Corvus, Corbeau Mystique](JeuDeCarte/Assets/img/Crea/51.png)
+<div style="display: flex; align-items: flex-start; gap: 20px; margin: 10px 0;">
 
+<div style="flex: 0 0 auto;">
+<img src="JeuDeCarte/Assets/img/Crea/51.png" alt="Corvus, Corbeau Mystique" style="width: 60%; height: auto; max-width: 200px;">
+</div>
+
+<div style="flex: 1;">
 **Élément:** Air | **Rareté:** Épique | **Coût:** 0
 
 **Description:** LORE A VENIR
@@ -146,13 +157,19 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 #### ⚡ Capacités
 - **Capacité 5762** (ID: 5762)
 - **Capacité 5763** (ID: 5763)
+</div></div>
 
 ---
 
 ### Galaxine, Voyageuse Céleste
 
-![Galaxine, Voyageuse Céleste](JeuDeCarte/Assets/img/Crea/21.png)
+<div style="display: flex; align-items: flex-start; gap: 20px; margin: 10px 0;">
 
+<div style="flex: 0 0 auto;">
+<img src="JeuDeCarte/Assets/img/Crea/21.png" alt="Galaxine, Voyageuse Céleste" style="width: 60%; height: auto; max-width: 200px;">
+</div>
+
+<div style="flex: 1;">
 **Élément:** Air | **Rareté:** Mythique | **Coût:** 0
 
 **Description:** LORE A VENIR
@@ -170,13 +187,19 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 - **Capacité 5770** (ID: 5770)
 - **Capacité 5771** (ID: 5771)
 - **Capacité 5772** (ID: 5772)
+</div></div>
 
 ---
 
 ### Nébulaire, Magicienne du Brouillard
 
-![Nébulaire, Magicienne du Brouillard](JeuDeCarte/Assets/img/Crea/49.png)
+<div style="display: flex; align-items: flex-start; gap: 20px; margin: 10px 0;">
 
+<div style="flex: 0 0 auto;">
+<img src="JeuDeCarte/Assets/img/Crea/49.png" alt="Nébulaire, Magicienne du Brouillard" style="width: 60%; height: auto; max-width: 200px;">
+</div>
+
+<div style="flex: 1;">
 **Élément:** Air | **Rareté:** Épique | **Coût:** 0
 
 **Description:** LORE A VENIR
@@ -193,13 +216,19 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 #### ⚡ Capacités
 - **Capacité 5760** (ID: 5760)
 - **Capacité 5761** (ID: 5761)
+</div></div>
 
 ---
 
 ### Nébulo, Fantôme du Brouillard
 
-![Nébulo, Fantôme du Brouillard](JeuDeCarte/Assets/img/Crea/15.png)
+<div style="display: flex; align-items: flex-start; gap: 20px; margin: 10px 0;">
 
+<div style="flex: 0 0 auto;">
+<img src="JeuDeCarte/Assets/img/Crea/15.png" alt="Nébulo, Fantôme du Brouillard" style="width: 60%; height: auto; max-width: 200px;">
+</div>
+
+<div style="flex: 1;">
 **Élément:** Air | **Rareté:** Mythique | **Coût:** 0
 
 **Description:** LORE A VENIR
@@ -216,13 +245,19 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 #### ⚡ Capacités
 - **Capacité 5768** (ID: 5768)
 - **Capacité 5769** (ID: 5769)
+</div></div>
 
 ---
 
 ### Orbaline, Magicienne Astrale
 
-![Orbaline, Magicienne Astrale](JeuDeCarte/Assets/img/Crea/19.png)
+<div style="display: flex; align-items: flex-start; gap: 20px; margin: 10px 0;">
 
+<div style="flex: 0 0 auto;">
+<img src="JeuDeCarte/Assets/img/Crea/19.png" alt="Orbaline, Magicienne Astrale" style="width: 60%; height: auto; max-width: 200px;">
+</div>
+
+<div style="flex: 1;">
 **Élément:** Air | **Rareté:** Rare | **Coût:** 0
 
 **Description:** LORE A VENIR
@@ -239,13 +274,19 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 #### ⚡ Capacités
 - **Capacité 5757** (ID: 5757)
 - **Capacité 5750** (ID: 5750)
+</div></div>
 
 ---
 
 ### Skyla, Danseuse des Nuages
 
-![Skyla, Danseuse des Nuages](JeuDeCarte/Assets/img/Crea/5.png)
+<div style="display: flex; align-items: flex-start; gap: 20px; margin: 10px 0;">
 
+<div style="flex: 0 0 auto;">
+<img src="JeuDeCarte/Assets/img/Crea/5.png" alt="Skyla, Danseuse des Nuages" style="width: 60%; height: auto; max-width: 200px;">
+</div>
+
+<div style="flex: 1;">
 **Élément:** Air | **Rareté:** Rare | **Coût:** 0
 
 **Description:** LORE A VENIR
@@ -262,13 +303,19 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 #### ⚡ Capacités
 - **Capacité 5754** (ID: 5754)
 - **Capacité 5755** (ID: 5755)
+</div></div>
 
 ---
 
 ### Stratos, Esprit des Courants
 
-![Stratos, Esprit des Courants](JeuDeCarte/Assets/img/Crea/75.png)
+<div style="display: flex; align-items: flex-start; gap: 20px; margin: 10px 0;">
 
+<div style="flex: 0 0 auto;">
+<img src="JeuDeCarte/Assets/img/Crea/75.png" alt="Stratos, Esprit des Courants" style="width: 60%; height: auto; max-width: 200px;">
+</div>
+
+<div style="flex: 1;">
 **Élément:** Air | **Rareté:** Épique | **Coût:** 0
 
 **Description:** LORE A VENIR
@@ -285,13 +332,19 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 #### ⚡ Capacités
 - **Capacité 5766** (ID: 5766)
 - **Capacité 5767** (ID: 5767)
+</div></div>
 
 ---
 
 ### Sylphar, Archer de la Canopée
 
-![Sylphar, Archer de la Canopée](JeuDeCarte/Assets/img/Crea/10.png)
+<div style="display: flex; align-items: flex-start; gap: 20px; margin: 10px 0;">
 
+<div style="flex: 0 0 auto;">
+<img src="JeuDeCarte/Assets/img/Crea/10.png" alt="Sylphar, Archer de la Canopée" style="width: 60%; height: auto; max-width: 200px;">
+</div>
+
+<div style="flex: 1;">
 **Élément:** Air | **Rareté:** Rare | **Coût:** 0
 
 **Description:** LORE A VENIR
@@ -307,13 +360,19 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 #### ⚡ Capacités
 - **Capacité 5756** (ID: 5756)
+</div></div>
 
 ---
 
 ### Tempestra, Danseuse de la Tornade
 
-![Tempestra, Danseuse de la Tornade](JeuDeCarte/Assets/img/Crea/27.png)
+<div style="display: flex; align-items: flex-start; gap: 20px; margin: 10px 0;">
 
+<div style="flex: 0 0 auto;">
+<img src="JeuDeCarte/Assets/img/Crea/27.png" alt="Tempestra, Danseuse de la Tornade" style="width: 60%; height: auto; max-width: 200px;">
+</div>
+
+<div style="flex: 1;">
 **Élément:** Air | **Rareté:** Peu Commun | **Coût:** 0
 
 **Description:** LORE A VENIR
@@ -329,13 +388,19 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 #### ⚡ Capacités
 - **Capacité 5750** (ID: 5750)
+</div></div>
 
 ---
 
 ### Zepho, Génie des Courants
 
-![Zepho, Génie des Courants](JeuDeCarte/Assets/img/Crea/44.png)
+<div style="display: flex; align-items: flex-start; gap: 20px; margin: 10px 0;">
 
+<div style="flex: 0 0 auto;">
+<img src="JeuDeCarte/Assets/img/Crea/44.png" alt="Zepho, Génie des Courants" style="width: 60%; height: auto; max-width: 200px;">
+</div>
+
+<div style="flex: 1;">
 **Élément:** Air | **Rareté:** Peu Commun | **Coût:** 0
 
 **Description:** LORE A VENIR
@@ -351,13 +416,19 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 #### ⚡ Capacités
 - **Capacité 5750** (ID: 5750)
+</div></div>
 
 ---
 
 ### Zyklair, Djinn des Rafales
 
-![Zyklair, Djinn des Rafales](JeuDeCarte/Assets/img/Crea/39.png)
+<div style="display: flex; align-items: flex-start; gap: 20px; margin: 10px 0;">
 
+<div style="flex: 0 0 auto;">
+<img src="JeuDeCarte/Assets/img/Crea/39.png" alt="Zyklair, Djinn des Rafales" style="width: 60%; height: auto; max-width: 200px;">
+</div>
+
+<div style="flex: 1;">
 **Élément:** Air | **Rareté:** Rare | **Coût:** 0
 
 **Description:** LORE A VENIR
@@ -373,13 +444,19 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 #### ⚡ Capacités
 - **Capacité 5750** (ID: 5750)
+</div></div>
 
 ---
 
 ### Zéphara, Valkyrie des Vents
 
-![Zéphara, Valkyrie des Vents](JeuDeCarte/Assets/img/Crea/64.png)
+<div style="display: flex; align-items: flex-start; gap: 20px; margin: 10px 0;">
 
+<div style="flex: 0 0 auto;">
+<img src="JeuDeCarte/Assets/img/Crea/64.png" alt="Zéphara, Valkyrie des Vents" style="width: 60%; height: auto; max-width: 200px;">
+</div>
+
+<div style="flex: 1;">
 **Élément:** Air | **Rareté:** Épique | **Coût:** 0
 
 **Description:** LORE A VENIR
@@ -396,6 +473,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 #### ⚡ Capacités
 - **Capacité 5764** (ID: 5764)
 - **Capacité 5765** (ID: 5765)
+</div></div>
 
 ---
 
@@ -404,8 +482,13 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Abyssalor, Kraken des Profondeurs
 
-![Abyssalor, Kraken des Profondeurs](JeuDeCarte/Assets/img/Crea/45.png)
+<div style="display: flex; align-items: flex-start; gap: 20px; margin: 10px 0;">
 
+<div style="flex: 0 0 auto;">
+<img src="JeuDeCarte/Assets/img/Crea/45.png" alt="Abyssalor, Kraken des Profondeurs" style="width: 60%; height: auto; max-width: 200px;">
+</div>
+
+<div style="flex: 1;">
 **Élément:** Eau | **Rareté:** Rare | **Coût:** 0
 
 **Description:** LORE A VENIR
@@ -422,13 +505,19 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 #### ⚡ Capacités
 - **Capacité 5259** (ID: 5259)
 - **Capacité 5260** (ID: 5260)
+</div></div>
 
 ---
 
 ### Abyssine, Félin des Profondeurs
 
-![Abyssine, Félin des Profondeurs](JeuDeCarte/Assets/img/Crea/57.png)
+<div style="display: flex; align-items: flex-start; gap: 20px; margin: 10px 0;">
 
+<div style="flex: 0 0 auto;">
+<img src="JeuDeCarte/Assets/img/Crea/57.png" alt="Abyssine, Félin des Profondeurs" style="width: 60%; height: auto; max-width: 200px;">
+</div>
+
+<div style="flex: 1;">
 **Élément:** Eau | **Rareté:** Peu Commun | **Coût:** 0
 
 **Description:** LORE A VENIR
@@ -445,13 +534,19 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 #### ⚡ Capacités
 - **Capacité 5256** (ID: 5256)
 - **Capacité 5257** (ID: 5257)
+</div></div>
 
 ---
 
 ### Aquaria, Sirène Mystique
 
-![Aquaria, Sirène Mystique](JeuDeCarte/Assets/img/Crea/17.png)
+<div style="display: flex; align-items: flex-start; gap: 20px; margin: 10px 0;">
 
+<div style="flex: 0 0 auto;">
+<img src="JeuDeCarte/Assets/img/Crea/17.png" alt="Aquaria, Sirène Mystique" style="width: 60%; height: auto; max-width: 200px;">
+</div>
+
+<div style="flex: 1;">
 **Élément:** Eau | **Rareté:** Épique | **Coût:** 0
 
 **Description:** LORE A VENIR
@@ -467,13 +562,19 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 #### ⚡ Capacités
 - **Capacité 5261** (ID: 5261)
+</div></div>
 
 ---
 
 ### Cristaline, Ondine Pure
 
-![Cristaline, Ondine Pure](JeuDeCarte/Assets/img/Crea/9.png)
+<div style="display: flex; align-items: flex-start; gap: 20px; margin: 10px 0;">
 
+<div style="flex: 0 0 auto;">
+<img src="JeuDeCarte/Assets/img/Crea/9.png" alt="Cristaline, Ondine Pure" style="width: 60%; height: auto; max-width: 200px;">
+</div>
+
+<div style="flex: 1;">
 **Élément:** Eau | **Rareté:** Commun | **Coût:** 0
 
 **Description:** LORE A VENIR
@@ -489,13 +590,19 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 #### ⚡ Capacités
 - **Capacité 5255** (ID: 5255)
+</div></div>
 
 ---
 
 ### Nixie, Fée de la Source
 
-![Nixie, Fée de la Source](JeuDeCarte/Assets/img/Crea/29.png)
+<div style="display: flex; align-items: flex-start; gap: 20px; margin: 10px 0;">
 
+<div style="flex: 0 0 auto;">
+<img src="JeuDeCarte/Assets/img/Crea/29.png" alt="Nixie, Fée de la Source" style="width: 60%; height: auto; max-width: 200px;">
+</div>
+
+<div style="flex: 1;">
 **Élément:** Eau | **Rareté:** Rare | **Coût:** 0
 
 **Description:** LORE A VENIR
@@ -511,13 +618,19 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 #### ⚡ Capacités
 - **Capacité 5258** (ID: 5258)
+</div></div>
 
 ---
 
 ### Siriona, Enchanteresse des Abysses
 
-![Siriona, Enchanteresse des Abysses](JeuDeCarte/Assets/img/Crea/23.png)
+<div style="display: flex; align-items: flex-start; gap: 20px; margin: 10px 0;">
 
+<div style="flex: 0 0 auto;">
+<img src="JeuDeCarte/Assets/img/Crea/23.png" alt="Siriona, Enchanteresse des Abysses" style="width: 60%; height: auto; max-width: 200px;">
+</div>
+
+<div style="flex: 1;">
 **Élément:** Eau | **Rareté:** Épique | **Coût:** 0
 
 **Description:** LORE A VENIR
@@ -534,13 +647,19 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 #### ⚡ Capacités
 - **Capacité 5262** (ID: 5262)
 - **Capacité 5263** (ID: 5263)
+</div></div>
 
 ---
 
 ### Torrentis, Gardien de l'Écume
 
-![Torrentis, Gardien de l'Écume](JeuDeCarte/Assets/img/Crea/32.png)
+<div style="display: flex; align-items: flex-start; gap: 20px; margin: 10px 0;">
 
+<div style="flex: 0 0 auto;">
+<img src="JeuDeCarte/Assets/img/Crea/32.png" alt="Torrentis, Gardien de l'Écume" style="width: 60%; height: auto; max-width: 200px;">
+</div>
+
+<div style="flex: 1;">
 **Élément:** Eau | **Rareté:** Commun | **Coût:** 0
 
 **Description:** LORE A VENIR
@@ -556,13 +675,19 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 #### ⚡ Capacités
 - **Capacité 5250** (ID: 5250)
+</div></div>
 
 ---
 
 ### Torrick, Gardien du Torrent
 
-![Torrick, Gardien du Torrent](JeuDeCarte/Assets/img/Crea/50.png)
+<div style="display: flex; align-items: flex-start; gap: 20px; margin: 10px 0;">
 
+<div style="flex: 0 0 auto;">
+<img src="JeuDeCarte/Assets/img/Crea/50.png" alt="Torrick, Gardien du Torrent" style="width: 60%; height: auto; max-width: 200px;">
+</div>
+
+<div style="flex: 1;">
 **Élément:** Eau | **Rareté:** Mythique | **Coût:** 0
 
 **Description:** LORE A VENIR
@@ -579,13 +704,19 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 #### ⚡ Capacités
 - **Capacité 5264** (ID: 5264)
 - **Capacité 5265** (ID: 5265)
+</div></div>
 
 ---
 
 ### Typhion, Léviathan du Maelström
 
-![Typhion, Léviathan du Maelström](JeuDeCarte/Assets/img/Crea/65.png)
+<div style="display: flex; align-items: flex-start; gap: 20px; margin: 10px 0;">
 
+<div style="flex: 0 0 auto;">
+<img src="JeuDeCarte/Assets/img/Crea/65.png" alt="Typhion, Léviathan du Maelström" style="width: 60%; height: auto; max-width: 200px;">
+</div>
+
+<div style="flex: 1;">
 **Élément:** Eau | **Rareté:** Mythique | **Coût:** 0
 
 **Description:** LORE A VENIR
@@ -603,6 +734,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 - **Capacité 5266** (ID: 5266)
 - **Capacité 5267** (ID: 5267)
 - **Capacité 5268** (ID: 5268)
+</div></div>
 
 ---
 
@@ -611,8 +743,13 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Firocus, Renard Volcanique
 
-![Firocus, Renard Volcanique](JeuDeCarte/Assets/img/Crea/58.png)
+<div style="display: flex; align-items: flex-start; gap: 20px; margin: 10px 0;">
 
+<div style="flex: 0 0 auto;">
+<img src="JeuDeCarte/Assets/img/Crea/58.png" alt="Firocus, Renard Volcanique" style="width: 60%; height: auto; max-width: 200px;">
+</div>
+
+<div style="flex: 1;">
 **Élément:** Feu | **Rareté:** Épique | **Coût:** 0
 
 **Description:** LORE A VENIR
@@ -629,13 +766,19 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 #### ⚡ Capacités
 - **Capacité 5000** (ID: 5000)
 - **Capacité 5000** (ID: 5000)
+</div></div>
 
 ---
 
 ### Flamby, Lutin des Flammes
 
-![Flamby, Lutin des Flammes](JeuDeCarte/Assets/img/Crea/68.png)
+<div style="display: flex; align-items: flex-start; gap: 20px; margin: 10px 0;">
 
+<div style="flex: 0 0 auto;">
+<img src="JeuDeCarte/Assets/img/Crea/68.png" alt="Flamby, Lutin des Flammes" style="width: 60%; height: auto; max-width: 200px;">
+</div>
+
+<div style="flex: 1;">
 **Élément:** Feu | **Rareté:** Spécial | **Coût:** 0
 
 **Description:** LORE A VENIR
@@ -652,13 +795,19 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 #### ⚡ Capacités
 - **Capacité 5020** (ID: 5020)
 - **Capacité 5021** (ID: 5021)
+</div></div>
 
 ---
 
 ### Ignarok, Roc en Fusion
 
-![Ignarok, Roc en Fusion](JeuDeCarte/Assets/img/Crea/62.png)
+<div style="display: flex; align-items: flex-start; gap: 20px; margin: 10px 0;">
 
+<div style="flex: 0 0 auto;">
+<img src="JeuDeCarte/Assets/img/Crea/62.png" alt="Ignarok, Roc en Fusion" style="width: 60%; height: auto; max-width: 200px;">
+</div>
+
+<div style="flex: 1;">
 **Élément:** Feu | **Rareté:** Rare | **Coût:** 0
 
 **Description:** LORE A VENIR
@@ -675,13 +824,19 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 #### ⚡ Capacités
 - **Capacité 5011** (ID: 5011)
 - **Capacité 5012** (ID: 5012)
+</div></div>
 
 ---
 
 ### Ignissia, Sorcière des Brasiers
 
-![Ignissia, Sorcière des Brasiers](JeuDeCarte/Assets/img/Crea/31.png)
+<div style="display: flex; align-items: flex-start; gap: 20px; margin: 10px 0;">
 
+<div style="flex: 0 0 auto;">
+<img src="JeuDeCarte/Assets/img/Crea/31.png" alt="Ignissia, Sorcière des Brasiers" style="width: 60%; height: auto; max-width: 200px;">
+</div>
+
+<div style="flex: 1;">
 **Élément:** Feu | **Rareté:** Commun | **Coût:** 0
 
 **Description:** LORE A VENIR
@@ -697,13 +852,19 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 #### ⚡ Capacités
 - **Capacité 5000** (ID: 5000)
+</div></div>
 
 ---
 
 ### Incendior, Dragon de Feu
 
-![Incendior, Dragon de Feu](JeuDeCarte/Assets/img/Crea/48.png)
+<div style="display: flex; align-items: flex-start; gap: 20px; margin: 10px 0;">
 
+<div style="flex: 0 0 auto;">
+<img src="JeuDeCarte/Assets/img/Crea/48.png" alt="Incendior, Dragon de Feu" style="width: 60%; height: auto; max-width: 200px;">
+</div>
+
+<div style="flex: 1;">
 **Élément:** Feu | **Rareté:** Rare | **Coût:** 0
 
 **Description:** LORE A VENIR
@@ -719,13 +880,19 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 #### ⚡ Capacités
 - **Capacité 5018** (ID: 5018)
+</div></div>
 
 ---
 
 ### Pyraxis, Élémentaire de Magma
 
-![Pyraxis, Élémentaire de Magma](JeuDeCarte/Assets/img/Crea/54.png)
+<div style="display: flex; align-items: flex-start; gap: 20px; margin: 10px 0;">
 
+<div style="flex: 0 0 auto;">
+<img src="JeuDeCarte/Assets/img/Crea/54.png" alt="Pyraxis, Élémentaire de Magma" style="width: 60%; height: auto; max-width: 200px;">
+</div>
+
+<div style="flex: 1;">
 **Élément:** Feu | **Rareté:** Peu Commun | **Coût:** 0
 
 **Description:** LORE A VENIR
@@ -741,13 +908,19 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 #### ⚡ Capacités
 - **Capacité 5008** (ID: 5008)
+</div></div>
 
 ---
 
 ### Pyrodrake, Dragon de Braise
 
-![Pyrodrake, Dragon de Braise](JeuDeCarte/Assets/img/Crea/1.png)
+<div style="display: flex; align-items: flex-start; gap: 20px; margin: 10px 0;">
 
+<div style="flex: 0 0 auto;">
+<img src="JeuDeCarte/Assets/img/Crea/1.png" alt="Pyrodrake, Dragon de Braise" style="width: 60%; height: auto; max-width: 200px;">
+</div>
+
+<div style="flex: 1;">
 **Élément:** Feu | **Rareté:** Mythique | **Coût:** 0
 
 **Description:** LORE A VENIR
@@ -764,13 +937,19 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 #### ⚡ Capacités
 - **Capacité 5018** (ID: 5018)
 - **Capacité 5019** (ID: 5019)
+</div></div>
 
 ---
 
 ### Pyrolynx, Lynx Ardent
 
-![Pyrolynx, Lynx Ardent](JeuDeCarte/Assets/img/Crea/72.png)
+<div style="display: flex; align-items: flex-start; gap: 20px; margin: 10px 0;">
 
+<div style="flex: 0 0 auto;">
+<img src="JeuDeCarte/Assets/img/Crea/72.png" alt="Pyrolynx, Lynx Ardent" style="width: 60%; height: auto; max-width: 200px;">
+</div>
+
+<div style="flex: 1;">
 **Élément:** Feu | **Rareté:** Épique | **Coût:** 0
 
 **Description:** LORE A VENIR
@@ -786,13 +965,19 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 #### ⚡ Capacités
 - **Capacité 5017** (ID: 5017)
+</div></div>
 
 ---
 
 ### Pyropoulpe, Poulpe Incandescent
 
-![Pyropoulpe, Poulpe Incandescent](JeuDeCarte/Assets/img/Crea/20.png)
+<div style="display: flex; align-items: flex-start; gap: 20px; margin: 10px 0;">
 
+<div style="flex: 0 0 auto;">
+<img src="JeuDeCarte/Assets/img/Crea/20.png" alt="Pyropoulpe, Poulpe Incandescent" style="width: 60%; height: auto; max-width: 200px;">
+</div>
+
+<div style="flex: 1;">
 **Élément:** Feu | **Rareté:** Peu Commun | **Coût:** 0
 
 **Description:** LORE A VENIR
@@ -808,13 +993,19 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 #### ⚡ Capacités
 - **Capacité 5007** (ID: 5007)
+</div></div>
 
 ---
 
 ### Rubra, Salamandre Incandescente
 
-![Rubra, Salamandre Incandescente](JeuDeCarte/Assets/img/Crea/42.png)
+<div style="display: flex; align-items: flex-start; gap: 20px; margin: 10px 0;">
 
+<div style="flex: 0 0 auto;">
+<img src="JeuDeCarte/Assets/img/Crea/42.png" alt="Rubra, Salamandre Incandescente" style="width: 60%; height: auto; max-width: 200px;">
+</div>
+
+<div style="flex: 1;">
 **Élément:** Feu | **Rareté:** Peu Commun | **Coût:** 0
 
 **Description:** LORE A VENIR
@@ -831,13 +1022,19 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 #### ⚡ Capacités
 - **Capacité 5003** (ID: 5003)
 - **Capacité 5009** (ID: 5009)
+</div></div>
 
 ---
 
 ### Salamandra, Magicienne Incandescente
 
-![Salamandra, Magicienne Incandescente](JeuDeCarte/Assets/img/Crea/2.png)
+<div style="display: flex; align-items: flex-start; gap: 20px; margin: 10px 0;">
 
+<div style="flex: 0 0 auto;">
+<img src="JeuDeCarte/Assets/img/Crea/2.png" alt="Salamandra, Magicienne Incandescente" style="width: 60%; height: auto; max-width: 200px;">
+</div>
+
+<div style="flex: 1;">
 **Élément:** Feu | **Rareté:** Épique | **Coût:** 0
 
 **Description:** LORE A VENIR
@@ -854,13 +1051,19 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 #### ⚡ Capacités
 - **Capacité 5013** (ID: 5013)
 - **Capacité 5014** (ID: 5014)
+</div></div>
 
 ---
 
 ### Solaris, Paladin du Soleil
 
-![Solaris, Paladin du Soleil](JeuDeCarte/Assets/img/Crea/26.png)
+<div style="display: flex; align-items: flex-start; gap: 20px; margin: 10px 0;">
 
+<div style="flex: 0 0 auto;">
+<img src="JeuDeCarte/Assets/img/Crea/26.png" alt="Solaris, Paladin du Soleil" style="width: 60%; height: auto; max-width: 200px;">
+</div>
+
+<div style="flex: 1;">
 **Élément:** Feu | **Rareté:** Rare | **Coût:** 0
 
 **Description:** LORE A VENIR
@@ -876,13 +1079,19 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 #### ⚡ Capacités
 - **Capacité 5010** (ID: 5010)
+</div></div>
 
 ---
 
 ### Solune, Chamane Solaire
 
-![Solune, Chamane Solaire](JeuDeCarte/Assets/img/Crea/52.png)
+<div style="display: flex; align-items: flex-start; gap: 20px; margin: 10px 0;">
 
+<div style="flex: 0 0 auto;">
+<img src="JeuDeCarte/Assets/img/Crea/52.png" alt="Solune, Chamane Solaire" style="width: 60%; height: auto; max-width: 200px;">
+</div>
+
+<div style="flex: 1;">
 **Élément:** Feu | **Rareté:** Peu Commun | **Coût:** 0
 
 **Description:** LORE A VENIR
@@ -898,13 +1107,19 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 #### ⚡ Capacités
 - **Capacité 5000** (ID: 5000)
+</div></div>
 
 ---
 
 ### Venturio, Chevalier Écarlate
 
-![Venturio, Chevalier Écarlate](JeuDeCarte/Assets/img/Crea/38.png)
+<div style="display: flex; align-items: flex-start; gap: 20px; margin: 10px 0;">
 
+<div style="flex: 0 0 auto;">
+<img src="JeuDeCarte/Assets/img/Crea/38.png" alt="Venturio, Chevalier Écarlate" style="width: 60%; height: auto; max-width: 200px;">
+</div>
+
+<div style="flex: 1;">
 **Élément:** Feu | **Rareté:** Rare | **Coût:** 0
 
 **Description:** LORE A VENIR
@@ -920,13 +1135,19 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 #### ⚡ Capacités
 - **Capacité 5000** (ID: 5000)
+</div></div>
 
 ---
 
 ### Vulcan, Forgeron de l'Enclume Ardente
 
-![Vulcan, Forgeron de l'Enclume Ardente](JeuDeCarte/Assets/img/Crea/11.png)
+<div style="display: flex; align-items: flex-start; gap: 20px; margin: 10px 0;">
 
+<div style="flex: 0 0 auto;">
+<img src="JeuDeCarte/Assets/img/Crea/11.png" alt="Vulcan, Forgeron de l'Enclume Ardente" style="width: 60%; height: auto; max-width: 200px;">
+</div>
+
+<div style="flex: 1;">
 **Élément:** Feu | **Rareté:** Épique | **Coût:** 0
 
 **Description:** LORE A VENIR
@@ -943,6 +1164,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 #### ⚡ Capacités
 - **Capacité 5015** (ID: 5015)
 - **Capacité 5016** (ID: 5016)
+</div></div>
 
 ---
 
@@ -951,8 +1173,13 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Alice, la Lame Sanglante
 
-![Alice, la Lame Sanglante](JeuDeCarte/Assets/img/Crea/78.png)
+<div style="display: flex; align-items: flex-start; gap: 20px; margin: 10px 0;">
 
+<div style="flex: 0 0 auto;">
+<img src="JeuDeCarte/Assets/img/Crea/78.png" alt="Alice, la Lame Sanglante" style="width: 60%; height: auto; max-width: 200px;">
+</div>
+
+<div style="flex: 1;">
 **Élément:** Foudre | **Rareté:** Épique | **Coût:** 0
 
 **Description:** LORE A VENIR
@@ -969,13 +1196,19 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 #### ⚡ Capacités
 - **Capacité 6259** (ID: 6259)
 - **Capacité 6260** (ID: 6260)
+</div></div>
 
 ---
 
 ### Fulgo, Orbe Electrique
 
-![Fulgo, Orbe Electrique](JeuDeCarte/Assets/img/Crea/46.png)
+<div style="display: flex; align-items: flex-start; gap: 20px; margin: 10px 0;">
 
+<div style="flex: 0 0 auto;">
+<img src="JeuDeCarte/Assets/img/Crea/46.png" alt="Fulgo, Orbe Electrique" style="width: 60%; height: auto; max-width: 200px;">
+</div>
+
+<div style="flex: 1;">
 **Élément:** Foudre | **Rareté:** Rare | **Coût:** 0
 
 **Description:** LORE A VENIR
@@ -991,13 +1224,19 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 #### ⚡ Capacités
 - **Capacité 6255** (ID: 6255)
+</div></div>
 
 ---
 
 ### Fulminia, Valkyrie de l'Orage
 
-![Fulminia, Valkyrie de l'Orage](JeuDeCarte/Assets/img/Crea/36.png)
+<div style="display: flex; align-items: flex-start; gap: 20px; margin: 10px 0;">
 
+<div style="flex: 0 0 auto;">
+<img src="JeuDeCarte/Assets/img/Crea/36.png" alt="Fulminia, Valkyrie de l'Orage" style="width: 60%; height: auto; max-width: 200px;">
+</div>
+
+<div style="flex: 1;">
 **Élément:** Foudre | **Rareté:** Rare | **Coût:** 0
 
 **Description:** LORE A VENIR
@@ -1013,13 +1252,19 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 #### ⚡ Capacités
 - **Capacité 6254** (ID: 6254)
+</div></div>
 
 ---
 
 ### Stormy, Enfant de la Foudre
 
-![Stormy, Enfant de la Foudre](JeuDeCarte/Assets/img/Crea/8.png)
+<div style="display: flex; align-items: flex-start; gap: 20px; margin: 10px 0;">
 
+<div style="flex: 0 0 auto;">
+<img src="JeuDeCarte/Assets/img/Crea/8.png" alt="Stormy, Enfant de la Foudre" style="width: 60%; height: auto; max-width: 200px;">
+</div>
+
+<div style="flex: 1;">
 **Élément:** Foudre | **Rareté:** Peu Commun | **Coût:** 0
 
 **Description:** LORE A VENIR
@@ -1035,13 +1280,19 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 #### ⚡ Capacités
 - **Capacité 6251** (ID: 6251)
+</div></div>
 
 ---
 
 ### Voltania, Serpent Fulgurant
 
-![Voltania, Serpent Fulgurant](JeuDeCarte/Assets/img/Crea/56.png)
+<div style="display: flex; align-items: flex-start; gap: 20px; margin: 10px 0;">
 
+<div style="flex: 0 0 auto;">
+<img src="JeuDeCarte/Assets/img/Crea/56.png" alt="Voltania, Serpent Fulgurant" style="width: 60%; height: auto; max-width: 200px;">
+</div>
+
+<div style="flex: 1;">
 **Élément:** Foudre | **Rareté:** Rare | **Coût:** 0
 
 **Description:** LORE A VENIR
@@ -1058,13 +1309,19 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 #### ⚡ Capacités
 - **Capacité 6256** (ID: 6256)
 - **Capacité 6257** (ID: 6257)
+</div></div>
 
 ---
 
 ### Voltar, Seigneur de l'Orage
 
-![Voltar, Seigneur de l'Orage](JeuDeCarte/Assets/img/Crea/13.png)
+<div style="display: flex; align-items: flex-start; gap: 20px; margin: 10px 0;">
 
+<div style="flex: 0 0 auto;">
+<img src="JeuDeCarte/Assets/img/Crea/13.png" alt="Voltar, Seigneur de l'Orage" style="width: 60%; height: auto; max-width: 200px;">
+</div>
+
+<div style="flex: 1;">
 **Élément:** Foudre | **Rareté:** Rare | **Coût:** 0
 
 **Description:** LORE A VENIR
@@ -1081,13 +1338,19 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 #### ⚡ Capacités
 - **Capacité 6252** (ID: 6252)
 - **Capacité 6253** (ID: 6253)
+</div></div>
 
 ---
 
 ### Voltix, Lutin Électrique
 
-![Voltix, Lutin Électrique](JeuDeCarte/Assets/img/Crea/24.png)
+<div style="display: flex; align-items: flex-start; gap: 20px; margin: 10px 0;">
 
+<div style="flex: 0 0 auto;">
+<img src="JeuDeCarte/Assets/img/Crea/24.png" alt="Voltix, Lutin Électrique" style="width: 60%; height: auto; max-width: 200px;">
+</div>
+
+<div style="flex: 1;">
 **Élément:** Foudre | **Rareté:** Épique | **Coût:** 0
 
 **Description:** LORE A VENIR
@@ -1103,6 +1366,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 #### ⚡ Capacités
 - **Capacité 6258** (ID: 6258)
+</div></div>
 
 ---
 
@@ -1111,8 +1375,13 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Brumys, Fantôme du Givre
 
-![Brumys, Fantôme du Givre](JeuDeCarte/Assets/img/Crea/59.png)
+<div style="display: flex; align-items: flex-start; gap: 20px; margin: 10px 0;">
 
+<div style="flex: 0 0 auto;">
+<img src="JeuDeCarte/Assets/img/Crea/59.png" alt="Brumys, Fantôme du Givre" style="width: 60%; height: auto; max-width: 200px;">
+</div>
+
+<div style="flex: 1;">
 **Élément:** Glace | **Rareté:** Rare | **Coût:** 0
 
 **Description:** LORE A VENIR
@@ -1128,13 +1397,19 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 #### ⚡ Capacités
 - **Capacité 6000** (ID: 6000)
+</div></div>
 
 ---
 
 ### Cryomage, Mage du Givre
 
-![Cryomage, Mage du Givre](JeuDeCarte/Assets/img/Crea/41.png)
+<div style="display: flex; align-items: flex-start; gap: 20px; margin: 10px 0;">
 
+<div style="flex: 0 0 auto;">
+<img src="JeuDeCarte/Assets/img/Crea/41.png" alt="Cryomage, Mage du Givre" style="width: 60%; height: auto; max-width: 200px;">
+</div>
+
+<div style="flex: 1;">
 **Élément:** Glace | **Rareté:** Rare | **Coût:** 0
 
 **Description:** LORE A VENIR
@@ -1150,13 +1425,19 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 #### ⚡ Capacités
 - **Capacité 6000** (ID: 6000)
+</div></div>
 
 ---
 
 ### Frimousse, Esprit Givré
 
-![Frimousse, Esprit Givré](JeuDeCarte/Assets/img/Crea/4.png)
+<div style="display: flex; align-items: flex-start; gap: 20px; margin: 10px 0;">
 
+<div style="flex: 0 0 auto;">
+<img src="JeuDeCarte/Assets/img/Crea/4.png" alt="Frimousse, Esprit Givré" style="width: 60%; height: auto; max-width: 200px;">
+</div>
+
+<div style="flex: 1;">
 **Élément:** Glace | **Rareté:** Commun | **Coût:** 0
 
 **Description:** LORE A VENIR
@@ -1172,13 +1453,19 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 #### ⚡ Capacités
 - **Capacité 6000** (ID: 6000)
+</div></div>
 
 ---
 
 ### Galádra, Matriarche du Givre
 
-![Galádra, Matriarche du Givre](JeuDeCarte/Assets/img/Crea/71.png)
+<div style="display: flex; align-items: flex-start; gap: 20px; margin: 10px 0;">
 
+<div style="flex: 0 0 auto;">
+<img src="JeuDeCarte/Assets/img/Crea/71.png" alt="Galádra, Matriarche du Givre" style="width: 60%; height: auto; max-width: 200px;">
+</div>
+
+<div style="flex: 1;">
 **Élément:** Glace | **Rareté:** Rare | **Coût:** 0
 
 **Description:** LORE A VENIR
@@ -1195,13 +1482,19 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 #### ⚡ Capacités
 - **Capacité 6009** (ID: 6009)
 - **Capacité 6010** (ID: 6010)
+</div></div>
 
 ---
 
 ### Gelgor, Troll du Givre
 
-![Gelgor, Troll du Givre](JeuDeCarte/Assets/img/Crea/37.png)
+<div style="display: flex; align-items: flex-start; gap: 20px; margin: 10px 0;">
 
+<div style="flex: 0 0 auto;">
+<img src="JeuDeCarte/Assets/img/Crea/37.png" alt="Gelgor, Troll du Givre" style="width: 60%; height: auto; max-width: 200px;">
+</div>
+
+<div style="flex: 1;">
 **Élément:** Glace | **Rareté:** Rare | **Coût:** 0
 
 **Description:** LORE A VENIR
@@ -1217,13 +1510,19 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 #### ⚡ Capacités
 - **Capacité 6000** (ID: 6000)
+</div></div>
 
 ---
 
 ### Gelidar, Chevalier des Neiges
 
-![Gelidar, Chevalier des Neiges](JeuDeCarte/Assets/img/Crea/3.png)
+<div style="display: flex; align-items: flex-start; gap: 20px; margin: 10px 0;">
 
+<div style="flex: 0 0 auto;">
+<img src="JeuDeCarte/Assets/img/Crea/3.png" alt="Gelidar, Chevalier des Neiges" style="width: 60%; height: auto; max-width: 200px;">
+</div>
+
+<div style="flex: 1;">
 **Élément:** Glace | **Rareté:** Spécial | **Coût:** 0
 
 **Description:** LORE A VENIR
@@ -1239,13 +1538,19 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 #### ⚡ Capacités
 - **Capacité 6013** (ID: 6013)
+</div></div>
 
 ---
 
 ### Glacia, Yéti Polaire
 
-![Glacia, Yéti Polaire](JeuDeCarte/Assets/img/Crea/25.png)
+<div style="display: flex; align-items: flex-start; gap: 20px; margin: 10px 0;">
 
+<div style="flex: 0 0 auto;">
+<img src="JeuDeCarte/Assets/img/Crea/25.png" alt="Glacia, Yéti Polaire" style="width: 60%; height: auto; max-width: 200px;">
+</div>
+
+<div style="flex: 1;">
 **Élément:** Glace | **Rareté:** Peu Commun | **Coût:** 0
 
 **Description:** LORE A VENIR
@@ -1261,13 +1566,19 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 #### ⚡ Capacités
 - **Capacité 6000** (ID: 6000)
+</div></div>
 
 ---
 
 ### Glaciar, Yéti des Sommets
 
-![Glaciar, Yéti des Sommets](JeuDeCarte/Assets/img/Crea/69.png)
+<div style="display: flex; align-items: flex-start; gap: 20px; margin: 10px 0;">
 
+<div style="flex: 0 0 auto;">
+<img src="JeuDeCarte/Assets/img/Crea/69.png" alt="Glaciar, Yéti des Sommets" style="width: 60%; height: auto; max-width: 200px;">
+</div>
+
+<div style="flex: 1;">
 **Élément:** Glace | **Rareté:** Rare | **Coût:** 0
 
 **Description:** LORE A VENIR
@@ -1283,13 +1594,19 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 #### ⚡ Capacités
 - **Capacité 6008** (ID: 6008)
+</div></div>
 
 ---
 
 ### Glacielle, Reine des Flocons
 
-![Glacielle, Reine des Flocons](JeuDeCarte/Assets/img/Crea/12.png)
+<div style="display: flex; align-items: flex-start; gap: 20px; margin: 10px 0;">
 
+<div style="flex: 0 0 auto;">
+<img src="JeuDeCarte/Assets/img/Crea/12.png" alt="Glacielle, Reine des Flocons" style="width: 60%; height: auto; max-width: 200px;">
+</div>
+
+<div style="flex: 1;">
 **Élément:** Glace | **Rareté:** Épique | **Coût:** 0
 
 **Description:** LORE A VENIR
@@ -1305,13 +1622,19 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 #### ⚡ Capacités
 - **Capacité 6011** (ID: 6011)
+</div></div>
 
 ---
 
 ### Gélax, Lutin de la Banquise
 
-![Gélax, Lutin de la Banquise](JeuDeCarte/Assets/img/Crea/53.png)
+<div style="display: flex; align-items: flex-start; gap: 20px; margin: 10px 0;">
 
+<div style="flex: 0 0 auto;">
+<img src="JeuDeCarte/Assets/img/Crea/53.png" alt="Gélax, Lutin de la Banquise" style="width: 60%; height: auto; max-width: 200px;">
+</div>
+
+<div style="flex: 1;">
 **Élément:** Glace | **Rareté:** Commun | **Coût:** 0
 
 **Description:** LORE A VENIR
@@ -1327,13 +1650,19 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 #### ⚡ Capacités
 - **Capacité 6000** (ID: 6000)
+</div></div>
 
 ---
 
 ### Tundrorr, Mammouth Givré
 
-![Tundrorr, Mammouth Givré](JeuDeCarte/Assets/img/Crea/30.png)
+<div style="display: flex; align-items: flex-start; gap: 20px; margin: 10px 0;">
 
+<div style="flex: 0 0 auto;">
+<img src="JeuDeCarte/Assets/img/Crea/30.png" alt="Tundrorr, Mammouth Givré" style="width: 60%; height: auto; max-width: 200px;">
+</div>
+
+<div style="flex: 1;">
 **Élément:** Glace | **Rareté:** Mythique | **Coût:** 0
 
 **Description:** LORE A VENIR
@@ -1349,6 +1678,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 #### ⚡ Capacités
 - **Capacité 6012** (ID: 6012)
+</div></div>
 
 ---
 
@@ -1357,8 +1687,13 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Astrilys, Sentinelle Astrale
 
-![Astrilys, Sentinelle Astrale](JeuDeCarte/Assets/img/Crea/61.png)
+<div style="display: flex; align-items: flex-start; gap: 20px; margin: 10px 0;">
 
+<div style="flex: 0 0 auto;">
+<img src="JeuDeCarte/Assets/img/Crea/61.png" alt="Astrilys, Sentinelle Astrale" style="width: 60%; height: auto; max-width: 200px;">
+</div>
+
+<div style="flex: 1;">
 **Élément:** Lumière | **Rareté:** Peu Commun | **Coût:** 0
 
 **Description:** LORE A VENIR
@@ -1374,13 +1709,19 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 #### ⚡ Capacités
 - **Capacité 6501** (ID: 6501)
+</div></div>
 
 ---
 
 ### Lumicorne, Licorne Dorée
 
-![Lumicorne, Licorne Dorée](JeuDeCarte/Assets/img/Crea/70.png)
+<div style="display: flex; align-items: flex-start; gap: 20px; margin: 10px 0;">
 
+<div style="flex: 0 0 auto;">
+<img src="JeuDeCarte/Assets/img/Crea/70.png" alt="Lumicorne, Licorne Dorée" style="width: 60%; height: auto; max-width: 200px;">
+</div>
+
+<div style="flex: 1;">
 **Élément:** Lumière | **Rareté:** Peu Commun | **Coût:** 0
 
 **Description:** LORE A VENIR
@@ -1396,13 +1737,19 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 #### ⚡ Capacités
 - **Capacité 6502** (ID: 6502)
+</div></div>
 
 ---
 
 ### Lumys, Renardeau Solaire
 
-![Lumys, Renardeau Solaire](JeuDeCarte/Assets/img/Crea/74.png)
+<div style="display: flex; align-items: flex-start; gap: 20px; margin: 10px 0;">
 
+<div style="flex: 0 0 auto;">
+<img src="JeuDeCarte/Assets/img/Crea/74.png" alt="Lumys, Renardeau Solaire" style="width: 60%; height: auto; max-width: 200px;">
+</div>
+
+<div style="flex: 1;">
 **Élément:** Lumière | **Rareté:** Mythique | **Coût:** 0
 
 **Description:** LORE A VENIR
@@ -1419,13 +1766,19 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 #### ⚡ Capacités
 - **Capacité 6505** (ID: 6505)
 - **Capacité 6506** (ID: 6506)
+</div></div>
 
 ---
 
 ### Prismalyx, Papillon Lumineux
 
-![Prismalyx, Papillon Lumineux](JeuDeCarte/Assets/img/Crea/66.png)
+<div style="display: flex; align-items: flex-start; gap: 20px; margin: 10px 0;">
 
+<div style="flex: 0 0 auto;">
+<img src="JeuDeCarte/Assets/img/Crea/66.png" alt="Prismalyx, Papillon Lumineux" style="width: 60%; height: auto; max-width: 200px;">
+</div>
+
+<div style="flex: 1;">
 **Élément:** Lumière | **Rareté:** Épique | **Coût:** 0
 
 **Description:** LORE A VENIR
@@ -1442,6 +1795,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 #### ⚡ Capacités
 - **Capacité 6503** (ID: 6503)
 - **Capacité 6504** (ID: 6504)
+</div></div>
 
 ---
 
@@ -1450,8 +1804,13 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Briselys, Dryade Mousseuse
 
-![Briselys, Dryade Mousseuse](JeuDeCarte/Assets/img/Crea/43.png)
+<div style="display: flex; align-items: flex-start; gap: 20px; margin: 10px 0;">
 
+<div style="flex: 0 0 auto;">
+<img src="JeuDeCarte/Assets/img/Crea/43.png" alt="Briselys, Dryade Mousseuse" style="width: 60%; height: auto; max-width: 200px;">
+</div>
+
+<div style="flex: 1;">
 **Élément:** Poison | **Rareté:** Rare | **Coût:** 0
 
 **Description:** LORE A VENIR
@@ -1467,13 +1826,19 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 #### ⚡ Capacités
 - **Capacité 7253** (ID: 7253)
+</div></div>
 
 ---
 
 ### Crotignus, Crotte de Nez Mouvante
 
-![Crotignus, Crotte de Nez Mouvante](JeuDeCarte/Assets/img/Crea/77.png)
+<div style="display: flex; align-items: flex-start; gap: 20px; margin: 10px 0;">
 
+<div style="flex: 0 0 auto;">
+<img src="JeuDeCarte/Assets/img/Crea/77.png" alt="Crotignus, Crotte de Nez Mouvante" style="width: 60%; height: auto; max-width: 200px;">
+</div>
+
+<div style="flex: 1;">
 **Élément:** Poison | **Rareté:** Épique | **Coût:** 0
 
 **Description:** LORE A VENIR
@@ -1489,13 +1854,19 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 #### ⚡ Capacités
 - **Capacité 7254** (ID: 7254)
+</div></div>
 
 ---
 
 ### Floralia, Druidesse des Fleurs
 
-![Floralia, Druidesse des Fleurs](JeuDeCarte/Assets/img/Crea/14.png)
+<div style="display: flex; align-items: flex-start; gap: 20px; margin: 10px 0;">
 
+<div style="flex: 0 0 auto;">
+<img src="JeuDeCarte/Assets/img/Crea/14.png" alt="Floralia, Druidesse des Fleurs" style="width: 60%; height: auto; max-width: 200px;">
+</div>
+
+<div style="flex: 1;">
 **Élément:** Poison | **Rareté:** Peu Commun | **Coût:** 0
 
 **Description:** LORE A VENIR
@@ -1512,13 +1883,19 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 #### ⚡ Capacités
 - **Capacité 7250** (ID: 7250)
 - **Capacité 7258** (ID: 7258)
+</div></div>
 
 ---
 
 ### Mossio, Shaman des Mousses
 
-![Mossio, Shaman des Mousses](JeuDeCarte/Assets/img/Crea/40.png)
+<div style="display: flex; align-items: flex-start; gap: 20px; margin: 10px 0;">
 
+<div style="flex: 0 0 auto;">
+<img src="JeuDeCarte/Assets/img/Crea/40.png" alt="Mossio, Shaman des Mousses" style="width: 60%; height: auto; max-width: 200px;">
+</div>
+
+<div style="flex: 1;">
 **Élément:** Poison | **Rareté:** Mythique | **Coût:** 0
 
 **Description:** LORE A VENIR
@@ -1535,13 +1912,19 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 #### ⚡ Capacités
 - **Capacité 7255** (ID: 7255)
 - **Capacité 7250** (ID: 7250)
+</div></div>
 
 ---
 
 ### Sylvara, Esprit de la Canopée
 
-![Sylvara, Esprit de la Canopée](JeuDeCarte/Assets/img/Crea/55.png)
+<div style="display: flex; align-items: flex-start; gap: 20px; margin: 10px 0;">
 
+<div style="flex: 0 0 auto;">
+<img src="JeuDeCarte/Assets/img/Crea/55.png" alt="Sylvara, Esprit de la Canopée" style="width: 60%; height: auto; max-width: 200px;">
+</div>
+
+<div style="flex: 1;">
 **Élément:** Poison | **Rareté:** Mythique | **Coût:** 0
 
 **Description:** LORE A VENIR
@@ -1558,13 +1941,19 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 #### ⚡ Capacités
 - **Capacité 7256** (ID: 7256)
 - **Capacité 7257** (ID: 7257)
+</div></div>
 
 ---
 
 ### Sylvert, Gardien de la Brume
 
-![Sylvert, Gardien de la Brume](JeuDeCarte/Assets/img/Crea/63.png)
+<div style="display: flex; align-items: flex-start; gap: 20px; margin: 10px 0;">
 
+<div style="flex: 0 0 auto;">
+<img src="JeuDeCarte/Assets/img/Crea/63.png" alt="Sylvert, Gardien de la Brume" style="width: 60%; height: auto; max-width: 200px;">
+</div>
+
+<div style="flex: 1;">
 **Élément:** Poison | **Rareté:** Peu Commun | **Coût:** 0
 
 **Description:** LORE A VENIR
@@ -1581,6 +1970,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 #### ⚡ Capacités
 - **Capacité 7251** (ID: 7251)
 - **Capacité 7252** (ID: 7252)
+</div></div>
 
 ---
 
@@ -1589,8 +1979,13 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Barbak, Guerrier Barbare
 
-![Barbak, Guerrier Barbare](JeuDeCarte/Assets/img/Crea/16.png)
+<div style="display: flex; align-items: flex-start; gap: 20px; margin: 10px 0;">
 
+<div style="flex: 0 0 auto;">
+<img src="JeuDeCarte/Assets/img/Crea/16.png" alt="Barbak, Guerrier Barbare" style="width: 60%; height: auto; max-width: 200px;">
+</div>
+
+<div style="flex: 1;">
 **Élément:** Terre | **Rareté:** Rare | **Coût:** 0
 
 **Description:** LORE A VENIR
@@ -1607,13 +2002,19 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 #### ⚡ Capacités
 - **Capacité 5511** (ID: 5511)
 - **Capacité 5512** (ID: 5512)
+</div></div>
 
 ---
 
 ### Bersi, Nain Invincible
 
-![Bersi, Nain Invincible](JeuDeCarte/Assets/img/Crea/18.png)
+<div style="display: flex; align-items: flex-start; gap: 20px; margin: 10px 0;">
 
+<div style="flex: 0 0 auto;">
+<img src="JeuDeCarte/Assets/img/Crea/18.png" alt="Bersi, Nain Invincible" style="width: 60%; height: auto; max-width: 200px;">
+</div>
+
+<div style="flex: 1;">
 **Élément:** Terre | **Rareté:** Peu Commun | **Coût:** 0
 
 **Description:** LORE A VENIR
@@ -1629,13 +2030,19 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 #### ⚡ Capacités
 - **Capacité 5506** (ID: 5506)
+</div></div>
 
 ---
 
 ### Gladrith, Écho des montagnes
 
-![Gladrith, Écho des montagnes](JeuDeCarte/Assets/img/Crea/76.png)
+<div style="display: flex; align-items: flex-start; gap: 20px; margin: 10px 0;">
 
+<div style="flex: 0 0 auto;">
+<img src="JeuDeCarte/Assets/img/Crea/76.png" alt="Gladrith, Écho des montagnes" style="width: 60%; height: auto; max-width: 200px;">
+</div>
+
+<div style="flex: 1;">
 **Élément:** Terre | **Rareté:** Rare | **Coût:** 0
 
 **Description:** LORE A VENIR
@@ -1651,13 +2058,19 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 #### ⚡ Capacités
 - **Capacité 5509** (ID: 5509)
+</div></div>
 
 ---
 
 ### Lithos, Colosse de Quartz
 
-![Lithos, Colosse de Quartz](JeuDeCarte/Assets/img/Crea/60.png)
+<div style="display: flex; align-items: flex-start; gap: 20px; margin: 10px 0;">
 
+<div style="flex: 0 0 auto;">
+<img src="JeuDeCarte/Assets/img/Crea/60.png" alt="Lithos, Colosse de Quartz" style="width: 60%; height: auto; max-width: 200px;">
+</div>
+
+<div style="flex: 1;">
 **Élément:** Terre | **Rareté:** Épique | **Coût:** 0
 
 **Description:** LORE A VENIR
@@ -1674,13 +2087,19 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 #### ⚡ Capacités
 - **Capacité 5516** (ID: 5516)
 - **Capacité 5517** (ID: 5517)
+</div></div>
 
 ---
 
 ### Lixor, Golem Cristallin
 
-![Lixor, Golem Cristallin](JeuDeCarte/Assets/img/Crea/33.png)
+<div style="display: flex; align-items: flex-start; gap: 20px; margin: 10px 0;">
 
+<div style="flex: 0 0 auto;">
+<img src="JeuDeCarte/Assets/img/Crea/33.png" alt="Lixor, Golem Cristallin" style="width: 60%; height: auto; max-width: 200px;">
+</div>
+
+<div style="flex: 1;">
 **Élément:** Terre | **Rareté:** Rare | **Coût:** 0
 
 **Description:** LORE A VENIR
@@ -1696,13 +2115,19 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 #### ⚡ Capacités
 - **Capacité 5514** (ID: 5514)
+</div></div>
 
 ---
 
 ### Lumberjack, Bûcheron du Grand Nord
 
-![Lumberjack, Bûcheron du Grand Nord](JeuDeCarte/Assets/img/Crea/28.png)
+<div style="display: flex; align-items: flex-start; gap: 20px; margin: 10px 0;">
 
+<div style="flex: 0 0 auto;">
+<img src="JeuDeCarte/Assets/img/Crea/28.png" alt="Lumberjack, Bûcheron du Grand Nord" style="width: 60%; height: auto; max-width: 200px;">
+</div>
+
+<div style="flex: 1;">
 **Élément:** Terre | **Rareté:** Rare | **Coût:** 0
 
 **Description:** LORE A VENIR
@@ -1719,13 +2144,19 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 #### ⚡ Capacités
 - **Capacité 5511** (ID: 5511)
 - **Capacité 5500** (ID: 5500)
+</div></div>
 
 ---
 
 ### Rock, Colosse de Granit
 
-![Rock, Colosse de Granit](JeuDeCarte/Assets/img/Crea/6.png)
+<div style="display: flex; align-items: flex-start; gap: 20px; margin: 10px 0;">
 
+<div style="flex: 0 0 auto;">
+<img src="JeuDeCarte/Assets/img/Crea/6.png" alt="Rock, Colosse de Granit" style="width: 60%; height: auto; max-width: 200px;">
+</div>
+
+<div style="flex: 1;">
 **Élément:** Terre | **Rareté:** Peu Commun | **Coût:** 0
 
 **Description:** LORE A VENIR
@@ -1741,13 +2172,19 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 #### ⚡ Capacités
 - **Capacité 5500** (ID: 5500)
+</div></div>
 
 ---
 
 ### Rocor, Gardien du Bloc
 
-![Rocor, Gardien du Bloc](JeuDeCarte/Assets/img/Crea/47.png)
+<div style="display: flex; align-items: flex-start; gap: 20px; margin: 10px 0;">
 
+<div style="flex: 0 0 auto;">
+<img src="JeuDeCarte/Assets/img/Crea/47.png" alt="Rocor, Gardien du Bloc" style="width: 60%; height: auto; max-width: 200px;">
+</div>
+
+<div style="flex: 1;">
 **Élément:** Terre | **Rareté:** Peu Commun | **Coût:** 0
 
 **Description:** LORE A VENIR
@@ -1764,13 +2201,19 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 #### ⚡ Capacités
 - **Capacité 5500** (ID: 5500)
 - **Capacité 5011** (ID: 5011)
+</div></div>
 
 ---
 
 ### Roktus, Gobelin Mineur
 
-![Roktus, Gobelin Mineur](JeuDeCarte/Assets/img/Crea/35.png)
+<div style="display: flex; align-items: flex-start; gap: 20px; margin: 10px 0;">
 
+<div style="flex: 0 0 auto;">
+<img src="JeuDeCarte/Assets/img/Crea/35.png" alt="Roktus, Gobelin Mineur" style="width: 60%; height: auto; max-width: 200px;">
+</div>
+
+<div style="flex: 1;">
 **Élément:** Terre | **Rareté:** Peu Commun | **Coût:** 0
 
 **Description:** LORE A VENIR
@@ -1787,13 +2230,19 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 #### ⚡ Capacités
 - **Capacité 5507** (ID: 5507)
 - **Capacité 5508** (ID: 5508)
+</div></div>
 
 ---
 
 ### Silex, Gardien du Pic Rugueux
 
-![Silex, Gardien du Pic Rugueux](JeuDeCarte/Assets/img/Crea/22.png)
+<div style="display: flex; align-items: flex-start; gap: 20px; margin: 10px 0;">
 
+<div style="flex: 0 0 auto;">
+<img src="JeuDeCarte/Assets/img/Crea/22.png" alt="Silex, Gardien du Pic Rugueux" style="width: 60%; height: auto; max-width: 200px;">
+</div>
+
+<div style="flex: 1;">
 **Élément:** Terre | **Rareté:** Rare | **Coût:** 0
 
 **Description:** LORE A VENIR
@@ -1810,13 +2259,19 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 #### ⚡ Capacités
 - **Capacité 5011** (ID: 5011)
 - **Capacité 5513** (ID: 5513)
+</div></div>
 
 ---
 
 ### Telluron, Géant de Schiste
 
-![Telluron, Géant de Schiste](JeuDeCarte/Assets/img/Crea/73.png)
+<div style="display: flex; align-items: flex-start; gap: 20px; margin: 10px 0;">
 
+<div style="flex: 0 0 auto;">
+<img src="JeuDeCarte/Assets/img/Crea/73.png" alt="Telluron, Géant de Schiste" style="width: 60%; height: auto; max-width: 200px;">
+</div>
+
+<div style="flex: 1;">
 **Élément:** Terre | **Rareté:** Épique | **Coût:** 0
 
 **Description:** LORE A VENIR
@@ -1833,13 +2288,19 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 #### ⚡ Capacités
 - **Capacité 5514** (ID: 5514)
 - **Capacité 5515** (ID: 5515)
+</div></div>
 
 ---
 
 ### Terra, Sorcière de la Terre
 
-![Terra, Sorcière de la Terre](JeuDeCarte/Assets/img/Crea/7.png)
+<div style="display: flex; align-items: flex-start; gap: 20px; margin: 10px 0;">
 
+<div style="flex: 0 0 auto;">
+<img src="JeuDeCarte/Assets/img/Crea/7.png" alt="Terra, Sorcière de la Terre" style="width: 60%; height: auto; max-width: 200px;">
+</div>
+
+<div style="flex: 1;">
 **Élément:** Terre | **Rareté:** Rare | **Coût:** 0
 
 **Description:** LORE A VENIR
@@ -1856,6 +2317,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 #### ⚡ Capacités
 - **Capacité 5510** (ID: 5510)
 - **Capacité 5500** (ID: 5500)
+</div></div>
 
 ---
 
@@ -1864,8 +2326,13 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Murkax, Ombre Rampante
 
-![Murkax, Ombre Rampante](JeuDeCarte/Assets/img/Crea/67.png)
+<div style="display: flex; align-items: flex-start; gap: 20px; margin: 10px 0;">
 
+<div style="flex: 0 0 auto;">
+<img src="JeuDeCarte/Assets/img/Crea/67.png" alt="Murkax, Ombre Rampante" style="width: 60%; height: auto; max-width: 200px;">
+</div>
+
+<div style="flex: 1;">
 **Élément:** Ténèbres | **Rareté:** Épique | **Coût:** 0
 
 **Description:** LORE A VENIR
@@ -1882,6 +2349,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 #### ⚡ Capacités
 - **Capacité 6751** (ID: 6751)
 - **Capacité 6752** (ID: 6752)
+</div></div>
 
 ---
 
