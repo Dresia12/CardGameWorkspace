@@ -20,7 +20,7 @@ Ce catalogue présente tous les héros disponibles dans le jeu avec leurs capaci
 
 ### Aquarielle, Gardienne des Marées
 
-| ![Aquarielle, Gardienne des Marées](JeuDeCarte/Assets/img/Hero/2.png =150x) | **Élément:** Eau
+| <img src="JeuDeCarte/Assets/img/Hero/2.png" width="150" height="auto" alt="Aquarielle, Gardienne des Marées"> | **Élément:** Eau
 
 **Description:** Protectrice des océans, Aquarielle utilise les pouvoirs curatifs de l'eau pour soutenir ses alliés.
 
@@ -43,7 +43,7 @@ Alliés Eau -10 % dégâts subit. (+2 coût)
 ---
 ### Arcanis, Sage des Flux Mystiques
 
-| ![Arcanis, Sage des Flux Mystiques](JeuDeCarte/Assets/img/Hero/9.png =150x) | **Élément:** Arcanique
+| <img src="JeuDeCarte/Assets/img/Hero/9.png" width="150" height="auto" alt="Arcanis, Sage des Flux Mystiques"> | **Élément:** Arcanique
 
 **Description:** Maître des arts arcaniques, Arcanis manipule le temps pour contrôler le rythme de la bataille.
 
@@ -66,7 +66,7 @@ Alliés Eau -10 % dégâts subit. (+2 coût)
 ---
 ### Glacius, Empereur du Givre
 
-| ![Glacius, Empereur du Givre](JeuDeCarte/Assets/img/Hero/3.png =150x) | **Élément:** Glace
+| <img src="JeuDeCarte/Assets/img/Hero/3.png" width="150" height="auto" alt="Glacius, Empereur du Givre"> | **Élément:** Glace
 
 **Description:** Souverain des terres glacées, Glacius paralyse ses ennemis avec des tempêtes de glace dévastatrices.
 
@@ -89,7 +89,7 @@ Alliés Eau -10 % dégâts subit. (+2 coût)
 ---
 ### Luxielle, Avatar Radieux
 
-| ![Luxielle, Avatar Radieux](JeuDeCarte/Assets/img/Hero/7.png =150x) | **Élément:** Lumière
+| <img src="JeuDeCarte/Assets/img/Hero/7.png" width="150" height="auto" alt="Luxielle, Avatar Radieux"> | **Élément:** Lumière
 
 **Description:** Avatar de la lumière divine, Luxielle protège ses alliés avec des bénédictions purificatrices.
 
@@ -112,7 +112,7 @@ Alliés Lumière reçoivent -15 %. (+4 coût)
 ---
 ### Mortrax, Sombre Dominateur
 
-| ![Mortrax, Sombre Dominateur](JeuDeCarte/Assets/img/Hero/8.png =150x) | **Élément:** Ténèbres
+| <img src="JeuDeCarte/Assets/img/Hero/8.png" width="150" height="auto" alt="Mortrax, Sombre Dominateur"> | **Élément:** Ténèbres
 
 **Description:** Seigneur des ténèbres, Mortrax draine la vie de ses ennemis pour se renforcer.
 
@@ -135,7 +135,7 @@ Alliés Ténèbres +15 %. (+4 coût)
 ---
 ### Nihilos, Avatar du Néant
 
-| ![Nihilos, Avatar du Néant](JeuDeCarte/Assets/img/Hero/11.png =150x) | **Élément:** Néant
+| <img src="JeuDeCarte/Assets/img/Hero/11.png" width="150" height="auto" alt="Nihilos, Avatar du Néant"> | **Élément:** Néant
 
 **Description:** Avatar du néant, Nihilos peut annihiler instantanément ses ennemis les plus faibles.
 
@@ -158,7 +158,7 @@ Immunisé aux effets élémentaires (Brûlure, Gel, etc.). (+3 coût)
 ---
 ### Solaris, Champion des Cendres
 
-| ![Solaris, Champion des Cendres](JeuDeCarte/Assets/img/Hero/1.png =150x) | **Élément:** Feu
+| <img src="JeuDeCarte/Assets/img/Hero/1.png" width="150" height="auto" alt="Solaris, Champion des Cendres"> | **Élément:** Feu
 
 **Description:** Champion légendaire du feu, Solaris maîtrise les flammes purificatrices pour consumer ses ennemis.
 
@@ -181,7 +181,7 @@ Alliés Feu +10 % dégâts. (+2 coût)
 ---
 ### Telluron, Cœur de la Montagne
 
-| ![Telluron, Cœur de la Montagne](JeuDeCarte/Assets/img/Hero/4.png =150x) | **Élément:** Terre
+| <img src="JeuDeCarte/Assets/img/Hero/4.png" width="150" height="auto" alt="Telluron, Cœur de la Montagne"> | **Élément:** Terre
 
 **Description:** Géant de pierre, Telluron protège son équipe avec des barrières indestructibles.
 
@@ -204,7 +204,7 @@ Alliés Terre +5 DEF. (+1 coût)
 ---
 ### Toxina, Reine des Venins
 
-| ![Toxina, Reine des Venins](JeuDeCarte/Assets/img/Hero/10.png =150x) | **Élément:** Poison
+| <img src="JeuDeCarte/Assets/img/Hero/10.png" width="150" height="auto" alt="Toxina, Reine des Venins"> | **Élément:** Poison
 
 **Description:** Reine des venins, Toxina empoisonne ses ennemis avec des toxines mortelles.
 
@@ -227,7 +227,7 @@ Les alliés Poison appliquent un Poison plus fort (augmente les poisons de +2% d
 ---
 ### Voltarn, Seigneur des Orages
 
-| ![Voltarn, Seigneur des Orages](JeuDeCarte/Assets/img/Hero/6.png =150x) | **Élément:** Foudre
+| <img src="JeuDeCarte/Assets/img/Hero/6.png" width="150" height="auto" alt="Voltarn, Seigneur des Orages"> | **Élément:** Foudre
 
 **Description:** Maître de la foudre, Voltarn frappe ses ennemis avec des éclairs dévastateurs et paralysants.
 
@@ -250,7 +250,7 @@ donne une chance à ses attaques de Paralyser (10% de chance). (+2 coût)
 ---
 ### Zephira, Esprit des Tempêtes
 
-| ![Zephira, Esprit des Tempêtes](JeuDeCarte/Assets/img/Hero/5.png =150x) | **Élément:** Air
+| <img src="JeuDeCarte/Assets/img/Hero/5.png" width="150" height="auto" alt="Zephira, Esprit des Tempêtes"> | **Élément:** Air
 
 **Description:** Esprit du vent, Zephira accélère le tempo de bataille en réinitialisant les capacités de ses alliés.
 
