@@ -105,7 +105,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Aeris, Esprit du Zéphyr
 
-![Aeris, Esprit du Zéphyr](JeuDeCarte/Assets/img/Crea/Crea/34.png)
+![Aeris, Esprit du Zéphyr](JeuDeCarte/Assets/img/Crea/34.png)
 
 **Élément:** Air | **Rareté:** Épique | **Coût:** 0
 
@@ -128,7 +128,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Corvus, Corbeau Mystique
 
-![Corvus, Corbeau Mystique](JeuDeCarte/Assets/img/Crea/Crea/51.png)
+![Corvus, Corbeau Mystique](JeuDeCarte/Assets/img/Crea/51.png)
 
 **Élément:** Air | **Rareté:** Épique | **Coût:** 0
 
@@ -151,7 +151,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Galaxine, Voyageuse Céleste
 
-![Galaxine, Voyageuse Céleste](JeuDeCarte/Assets/img/Crea/Crea/21.png)
+![Galaxine, Voyageuse Céleste](JeuDeCarte/Assets/img/Crea/21.png)
 
 **Élément:** Air | **Rareté:** Mythique | **Coût:** 0
 
@@ -175,7 +175,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Nébulaire, Magicienne du Brouillard
 
-![Nébulaire, Magicienne du Brouillard](JeuDeCarte/Assets/img/Crea/Crea/49.png)
+![Nébulaire, Magicienne du Brouillard](JeuDeCarte/Assets/img/Crea/49.png)
 
 **Élément:** Air | **Rareté:** Épique | **Coût:** 0
 
@@ -198,7 +198,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Nébulo, Fantôme du Brouillard
 
-![Nébulo, Fantôme du Brouillard](JeuDeCarte/Assets/img/Crea/Crea/15.png)
+![Nébulo, Fantôme du Brouillard](JeuDeCarte/Assets/img/Crea/15.png)
 
 **Élément:** Air | **Rareté:** Mythique | **Coût:** 0
 
@@ -221,7 +221,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Orbaline, Magicienne Astrale
 
-![Orbaline, Magicienne Astrale](JeuDeCarte/Assets/img/Crea/Crea/19.png)
+![Orbaline, Magicienne Astrale](JeuDeCarte/Assets/img/Crea/19.png)
 
 **Élément:** Air | **Rareté:** Rare | **Coût:** 0
 
@@ -244,7 +244,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Skyla, Danseuse des Nuages
 
-![Skyla, Danseuse des Nuages](JeuDeCarte/Assets/img/Crea/Crea/5.png)
+![Skyla, Danseuse des Nuages](JeuDeCarte/Assets/img/Crea/5.png)
 
 **Élément:** Air | **Rareté:** Rare | **Coût:** 0
 
@@ -267,7 +267,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Stratos, Esprit des Courants
 
-![Stratos, Esprit des Courants](JeuDeCarte/Assets/img/Crea/Crea/75.png)
+![Stratos, Esprit des Courants](JeuDeCarte/Assets/img/Crea/75.png)
 
 **Élément:** Air | **Rareté:** Épique | **Coût:** 0
 
@@ -290,7 +290,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Sylphar, Archer de la Canopée
 
-![Sylphar, Archer de la Canopée](JeuDeCarte/Assets/img/Crea/Crea/10.png)
+![Sylphar, Archer de la Canopée](JeuDeCarte/Assets/img/Crea/10.png)
 
 **Élément:** Air | **Rareté:** Rare | **Coût:** 0
 
@@ -312,7 +312,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Tempestra, Danseuse de la Tornade
 
-![Tempestra, Danseuse de la Tornade](JeuDeCarte/Assets/img/Crea/Crea/27.png)
+![Tempestra, Danseuse de la Tornade](JeuDeCarte/Assets/img/Crea/27.png)
 
 **Élément:** Air | **Rareté:** Peu Commun | **Coût:** 0
 
@@ -334,7 +334,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Zepho, Génie des Courants
 
-![Zepho, Génie des Courants](JeuDeCarte/Assets/img/Crea/Crea/44.png)
+![Zepho, Génie des Courants](JeuDeCarte/Assets/img/Crea/44.png)
 
 **Élément:** Air | **Rareté:** Peu Commun | **Coût:** 0
 
@@ -356,7 +356,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Zyklair, Djinn des Rafales
 
-![Zyklair, Djinn des Rafales](JeuDeCarte/Assets/img/Crea/Crea/39.png)
+![Zyklair, Djinn des Rafales](JeuDeCarte/Assets/img/Crea/39.png)
 
 **Élément:** Air | **Rareté:** Rare | **Coût:** 0
 
@@ -378,7 +378,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Zéphara, Valkyrie des Vents
 
-![Zéphara, Valkyrie des Vents](JeuDeCarte/Assets/img/Crea/Crea/64.png)
+![Zéphara, Valkyrie des Vents](JeuDeCarte/Assets/img/Crea/64.png)
 
 **Élément:** Air | **Rareté:** Épique | **Coût:** 0
 
@@ -404,7 +404,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Abyssalor, Kraken des Profondeurs
 
-![Abyssalor, Kraken des Profondeurs](JeuDeCarte/Assets/img/Crea/Crea/45.png)
+![Abyssalor, Kraken des Profondeurs](JeuDeCarte/Assets/img/Crea/45.png)
 
 **Élément:** Eau | **Rareté:** Rare | **Coût:** 0
 
@@ -427,7 +427,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Abyssine, Félin des Profondeurs
 
-![Abyssine, Félin des Profondeurs](JeuDeCarte/Assets/img/Crea/Crea/57.png)
+![Abyssine, Félin des Profondeurs](JeuDeCarte/Assets/img/Crea/57.png)
 
 **Élément:** Eau | **Rareté:** Peu Commun | **Coût:** 0
 
@@ -450,7 +450,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Aquaria, Sirène Mystique
 
-![Aquaria, Sirène Mystique](JeuDeCarte/Assets/img/Crea/Crea/17.png)
+![Aquaria, Sirène Mystique](JeuDeCarte/Assets/img/Crea/17.png)
 
 **Élément:** Eau | **Rareté:** Épique | **Coût:** 0
 
@@ -472,7 +472,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Cristaline, Ondine Pure
 
-![Cristaline, Ondine Pure](JeuDeCarte/Assets/img/Crea/Crea/9.png)
+![Cristaline, Ondine Pure](JeuDeCarte/Assets/img/Crea/9.png)
 
 **Élément:** Eau | **Rareté:** Commun | **Coût:** 0
 
@@ -494,7 +494,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Nixie, Fée de la Source
 
-![Nixie, Fée de la Source](JeuDeCarte/Assets/img/Crea/Crea/29.png)
+![Nixie, Fée de la Source](JeuDeCarte/Assets/img/Crea/29.png)
 
 **Élément:** Eau | **Rareté:** Rare | **Coût:** 0
 
@@ -516,7 +516,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Siriona, Enchanteresse des Abysses
 
-![Siriona, Enchanteresse des Abysses](JeuDeCarte/Assets/img/Crea/Crea/23.png)
+![Siriona, Enchanteresse des Abysses](JeuDeCarte/Assets/img/Crea/23.png)
 
 **Élément:** Eau | **Rareté:** Épique | **Coût:** 0
 
@@ -539,7 +539,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Torrentis, Gardien de l'Écume
 
-![Torrentis, Gardien de l'Écume](JeuDeCarte/Assets/img/Crea/Crea/32.png)
+![Torrentis, Gardien de l'Écume](JeuDeCarte/Assets/img/Crea/32.png)
 
 **Élément:** Eau | **Rareté:** Commun | **Coût:** 0
 
@@ -561,7 +561,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Torrick, Gardien du Torrent
 
-![Torrick, Gardien du Torrent](JeuDeCarte/Assets/img/Crea/Crea/50.png)
+![Torrick, Gardien du Torrent](JeuDeCarte/Assets/img/Crea/50.png)
 
 **Élément:** Eau | **Rareté:** Mythique | **Coût:** 0
 
@@ -584,7 +584,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Typhion, Léviathan du Maelström
 
-![Typhion, Léviathan du Maelström](JeuDeCarte/Assets/img/Crea/Crea/65.png)
+![Typhion, Léviathan du Maelström](JeuDeCarte/Assets/img/Crea/65.png)
 
 **Élément:** Eau | **Rareté:** Mythique | **Coût:** 0
 
@@ -611,7 +611,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Firocus, Renard Volcanique
 
-![Firocus, Renard Volcanique](JeuDeCarte/Assets/img/Crea/Crea/58.png)
+![Firocus, Renard Volcanique](JeuDeCarte/Assets/img/Crea/58.png)
 
 **Élément:** Feu | **Rareté:** Épique | **Coût:** 0
 
@@ -634,7 +634,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Flamby, Lutin des Flammes
 
-![Flamby, Lutin des Flammes](JeuDeCarte/Assets/img/Crea/Crea/68.png)
+![Flamby, Lutin des Flammes](JeuDeCarte/Assets/img/Crea/68.png)
 
 **Élément:** Feu | **Rareté:** Spécial | **Coût:** 0
 
@@ -657,7 +657,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Ignarok, Roc en Fusion
 
-![Ignarok, Roc en Fusion](JeuDeCarte/Assets/img/Crea/Crea/62.png)
+![Ignarok, Roc en Fusion](JeuDeCarte/Assets/img/Crea/62.png)
 
 **Élément:** Feu | **Rareté:** Rare | **Coût:** 0
 
@@ -680,7 +680,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Ignissia, Sorcière des Brasiers
 
-![Ignissia, Sorcière des Brasiers](JeuDeCarte/Assets/img/Crea/Crea/31.png)
+![Ignissia, Sorcière des Brasiers](JeuDeCarte/Assets/img/Crea/31.png)
 
 **Élément:** Feu | **Rareté:** Commun | **Coût:** 0
 
@@ -702,7 +702,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Incendior, Dragon de Feu
 
-![Incendior, Dragon de Feu](JeuDeCarte/Assets/img/Crea/Crea/48.png)
+![Incendior, Dragon de Feu](JeuDeCarte/Assets/img/Crea/48.png)
 
 **Élément:** Feu | **Rareté:** Rare | **Coût:** 0
 
@@ -724,7 +724,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Pyraxis, Élémentaire de Magma
 
-![Pyraxis, Élémentaire de Magma](JeuDeCarte/Assets/img/Crea/Crea/54.png)
+![Pyraxis, Élémentaire de Magma](JeuDeCarte/Assets/img/Crea/54.png)
 
 **Élément:** Feu | **Rareté:** Peu Commun | **Coût:** 0
 
@@ -746,7 +746,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Pyrodrake, Dragon de Braise
 
-![Pyrodrake, Dragon de Braise](JeuDeCarte/Assets/img/Crea/Crea/1.png)
+![Pyrodrake, Dragon de Braise](JeuDeCarte/Assets/img/Crea/1.png)
 
 **Élément:** Feu | **Rareté:** Mythique | **Coût:** 0
 
@@ -769,7 +769,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Pyrolynx, Lynx Ardent
 
-![Pyrolynx, Lynx Ardent](JeuDeCarte/Assets/img/Crea/Crea/72.png)
+![Pyrolynx, Lynx Ardent](JeuDeCarte/Assets/img/Crea/72.png)
 
 **Élément:** Feu | **Rareté:** Épique | **Coût:** 0
 
@@ -791,7 +791,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Pyropoulpe, Poulpe Incandescent
 
-![Pyropoulpe, Poulpe Incandescent](JeuDeCarte/Assets/img/Crea/Crea/20.png)
+![Pyropoulpe, Poulpe Incandescent](JeuDeCarte/Assets/img/Crea/20.png)
 
 **Élément:** Feu | **Rareté:** Peu Commun | **Coût:** 0
 
@@ -813,7 +813,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Rubra, Salamandre Incandescente
 
-![Rubra, Salamandre Incandescente](JeuDeCarte/Assets/img/Crea/Crea/42.png)
+![Rubra, Salamandre Incandescente](JeuDeCarte/Assets/img/Crea/42.png)
 
 **Élément:** Feu | **Rareté:** Peu Commun | **Coût:** 0
 
@@ -836,7 +836,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Salamandra, Magicienne Incandescente
 
-![Salamandra, Magicienne Incandescente](JeuDeCarte/Assets/img/Crea/Crea/2.png)
+![Salamandra, Magicienne Incandescente](JeuDeCarte/Assets/img/Crea/2.png)
 
 **Élément:** Feu | **Rareté:** Épique | **Coût:** 0
 
@@ -859,7 +859,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Solaris, Paladin du Soleil
 
-![Solaris, Paladin du Soleil](JeuDeCarte/Assets/img/Crea/Crea/26.png)
+![Solaris, Paladin du Soleil](JeuDeCarte/Assets/img/Crea/26.png)
 
 **Élément:** Feu | **Rareté:** Rare | **Coût:** 0
 
@@ -881,7 +881,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Solune, Chamane Solaire
 
-![Solune, Chamane Solaire](JeuDeCarte/Assets/img/Crea/Crea/52.png)
+![Solune, Chamane Solaire](JeuDeCarte/Assets/img/Crea/52.png)
 
 **Élément:** Feu | **Rareté:** Peu Commun | **Coût:** 0
 
@@ -903,7 +903,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Venturio, Chevalier Écarlate
 
-![Venturio, Chevalier Écarlate](JeuDeCarte/Assets/img/Crea/Crea/38.png)
+![Venturio, Chevalier Écarlate](JeuDeCarte/Assets/img/Crea/38.png)
 
 **Élément:** Feu | **Rareté:** Rare | **Coût:** 0
 
@@ -925,7 +925,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Vulcan, Forgeron de l'Enclume Ardente
 
-![Vulcan, Forgeron de l'Enclume Ardente](JeuDeCarte/Assets/img/Crea/Crea/11.png)
+![Vulcan, Forgeron de l'Enclume Ardente](JeuDeCarte/Assets/img/Crea/11.png)
 
 **Élément:** Feu | **Rareté:** Épique | **Coût:** 0
 
@@ -951,7 +951,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Alice, la Lame Sanglante
 
-![Alice, la Lame Sanglante](JeuDeCarte/Assets/img/Crea/Crea/78.png)
+![Alice, la Lame Sanglante](JeuDeCarte/Assets/img/Crea/78.png)
 
 **Élément:** Foudre | **Rareté:** Épique | **Coût:** 0
 
@@ -974,7 +974,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Fulgo, Orbe Electrique
 
-![Fulgo, Orbe Electrique](JeuDeCarte/Assets/img/Crea/Crea/46.png)
+![Fulgo, Orbe Electrique](JeuDeCarte/Assets/img/Crea/46.png)
 
 **Élément:** Foudre | **Rareté:** Rare | **Coût:** 0
 
@@ -996,7 +996,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Fulminia, Valkyrie de l'Orage
 
-![Fulminia, Valkyrie de l'Orage](JeuDeCarte/Assets/img/Crea/Crea/36.png)
+![Fulminia, Valkyrie de l'Orage](JeuDeCarte/Assets/img/Crea/36.png)
 
 **Élément:** Foudre | **Rareté:** Rare | **Coût:** 0
 
@@ -1018,7 +1018,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Stormy, Enfant de la Foudre
 
-![Stormy, Enfant de la Foudre](JeuDeCarte/Assets/img/Crea/Crea/8.png)
+![Stormy, Enfant de la Foudre](JeuDeCarte/Assets/img/Crea/8.png)
 
 **Élément:** Foudre | **Rareté:** Peu Commun | **Coût:** 0
 
@@ -1040,7 +1040,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Voltania, Serpent Fulgurant
 
-![Voltania, Serpent Fulgurant](JeuDeCarte/Assets/img/Crea/Crea/56.png)
+![Voltania, Serpent Fulgurant](JeuDeCarte/Assets/img/Crea/56.png)
 
 **Élément:** Foudre | **Rareté:** Rare | **Coût:** 0
 
@@ -1063,7 +1063,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Voltar, Seigneur de l'Orage
 
-![Voltar, Seigneur de l'Orage](JeuDeCarte/Assets/img/Crea/Crea/13.png)
+![Voltar, Seigneur de l'Orage](JeuDeCarte/Assets/img/Crea/13.png)
 
 **Élément:** Foudre | **Rareté:** Rare | **Coût:** 0
 
@@ -1086,7 +1086,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Voltix, Lutin Électrique
 
-![Voltix, Lutin Électrique](JeuDeCarte/Assets/img/Crea/Crea/24.png)
+![Voltix, Lutin Électrique](JeuDeCarte/Assets/img/Crea/24.png)
 
 **Élément:** Foudre | **Rareté:** Épique | **Coût:** 0
 
@@ -1111,7 +1111,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Brumys, Fantôme du Givre
 
-![Brumys, Fantôme du Givre](JeuDeCarte/Assets/img/Crea/Crea/59.png)
+![Brumys, Fantôme du Givre](JeuDeCarte/Assets/img/Crea/59.png)
 
 **Élément:** Glace | **Rareté:** Rare | **Coût:** 0
 
@@ -1133,7 +1133,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Cryomage, Mage du Givre
 
-![Cryomage, Mage du Givre](JeuDeCarte/Assets/img/Crea/Crea/41.png)
+![Cryomage, Mage du Givre](JeuDeCarte/Assets/img/Crea/41.png)
 
 **Élément:** Glace | **Rareté:** Rare | **Coût:** 0
 
@@ -1155,7 +1155,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Frimousse, Esprit Givré
 
-![Frimousse, Esprit Givré](JeuDeCarte/Assets/img/Crea/Crea/4.png)
+![Frimousse, Esprit Givré](JeuDeCarte/Assets/img/Crea/4.png)
 
 **Élément:** Glace | **Rareté:** Commun | **Coût:** 0
 
@@ -1177,7 +1177,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Galádra, Matriarche du Givre
 
-![Galádra, Matriarche du Givre](JeuDeCarte/Assets/img/Crea/Crea/71.png)
+![Galádra, Matriarche du Givre](JeuDeCarte/Assets/img/Crea/71.png)
 
 **Élément:** Glace | **Rareté:** Rare | **Coût:** 0
 
@@ -1200,7 +1200,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Gelgor, Troll du Givre
 
-![Gelgor, Troll du Givre](JeuDeCarte/Assets/img/Crea/Crea/37.png)
+![Gelgor, Troll du Givre](JeuDeCarte/Assets/img/Crea/37.png)
 
 **Élément:** Glace | **Rareté:** Rare | **Coût:** 0
 
@@ -1222,7 +1222,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Gelidar, Chevalier des Neiges
 
-![Gelidar, Chevalier des Neiges](JeuDeCarte/Assets/img/Crea/Crea/3.png)
+![Gelidar, Chevalier des Neiges](JeuDeCarte/Assets/img/Crea/3.png)
 
 **Élément:** Glace | **Rareté:** Spécial | **Coût:** 0
 
@@ -1244,7 +1244,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Glacia, Yéti Polaire
 
-![Glacia, Yéti Polaire](JeuDeCarte/Assets/img/Crea/Crea/25.png)
+![Glacia, Yéti Polaire](JeuDeCarte/Assets/img/Crea/25.png)
 
 **Élément:** Glace | **Rareté:** Peu Commun | **Coût:** 0
 
@@ -1266,7 +1266,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Glaciar, Yéti des Sommets
 
-![Glaciar, Yéti des Sommets](JeuDeCarte/Assets/img/Crea/Crea/69.png)
+![Glaciar, Yéti des Sommets](JeuDeCarte/Assets/img/Crea/69.png)
 
 **Élément:** Glace | **Rareté:** Rare | **Coût:** 0
 
@@ -1288,7 +1288,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Glacielle, Reine des Flocons
 
-![Glacielle, Reine des Flocons](JeuDeCarte/Assets/img/Crea/Crea/12.png)
+![Glacielle, Reine des Flocons](JeuDeCarte/Assets/img/Crea/12.png)
 
 **Élément:** Glace | **Rareté:** Épique | **Coût:** 0
 
@@ -1310,7 +1310,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Gélax, Lutin de la Banquise
 
-![Gélax, Lutin de la Banquise](JeuDeCarte/Assets/img/Crea/Crea/53.png)
+![Gélax, Lutin de la Banquise](JeuDeCarte/Assets/img/Crea/53.png)
 
 **Élément:** Glace | **Rareté:** Commun | **Coût:** 0
 
@@ -1332,7 +1332,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Tundrorr, Mammouth Givré
 
-![Tundrorr, Mammouth Givré](JeuDeCarte/Assets/img/Crea/Crea/30.png)
+![Tundrorr, Mammouth Givré](JeuDeCarte/Assets/img/Crea/30.png)
 
 **Élément:** Glace | **Rareté:** Mythique | **Coût:** 0
 
@@ -1357,7 +1357,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Astrilys, Sentinelle Astrale
 
-![Astrilys, Sentinelle Astrale](JeuDeCarte/Assets/img/Crea/Crea/61.png)
+![Astrilys, Sentinelle Astrale](JeuDeCarte/Assets/img/Crea/61.png)
 
 **Élément:** Lumière | **Rareté:** Peu Commun | **Coût:** 0
 
@@ -1379,7 +1379,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Lumicorne, Licorne Dorée
 
-![Lumicorne, Licorne Dorée](JeuDeCarte/Assets/img/Crea/Crea/70.png)
+![Lumicorne, Licorne Dorée](JeuDeCarte/Assets/img/Crea/70.png)
 
 **Élément:** Lumière | **Rareté:** Peu Commun | **Coût:** 0
 
@@ -1401,7 +1401,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Lumys, Renardeau Solaire
 
-![Lumys, Renardeau Solaire](JeuDeCarte/Assets/img/Crea/Crea/74.png)
+![Lumys, Renardeau Solaire](JeuDeCarte/Assets/img/Crea/74.png)
 
 **Élément:** Lumière | **Rareté:** Mythique | **Coût:** 0
 
@@ -1424,7 +1424,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Prismalyx, Papillon Lumineux
 
-![Prismalyx, Papillon Lumineux](JeuDeCarte/Assets/img/Crea/Crea/66.png)
+![Prismalyx, Papillon Lumineux](JeuDeCarte/Assets/img/Crea/66.png)
 
 **Élément:** Lumière | **Rareté:** Épique | **Coût:** 0
 
@@ -1450,7 +1450,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Briselys, Dryade Mousseuse
 
-![Briselys, Dryade Mousseuse](JeuDeCarte/Assets/img/Crea/Crea/43.png)
+![Briselys, Dryade Mousseuse](JeuDeCarte/Assets/img/Crea/43.png)
 
 **Élément:** Poison | **Rareté:** Rare | **Coût:** 0
 
@@ -1472,7 +1472,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Crotignus, Crotte de Nez Mouvante
 
-![Crotignus, Crotte de Nez Mouvante](JeuDeCarte/Assets/img/Crea/Crea/77.png)
+![Crotignus, Crotte de Nez Mouvante](JeuDeCarte/Assets/img/Crea/77.png)
 
 **Élément:** Poison | **Rareté:** Épique | **Coût:** 0
 
@@ -1494,7 +1494,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Floralia, Druidesse des Fleurs
 
-![Floralia, Druidesse des Fleurs](JeuDeCarte/Assets/img/Crea/Crea/14.png)
+![Floralia, Druidesse des Fleurs](JeuDeCarte/Assets/img/Crea/14.png)
 
 **Élément:** Poison | **Rareté:** Peu Commun | **Coût:** 0
 
@@ -1517,7 +1517,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Mossio, Shaman des Mousses
 
-![Mossio, Shaman des Mousses](JeuDeCarte/Assets/img/Crea/Crea/40.png)
+![Mossio, Shaman des Mousses](JeuDeCarte/Assets/img/Crea/40.png)
 
 **Élément:** Poison | **Rareté:** Mythique | **Coût:** 0
 
@@ -1540,7 +1540,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Sylvara, Esprit de la Canopée
 
-![Sylvara, Esprit de la Canopée](JeuDeCarte/Assets/img/Crea/Crea/55.png)
+![Sylvara, Esprit de la Canopée](JeuDeCarte/Assets/img/Crea/55.png)
 
 **Élément:** Poison | **Rareté:** Mythique | **Coût:** 0
 
@@ -1563,7 +1563,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Sylvert, Gardien de la Brume
 
-![Sylvert, Gardien de la Brume](JeuDeCarte/Assets/img/Crea/Crea/63.png)
+![Sylvert, Gardien de la Brume](JeuDeCarte/Assets/img/Crea/63.png)
 
 **Élément:** Poison | **Rareté:** Peu Commun | **Coût:** 0
 
@@ -1589,7 +1589,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Barbak, Guerrier Barbare
 
-![Barbak, Guerrier Barbare](JeuDeCarte/Assets/img/Crea/Crea/16.png)
+![Barbak, Guerrier Barbare](JeuDeCarte/Assets/img/Crea/16.png)
 
 **Élément:** Terre | **Rareté:** Rare | **Coût:** 0
 
@@ -1612,7 +1612,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Bersi, Nain Invincible
 
-![Bersi, Nain Invincible](JeuDeCarte/Assets/img/Crea/Crea/18.png)
+![Bersi, Nain Invincible](JeuDeCarte/Assets/img/Crea/18.png)
 
 **Élément:** Terre | **Rareté:** Peu Commun | **Coût:** 0
 
@@ -1634,7 +1634,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Gladrith, Écho des montagnes
 
-![Gladrith, Écho des montagnes](JeuDeCarte/Assets/img/Crea/Crea/76.png)
+![Gladrith, Écho des montagnes](JeuDeCarte/Assets/img/Crea/76.png)
 
 **Élément:** Terre | **Rareté:** Rare | **Coût:** 0
 
@@ -1656,7 +1656,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Lithos, Colosse de Quartz
 
-![Lithos, Colosse de Quartz](JeuDeCarte/Assets/img/Crea/Crea/60.png)
+![Lithos, Colosse de Quartz](JeuDeCarte/Assets/img/Crea/60.png)
 
 **Élément:** Terre | **Rareté:** Épique | **Coût:** 0
 
@@ -1679,7 +1679,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Lixor, Golem Cristallin
 
-![Lixor, Golem Cristallin](JeuDeCarte/Assets/img/Crea/Crea/33.png)
+![Lixor, Golem Cristallin](JeuDeCarte/Assets/img/Crea/33.png)
 
 **Élément:** Terre | **Rareté:** Rare | **Coût:** 0
 
@@ -1701,7 +1701,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Lumberjack, Bûcheron du Grand Nord
 
-![Lumberjack, Bûcheron du Grand Nord](JeuDeCarte/Assets/img/Crea/Crea/28.png)
+![Lumberjack, Bûcheron du Grand Nord](JeuDeCarte/Assets/img/Crea/28.png)
 
 **Élément:** Terre | **Rareté:** Rare | **Coût:** 0
 
@@ -1724,7 +1724,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Rock, Colosse de Granit
 
-![Rock, Colosse de Granit](JeuDeCarte/Assets/img/Crea/Crea/6.png)
+![Rock, Colosse de Granit](JeuDeCarte/Assets/img/Crea/6.png)
 
 **Élément:** Terre | **Rareté:** Peu Commun | **Coût:** 0
 
@@ -1746,7 +1746,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Rocor, Gardien du Bloc
 
-![Rocor, Gardien du Bloc](JeuDeCarte/Assets/img/Crea/Crea/47.png)
+![Rocor, Gardien du Bloc](JeuDeCarte/Assets/img/Crea/47.png)
 
 **Élément:** Terre | **Rareté:** Peu Commun | **Coût:** 0
 
@@ -1769,7 +1769,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Roktus, Gobelin Mineur
 
-![Roktus, Gobelin Mineur](JeuDeCarte/Assets/img/Crea/Crea/35.png)
+![Roktus, Gobelin Mineur](JeuDeCarte/Assets/img/Crea/35.png)
 
 **Élément:** Terre | **Rareté:** Peu Commun | **Coût:** 0
 
@@ -1792,7 +1792,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Silex, Gardien du Pic Rugueux
 
-![Silex, Gardien du Pic Rugueux](JeuDeCarte/Assets/img/Crea/Crea/22.png)
+![Silex, Gardien du Pic Rugueux](JeuDeCarte/Assets/img/Crea/22.png)
 
 **Élément:** Terre | **Rareté:** Rare | **Coût:** 0
 
@@ -1815,7 +1815,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Telluron, Géant de Schiste
 
-![Telluron, Géant de Schiste](JeuDeCarte/Assets/img/Crea/Crea/73.png)
+![Telluron, Géant de Schiste](JeuDeCarte/Assets/img/Crea/73.png)
 
 **Élément:** Terre | **Rareté:** Épique | **Coût:** 0
 
@@ -1838,7 +1838,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Terra, Sorcière de la Terre
 
-![Terra, Sorcière de la Terre](JeuDeCarte/Assets/img/Crea/Crea/7.png)
+![Terra, Sorcière de la Terre](JeuDeCarte/Assets/img/Crea/7.png)
 
 **Élément:** Terre | **Rareté:** Rare | **Coût:** 0
 
@@ -1864,7 +1864,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Murkax, Ombre Rampante
 
-![Murkax, Ombre Rampante](JeuDeCarte/Assets/img/Crea/Crea/67.png)
+![Murkax, Ombre Rampante](JeuDeCarte/Assets/img/Crea/67.png)
 
 **Élément:** Ténèbres | **Rareté:** Épique | **Coût:** 0
 
