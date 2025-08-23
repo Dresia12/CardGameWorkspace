@@ -105,7 +105,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Aeris, Esprit du Zéphyr
 
-| ![Aeris, Esprit du Zéphyr](JeuDeCarte/Assets/img/Crea/34.png =150x) | **Élément:** Air | **Rareté:** Épique | **Coût:** 0
+| ![Aeris, Esprit du Zéphyr](JeuDeCarte/Assets/img/Crea/34.png) | **Élément:** Air | **Rareté:** Épique
 
 **Description:** LORE A VENIR
 
@@ -126,7 +126,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Corvus, Corbeau Mystique
 
-| ![Corvus, Corbeau Mystique](JeuDeCarte/Assets/img/Crea/51.png =150x) | **Élément:** Air | **Rareté:** Épique | **Coût:** 0
+| ![Corvus, Corbeau Mystique](JeuDeCarte/Assets/img/Crea/51.png) | **Élément:** Air | **Rareté:** Épique
 
 **Description:** LORE A VENIR
 
@@ -147,7 +147,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Galaxine, Voyageuse Céleste
 
-| ![Galaxine, Voyageuse Céleste](JeuDeCarte/Assets/img/Crea/21.png =150x) | **Élément:** Air | **Rareté:** Mythique | **Coût:** 0
+| ![Galaxine, Voyageuse Céleste](JeuDeCarte/Assets/img/Crea/21.png) | **Élément:** Air | **Rareté:** Mythique
 
 **Description:** LORE A VENIR
 
@@ -169,7 +169,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Nébulaire, Magicienne du Brouillard
 
-| ![Nébulaire, Magicienne du Brouillard](JeuDeCarte/Assets/img/Crea/49.png =150x) | **Élément:** Air | **Rareté:** Épique | **Coût:** 0
+| ![Nébulaire, Magicienne du Brouillard](JeuDeCarte/Assets/img/Crea/49.png) | **Élément:** Air | **Rareté:** Épique
 
 **Description:** LORE A VENIR
 
@@ -190,7 +190,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Nébulo, Fantôme du Brouillard
 
-| ![Nébulo, Fantôme du Brouillard](JeuDeCarte/Assets/img/Crea/15.png =150x) | **Élément:** Air | **Rareté:** Mythique | **Coût:** 0
+| ![Nébulo, Fantôme du Brouillard](JeuDeCarte/Assets/img/Crea/15.png) | **Élément:** Air | **Rareté:** Mythique
 
 **Description:** LORE A VENIR
 
@@ -211,7 +211,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Orbaline, Magicienne Astrale
 
-| ![Orbaline, Magicienne Astrale](JeuDeCarte/Assets/img/Crea/19.png =150x) | **Élément:** Air | **Rareté:** Rare | **Coût:** 0
+| ![Orbaline, Magicienne Astrale](JeuDeCarte/Assets/img/Crea/19.png) | **Élément:** Air | **Rareté:** Rare
 
 **Description:** LORE A VENIR
 
@@ -232,7 +232,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Skyla, Danseuse des Nuages
 
-| ![Skyla, Danseuse des Nuages](JeuDeCarte/Assets/img/Crea/5.png =150x) | **Élément:** Air | **Rareté:** Rare | **Coût:** 0
+| ![Skyla, Danseuse des Nuages](JeuDeCarte/Assets/img/Crea/5.png) | **Élément:** Air | **Rareté:** Rare
 
 **Description:** LORE A VENIR
 
@@ -253,7 +253,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Stratos, Esprit des Courants
 
-| ![Stratos, Esprit des Courants](JeuDeCarte/Assets/img/Crea/75.png =150x) | **Élément:** Air | **Rareté:** Épique | **Coût:** 0
+| ![Stratos, Esprit des Courants](JeuDeCarte/Assets/img/Crea/75.png) | **Élément:** Air | **Rareté:** Épique
 
 **Description:** LORE A VENIR
 
@@ -274,7 +274,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Sylphar, Archer de la Canopée
 
-| ![Sylphar, Archer de la Canopée](JeuDeCarte/Assets/img/Crea/10.png =150x) | **Élément:** Air | **Rareté:** Rare | **Coût:** 0
+| ![Sylphar, Archer de la Canopée](JeuDeCarte/Assets/img/Crea/10.png) | **Élément:** Air | **Rareté:** Rare
 
 **Description:** LORE A VENIR
 
@@ -294,7 +294,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Tempestra, Danseuse de la Tornade
 
-| ![Tempestra, Danseuse de la Tornade](JeuDeCarte/Assets/img/Crea/27.png =150x) | **Élément:** Air | **Rareté:** Peu Commun | **Coût:** 0
+| ![Tempestra, Danseuse de la Tornade](JeuDeCarte/Assets/img/Crea/27.png) | **Élément:** Air | **Rareté:** Peu Commun
 
 **Description:** LORE A VENIR
 
@@ -314,7 +314,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Zepho, Génie des Courants
 
-| ![Zepho, Génie des Courants](JeuDeCarte/Assets/img/Crea/44.png =150x) | **Élément:** Air | **Rareté:** Peu Commun | **Coût:** 0
+| ![Zepho, Génie des Courants](JeuDeCarte/Assets/img/Crea/44.png) | **Élément:** Air | **Rareté:** Peu Commun
 
 **Description:** LORE A VENIR
 
@@ -334,7 +334,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Zyklair, Djinn des Rafales
 
-| ![Zyklair, Djinn des Rafales](JeuDeCarte/Assets/img/Crea/39.png =150x) | **Élément:** Air | **Rareté:** Rare | **Coût:** 0
+| ![Zyklair, Djinn des Rafales](JeuDeCarte/Assets/img/Crea/39.png) | **Élément:** Air | **Rareté:** Rare
 
 **Description:** LORE A VENIR
 
@@ -354,7 +354,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Zéphara, Valkyrie des Vents
 
-| ![Zéphara, Valkyrie des Vents](JeuDeCarte/Assets/img/Crea/64.png =150x) | **Élément:** Air | **Rareté:** Épique | **Coût:** 0
+| ![Zéphara, Valkyrie des Vents](JeuDeCarte/Assets/img/Crea/64.png) | **Élément:** Air | **Rareté:** Épique
 
 **Description:** LORE A VENIR
 
@@ -378,7 +378,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Abyssalor, Kraken des Profondeurs
 
-| ![Abyssalor, Kraken des Profondeurs](JeuDeCarte/Assets/img/Crea/45.png =150x) | **Élément:** Eau | **Rareté:** Rare | **Coût:** 0
+| ![Abyssalor, Kraken des Profondeurs](JeuDeCarte/Assets/img/Crea/45.png) | **Élément:** Eau | **Rareté:** Rare
 
 **Description:** LORE A VENIR
 
@@ -399,7 +399,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Abyssine, Félin des Profondeurs
 
-| ![Abyssine, Félin des Profondeurs](JeuDeCarte/Assets/img/Crea/57.png =150x) | **Élément:** Eau | **Rareté:** Peu Commun | **Coût:** 0
+| ![Abyssine, Félin des Profondeurs](JeuDeCarte/Assets/img/Crea/57.png) | **Élément:** Eau | **Rareté:** Peu Commun
 
 **Description:** LORE A VENIR
 
@@ -420,7 +420,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Aquaria, Sirène Mystique
 
-| ![Aquaria, Sirène Mystique](JeuDeCarte/Assets/img/Crea/17.png =150x) | **Élément:** Eau | **Rareté:** Épique | **Coût:** 0
+| ![Aquaria, Sirène Mystique](JeuDeCarte/Assets/img/Crea/17.png) | **Élément:** Eau | **Rareté:** Épique
 
 **Description:** LORE A VENIR
 
@@ -440,7 +440,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Cristaline, Ondine Pure
 
-| ![Cristaline, Ondine Pure](JeuDeCarte/Assets/img/Crea/9.png =150x) | **Élément:** Eau | **Rareté:** Commun | **Coût:** 0
+| ![Cristaline, Ondine Pure](JeuDeCarte/Assets/img/Crea/9.png) | **Élément:** Eau | **Rareté:** Commun
 
 **Description:** LORE A VENIR
 
@@ -460,7 +460,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Nixie, Fée de la Source
 
-| ![Nixie, Fée de la Source](JeuDeCarte/Assets/img/Crea/29.png =150x) | **Élément:** Eau | **Rareté:** Rare | **Coût:** 0
+| ![Nixie, Fée de la Source](JeuDeCarte/Assets/img/Crea/29.png) | **Élément:** Eau | **Rareté:** Rare
 
 **Description:** LORE A VENIR
 
@@ -480,7 +480,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Siriona, Enchanteresse des Abysses
 
-| ![Siriona, Enchanteresse des Abysses](JeuDeCarte/Assets/img/Crea/23.png =150x) | **Élément:** Eau | **Rareté:** Épique | **Coût:** 0
+| ![Siriona, Enchanteresse des Abysses](JeuDeCarte/Assets/img/Crea/23.png) | **Élément:** Eau | **Rareté:** Épique
 
 **Description:** LORE A VENIR
 
@@ -501,7 +501,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Torrentis, Gardien de l'Écume
 
-| ![Torrentis, Gardien de l'Écume](JeuDeCarte/Assets/img/Crea/32.png =150x) | **Élément:** Eau | **Rareté:** Commun | **Coût:** 0
+| ![Torrentis, Gardien de l'Écume](JeuDeCarte/Assets/img/Crea/32.png) | **Élément:** Eau | **Rareté:** Commun
 
 **Description:** LORE A VENIR
 
@@ -521,7 +521,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Torrick, Gardien du Torrent
 
-| ![Torrick, Gardien du Torrent](JeuDeCarte/Assets/img/Crea/50.png =150x) | **Élément:** Eau | **Rareté:** Mythique | **Coût:** 0
+| ![Torrick, Gardien du Torrent](JeuDeCarte/Assets/img/Crea/50.png) | **Élément:** Eau | **Rareté:** Mythique
 
 **Description:** LORE A VENIR
 
@@ -542,7 +542,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Typhion, Léviathan du Maelström
 
-| ![Typhion, Léviathan du Maelström](JeuDeCarte/Assets/img/Crea/65.png =150x) | **Élément:** Eau | **Rareté:** Mythique | **Coût:** 0
+| ![Typhion, Léviathan du Maelström](JeuDeCarte/Assets/img/Crea/65.png) | **Élément:** Eau | **Rareté:** Mythique
 
 **Description:** LORE A VENIR
 
@@ -567,7 +567,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Firocus, Renard Volcanique
 
-| ![Firocus, Renard Volcanique](JeuDeCarte/Assets/img/Crea/58.png =150x) | **Élément:** Feu | **Rareté:** Épique | **Coût:** 0
+| ![Firocus, Renard Volcanique](JeuDeCarte/Assets/img/Crea/58.png) | **Élément:** Feu | **Rareté:** Épique
 
 **Description:** LORE A VENIR
 
@@ -588,7 +588,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Flamby, Lutin des Flammes
 
-| ![Flamby, Lutin des Flammes](JeuDeCarte/Assets/img/Crea/68.png =150x) | **Élément:** Feu | **Rareté:** Spécial | **Coût:** 0
+| ![Flamby, Lutin des Flammes](JeuDeCarte/Assets/img/Crea/68.png) | **Élément:** Feu | **Rareté:** Spécial
 
 **Description:** LORE A VENIR
 
@@ -609,7 +609,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Ignarok, Roc en Fusion
 
-| ![Ignarok, Roc en Fusion](JeuDeCarte/Assets/img/Crea/62.png =150x) | **Élément:** Feu | **Rareté:** Rare | **Coût:** 0
+| ![Ignarok, Roc en Fusion](JeuDeCarte/Assets/img/Crea/62.png) | **Élément:** Feu | **Rareté:** Rare
 
 **Description:** LORE A VENIR
 
@@ -630,7 +630,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Ignissia, Sorcière des Brasiers
 
-| ![Ignissia, Sorcière des Brasiers](JeuDeCarte/Assets/img/Crea/31.png =150x) | **Élément:** Feu | **Rareté:** Commun | **Coût:** 0
+| ![Ignissia, Sorcière des Brasiers](JeuDeCarte/Assets/img/Crea/31.png) | **Élément:** Feu | **Rareté:** Commun
 
 **Description:** LORE A VENIR
 
@@ -650,7 +650,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Incendior, Dragon de Feu
 
-| ![Incendior, Dragon de Feu](JeuDeCarte/Assets/img/Crea/48.png =150x) | **Élément:** Feu | **Rareté:** Rare | **Coût:** 0
+| ![Incendior, Dragon de Feu](JeuDeCarte/Assets/img/Crea/48.png) | **Élément:** Feu | **Rareté:** Rare
 
 **Description:** LORE A VENIR
 
@@ -670,7 +670,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Pyraxis, Élémentaire de Magma
 
-| ![Pyraxis, Élémentaire de Magma](JeuDeCarte/Assets/img/Crea/54.png =150x) | **Élément:** Feu | **Rareté:** Peu Commun | **Coût:** 0
+| ![Pyraxis, Élémentaire de Magma](JeuDeCarte/Assets/img/Crea/54.png) | **Élément:** Feu | **Rareté:** Peu Commun
 
 **Description:** LORE A VENIR
 
@@ -690,7 +690,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Pyrodrake, Dragon de Braise
 
-| ![Pyrodrake, Dragon de Braise](JeuDeCarte/Assets/img/Crea/1.png =150x) | **Élément:** Feu | **Rareté:** Mythique | **Coût:** 0
+| ![Pyrodrake, Dragon de Braise](JeuDeCarte/Assets/img/Crea/1.png) | **Élément:** Feu | **Rareté:** Mythique
 
 **Description:** LORE A VENIR
 
@@ -711,7 +711,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Pyrolynx, Lynx Ardent
 
-| ![Pyrolynx, Lynx Ardent](JeuDeCarte/Assets/img/Crea/72.png =150x) | **Élément:** Feu | **Rareté:** Épique | **Coût:** 0
+| ![Pyrolynx, Lynx Ardent](JeuDeCarte/Assets/img/Crea/72.png) | **Élément:** Feu | **Rareté:** Épique
 
 **Description:** LORE A VENIR
 
@@ -731,7 +731,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Pyropoulpe, Poulpe Incandescent
 
-| ![Pyropoulpe, Poulpe Incandescent](JeuDeCarte/Assets/img/Crea/20.png =150x) | **Élément:** Feu | **Rareté:** Peu Commun | **Coût:** 0
+| ![Pyropoulpe, Poulpe Incandescent](JeuDeCarte/Assets/img/Crea/20.png) | **Élément:** Feu | **Rareté:** Peu Commun
 
 **Description:** LORE A VENIR
 
@@ -751,7 +751,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Rubra, Salamandre Incandescente
 
-| ![Rubra, Salamandre Incandescente](JeuDeCarte/Assets/img/Crea/42.png =150x) | **Élément:** Feu | **Rareté:** Peu Commun | **Coût:** 0
+| ![Rubra, Salamandre Incandescente](JeuDeCarte/Assets/img/Crea/42.png) | **Élément:** Feu | **Rareté:** Peu Commun
 
 **Description:** LORE A VENIR
 
@@ -772,7 +772,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Salamandra, Magicienne Incandescente
 
-| ![Salamandra, Magicienne Incandescente](JeuDeCarte/Assets/img/Crea/2.png =150x) | **Élément:** Feu | **Rareté:** Épique | **Coût:** 0
+| ![Salamandra, Magicienne Incandescente](JeuDeCarte/Assets/img/Crea/2.png) | **Élément:** Feu | **Rareté:** Épique
 
 **Description:** LORE A VENIR
 
@@ -793,7 +793,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Solaris, Paladin du Soleil
 
-| ![Solaris, Paladin du Soleil](JeuDeCarte/Assets/img/Crea/26.png =150x) | **Élément:** Feu | **Rareté:** Rare | **Coût:** 0
+| ![Solaris, Paladin du Soleil](JeuDeCarte/Assets/img/Crea/26.png) | **Élément:** Feu | **Rareté:** Rare
 
 **Description:** LORE A VENIR
 
@@ -813,7 +813,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Solune, Chamane Solaire
 
-| ![Solune, Chamane Solaire](JeuDeCarte/Assets/img/Crea/52.png =150x) | **Élément:** Feu | **Rareté:** Peu Commun | **Coût:** 0
+| ![Solune, Chamane Solaire](JeuDeCarte/Assets/img/Crea/52.png) | **Élément:** Feu | **Rareté:** Peu Commun
 
 **Description:** LORE A VENIR
 
@@ -833,7 +833,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Venturio, Chevalier Écarlate
 
-| ![Venturio, Chevalier Écarlate](JeuDeCarte/Assets/img/Crea/38.png =150x) | **Élément:** Feu | **Rareté:** Rare | **Coût:** 0
+| ![Venturio, Chevalier Écarlate](JeuDeCarte/Assets/img/Crea/38.png) | **Élément:** Feu | **Rareté:** Rare
 
 **Description:** LORE A VENIR
 
@@ -853,7 +853,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Vulcan, Forgeron de l'Enclume Ardente
 
-| ![Vulcan, Forgeron de l'Enclume Ardente](JeuDeCarte/Assets/img/Crea/11.png =150x) | **Élément:** Feu | **Rareté:** Épique | **Coût:** 0
+| ![Vulcan, Forgeron de l'Enclume Ardente](JeuDeCarte/Assets/img/Crea/11.png) | **Élément:** Feu | **Rareté:** Épique
 
 **Description:** LORE A VENIR
 
@@ -877,7 +877,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Alice, la Lame Sanglante
 
-| ![Alice, la Lame Sanglante](JeuDeCarte/Assets/img/Crea/78.png =150x) | **Élément:** Foudre | **Rareté:** Épique | **Coût:** 0
+| ![Alice, la Lame Sanglante](JeuDeCarte/Assets/img/Crea/78.png) | **Élément:** Foudre | **Rareté:** Épique
 
 **Description:** LORE A VENIR
 
@@ -898,7 +898,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Fulgo, Orbe Electrique
 
-| ![Fulgo, Orbe Electrique](JeuDeCarte/Assets/img/Crea/46.png =150x) | **Élément:** Foudre | **Rareté:** Rare | **Coût:** 0
+| ![Fulgo, Orbe Electrique](JeuDeCarte/Assets/img/Crea/46.png) | **Élément:** Foudre | **Rareté:** Rare
 
 **Description:** LORE A VENIR
 
@@ -918,7 +918,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Fulminia, Valkyrie de l'Orage
 
-| ![Fulminia, Valkyrie de l'Orage](JeuDeCarte/Assets/img/Crea/36.png =150x) | **Élément:** Foudre | **Rareté:** Rare | **Coût:** 0
+| ![Fulminia, Valkyrie de l'Orage](JeuDeCarte/Assets/img/Crea/36.png) | **Élément:** Foudre | **Rareté:** Rare
 
 **Description:** LORE A VENIR
 
@@ -938,7 +938,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Stormy, Enfant de la Foudre
 
-| ![Stormy, Enfant de la Foudre](JeuDeCarte/Assets/img/Crea/8.png =150x) | **Élément:** Foudre | **Rareté:** Peu Commun | **Coût:** 0
+| ![Stormy, Enfant de la Foudre](JeuDeCarte/Assets/img/Crea/8.png) | **Élément:** Foudre | **Rareté:** Peu Commun
 
 **Description:** LORE A VENIR
 
@@ -958,7 +958,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Voltania, Serpent Fulgurant
 
-| ![Voltania, Serpent Fulgurant](JeuDeCarte/Assets/img/Crea/56.png =150x) | **Élément:** Foudre | **Rareté:** Rare | **Coût:** 0
+| ![Voltania, Serpent Fulgurant](JeuDeCarte/Assets/img/Crea/56.png) | **Élément:** Foudre | **Rareté:** Rare
 
 **Description:** LORE A VENIR
 
@@ -979,7 +979,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Voltar, Seigneur de l'Orage
 
-| ![Voltar, Seigneur de l'Orage](JeuDeCarte/Assets/img/Crea/13.png =150x) | **Élément:** Foudre | **Rareté:** Rare | **Coût:** 0
+| ![Voltar, Seigneur de l'Orage](JeuDeCarte/Assets/img/Crea/13.png) | **Élément:** Foudre | **Rareté:** Rare
 
 **Description:** LORE A VENIR
 
@@ -1000,7 +1000,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Voltix, Lutin Électrique
 
-| ![Voltix, Lutin Électrique](JeuDeCarte/Assets/img/Crea/24.png =150x) | **Élément:** Foudre | **Rareté:** Épique | **Coût:** 0
+| ![Voltix, Lutin Électrique](JeuDeCarte/Assets/img/Crea/24.png) | **Élément:** Foudre | **Rareté:** Épique
 
 **Description:** LORE A VENIR
 
@@ -1023,7 +1023,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Brumys, Fantôme du Givre
 
-| ![Brumys, Fantôme du Givre](JeuDeCarte/Assets/img/Crea/59.png =150x) | **Élément:** Glace | **Rareté:** Rare | **Coût:** 0
+| ![Brumys, Fantôme du Givre](JeuDeCarte/Assets/img/Crea/59.png) | **Élément:** Glace | **Rareté:** Rare
 
 **Description:** LORE A VENIR
 
@@ -1043,7 +1043,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Cryomage, Mage du Givre
 
-| ![Cryomage, Mage du Givre](JeuDeCarte/Assets/img/Crea/41.png =150x) | **Élément:** Glace | **Rareté:** Rare | **Coût:** 0
+| ![Cryomage, Mage du Givre](JeuDeCarte/Assets/img/Crea/41.png) | **Élément:** Glace | **Rareté:** Rare
 
 **Description:** LORE A VENIR
 
@@ -1063,7 +1063,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Frimousse, Esprit Givré
 
-| ![Frimousse, Esprit Givré](JeuDeCarte/Assets/img/Crea/4.png =150x) | **Élément:** Glace | **Rareté:** Commun | **Coût:** 0
+| ![Frimousse, Esprit Givré](JeuDeCarte/Assets/img/Crea/4.png) | **Élément:** Glace | **Rareté:** Commun
 
 **Description:** LORE A VENIR
 
@@ -1083,7 +1083,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Galádra, Matriarche du Givre
 
-| ![Galádra, Matriarche du Givre](JeuDeCarte/Assets/img/Crea/71.png =150x) | **Élément:** Glace | **Rareté:** Rare | **Coût:** 0
+| ![Galádra, Matriarche du Givre](JeuDeCarte/Assets/img/Crea/71.png) | **Élément:** Glace | **Rareté:** Rare
 
 **Description:** LORE A VENIR
 
@@ -1104,7 +1104,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Gelgor, Troll du Givre
 
-| ![Gelgor, Troll du Givre](JeuDeCarte/Assets/img/Crea/37.png =150x) | **Élément:** Glace | **Rareté:** Rare | **Coût:** 0
+| ![Gelgor, Troll du Givre](JeuDeCarte/Assets/img/Crea/37.png) | **Élément:** Glace | **Rareté:** Rare
 
 **Description:** LORE A VENIR
 
@@ -1124,7 +1124,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Gelidar, Chevalier des Neiges
 
-| ![Gelidar, Chevalier des Neiges](JeuDeCarte/Assets/img/Crea/3.png =150x) | **Élément:** Glace | **Rareté:** Spécial | **Coût:** 0
+| ![Gelidar, Chevalier des Neiges](JeuDeCarte/Assets/img/Crea/3.png) | **Élément:** Glace | **Rareté:** Spécial
 
 **Description:** LORE A VENIR
 
@@ -1144,7 +1144,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Glacia, Yéti Polaire
 
-| ![Glacia, Yéti Polaire](JeuDeCarte/Assets/img/Crea/25.png =150x) | **Élément:** Glace | **Rareté:** Peu Commun | **Coût:** 0
+| ![Glacia, Yéti Polaire](JeuDeCarte/Assets/img/Crea/25.png) | **Élément:** Glace | **Rareté:** Peu Commun
 
 **Description:** LORE A VENIR
 
@@ -1164,7 +1164,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Glaciar, Yéti des Sommets
 
-| ![Glaciar, Yéti des Sommets](JeuDeCarte/Assets/img/Crea/69.png =150x) | **Élément:** Glace | **Rareté:** Rare | **Coût:** 0
+| ![Glaciar, Yéti des Sommets](JeuDeCarte/Assets/img/Crea/69.png) | **Élément:** Glace | **Rareté:** Rare
 
 **Description:** LORE A VENIR
 
@@ -1184,7 +1184,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Glacielle, Reine des Flocons
 
-| ![Glacielle, Reine des Flocons](JeuDeCarte/Assets/img/Crea/12.png =150x) | **Élément:** Glace | **Rareté:** Épique | **Coût:** 0
+| ![Glacielle, Reine des Flocons](JeuDeCarte/Assets/img/Crea/12.png) | **Élément:** Glace | **Rareté:** Épique
 
 **Description:** LORE A VENIR
 
@@ -1204,7 +1204,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Gélax, Lutin de la Banquise
 
-| ![Gélax, Lutin de la Banquise](JeuDeCarte/Assets/img/Crea/53.png =150x) | **Élément:** Glace | **Rareté:** Commun | **Coût:** 0
+| ![Gélax, Lutin de la Banquise](JeuDeCarte/Assets/img/Crea/53.png) | **Élément:** Glace | **Rareté:** Commun
 
 **Description:** LORE A VENIR
 
@@ -1224,7 +1224,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Tundrorr, Mammouth Givré
 
-| ![Tundrorr, Mammouth Givré](JeuDeCarte/Assets/img/Crea/30.png =150x) | **Élément:** Glace | **Rareté:** Mythique | **Coût:** 0
+| ![Tundrorr, Mammouth Givré](JeuDeCarte/Assets/img/Crea/30.png) | **Élément:** Glace | **Rareté:** Mythique
 
 **Description:** LORE A VENIR
 
@@ -1247,7 +1247,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Astrilys, Sentinelle Astrale
 
-| ![Astrilys, Sentinelle Astrale](JeuDeCarte/Assets/img/Crea/61.png =150x) | **Élément:** Lumière | **Rareté:** Peu Commun | **Coût:** 0
+| ![Astrilys, Sentinelle Astrale](JeuDeCarte/Assets/img/Crea/61.png) | **Élément:** Lumière | **Rareté:** Peu Commun
 
 **Description:** LORE A VENIR
 
@@ -1267,7 +1267,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Lumicorne, Licorne Dorée
 
-| ![Lumicorne, Licorne Dorée](JeuDeCarte/Assets/img/Crea/70.png =150x) | **Élément:** Lumière | **Rareté:** Peu Commun | **Coût:** 0
+| ![Lumicorne, Licorne Dorée](JeuDeCarte/Assets/img/Crea/70.png) | **Élément:** Lumière | **Rareté:** Peu Commun
 
 **Description:** LORE A VENIR
 
@@ -1287,7 +1287,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Lumys, Renardeau Solaire
 
-| ![Lumys, Renardeau Solaire](JeuDeCarte/Assets/img/Crea/74.png =150x) | **Élément:** Lumière | **Rareté:** Mythique | **Coût:** 0
+| ![Lumys, Renardeau Solaire](JeuDeCarte/Assets/img/Crea/74.png) | **Élément:** Lumière | **Rareté:** Mythique
 
 **Description:** LORE A VENIR
 
@@ -1308,7 +1308,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Prismalyx, Papillon Lumineux
 
-| ![Prismalyx, Papillon Lumineux](JeuDeCarte/Assets/img/Crea/66.png =150x) | **Élément:** Lumière | **Rareté:** Épique | **Coût:** 0
+| ![Prismalyx, Papillon Lumineux](JeuDeCarte/Assets/img/Crea/66.png) | **Élément:** Lumière | **Rareté:** Épique
 
 **Description:** LORE A VENIR
 
@@ -1332,7 +1332,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Briselys, Dryade Mousseuse
 
-| ![Briselys, Dryade Mousseuse](JeuDeCarte/Assets/img/Crea/43.png =150x) | **Élément:** Poison | **Rareté:** Rare | **Coût:** 0
+| ![Briselys, Dryade Mousseuse](JeuDeCarte/Assets/img/Crea/43.png) | **Élément:** Poison | **Rareté:** Rare
 
 **Description:** LORE A VENIR
 
@@ -1352,7 +1352,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Crotignus, Crotte de Nez Mouvante
 
-| ![Crotignus, Crotte de Nez Mouvante](JeuDeCarte/Assets/img/Crea/77.png =150x) | **Élément:** Poison | **Rareté:** Épique | **Coût:** 0
+| ![Crotignus, Crotte de Nez Mouvante](JeuDeCarte/Assets/img/Crea/77.png) | **Élément:** Poison | **Rareté:** Épique
 
 **Description:** LORE A VENIR
 
@@ -1372,7 +1372,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Floralia, Druidesse des Fleurs
 
-| ![Floralia, Druidesse des Fleurs](JeuDeCarte/Assets/img/Crea/14.png =150x) | **Élément:** Poison | **Rareté:** Peu Commun | **Coût:** 0
+| ![Floralia, Druidesse des Fleurs](JeuDeCarte/Assets/img/Crea/14.png) | **Élément:** Poison | **Rareté:** Peu Commun
 
 **Description:** LORE A VENIR
 
@@ -1393,7 +1393,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Mossio, Shaman des Mousses
 
-| ![Mossio, Shaman des Mousses](JeuDeCarte/Assets/img/Crea/40.png =150x) | **Élément:** Poison | **Rareté:** Mythique | **Coût:** 0
+| ![Mossio, Shaman des Mousses](JeuDeCarte/Assets/img/Crea/40.png) | **Élément:** Poison | **Rareté:** Mythique
 
 **Description:** LORE A VENIR
 
@@ -1414,7 +1414,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Sylvara, Esprit de la Canopée
 
-| ![Sylvara, Esprit de la Canopée](JeuDeCarte/Assets/img/Crea/55.png =150x) | **Élément:** Poison | **Rareté:** Mythique | **Coût:** 0
+| ![Sylvara, Esprit de la Canopée](JeuDeCarte/Assets/img/Crea/55.png) | **Élément:** Poison | **Rareté:** Mythique
 
 **Description:** LORE A VENIR
 
@@ -1435,7 +1435,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Sylvert, Gardien de la Brume
 
-| ![Sylvert, Gardien de la Brume](JeuDeCarte/Assets/img/Crea/63.png =150x) | **Élément:** Poison | **Rareté:** Peu Commun | **Coût:** 0
+| ![Sylvert, Gardien de la Brume](JeuDeCarte/Assets/img/Crea/63.png) | **Élément:** Poison | **Rareté:** Peu Commun
 
 **Description:** LORE A VENIR
 
@@ -1459,7 +1459,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Barbak, Guerrier Barbare
 
-| ![Barbak, Guerrier Barbare](JeuDeCarte/Assets/img/Crea/16.png =150x) | **Élément:** Terre | **Rareté:** Rare | **Coût:** 0
+| ![Barbak, Guerrier Barbare](JeuDeCarte/Assets/img/Crea/16.png) | **Élément:** Terre | **Rareté:** Rare
 
 **Description:** LORE A VENIR
 
@@ -1480,7 +1480,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Bersi, Nain Invincible
 
-| ![Bersi, Nain Invincible](JeuDeCarte/Assets/img/Crea/18.png =150x) | **Élément:** Terre | **Rareté:** Peu Commun | **Coût:** 0
+| ![Bersi, Nain Invincible](JeuDeCarte/Assets/img/Crea/18.png) | **Élément:** Terre | **Rareté:** Peu Commun
 
 **Description:** LORE A VENIR
 
@@ -1500,7 +1500,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Gladrith, Écho des montagnes
 
-| ![Gladrith, Écho des montagnes](JeuDeCarte/Assets/img/Crea/76.png =150x) | **Élément:** Terre | **Rareté:** Rare | **Coût:** 0
+| ![Gladrith, Écho des montagnes](JeuDeCarte/Assets/img/Crea/76.png) | **Élément:** Terre | **Rareté:** Rare
 
 **Description:** LORE A VENIR
 
@@ -1520,7 +1520,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Lithos, Colosse de Quartz
 
-| ![Lithos, Colosse de Quartz](JeuDeCarte/Assets/img/Crea/60.png =150x) | **Élément:** Terre | **Rareté:** Épique | **Coût:** 0
+| ![Lithos, Colosse de Quartz](JeuDeCarte/Assets/img/Crea/60.png) | **Élément:** Terre | **Rareté:** Épique
 
 **Description:** LORE A VENIR
 
@@ -1541,7 +1541,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Lixor, Golem Cristallin
 
-| ![Lixor, Golem Cristallin](JeuDeCarte/Assets/img/Crea/33.png =150x) | **Élément:** Terre | **Rareté:** Rare | **Coût:** 0
+| ![Lixor, Golem Cristallin](JeuDeCarte/Assets/img/Crea/33.png) | **Élément:** Terre | **Rareté:** Rare
 
 **Description:** LORE A VENIR
 
@@ -1561,7 +1561,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Lumberjack, Bûcheron du Grand Nord
 
-| ![Lumberjack, Bûcheron du Grand Nord](JeuDeCarte/Assets/img/Crea/28.png =150x) | **Élément:** Terre | **Rareté:** Rare | **Coût:** 0
+| ![Lumberjack, Bûcheron du Grand Nord](JeuDeCarte/Assets/img/Crea/28.png) | **Élément:** Terre | **Rareté:** Rare
 
 **Description:** LORE A VENIR
 
@@ -1582,7 +1582,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Rock, Colosse de Granit
 
-| ![Rock, Colosse de Granit](JeuDeCarte/Assets/img/Crea/6.png =150x) | **Élément:** Terre | **Rareté:** Peu Commun | **Coût:** 0
+| ![Rock, Colosse de Granit](JeuDeCarte/Assets/img/Crea/6.png) | **Élément:** Terre | **Rareté:** Peu Commun
 
 **Description:** LORE A VENIR
 
@@ -1602,7 +1602,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Rocor, Gardien du Bloc
 
-| ![Rocor, Gardien du Bloc](JeuDeCarte/Assets/img/Crea/47.png =150x) | **Élément:** Terre | **Rareté:** Peu Commun | **Coût:** 0
+| ![Rocor, Gardien du Bloc](JeuDeCarte/Assets/img/Crea/47.png) | **Élément:** Terre | **Rareté:** Peu Commun
 
 **Description:** LORE A VENIR
 
@@ -1623,7 +1623,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Roktus, Gobelin Mineur
 
-| ![Roktus, Gobelin Mineur](JeuDeCarte/Assets/img/Crea/35.png =150x) | **Élément:** Terre | **Rareté:** Peu Commun | **Coût:** 0
+| ![Roktus, Gobelin Mineur](JeuDeCarte/Assets/img/Crea/35.png) | **Élément:** Terre | **Rareté:** Peu Commun
 
 **Description:** LORE A VENIR
 
@@ -1644,7 +1644,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Silex, Gardien du Pic Rugueux
 
-| ![Silex, Gardien du Pic Rugueux](JeuDeCarte/Assets/img/Crea/22.png =150x) | **Élément:** Terre | **Rareté:** Rare | **Coût:** 0
+| ![Silex, Gardien du Pic Rugueux](JeuDeCarte/Assets/img/Crea/22.png) | **Élément:** Terre | **Rareté:** Rare
 
 **Description:** LORE A VENIR
 
@@ -1665,7 +1665,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Telluron, Géant de Schiste
 
-| ![Telluron, Géant de Schiste](JeuDeCarte/Assets/img/Crea/73.png =150x) | **Élément:** Terre | **Rareté:** Épique | **Coût:** 0
+| ![Telluron, Géant de Schiste](JeuDeCarte/Assets/img/Crea/73.png) | **Élément:** Terre | **Rareté:** Épique
 
 **Description:** LORE A VENIR
 
@@ -1686,7 +1686,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Terra, Sorcière de la Terre
 
-| ![Terra, Sorcière de la Terre](JeuDeCarte/Assets/img/Crea/7.png =150x) | **Élément:** Terre | **Rareté:** Rare | **Coût:** 0
+| ![Terra, Sorcière de la Terre](JeuDeCarte/Assets/img/Crea/7.png) | **Élément:** Terre | **Rareté:** Rare
 
 **Description:** LORE A VENIR
 
@@ -1710,7 +1710,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Murkax, Ombre Rampante
 
-| ![Murkax, Ombre Rampante](JeuDeCarte/Assets/img/Crea/67.png =150x) | **Élément:** Ténèbres | **Rareté:** Épique | **Coût:** 0
+| ![Murkax, Ombre Rampante](JeuDeCarte/Assets/img/Crea/67.png) | **Élément:** Ténèbres | **Rareté:** Épique
 
 **Description:** LORE A VENIR
 
