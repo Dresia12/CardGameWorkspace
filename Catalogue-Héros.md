@@ -21,9 +21,9 @@ Ce catalogue présente tous les héros disponibles dans le jeu avec leurs capaci
 ### Aquarielle, Gardienne des Marées
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-<img src="JeuDeCarte/Assets/img/Hero/2.png" width="140" height="auto" alt="Aquarielle, Gardienne des Marées" style="margin-right: 15px; flex-shrink: 0;">
+<img src="JeuDeCarte/Assets/img/Hero/2.png" width="280" height="auto" alt="Aquarielle, Gardienne des Marées" style="margin-right: 15px; flex-shrink: 0;">
 
-<div style="flex: 1; display: flex; flex-direction: column; justify-content: space-between; height: 140px;">
+<div style="flex: 1; display: flex; flex-direction: column; justify-content: space-between; height: 280px;">
 <div style="font-weight: bold; margin-bottom: 5px;">**Aquarielle, Gardienne des Marées** | **Élément:** Eau</div>
 <div style="margin-bottom: 5px;">**📊 PV:** 1200 | **Attaque:** 28 | **Défense:** 24 | **Vitesse:** 0</div>
 <div style="margin-bottom: 5px;">**Critique:** 5.0% | **Esquive:** 5.0% | **Précision:** 99.0%</div>
@@ -35,9 +35,9 @@ Ce catalogue présente tous les héros disponibles dans le jeu avec leurs capaci
 ### Arcanis, Sage des Flux Mystiques
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-<img src="JeuDeCarte/Assets/img/Hero/9.png" width="140" height="auto" alt="Arcanis, Sage des Flux Mystiques" style="margin-right: 15px; flex-shrink: 0;">
+<img src="JeuDeCarte/Assets/img/Hero/9.png" width="280" height="auto" alt="Arcanis, Sage des Flux Mystiques" style="margin-right: 15px; flex-shrink: 0;">
 
-<div style="flex: 1; display: flex; flex-direction: column; justify-content: space-between; height: 140px;">
+<div style="flex: 1; display: flex; flex-direction: column; justify-content: space-between; height: 280px;">
 <div style="font-weight: bold; margin-bottom: 5px;">**Arcanis, Sage des Flux Mystiques** | **Élément:** Arcanique</div>
 <div style="margin-bottom: 5px;">**📊 PV:** 1050 | **Attaque:** 35 | **Défense:** 22 | **Vitesse:** 0</div>
 <div style="margin-bottom: 5px;">**Critique:** 5.0% | **Esquive:** 5.0% | **Précision:** 99.0%</div>
@@ -49,9 +49,9 @@ Ce catalogue présente tous les héros disponibles dans le jeu avec leurs capaci
 ### Glacius, Empereur du Givre
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-<img src="JeuDeCarte/Assets/img/Hero/3.png" width="140" height="auto" alt="Glacius, Empereur du Givre" style="margin-right: 15px; flex-shrink: 0;">
+<img src="JeuDeCarte/Assets/img/Hero/3.png" width="280" height="auto" alt="Glacius, Empereur du Givre" style="margin-right: 15px; flex-shrink: 0;">
 
-<div style="flex: 1; display: flex; flex-direction: column; justify-content: space-between; height: 140px;">
+<div style="flex: 1; display: flex; flex-direction: column; justify-content: space-between; height: 280px;">
 <div style="font-weight: bold; margin-bottom: 5px;">**Glacius, Empereur du Givre** | **Élément:** Glace</div>
 <div style="margin-bottom: 5px;">**📊 PV:** 1150 | **Attaque:** 32 | **Défense:** 26 | **Vitesse:** 0</div>
 <div style="margin-bottom: 5px;">**Critique:** 5.0% | **Esquive:** 5.0% | **Précision:** 99.0%</div>
@@ -63,9 +63,9 @@ Ce catalogue présente tous les héros disponibles dans le jeu avec leurs capaci
 ### Luxielle, Avatar Radieux
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-<img src="JeuDeCarte/Assets/img/Hero/7.png" width="140" height="auto" alt="Luxielle, Avatar Radieux" style="margin-right: 15px; flex-shrink: 0;">
+<img src="JeuDeCarte/Assets/img/Hero/7.png" width="280" height="auto" alt="Luxielle, Avatar Radieux" style="margin-right: 15px; flex-shrink: 0;">
 
-<div style="flex: 1; display: flex; flex-direction: column; justify-content: space-between; height: 140px;">
+<div style="flex: 1; display: flex; flex-direction: column; justify-content: space-between; height: 280px;">
 <div style="font-weight: bold; margin-bottom: 5px;">**Luxielle, Avatar Radieux** | **Élément:** Lumière</div>
 <div style="margin-bottom: 5px;">**📊 PV:** 1150 | **Attaque:** 32 | **Défense:** 25 | **Vitesse:** 0</div>
 <div style="margin-bottom: 5px;">**Critique:** 5.0% | **Esquive:** 5.0% | **Précision:** 99.0%</div>
@@ -77,9 +77,9 @@ Ce catalogue présente tous les héros disponibles dans le jeu avec leurs capaci
 ### Mortrax, Sombre Dominateur
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-<img src="JeuDeCarte/Assets/img/Hero/8.png" width="140" height="auto" alt="Mortrax, Sombre Dominateur" style="margin-right: 15px; flex-shrink: 0;">
+<img src="JeuDeCarte/Assets/img/Hero/8.png" width="280" height="auto" alt="Mortrax, Sombre Dominateur" style="margin-right: 15px; flex-shrink: 0;">
 
-<div style="flex: 1; display: flex; flex-direction: column; justify-content: space-between; height: 140px;">
+<div style="flex: 1; display: flex; flex-direction: column; justify-content: space-between; height: 280px;">
 <div style="font-weight: bold; margin-bottom: 5px;">**Mortrax, Sombre Dominateur** | **Élément:** Ténèbres</div>
 <div style="margin-bottom: 5px;">**📊 PV:** 1100 | **Attaque:** 38 | **Défense:** 23 | **Vitesse:** 0</div>
 <div style="margin-bottom: 5px;">**Critique:** 5.0% | **Esquive:** 5.0% | **Précision:** 99.0%</div>
@@ -91,9 +91,9 @@ Ce catalogue présente tous les héros disponibles dans le jeu avec leurs capaci
 ### Nihilos, Avatar du Néant
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-<img src="JeuDeCarte/Assets/img/Hero/11.png" width="140" height="auto" alt="Nihilos, Avatar du Néant" style="margin-right: 15px; flex-shrink: 0;">
+<img src="JeuDeCarte/Assets/img/Hero/11.png" width="280" height="auto" alt="Nihilos, Avatar du Néant" style="margin-right: 15px; flex-shrink: 0;">
 
-<div style="flex: 1; display: flex; flex-direction: column; justify-content: space-between; height: 140px;">
+<div style="flex: 1; display: flex; flex-direction: column; justify-content: space-between; height: 280px;">
 <div style="font-weight: bold; margin-bottom: 5px;">**Nihilos, Avatar du Néant** | **Élément:** Néant</div>
 <div style="margin-bottom: 5px;">**📊 PV:** 1150 | **Attaque:** 38 | **Défense:** 20 | **Vitesse:** 0</div>
 <div style="margin-bottom: 5px;">**Critique:** 5.0% | **Esquive:** 5.0% | **Précision:** 99.0%</div>
@@ -105,9 +105,9 @@ Ce catalogue présente tous les héros disponibles dans le jeu avec leurs capaci
 ### Solaris, Champion des Cendres
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-<img src="JeuDeCarte/Assets/img/Hero/1.png" width="140" height="auto" alt="Solaris, Champion des Cendres" style="margin-right: 15px; flex-shrink: 0;">
+<img src="JeuDeCarte/Assets/img/Hero/1.png" width="280" height="auto" alt="Solaris, Champion des Cendres" style="margin-right: 15px; flex-shrink: 0;">
 
-<div style="flex: 1; display: flex; flex-direction: column; justify-content: space-between; height: 140px;">
+<div style="flex: 1; display: flex; flex-direction: column; justify-content: space-between; height: 280px;">
 <div style="font-weight: bold; margin-bottom: 5px;">**Solaris, Champion des Cendres** | **Élément:** Feu</div>
 <div style="margin-bottom: 5px;">**📊 PV:** 1100 | **Attaque:** 35 | **Défense:** 22 | **Vitesse:** 0</div>
 <div style="margin-bottom: 5px;">**Critique:** 5.0% | **Esquive:** 5.0% | **Précision:** 99.0%</div>
@@ -119,9 +119,9 @@ Ce catalogue présente tous les héros disponibles dans le jeu avec leurs capaci
 ### Telluron, Cœur de la Montagne
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-<img src="JeuDeCarte/Assets/img/Hero/4.png" width="140" height="auto" alt="Telluron, Cœur de la Montagne" style="margin-right: 15px; flex-shrink: 0;">
+<img src="JeuDeCarte/Assets/img/Hero/4.png" width="280" height="auto" alt="Telluron, Cœur de la Montagne" style="margin-right: 15px; flex-shrink: 0;">
 
-<div style="flex: 1; display: flex; flex-direction: column; justify-content: space-between; height: 140px;">
+<div style="flex: 1; display: flex; flex-direction: column; justify-content: space-between; height: 280px;">
 <div style="font-weight: bold; margin-bottom: 5px;">**Telluron, Cœur de la Montagne** | **Élément:** Terre</div>
 <div style="margin-bottom: 5px;">**📊 PV:** 1300 | **Attaque:** 25 | **Défense:** 30 | **Vitesse:** 0</div>
 <div style="margin-bottom: 5px;">**Critique:** 5.0% | **Esquive:** 5.0% | **Précision:** 99.0%</div>
@@ -133,9 +133,9 @@ Ce catalogue présente tous les héros disponibles dans le jeu avec leurs capaci
 ### Toxina, Reine des Venins
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-<img src="JeuDeCarte/Assets/img/Hero/10.png" width="140" height="auto" alt="Toxina, Reine des Venins" style="margin-right: 15px; flex-shrink: 0;">
+<img src="JeuDeCarte/Assets/img/Hero/10.png" width="280" height="auto" alt="Toxina, Reine des Venins" style="margin-right: 15px; flex-shrink: 0;">
 
-<div style="flex: 1; display: flex; flex-direction: column; justify-content: space-between; height: 140px;">
+<div style="flex: 1; display: flex; flex-direction: column; justify-content: space-between; height: 280px;">
 <div style="font-weight: bold; margin-bottom: 5px;">**Toxina, Reine des Venins** | **Élément:** Poison</div>
 <div style="margin-bottom: 5px;">**📊 PV:** 1100 | **Attaque:** 36 | **Défense:** 20 | **Vitesse:** 0</div>
 <div style="margin-bottom: 5px;">**Critique:** 5.0% | **Esquive:** 5.0% | **Précision:** 99.0%</div>
@@ -147,9 +147,9 @@ Ce catalogue présente tous les héros disponibles dans le jeu avec leurs capaci
 ### Voltarn, Seigneur des Orages
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-<img src="JeuDeCarte/Assets/img/Hero/6.png" width="140" height="auto" alt="Voltarn, Seigneur des Orages" style="margin-right: 15px; flex-shrink: 0;">
+<img src="JeuDeCarte/Assets/img/Hero/6.png" width="280" height="auto" alt="Voltarn, Seigneur des Orages" style="margin-right: 15px; flex-shrink: 0;">
 
-<div style="flex: 1; display: flex; flex-direction: column; justify-content: space-between; height: 140px;">
+<div style="flex: 1; display: flex; flex-direction: column; justify-content: space-between; height: 280px;">
 <div style="font-weight: bold; margin-bottom: 5px;">**Voltarn, Seigneur des Orages** | **Élément:** Foudre</div>
 <div style="margin-bottom: 5px;">**📊 PV:** 1050 | **Attaque:** 41 | **Défense:** 18 | **Vitesse:** 0</div>
 <div style="margin-bottom: 5px;">**Critique:** 5.0% | **Esquive:** 5.0% | **Précision:** 99.0%</div>
@@ -161,9 +161,9 @@ Ce catalogue présente tous les héros disponibles dans le jeu avec leurs capaci
 ### Zephira, Esprit des Tempêtes
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-<img src="JeuDeCarte/Assets/img/Hero/5.png" width="140" height="auto" alt="Zephira, Esprit des Tempêtes" style="margin-right: 15px; flex-shrink: 0;">
+<img src="JeuDeCarte/Assets/img/Hero/5.png" width="280" height="auto" alt="Zephira, Esprit des Tempêtes" style="margin-right: 15px; flex-shrink: 0;">
 
-<div style="flex: 1; display: flex; flex-direction: column; justify-content: space-between; height: 140px;">
+<div style="flex: 1; display: flex; flex-direction: column; justify-content: space-between; height: 280px;">
 <div style="font-weight: bold; margin-bottom: 5px;">**Zephira, Esprit des Tempêtes** | **Élément:** Air</div>
 <div style="margin-bottom: 5px;">**📊 PV:** 1000 | **Attaque:** 38 | **Défense:** 20 | **Vitesse:** 0</div>
 <div style="margin-bottom: 5px;">**Critique:** 5.0% | **Esquive:** 5.0% | **Précision:** 99.0%</div>
