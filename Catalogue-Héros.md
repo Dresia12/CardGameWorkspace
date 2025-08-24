@@ -34,7 +34,7 @@ Ce catalogue présente tous les héros disponibles dans le jeu avec leurs capaci
 ## Détails des Héros
 
 ### **Aquarielle, Gardienne des Marées**
-<span style="color:#4444ff;">**Élément:** Eau 💧</span> | <span style="color:#ff6b35;">**Type:** Héros ⭐</span>
+<span style="color:#4444ff;">**Élément:** Eau <img src="JeuDeCarte/Assets/img/Symbols/eau.png" width="20" height="20" alt="Eau"></span> | <span style="color:#ff6b35;">**Type:** Héros ⭐</span>
 
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
@@ -45,7 +45,7 @@ Ce catalogue présente tous les héros disponibles dans le jeu avec leurs capaci
 
 
 ### **Arcanis, Sage des Flux Mystiques**
-<span style="color:#808080;">**Élément:** Arcanique ⚪</span> | <span style="color:#ff6b35;">**Type:** Héros ⭐</span>
+<span style="color:#808080;">**Élément:** Arcanique <img src="JeuDeCarte/Assets/img/Symbols/neant.png" width="20" height="20" alt="Neutre"></span> | <span style="color:#ff6b35;">**Type:** Héros ⭐</span>
 
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
@@ -56,7 +56,7 @@ Ce catalogue présente tous les héros disponibles dans le jeu avec leurs capaci
 
 
 ### **Glacius, Empereur du Givre**
-<span style="color:#87ceeb;">**Élément:** Glace ❄️</span> | <span style="color:#ff6b35;">**Type:** Héros ⭐</span>
+<span style="color:#87ceeb;">**Élément:** Glace <img src="JeuDeCarte/Assets/img/Symbols/glace.png" width="20" height="20" alt="Glace"></span> | <span style="color:#ff6b35;">**Type:** Héros ⭐</span>
 
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
@@ -67,7 +67,7 @@ Ce catalogue présente tous les héros disponibles dans le jeu avec leurs capaci
 
 
 ### **Luxielle, Avatar Radieux**
-<span style="color:#ffff00;">**Élément:** Lumière ☀️</span> | <span style="color:#ff6b35;">**Type:** Héros ⭐</span>
+<span style="color:#ffff00;">**Élément:** Lumière <img src="JeuDeCarte/Assets/img/Symbols/lumiere.png" width="20" height="20" alt="Lumière"></span> | <span style="color:#ff6b35;">**Type:** Héros ⭐</span>
 
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
@@ -78,7 +78,7 @@ Ce catalogue présente tous les héros disponibles dans le jeu avec leurs capaci
 
 
 ### **Mortrax, Sombre Dominateur**
-<span style="color:#808080;">**Élément:** Ténèbres ⚪</span> | <span style="color:#ff6b35;">**Type:** Héros ⭐</span>
+<span style="color:#808080;">**Élément:** Ténèbres <img src="JeuDeCarte/Assets/img/Symbols/neant.png" width="20" height="20" alt="Neutre"></span> | <span style="color:#ff6b35;">**Type:** Héros ⭐</span>
 
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
@@ -89,7 +89,7 @@ Ce catalogue présente tous les héros disponibles dans le jeu avec leurs capaci
 
 
 ### **Nihilos, Avatar du Néant**
-<span style="color:#808080;">**Élément:** Néant ⚪</span> | <span style="color:#ff6b35;">**Type:** Héros ⭐</span>
+<span style="color:#808080;">**Élément:** Néant <img src="JeuDeCarte/Assets/img/Symbols/neant.png" width="20" height="20" alt="Neutre"></span> | <span style="color:#ff6b35;">**Type:** Héros ⭐</span>
 
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
@@ -100,7 +100,7 @@ Ce catalogue présente tous les héros disponibles dans le jeu avec leurs capaci
 
 
 ### **Solaris, Champion des Cendres**
-<span style="color:#ff4444;">**Élément:** Feu 🔥</span> | <span style="color:#ff6b35;">**Type:** Héros ⭐</span>
+<span style="color:#ff4444;">**Élément:** Feu <img src="JeuDeCarte/Assets/img/Symbols/feu.png" width="20" height="20" alt="Feu"></span> | <span style="color:#ff6b35;">**Type:** Héros ⭐</span>
 
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
@@ -111,7 +111,7 @@ Ce catalogue présente tous les héros disponibles dans le jeu avec leurs capaci
 
 
 ### **Telluron, Cœur de la Montagne**
-<span style="color:#8b4513;">**Élément:** Terre 🌍</span> | <span style="color:#ff6b35;">**Type:** Héros ⭐</span>
+<span style="color:#8b4513;">**Élément:** Terre <img src="JeuDeCarte/Assets/img/Symbols/terre.png" width="20" height="20" alt="Terre"></span> | <span style="color:#ff6b35;">**Type:** Héros ⭐</span>
 
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
@@ -122,7 +122,7 @@ Ce catalogue présente tous les héros disponibles dans le jeu avec leurs capaci
 
 
 ### **Toxina, Reine des Venins**
-<span style="color:#9932cc;">**Élément:** Poison ☠️</span> | <span style="color:#ff6b35;">**Type:** Héros ⭐</span>
+<span style="color:#9932cc;">**Élément:** Poison <img src="JeuDeCarte/Assets/img/Symbols/poison.png" width="20" height="20" alt="Poison"></span> | <span style="color:#ff6b35;">**Type:** Héros ⭐</span>
 
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
@@ -133,7 +133,7 @@ Ce catalogue présente tous les héros disponibles dans le jeu avec leurs capaci
 
 
 ### **Voltarn, Seigneur des Orages**
-<span style="color:#808080;">**Élément:** Foudre ⚪</span> | <span style="color:#ff6b35;">**Type:** Héros ⭐</span>
+<span style="color:#808080;">**Élément:** Foudre <img src="JeuDeCarte/Assets/img/Symbols/neant.png" width="20" height="20" alt="Neutre"></span> | <span style="color:#ff6b35;">**Type:** Héros ⭐</span>
 
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
@@ -144,7 +144,7 @@ Ce catalogue présente tous les héros disponibles dans le jeu avec leurs capaci
 
 
 ### **Zephira, Esprit des Tempêtes**
-<span style="color:#4287f5;">**Élément:** Air 💨</span> | <span style="color:#ff6b35;">**Type:** Héros ⭐</span>
+<span style="color:#4287f5;">**Élément:** Air <img src="JeuDeCarte/Assets/img/Symbols/air.png" width="20" height="20" alt="Air"></span> | <span style="color:#ff6b35;">**Type:** Héros ⭐</span>
 
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
