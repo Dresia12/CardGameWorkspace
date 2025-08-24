@@ -20,298 +20,100 @@ Ce catalogue présente tous les héros disponibles dans le jeu avec leurs capaci
 
 ### Aquarielle, Gardienne des Marées
 
-<img src="JeuDeCarte/Assets/img/Hero/2.png" width="150" height="auto" alt="Aquarielle, Gardienne des Marées" style="float: left; margin-right: 20px;">
+<img src="JeuDeCarte/Assets/img/Hero/2.png" width="80" height="auto" alt="Aquarielle, Gardienne des Marées" style="float: left; margin-right: 15px; vertical-align: middle;">
 
-**Élément:** Eau
+**Aquarielle, Gardienne des Marées** | **Élément:** Eau | **📊 PV:** 1200 | **Attaque:** 28 | **Défense:** 24 | **Vitesse:** 0 | **Critique:** 5.0% | **Esquive:** 5.0% | **Précision:** 99.0% | **⚡ Capacité:** Vague Régénératrice (CD: 3) | **🛡️ Passif:** Alliés Eau -10 % dégâts subit. (+2 coût)
 
-#### 📊 Statistiques
-- **PV:** 1200
-- **Attaque:** 28
-- **Défense:** 24
-- **Vitesse:** 0
-- **Critique:** 5.0%
-- **Esquive:** 5.0%
-- **Précision:** 99.0%
-
-#### ⚡ Capacité Spéciale
-**Vague Régénératrice** (CD: 3)
-- **Description:** Vague Régénératrice : Soigne 70 PV à tous les alliés + retire Brûlure/Poison.
-
-#### 🛡️ Passif
-Alliés Eau -10 % dégâts subit. (+2 coût)
-
-<div style="clear: both;"></div>
-
-**Description:** Protectrice des océans, Aquarielle utilise les pouvoirs curatifs de l'eau pour soutenir ses alliés.
+<div style="clear: both; margin-bottom: 20px;"></div>
 
 ---
 ### Arcanis, Sage des Flux Mystiques
 
-<img src="JeuDeCarte/Assets/img/Hero/9.png" width="150" height="auto" alt="Arcanis, Sage des Flux Mystiques" style="float: left; margin-right: 20px;">
+<img src="JeuDeCarte/Assets/img/Hero/9.png" width="80" height="auto" alt="Arcanis, Sage des Flux Mystiques" style="float: left; margin-right: 15px; vertical-align: middle;">
 
-**Élément:** Arcanique
+**Arcanis, Sage des Flux Mystiques** | **Élément:** Arcanique | **📊 PV:** 1050 | **Attaque:** 35 | **Défense:** 22 | **Vitesse:** 0 | **Critique:** 5.0% | **Esquive:** 5.0% | **Précision:** 99.0% | **⚡ Capacité:** Distorsion du Temps (CD: 3) | **🛡️ Passif:** -1 tour de cooldown global sur le deck (minimum 1 de CD). (+2 coût)
 
-#### 📊 Statistiques
-- **PV:** 1050
-- **Attaque:** 35
-- **Défense:** 22
-- **Vitesse:** 0
-- **Critique:** 5.0%
-- **Esquive:** 5.0%
-- **Précision:** 99.0%
-
-#### ⚡ Capacité Spéciale
-**Distorsion du Temps** (CD: 3)
-- **Description:** Distorsion du Temps : Avance ou recule le cooldown d'une capacité alliée ou ennemie.
-
-#### 🛡️ Passif
--1 tour de cooldown global sur le deck (minimum 1 de CD). (+2 coût)
-
-<div style="clear: both;"></div>
-
-**Description:** Maître des arts arcaniques, Arcanis manipule le temps pour contrôler le rythme de la bataille.
+<div style="clear: both; margin-bottom: 20px;"></div>
 
 ---
 ### Glacius, Empereur du Givre
 
-<img src="JeuDeCarte/Assets/img/Hero/3.png" width="150" height="auto" alt="Glacius, Empereur du Givre" style="float: left; margin-right: 20px;">
+<img src="JeuDeCarte/Assets/img/Hero/3.png" width="80" height="auto" alt="Glacius, Empereur du Givre" style="float: left; margin-right: 15px; vertical-align: middle;">
 
-**Élément:** Glace
+**Glacius, Empereur du Givre** | **Élément:** Glace | **📊 PV:** 1150 | **Attaque:** 32 | **Défense:** 26 | **Vitesse:** 0 | **Critique:** 5.0% | **Esquive:** 5.0% | **Précision:** 99.0% | **⚡ Capacité:** Tempête de Givre (CD: 3) | **🛡️ Passif:** -10 Défense ennemie. (+2 coût)
 
-#### 📊 Statistiques
-- **PV:** 1150
-- **Attaque:** 32
-- **Défense:** 26
-- **Vitesse:** 0
-- **Critique:** 5.0%
-- **Esquive:** 5.0%
-- **Précision:** 99.0%
-
-#### ⚡ Capacité Spéciale
-**Tempête de Givre** (CD: 3)
-- **Description:** Tempête de Givre : 60 dégâts à tous + Gel (1 tour).
-
-#### 🛡️ Passif
--10 Défense ennemie. (+2 coût)
-
-<div style="clear: both;"></div>
-
-**Description:** Souverain des terres glacées, Glacius paralyse ses ennemis avec des tempêtes de glace dévastatrices.
+<div style="clear: both; margin-bottom: 20px;"></div>
 
 ---
 ### Luxielle, Avatar Radieux
 
-<img src="JeuDeCarte/Assets/img/Hero/7.png" width="150" height="auto" alt="Luxielle, Avatar Radieux" style="float: left; margin-right: 20px;">
+<img src="JeuDeCarte/Assets/img/Hero/7.png" width="80" height="auto" alt="Luxielle, Avatar Radieux" style="float: left; margin-right: 15px; vertical-align: middle;">
 
-**Élément:** Lumière
+**Luxielle, Avatar Radieux** | **Élément:** Lumière | **📊 PV:** 1150 | **Attaque:** 32 | **Défense:** 25 | **Vitesse:** 0 | **Critique:** 5.0% | **Esquive:** 5.0% | **Précision:** 99.0% | **⚡ Capacité:** Bénédiction Solaire (CD: 3) | **🛡️ Passif:** Alliés Lumière reçoivent -15 %. (+4 coût)
 
-#### 📊 Statistiques
-- **PV:** 1150
-- **Attaque:** 32
-- **Défense:** 25
-- **Vitesse:** 0
-- **Critique:** 5.0%
-- **Esquive:** 5.0%
-- **Précision:** 99.0%
-
-#### ⚡ Capacité Spéciale
-**Bénédiction Solaire** (CD: 3)
-- **Description:** Bénédiction Solaire : Soin de 50 PV à tous + Immunité 1 tour contre les effets négatifs.
-
-#### 🛡️ Passif
-Alliés Lumière reçoivent -15 %. (+4 coût)
-
-<div style="clear: both;"></div>
-
-**Description:** Avatar de la lumière divine, Luxielle protège ses alliés avec des bénédictions purificatrices.
+<div style="clear: both; margin-bottom: 20px;"></div>
 
 ---
 ### Mortrax, Sombre Dominateur
 
-<img src="JeuDeCarte/Assets/img/Hero/8.png" width="150" height="auto" alt="Mortrax, Sombre Dominateur" style="float: left; margin-right: 20px;">
+<img src="JeuDeCarte/Assets/img/Hero/8.png" width="80" height="auto" alt="Mortrax, Sombre Dominateur" style="float: left; margin-right: 15px; vertical-align: middle;">
 
-**Élément:** Ténèbres
+**Mortrax, Sombre Dominateur** | **Élément:** Ténèbres | **📊 PV:** 1100 | **Attaque:** 38 | **Défense:** 23 | **Vitesse:** 0 | **Critique:** 5.0% | **Esquive:** 5.0% | **Précision:** 99.0% | **⚡ Capacité:** Siphon d'Ombres (CD: 3) | **🛡️ Passif:** Alliés Ténèbres +15 %. (+4 coût)
 
-#### 📊 Statistiques
-- **PV:** 1100
-- **Attaque:** 38
-- **Défense:** 23
-- **Vitesse:** 0
-- **Critique:** 5.0%
-- **Esquive:** 5.0%
-- **Précision:** 99.0%
-
-#### ⚡ Capacité Spéciale
-**Siphon d'Ombres** (CD: 3)
-- **Description:** Siphon d'Ombres : Inflige 80 dégâts + Drain de vie (50 % des dégâts).
-
-#### 🛡️ Passif
-Alliés Ténèbres +15 %. (+4 coût)
-
-<div style="clear: both;"></div>
-
-**Description:** Seigneur des ténèbres, Mortrax draine la vie de ses ennemis pour se renforcer.
+<div style="clear: both; margin-bottom: 20px;"></div>
 
 ---
 ### Nihilos, Avatar du Néant
 
-<img src="JeuDeCarte/Assets/img/Hero/11.png" width="150" height="auto" alt="Nihilos, Avatar du Néant" style="float: left; margin-right: 20px;">
+<img src="JeuDeCarte/Assets/img/Hero/11.png" width="80" height="auto" alt="Nihilos, Avatar du Néant" style="float: left; margin-right: 15px; vertical-align: middle;">
 
-**Élément:** Néant
+**Nihilos, Avatar du Néant** | **Élément:** Néant | **📊 PV:** 1150 | **Attaque:** 38 | **Défense:** 20 | **Vitesse:** 0 | **Critique:** 5.0% | **Esquive:** 5.0% | **Précision:** 99.0% | **⚡ Capacité:** Annihilation Instantanée (CD: 3) | **🛡️ Passif:** Immunisé aux effets élémentaires (Brûlure, Gel, etc.). (+3 coût)
 
-#### 📊 Statistiques
-- **PV:** 1150
-- **Attaque:** 38
-- **Défense:** 20
-- **Vitesse:** 0
-- **Critique:** 5.0%
-- **Esquive:** 5.0%
-- **Précision:** 99.0%
-
-#### ⚡ Capacité Spéciale
-**Annihilation Instantanée** (CD: 3)
-- **Description:** Annihilation Instantanée : Tente d'éliminer instantanément une carte ennemie faible (<30 % PV), sinon inflige 100 dégâts.
-
-#### 🛡️ Passif
-Immunisé aux effets élémentaires (Brûlure, Gel, etc.). (+3 coût)
-
-<div style="clear: both;"></div>
-
-**Description:** Avatar du néant, Nihilos peut annihiler instantanément ses ennemis les plus faibles.
+<div style="clear: both; margin-bottom: 20px;"></div>
 
 ---
 ### Solaris, Champion des Cendres
 
-<img src="JeuDeCarte/Assets/img/Hero/1.png" width="150" height="auto" alt="Solaris, Champion des Cendres" style="float: left; margin-right: 20px;">
+<img src="JeuDeCarte/Assets/img/Hero/1.png" width="80" height="auto" alt="Solaris, Champion des Cendres" style="float: left; margin-right: 15px; vertical-align: middle;">
 
-**Élément:** Feu
+**Solaris, Champion des Cendres** | **Élément:** Feu | **📊 PV:** 1100 | **Attaque:** 35 | **Défense:** 22 | **Vitesse:** 0 | **Critique:** 5.0% | **Esquive:** 5.0% | **Précision:** 99.0% | **⚡ Capacité:** Inferno Purificateur (CD: 3) | **🛡️ Passif:** Alliés Feu +10 % dégâts. (+2 coût)
 
-#### 📊 Statistiques
-- **PV:** 1100
-- **Attaque:** 35
-- **Défense:** 22
-- **Vitesse:** 0
-- **Critique:** 5.0%
-- **Esquive:** 5.0%
-- **Précision:** 99.0%
-
-#### ⚡ Capacité Spéciale
-**Inferno Purificateur** (CD: 3)
-- **Description:** Inferno Purificateur : Inflige 80 dégâts à tous les ennemis + Brûlure (2 tours).
-
-#### 🛡️ Passif
-Alliés Feu +10 % dégâts. (+2 coût)
-
-<div style="clear: both;"></div>
-
-**Description:** Champion légendaire du feu, Solaris maîtrise les flammes purificatrices pour consumer ses ennemis.
+<div style="clear: both; margin-bottom: 20px;"></div>
 
 ---
 ### Telluron, Cœur de la Montagne
 
-<img src="JeuDeCarte/Assets/img/Hero/4.png" width="150" height="auto" alt="Telluron, Cœur de la Montagne" style="float: left; margin-right: 20px;">
+<img src="JeuDeCarte/Assets/img/Hero/4.png" width="80" height="auto" alt="Telluron, Cœur de la Montagne" style="float: left; margin-right: 15px; vertical-align: middle;">
 
-**Élément:** Terre
+**Telluron, Cœur de la Montagne** | **Élément:** Terre | **📊 PV:** 1300 | **Attaque:** 25 | **Défense:** 30 | **Vitesse:** 0 | **Critique:** 5.0% | **Esquive:** 5.0% | **Précision:** 99.0% | **⚡ Capacité:** Barrière Rocailleuse (CD: 3) | **🛡️ Passif:** Alliés Terre +5 DEF. (+1 coût)
 
-#### 📊 Statistiques
-- **PV:** 1300
-- **Attaque:** 25
-- **Défense:** 30
-- **Vitesse:** 0
-- **Critique:** 5.0%
-- **Esquive:** 5.0%
-- **Précision:** 99.0%
-
-#### ⚡ Capacité Spéciale
-**Barrière Rocailleuse** (CD: 3)
-- **Description:** Barrière Rocailleuse : Bouclier 150 PV à tous les alliés (2 tours).
-
-#### 🛡️ Passif
-Alliés Terre +5 DEF. (+1 coût)
-
-<div style="clear: both;"></div>
-
-**Description:** Géant de pierre, Telluron protège son équipe avec des barrières indestructibles.
+<div style="clear: both; margin-bottom: 20px;"></div>
 
 ---
 ### Toxina, Reine des Venins
 
-<img src="JeuDeCarte/Assets/img/Hero/10.png" width="150" height="auto" alt="Toxina, Reine des Venins" style="float: left; margin-right: 20px;">
+<img src="JeuDeCarte/Assets/img/Hero/10.png" width="80" height="auto" alt="Toxina, Reine des Venins" style="float: left; margin-right: 15px; vertical-align: middle;">
 
-**Élément:** Poison
+**Toxina, Reine des Venins** | **Élément:** Poison | **📊 PV:** 1100 | **Attaque:** 36 | **Défense:** 20 | **Vitesse:** 0 | **Critique:** 5.0% | **Esquive:** 5.0% | **Précision:** 99.0% | **⚡ Capacité:** Nuage Infectieux (CD: 3) | **🛡️ Passif:** Les alliés Poison appliquent un Poison plus fort (augmente les poisons de +2% dmg). (+2 coût)
 
-#### 📊 Statistiques
-- **PV:** 1100
-- **Attaque:** 36
-- **Défense:** 20
-- **Vitesse:** 0
-- **Critique:** 5.0%
-- **Esquive:** 5.0%
-- **Précision:** 99.0%
-
-#### ⚡ Capacité Spéciale
-**Nuage Infectieux** (CD: 3)
-- **Description:** Nuage Infectieux : Inflige 40 dégâts à tous les ennemis + Poison (3 tours).
-
-#### 🛡️ Passif
-Les alliés Poison appliquent un Poison plus fort (augmente les poisons de +2% dmg). (+2 coût)
-
-<div style="clear: both;"></div>
-
-**Description:** Reine des venins, Toxina empoisonne ses ennemis avec des toxines mortelles.
+<div style="clear: both; margin-bottom: 20px;"></div>
 
 ---
 ### Voltarn, Seigneur des Orages
 
-<img src="JeuDeCarte/Assets/img/Hero/6.png" width="150" height="auto" alt="Voltarn, Seigneur des Orages" style="float: left; margin-right: 20px;">
+<img src="JeuDeCarte/Assets/img/Hero/6.png" width="80" height="auto" alt="Voltarn, Seigneur des Orages" style="float: left; margin-right: 15px; vertical-align: middle;">
 
-**Élément:** Foudre
+**Voltarn, Seigneur des Orages** | **Élément:** Foudre | **📊 PV:** 1050 | **Attaque:** 41 | **Défense:** 18 | **Vitesse:** 0 | **Critique:** 5.0% | **Esquive:** 5.0% | **Précision:** 99.0% | **⚡ Capacité:** Orage Implacable (CD: 3) | **🛡️ Passif:** donne une chance à ses attaques de Paralyser (10% de chance). (+2 coût)
 
-#### 📊 Statistiques
-- **PV:** 1050
-- **Attaque:** 41
-- **Défense:** 18
-- **Vitesse:** 0
-- **Critique:** 5.0%
-- **Esquive:** 5.0%
-- **Précision:** 99.0%
-
-#### ⚡ Capacité Spéciale
-**Orage Implacable** (CD: 3)
-- **Description:** Orage Implacable : Inflige 90 dégâts aléatoires + 20 % de chance de Paralysie.
-
-#### 🛡️ Passif
-donne une chance à ses attaques de Paralyser (10% de chance). (+2 coût)
-
-<div style="clear: both;"></div>
-
-**Description:** Maître de la foudre, Voltarn frappe ses ennemis avec des éclairs dévastateurs et paralysants.
+<div style="clear: both; margin-bottom: 20px;"></div>
 
 ---
 ### Zephira, Esprit des Tempêtes
 
-<img src="JeuDeCarte/Assets/img/Hero/5.png" width="150" height="auto" alt="Zephira, Esprit des Tempêtes" style="float: left; margin-right: 20px;">
+<img src="JeuDeCarte/Assets/img/Hero/5.png" width="80" height="auto" alt="Zephira, Esprit des Tempêtes" style="float: left; margin-right: 15px; vertical-align: middle;">
 
-**Élément:** Air
+**Zephira, Esprit des Tempêtes** | **Élément:** Air | **📊 PV:** 1000 | **Attaque:** 38 | **Défense:** 20 | **Vitesse:** 0 | **Critique:** 5.0% | **Esquive:** 5.0% | **Précision:** 99.0% | **⚡ Capacité:** Danse des Rafales (CD: 3) | **🛡️ Passif:** Alliés Air +10 % esquive. (+3 coût)
 
-#### 📊 Statistiques
-- **PV:** 1000
-- **Attaque:** 38
-- **Défense:** 20
-- **Vitesse:** 0
-- **Critique:** 5.0%
-- **Esquive:** 5.0%
-- **Précision:** 99.0%
-
-#### ⚡ Capacité Spéciale
-**Danse des Rafales** (CD: 3)
-- **Description:** Danse des Rafales : Réinitialise les cooldowns des alliés (sauf Ultis).
-
-#### 🛡️ Passif
-Alliés Air +10 % esquive. (+3 coût)
-
-<div style="clear: both;"></div>
-
-**Description:** Esprit du vent, Zephira accélère le tempo de bataille en réinitialisant les capacités de ses alliés.
+<div style="clear: both; margin-bottom: 20px;"></div>
 
 ---
