@@ -119,10 +119,10 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 - **Précision:** 99.0%
 
 #### ⚡ Capacités
-- **Capacité 5758**
-  - Aucune description
-- **Capacité 5759**
-  - Aucune description
+- **Baiser Alizée**
+  - Un baiser mystérieux qui fait planer quiconque en est la cible
+- **Rapidité Aérienne**
+  - La rapidité est telle qu'on ne la voit plus
 
 <div style="clear: both;"></div>
 
@@ -145,10 +145,10 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 - **Précision:** 99.0%
 
 #### ⚡ Capacités
-- **Capacité 5762**
-  - Aucune description
-- **Capacité 5763**
-  - Aucune description
+- **3ème Oeil**
+  - La vision du futur est réservée qu'a peu d'être vivant
+- **Malédiction**
+  - Une malédiction aussi puissante que mystérieuse
 
 <div style="clear: both;"></div>
 
@@ -171,12 +171,12 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 - **Précision:** 99.0%
 
 #### ⚡ Capacités
-- **Capacité 5770**
-  - Aucune description
-- **Capacité 5771**
-  - Aucune description
-- **Capacité 5772**
-  - Aucune description
+- **Pluie de Météores**
+  - Une pluie de météores s'abats
+- **Lueur de la Voie Lactée**
+  - Une bande blanchâtre et floue dans le ciel nocturne qui compose notre galaxie
+- **Poussière d'Aurore**
+  - Un nuage iridescent entoure sa cible
 
 <div style="clear: both;"></div>
 
@@ -199,10 +199,10 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 - **Précision:** 99.0%
 
 #### ⚡ Capacités
-- **Capacité 5760**
-  - Aucune description
-- **Capacité 5761**
-  - Aucune description
+- **Avancée du Brouillard**
+  - Un brouillard apparait et s'épaiçit
+- **Orage**
+  - Un orage qui fait s'abbatre la foudre sur le champ de bataille
 
 <div style="clear: both;"></div>
 
@@ -225,10 +225,10 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 - **Précision:** 99.0%
 
 #### ⚡ Capacités
-- **Capacité 5768**
-  - Aucune description
-- **Capacité 5769**
-  - Aucune description
+- **Apparition Nébuleuse**
+  - Disparition dans la brume avant de réapparaitre pour une attaque sournoise
+- **Emprise du Brouillard**
+  - Une brume spectrale et glaciale qui s'étend silencieusement sur le champ de bataille
 
 <div style="clear: both;"></div>
 
@@ -251,10 +251,10 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 - **Précision:** 99.0%
 
 #### ⚡ Capacités
-- **Capacité 5757**
-  - Aucune description
-- **Capacité 5750**
-  - Aucune description
+- **Orbe Astrale**
+  - Formée à partir d'air, puis glacée, cette orbe est aussi véloce que mortelle
+- **Attaque basique Air**
+  - Attaque basique de Air
 
 <div style="clear: both;"></div>
 
@@ -277,10 +277,10 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 - **Précision:** 99.0%
 
 #### ⚡ Capacités
-- **Capacité 5754**
-  - Aucune description
-- **Capacité 5755**
-  - Aucune description
+- **Danse des Alizés**
+  - Une danse majestueuse et aussi gracieuse que le vent
+- **Symphonie de l'Air**
+  - Au rythme d'une danse invisible, l'air vibre et s'anime
 
 <div style="clear: both;"></div>
 
@@ -303,10 +303,10 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 - **Précision:** 99.0%
 
 #### ⚡ Capacités
-- **Capacité 5766**
-  - Aucune description
-- **Capacité 5767**
-  - Aucune description
+- **Voile Astral**
+  - Une brume d'air céleste se répand, rendant la créature presque intangible
+- **Souffle de la Nébuleuse**
+  - Dans une grande inspiration, la créature convoque l'énergie astrale de l'air
 
 <div style="clear: both;"></div>
 
@@ -329,8 +329,8 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 - **Précision:** 99.0%
 
 #### ⚡ Capacités
-- **Capacité 5756**
-  - Aucune description
+- **Tir Sylvestre**
+  - Un Tir imbibé du pouvoir de l'air
 
 <div style="clear: both;"></div>
 
@@ -353,8 +353,8 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 - **Précision:** 99.0%
 
 #### ⚡ Capacités
-- **Capacité 5750**
-  - Aucune description
+- **Attaque basique Air**
+  - Attaque basique de Air
 
 <div style="clear: both;"></div>
 
@@ -377,8 +377,8 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 - **Précision:** 99.0%
 
 #### ⚡ Capacités
-- **Capacité 5750**
-  - Aucune description
+- **Attaque basique Air**
+  - Attaque basique de Air
 
 <div style="clear: both;"></div>
 
@@ -401,8 +401,8 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 - **Précision:** 99.0%
 
 #### ⚡ Capacités
-- **Capacité 5750**
-  - Aucune description
+- **Attaque basique Air**
+  - Attaque basique de Air
 
 <div style="clear: both;"></div>
 
@@ -425,10 +425,10 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 - **Précision:** 99.0%
 
 #### ⚡ Capacités
-- **Capacité 5764**
-  - Aucune description
-- **Capacité 5765**
-  - Aucune description
+- **Égide Aérienne**
+  - Une puissante barrière de vent tourbillonnant
+- **Lames du Mistral**
+  - Invoque des courants tranchants et invisibles
 
 <div style="clear: both;"></div>
 
@@ -454,10 +454,10 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 - **Précision:** 99.0%
 
 #### ⚡ Capacités
-- **Capacité 5259**
-  - Aucune description
-- **Capacité 5260**
-  - Aucune description
+- **Voile d'Encre**
+  - Un voile d'encre magique envahit le champ de bataille obstruant la vue des ennemis
+- **Coup de Tentacule**
+  - Un coup de tentacule géant balayant une large zone
 
 <div style="clear: both;"></div>
 
@@ -480,10 +480,10 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 - **Précision:** 99.0%
 
 #### ⚡ Capacités
-- **Capacité 5256**
-  - Aucune description
-- **Capacité 5257**
-  - Aucune description
+- **Voile Aquatique**
+  - Se sert de l'eau comme d'un voile pour refléter l'environnement et s'y fondre
+- **Griffure Abyssale**
+  - Une lacération qui surgit des tréfonds
 
 <div style="clear: both;"></div>
 
@@ -506,8 +506,8 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 - **Précision:** 99.0%
 
 #### ⚡ Capacités
-- **Capacité 5261**
-  - Aucune description
+- **Mélodie Hypnotique**
+  - Une douce musique qui ensorcèle celui qui l'écoute
 
 <div style="clear: both;"></div>
 
@@ -530,8 +530,8 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 - **Précision:** 99.0%
 
 #### ⚡ Capacités
-- **Capacité 5255**
-  - Aucune description
+- **Ca coule de source**
+  - Une eau de source qui revitalise !
 
 <div style="clear: both;"></div>
 
@@ -554,8 +554,8 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 - **Précision:** 99.0%
 
 #### ⚡ Capacités
-- **Capacité 5258**
-  - Aucune description
+- **Larmes Féerique**
+  - Des larmes aux propriétées soignante
 
 <div style="clear: both;"></div>
 
@@ -578,10 +578,10 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 - **Précision:** 99.0%
 
 #### ⚡ Capacités
-- **Capacité 5262**
-  - Aucune description
-- **Capacité 5263**
-  - Aucune description
+- **Étreinte Liquide**
+  - Une main faites d'eau vient étreindre sa cible
+- **Torrent Ensorcelé**
+  - Torrent magique dévastateur
 
 <div style="clear: both;"></div>
 
@@ -604,8 +604,8 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 - **Précision:** 99.0%
 
 #### ⚡ Capacités
-- **Capacité 5250**
-  - Aucune description
+- **Attaque basique Eau**
+  - Attaque basique de Eau
 
 <div style="clear: both;"></div>
 
@@ -628,10 +628,10 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 - **Précision:** 99.0%
 
 #### ⚡ Capacités
-- **Capacité 5264**
-  - Aucune description
-- **Capacité 5265**
-  - Aucune description
+- **Soin Protecteur**
+  - Grâce au pouvoir de son bouclier combinée à sa magie, il soigne et protège une cible
+- **Coup Tranchant**
+  - Un coup d'épée runique, on dit que le porteur est revigorer à chaque attaque portée
 
 <div style="clear: both;"></div>
 
@@ -654,12 +654,12 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 - **Précision:** 99.0%
 
 #### ⚡ Capacités
-- **Capacité 5266**
-  - Aucune description
-- **Capacité 5267**
-  - Aucune description
-- **Capacité 5268**
-  - Aucune description
+- **Typhon**
+  - Un immense Typhon qui emporte tout
+- **Avalement**
+  - Avale sa cible
+- **Cri Abyssale**
+  - Un cri qui pousse quiconque qui l'entends à se surpasser de peur de devenir un encas
 
 <div style="clear: both;"></div>
 
@@ -685,10 +685,10 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 - **Précision:** 99.0%
 
 #### ⚡ Capacités
-- **Capacité 5000**
-  - Aucune description
-- **Capacité 5000**
-  - Aucune description
+- **Attaque basique Feu**
+  - Attaque basique de Feu
+- **Attaque basique Feu**
+  - Attaque basique de Feu
 
 <div style="clear: both;"></div>
 
@@ -711,10 +711,10 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 - **Précision:** 99.0%
 
 #### ⚡ Capacités
-- **Capacité 5020**
-  - Aucune description
-- **Capacité 5021**
-  - Aucune description
+- **Graine Enflammée**
+  - Lance des graines enflammées qui explosent après un certain temps
+- **Graine Explosive**
+  - Lance une graine qui explose au contact
 
 <div style="clear: both;"></div>
 
@@ -737,10 +737,10 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 - **Précision:** 99.0%
 
 #### ⚡ Capacités
-- **Capacité 5011**
-  - Aucune description
-- **Capacité 5012**
-  - Aucune description
+- **Lancer Tellurique**
+  - Lance un énorme rocher qui peut étourdir
+- **Pierre Enflammée**
+  - Lance de petite pierre enflammée
 
 <div style="clear: both;"></div>
 
@@ -763,8 +763,8 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 - **Précision:** 99.0%
 
 #### ⚡ Capacités
-- **Capacité 5000**
-  - Aucune description
+- **Attaque basique Feu**
+  - Attaque basique de Feu
 
 <div style="clear: both;"></div>
 
@@ -787,8 +787,8 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 - **Précision:** 99.0%
 
 #### ⚡ Capacités
-- **Capacité 5018**
-  - Aucune description
+- **Souffle Enflammé**
+  - Terrible souffle de flamme se déchaînant sur le champ de bataille
 
 <div style="clear: both;"></div>
 
@@ -811,8 +811,8 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 - **Précision:** 99.0%
 
 #### ⚡ Capacités
-- **Capacité 5008**
-  - Aucune description
+- **Rocher Magmatique**
+  - Lance un rocher en fusion qui explose à l'impact
 
 <div style="clear: both;"></div>
 
@@ -835,10 +835,10 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 - **Précision:** 99.0%
 
 #### ⚡ Capacités
-- **Capacité 5018**
-  - Aucune description
-- **Capacité 5019**
-  - Aucune description
+- **Souffle Enflammé**
+  - Terrible souffle de flamme se déchaînant sur le champ de bataille
+- **Tourbillon de Flamme**
+  - Absorbe la chaleur environnante avant de cracher du feu
 
 <div style="clear: both;"></div>
 
@@ -861,8 +861,8 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 - **Précision:** 99.0%
 
 #### ⚡ Capacités
-- **Capacité 5017**
-  - Aucune description
+- **Coup de Griffe Ardente**
+  - Lacère sa cible de coups de griffe rapides
 
 <div style="clear: both;"></div>
 
@@ -885,8 +885,8 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 - **Précision:** 99.0%
 
 #### ⚡ Capacités
-- **Capacité 5007**
-  - Aucune description
+- **Torrent Ardent**
+  - Vague de flammes tourbillonnantes
 
 <div style="clear: both;"></div>
 
@@ -909,10 +909,10 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 - **Précision:** 99.0%
 
 #### ⚡ Capacités
-- **Capacité 5003**
-  - Aucune description
-- **Capacité 5009**
-  - Aucune description
+- **Griffe acérée**
+  - Griffe enflammée (Attaque + 15)
+- **Coup de Langue**
+  - Sa langue s'allonge et frappe vivement sa proie
 
 <div style="clear: both;"></div>
 
@@ -935,10 +935,10 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 - **Précision:** 99.0%
 
 #### ⚡ Capacités
-- **Capacité 5013**
-  - Aucune description
-- **Capacité 5014**
-  - Aucune description
+- **Flamme Foudroyante**
+  - Sort de flamme aux propriétées électriques
+- **Décharge Incandescente**
+  - Sort électrique aussi brûlant que le feu
 
 <div style="clear: both;"></div>
 
@@ -961,8 +961,8 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 - **Précision:** 99.0%
 
 #### ⚡ Capacités
-- **Capacité 5010**
-  - Aucune description
+- **Armure Incandescente**
+  - Protège d'une cuirasse brûlante
 
 <div style="clear: both;"></div>
 
@@ -985,8 +985,8 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 - **Précision:** 99.0%
 
 #### ⚡ Capacités
-- **Capacité 5000**
-  - Aucune description
+- **Attaque basique Feu**
+  - Attaque basique de Feu
 
 <div style="clear: both;"></div>
 
@@ -1009,8 +1009,8 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 - **Précision:** 99.0%
 
 #### ⚡ Capacités
-- **Capacité 5000**
-  - Aucune description
+- **Attaque basique Feu**
+  - Attaque basique de Feu
 
 <div style="clear: both;"></div>
 
@@ -1033,10 +1033,10 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 - **Précision:** 99.0%
 
 #### ⚡ Capacités
-- **Capacité 5015**
-  - Aucune description
-- **Capacité 5016**
-  - Aucune description
+- **Ardeur de la Forge**
+  - Canalise la puissance ancestrale des forges ardentes
+- **Martelage**
+  - Le forgeron frappe de tout son poids avec son marteau
 
 <div style="clear: both;"></div>
 
@@ -1062,10 +1062,10 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 - **Précision:** 99.0%
 
 #### ⚡ Capacités
-- **Capacité 6259**
-  - Aucune description
-- **Capacité 6260**
-  - Aucune description
+- **Foudre Éclair**
+  - Canalisant l'énergie du tonnerre, elle déchaîne trois frappes rapides d'une précision surnaturelle.
+- **Coupe Foudre**
+  - Après deux Coupes Foudre, la 3ème créer une tornade d'électricité ravageant la zone.
 
 <div style="clear: both;"></div>
 
@@ -1088,8 +1088,8 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 - **Précision:** 99.0%
 
 #### ⚡ Capacités
-- **Capacité 6255**
-  - Aucune description
+- **Sphère Shock**
+  - Lance une sphère électrique instable sur un ennemi
 
 <div style="clear: both;"></div>
 
@@ -1112,8 +1112,8 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 - **Précision:** 99.0%
 
 #### ⚡ Capacités
-- **Capacité 6254**
-  - Aucune description
+- **Éclair Tranchant**
+  - Une attaque éclair fulgurante, tranche l'air et foudroie la cible
 
 <div style="clear: both;"></div>
 
@@ -1136,8 +1136,8 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 - **Précision:** 99.0%
 
 #### ⚡ Capacités
-- **Capacité 6251**
-  - Aucune description
+- **Morsure Statique**
+  - Un coup de crocs libérant une décharge électrique
 
 <div style="clear: both;"></div>
 
@@ -1160,10 +1160,10 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 - **Précision:** 99.0%
 
 #### ⚡ Capacités
-- **Capacité 6256**
-  - Aucune description
-- **Capacité 6257**
-  - Aucune description
+- **Morsure Fulgurante**
+  - Une morsure chargée d'énergie qui peut désarçonner la cible
+- **Double Frappe**
+  - Deux coups rapides en rafale
 
 <div style="clear: both;"></div>
 
@@ -1186,10 +1186,10 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 - **Précision:** 99.0%
 
 #### ⚡ Capacités
-- **Capacité 6252**
-  - Aucune description
-- **Capacité 6253**
-  - Aucune description
+- **Boule d'Énergie**
+  - Génère une sphère électrique qui éclate sur un ennemi
+- **Court-circuit**
+  - Dérègle les nerfs adverses avec une décharge aveuglante
 
 <div style="clear: both;"></div>
 
@@ -1212,8 +1212,8 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 - **Précision:** 99.0%
 
 #### ⚡ Capacités
-- **Capacité 6258**
-  - Aucune description
+- **Foudre Bondissante**
+  - Un éclair agile frappe plusieurs ennemis en sautant de l'un à l'autre
 
 <div style="clear: both;"></div>
 
@@ -1239,8 +1239,8 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 - **Précision:** 99.0%
 
 #### ⚡ Capacités
-- **Capacité 6000**
-  - Aucune description
+- **Attaque basique Glace**
+  - Attaque basique de Glace
 
 <div style="clear: both;"></div>
 
@@ -1263,8 +1263,8 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 - **Précision:** 99.0%
 
 #### ⚡ Capacités
-- **Capacité 6000**
-  - Aucune description
+- **Attaque basique Glace**
+  - Attaque basique de Glace
 
 <div style="clear: both;"></div>
 
@@ -1287,8 +1287,8 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 - **Précision:** 99.0%
 
 #### ⚡ Capacités
-- **Capacité 6000**
-  - Aucune description
+- **Attaque basique Glace**
+  - Attaque basique de Glace
 
 <div style="clear: both;"></div>
 
@@ -1311,10 +1311,10 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 - **Précision:** 99.0%
 
 #### ⚡ Capacités
-- **Capacité 6009**
-  - Aucune description
-- **Capacité 6010**
-  - Aucune description
+- **Étreinte Maternelle**
+  - Enveloppe ses alliés d'un courant de givre régénérateur
+- **Regard de Givre**
+  - Un regard glacial qui glace le sang de l'ennemi
 
 <div style="clear: both;"></div>
 
@@ -1337,8 +1337,8 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 - **Précision:** 99.0%
 
 #### ⚡ Capacités
-- **Capacité 6000**
-  - Aucune description
+- **Attaque basique Glace**
+  - Attaque basique de Glace
 
 <div style="clear: both;"></div>
 
@@ -1361,8 +1361,8 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 - **Précision:** 99.0%
 
 #### ⚡ Capacités
-- **Capacité 6013**
-  - Aucune description
+- **Frappe Boréale**
+  - Frappe inspirée du vent boréal
 
 <div style="clear: both;"></div>
 
@@ -1385,8 +1385,8 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 - **Précision:** 99.0%
 
 #### ⚡ Capacités
-- **Capacité 6000**
-  - Aucune description
+- **Attaque basique Glace**
+  - Attaque basique de Glace
 
 <div style="clear: both;"></div>
 
@@ -1409,8 +1409,8 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 - **Précision:** 99.0%
 
 #### ⚡ Capacités
-- **Capacité 6008**
-  - Aucune description
+- **Choc des Neiges**
+  - Écrase l'ennemi sous une masse de neige
 
 <div style="clear: both;"></div>
 
@@ -1433,8 +1433,8 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 - **Précision:** 99.0%
 
 #### ⚡ Capacités
-- **Capacité 6011**
-  - Aucune description
+- **Avalanche Royale**
+  - Un raz-de-marée de neige s'abat sur l'ennemi
 
 <div style="clear: both;"></div>
 
@@ -1457,8 +1457,8 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 - **Précision:** 99.0%
 
 #### ⚡ Capacités
-- **Capacité 6000**
-  - Aucune description
+- **Attaque basique Glace**
+  - Attaque basique de Glace
 
 <div style="clear: both;"></div>
 
@@ -1481,8 +1481,8 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 - **Précision:** 99.0%
 
 #### ⚡ Capacités
-- **Capacité 6012**
-  - Aucune description
+- **Charge Polaire**
+  - Un coup de défense dévastateur qui glace tout sur son passage
 
 <div style="clear: both;"></div>
 
@@ -1508,8 +1508,8 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 - **Précision:** 99.0%
 
 #### ⚡ Capacités
-- **Capacité 6501**
-  - Aucune description
+- **Rayon Purificateur**
+  - Un rayon transcendental traverse l'ombre et blesse la cible
 
 <div style="clear: both;"></div>
 
@@ -1532,8 +1532,8 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 - **Précision:** 99.0%
 
 #### ⚡ Capacités
-- **Capacité 6502**
-  - Aucune description
+- **Charge Lumineuse**
+  - Percée éclatante dévalant l'arène dans une gerbe d'étincelles dorées
 
 <div style="clear: both;"></div>
 
@@ -1556,10 +1556,10 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 - **Précision:** 99.0%
 
 #### ⚡ Capacités
-- **Capacité 6505**
-  - Aucune description
-- **Capacité 6506**
-  - Aucune description
+- **Flamboiement Radieux**
+  - Vague solaire submergeant tous les adversaires
+- **Halo Espoir**
+  - Un anneau protecteur illumine les alliés, les immunisant un tour
 
 <div style="clear: both;"></div>
 
@@ -1582,10 +1582,10 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 - **Précision:** 99.0%
 
 #### ⚡ Capacités
-- **Capacité 6503**
-  - Aucune description
-- **Capacité 6504**
-  - Aucune description
+- **Éclat Prismatique**
+  - Un rayon polychromatique brise la défense de la cible
+- **Danse Iridescente**
+  - Battements d'ailes diffusant une aura réparatrice
 
 <div style="clear: both;"></div>
 
@@ -1611,8 +1611,8 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 - **Précision:** 99.0%
 
 #### ⚡ Capacités
-- **Capacité 7253**
-  - Aucune description
+- **Jet Moussu**
+  - Projette une boule de mousse chargée de toxines volatiles
 
 <div style="clear: both;"></div>
 
@@ -1635,8 +1635,8 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 - **Précision:** 99.0%
 
 #### ⚡ Capacités
-- **Capacité 7254**
-  - Aucune description
+- **Lancer de CDN**
+  - Lance quelque chose verdâtre, jaunâtre et surtout gluante
 
 <div style="clear: both;"></div>
 
@@ -1659,10 +1659,10 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 - **Précision:** 99.0%
 
 #### ⚡ Capacités
-- **Capacité 7250**
-  - Aucune description
-- **Capacité 7258**
-  - Aucune description
+- **Attaque basique Poison**
+  - Attaque basique de Poison
+- **Poussée Toxique**
+  - Déclenche une vague de spores agressives
 
 <div style="clear: both;"></div>
 
@@ -1685,10 +1685,10 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 - **Précision:** 99.0%
 
 #### ⚡ Capacités
-- **Capacité 7255**
-  - Aucune description
-- **Capacité 7250**
-  - Aucune description
+- **Vague Nécrotique**
+  - Déferlement toxique s'étendant sur le champ de bataille
+- **Attaque basique Poison**
+  - Attaque basique de Poison
 
 <div style="clear: both;"></div>
 
@@ -1711,10 +1711,10 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 - **Précision:** 99.0%
 
 #### ⚡ Capacités
-- **Capacité 7256**
-  - Aucune description
-- **Capacité 7257**
-  - Aucune description
+- **Essence Mortelle**
+  - Synthèse ultime de toxines végétales infligées dans le sang
+- **Toxine Mortelle**
+  - Un virus mortel qui tue tout ceux qui l'inhale
 
 <div style="clear: both;"></div>
 
@@ -1737,10 +1737,10 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 - **Précision:** 99.0%
 
 #### ⚡ Capacités
-- **Capacité 7251**
-  - Aucune description
-- **Capacité 7252**
-  - Aucune description
+- **Ronce Empoisonnée**
+  - Les ronces étouffent la cible, injectant du venin
+- **Brouillard Corrosif**
+  - Libère un nuage nocif touchant tous les adversaires
 
 <div style="clear: both;"></div>
 
@@ -1766,10 +1766,10 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 - **Précision:** 99.0%
 
 #### ⚡ Capacités
-- **Capacité 5511**
-  - Aucune description
-- **Capacité 5512**
-  - Aucune description
+- **Heurtoir**
+  - Coup de Hache simple
+- **Rage Berseker**
+  - Rentre dans une rage incontrollable
 
 <div style="clear: both;"></div>
 
@@ -1792,8 +1792,8 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 - **Précision:** 99.0%
 
 #### ⚡ Capacités
-- **Capacité 5506**
-  - Aucune description
+- **Haine Naine**
+  - Un coup tout ce qu'il y a de plus basique mais donné avec HAINE
 
 <div style="clear: both;"></div>
 
@@ -1816,8 +1816,8 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 - **Précision:** 99.0%
 
 #### ⚡ Capacités
-- **Capacité 5509**
-  - Aucune description
+- **Frappe sismique**
+  - Une frappe au sol déclenchant une onde de choc qui fissure la terre et projette violemment l'ennemi pris pour cible
 
 <div style="clear: both;"></div>
 
@@ -1840,10 +1840,10 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 - **Précision:** 99.0%
 
 #### ⚡ Capacités
-- **Capacité 5516**
-  - Aucune description
-- **Capacité 5517**
-  - Aucune description
+- **Briseur de Montagne**
+  - Un coup si puissant que le vent provoqué par le coup rends inerte sa cible
+- **Fureur Tellurique**
+  - Concentre l'énergie de la Terre pour la faire exploser ensuite dans une giganteste décharge
 
 <div style="clear: both;"></div>
 
@@ -1866,8 +1866,8 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 - **Précision:** 99.0%
 
 #### ⚡ Capacités
-- **Capacité 5514**
-  - Aucune description
+- **Brise-Roc**
+  - Frappe d'un gros coup rendant sa cible désorientée
 
 <div style="clear: both;"></div>
 
@@ -1890,10 +1890,10 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 - **Précision:** 99.0%
 
 #### ⚡ Capacités
-- **Capacité 5511**
-  - Aucune description
-- **Capacité 5500**
-  - Aucune description
+- **Heurtoir**
+  - Coup de Hache simple
+- **Attaque basique Terre**
+  - Attaque basique de Terre
 
 <div style="clear: both;"></div>
 
@@ -1916,8 +1916,8 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 - **Précision:** 99.0%
 
 #### ⚡ Capacités
-- **Capacité 5500**
-  - Aucune description
+- **Attaque basique Terre**
+  - Attaque basique de Terre
 
 <div style="clear: both;"></div>
 
@@ -1940,10 +1940,10 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 - **Précision:** 99.0%
 
 #### ⚡ Capacités
-- **Capacité 5500**
-  - Aucune description
-- **Capacité 5011**
-  - Aucune description
+- **Attaque basique Terre**
+  - Attaque basique de Terre
+- **Lancer Tellurique**
+  - Lance un énorme rocher qui peut étourdir
 
 <div style="clear: both;"></div>
 
@@ -1966,10 +1966,10 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 - **Précision:** 99.0%
 
 #### ⚡ Capacités
-- **Capacité 5507**
-  - Aucune description
-- **Capacité 5508**
-  - Aucune description
+- **Piège à Pétards**
+  - Pose un piège qui explose lorsqu'un attaquant prends pour cible la personne piégée
+- **Dynamite**
+  - Lance une dynamite qui explose après un court instant
 
 <div style="clear: both;"></div>
 
@@ -1992,10 +1992,10 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 - **Précision:** 99.0%
 
 #### ⚡ Capacités
-- **Capacité 5011**
-  - Aucune description
-- **Capacité 5513**
-  - Aucune description
+- **Lancer Tellurique**
+  - Lance un énorme rocher qui peut étourdir
+- **Armure de roche**
+  - Se renforce naturellement
 
 <div style="clear: both;"></div>
 
@@ -2018,10 +2018,10 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 - **Précision:** 99.0%
 
 #### ⚡ Capacités
-- **Capacité 5514**
-  - Aucune description
-- **Capacité 5515**
-  - Aucune description
+- **Brise-Roc**
+  - Frappe d'un gros coup rendant sa cible désorientée
+- **Glissement de Terrain**
+  - Une secousse brutale fissurant la terre
 
 <div style="clear: both;"></div>
 
@@ -2044,10 +2044,10 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 - **Précision:** 99.0%
 
 #### ⚡ Capacités
-- **Capacité 5510**
-  - Aucune description
-- **Capacité 5500**
-  - Aucune description
+- **Éboulement**
+  - Provoque un lourd éboulement
+- **Attaque basique Terre**
+  - Attaque basique de Terre
 
 <div style="clear: both;"></div>
 
@@ -2073,10 +2073,10 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 - **Précision:** 99.0%
 
 #### ⚡ Capacités
-- **Capacité 6751**
-  - Aucune description
-- **Capacité 6752**
-  - Aucune description
+- **Griffes de l'Abîme**
+  - Murkax transperce sa cible avec des griffes composées d'ombres pures
+- **Voile d'Éclipsombre**
+  - Une nappe d'obscurité glacée recouvre l'ennemi, affaiblissant leur volonté
 
 <div style="clear: both;"></div>
 
