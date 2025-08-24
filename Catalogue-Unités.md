@@ -105,334 +105,119 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Aeris, Esprit du Zéphyr
 
-<img src="JeuDeCarte/Assets/img/Crea/34.png" width="150" height="auto" alt="Aeris, Esprit du Zéphyr" style="float: left; margin-right: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/34.png" width="80" height="auto" alt="Aeris, Esprit du Zéphyr" style="float: left; margin-right: 15px; vertical-align: middle;">
 
-**Élément:** Air | **Rareté:** Épique
+**Aeris, Esprit du Zéphyr** | **Élément:** Air | **Rareté:** Épique | **📊 PV:** 950 | **Attaque:** 35 | **Défense:** 12 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Baiser Alizée** | **Rapidité Aérienne**
 
-#### 📊 Statistiques
-- **PV:** 950
-- **Attaque:** 35
-- **Défense:** 12
-- **Vitesse:** 0
-- **Critique:** 3.0%
-- **Esquive:** 1.0%
-- **Précision:** 99.0%
-
-#### ⚡ Capacités
-- **Baiser Alizée**
-  - Un baiser mystérieux qui fait planer quiconque en est la cible
-- **Rapidité Aérienne**
-  - La rapidité est telle qu'on ne la voit plus
-
-<div style="clear: both;"></div>
-
-**Description:** LORE A VENIR
+<div style="clear: both; margin-bottom: 20px;"></div>
 
 ---
 ### Corvus, Corbeau Mystique
 
-<img src="JeuDeCarte/Assets/img/Crea/51.png" width="150" height="auto" alt="Corvus, Corbeau Mystique" style="float: left; margin-right: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/51.png" width="80" height="auto" alt="Corvus, Corbeau Mystique" style="float: left; margin-right: 15px; vertical-align: middle;">
 
-**Élément:** Air | **Rareté:** Épique
+**Corvus, Corbeau Mystique** | **Élément:** Air | **Rareté:** Épique | **📊 PV:** 1113 | **Attaque:** 33 | **Défense:** 21 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **3ème Oeil** | **Malédiction**
 
-#### 📊 Statistiques
-- **PV:** 1113
-- **Attaque:** 33
-- **Défense:** 21
-- **Vitesse:** 0
-- **Critique:** 3.0%
-- **Esquive:** 1.0%
-- **Précision:** 99.0%
-
-#### ⚡ Capacités
-- **3ème Oeil**
-  - La vision du futur est réservée qu'a peu d'être vivant
-- **Malédiction**
-  - Une malédiction aussi puissante que mystérieuse
-
-<div style="clear: both;"></div>
-
-**Description:** LORE A VENIR
+<div style="clear: both; margin-bottom: 20px;"></div>
 
 ---
 ### Galaxine, Voyageuse Céleste
 
-<img src="JeuDeCarte/Assets/img/Crea/21.png" width="150" height="auto" alt="Galaxine, Voyageuse Céleste" style="float: left; margin-right: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/21.png" width="80" height="auto" alt="Galaxine, Voyageuse Céleste" style="float: left; margin-right: 15px; vertical-align: middle;">
 
-**Élément:** Air | **Rareté:** Mythique
+**Galaxine, Voyageuse Céleste** | **Élément:** Air | **Rareté:** Mythique | **📊 PV:** 1100 | **Attaque:** 36 | **Défense:** 19 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Pluie de Météores** | **Lueur de la Voie Lactée** | **Poussière d'Aurore**
 
-#### 📊 Statistiques
-- **PV:** 1100
-- **Attaque:** 36
-- **Défense:** 19
-- **Vitesse:** 0
-- **Critique:** 3.0%
-- **Esquive:** 1.0%
-- **Précision:** 99.0%
-
-#### ⚡ Capacités
-- **Pluie de Météores**
-  - Une pluie de météores s'abats
-- **Lueur de la Voie Lactée**
-  - Une bande blanchâtre et floue dans le ciel nocturne qui compose notre galaxie
-- **Poussière d'Aurore**
-  - Un nuage iridescent entoure sa cible
-
-<div style="clear: both;"></div>
-
-**Description:** LORE A VENIR
+<div style="clear: both; margin-bottom: 20px;"></div>
 
 ---
 ### Nébulaire, Magicienne du Brouillard
 
-<img src="JeuDeCarte/Assets/img/Crea/49.png" width="150" height="auto" alt="Nébulaire, Magicienne du Brouillard" style="float: left; margin-right: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/49.png" width="80" height="auto" alt="Nébulaire, Magicienne du Brouillard" style="float: left; margin-right: 15px; vertical-align: middle;">
 
-**Élément:** Air | **Rareté:** Épique
+**Nébulaire, Magicienne du Brouillard** | **Élément:** Air | **Rareté:** Épique | **📊 PV:** 1010 | **Attaque:** 35 | **Défense:** 15 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Avancée du Brouillard** | **Orage**
 
-#### 📊 Statistiques
-- **PV:** 1010
-- **Attaque:** 35
-- **Défense:** 15
-- **Vitesse:** 0
-- **Critique:** 3.0%
-- **Esquive:** 1.0%
-- **Précision:** 99.0%
-
-#### ⚡ Capacités
-- **Avancée du Brouillard**
-  - Un brouillard apparait et s'épaiçit
-- **Orage**
-  - Un orage qui fait s'abbatre la foudre sur le champ de bataille
-
-<div style="clear: both;"></div>
-
-**Description:** LORE A VENIR
+<div style="clear: both; margin-bottom: 20px;"></div>
 
 ---
 ### Nébulo, Fantôme du Brouillard
 
-<img src="JeuDeCarte/Assets/img/Crea/15.png" width="150" height="auto" alt="Nébulo, Fantôme du Brouillard" style="float: left; margin-right: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/15.png" width="80" height="auto" alt="Nébulo, Fantôme du Brouillard" style="float: left; margin-right: 15px; vertical-align: middle;">
 
-**Élément:** Air | **Rareté:** Mythique
+**Nébulo, Fantôme du Brouillard** | **Élément:** Air | **Rareté:** Mythique | **📊 PV:** 1220 | **Attaque:** 25 | **Défense:** 34 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Apparition Nébuleuse** | **Emprise du Brouillard**
 
-#### 📊 Statistiques
-- **PV:** 1220
-- **Attaque:** 25
-- **Défense:** 34
-- **Vitesse:** 0
-- **Critique:** 3.0%
-- **Esquive:** 1.0%
-- **Précision:** 99.0%
-
-#### ⚡ Capacités
-- **Apparition Nébuleuse**
-  - Disparition dans la brume avant de réapparaitre pour une attaque sournoise
-- **Emprise du Brouillard**
-  - Une brume spectrale et glaciale qui s'étend silencieusement sur le champ de bataille
-
-<div style="clear: both;"></div>
-
-**Description:** LORE A VENIR
+<div style="clear: both; margin-bottom: 20px;"></div>
 
 ---
 ### Orbaline, Magicienne Astrale
 
-<img src="JeuDeCarte/Assets/img/Crea/19.png" width="150" height="auto" alt="Orbaline, Magicienne Astrale" style="float: left; margin-right: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/19.png" width="80" height="auto" alt="Orbaline, Magicienne Astrale" style="float: left; margin-right: 15px; vertical-align: middle;">
 
-**Élément:** Air | **Rareté:** Rare
+**Orbaline, Magicienne Astrale** | **Élément:** Air | **Rareté:** Rare | **📊 PV:** 870 | **Attaque:** 35 | **Défense:** 10 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Orbe Astrale** | **Attaque basique Air**
 
-#### 📊 Statistiques
-- **PV:** 870
-- **Attaque:** 35
-- **Défense:** 10
-- **Vitesse:** 0
-- **Critique:** 3.0%
-- **Esquive:** 1.0%
-- **Précision:** 99.0%
-
-#### ⚡ Capacités
-- **Orbe Astrale**
-  - Formée à partir d'air, puis glacée, cette orbe est aussi véloce que mortelle
-- **Attaque basique Air**
-  - Attaque basique de Air
-
-<div style="clear: both;"></div>
-
-**Description:** LORE A VENIR
+<div style="clear: both; margin-bottom: 20px;"></div>
 
 ---
 ### Skyla, Danseuse des Nuages
 
-<img src="JeuDeCarte/Assets/img/Crea/5.png" width="150" height="auto" alt="Skyla, Danseuse des Nuages" style="float: left; margin-right: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/5.png" width="80" height="auto" alt="Skyla, Danseuse des Nuages" style="float: left; margin-right: 15px; vertical-align: middle;">
 
-**Élément:** Air | **Rareté:** Rare
+**Skyla, Danseuse des Nuages** | **Élément:** Air | **Rareté:** Rare | **📊 PV:** 1010 | **Attaque:** 28 | **Défense:** 21 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Danse des Alizés** | **Symphonie de l'Air**
 
-#### 📊 Statistiques
-- **PV:** 1010
-- **Attaque:** 28
-- **Défense:** 21
-- **Vitesse:** 0
-- **Critique:** 3.0%
-- **Esquive:** 1.0%
-- **Précision:** 99.0%
-
-#### ⚡ Capacités
-- **Danse des Alizés**
-  - Une danse majestueuse et aussi gracieuse que le vent
-- **Symphonie de l'Air**
-  - Au rythme d'une danse invisible, l'air vibre et s'anime
-
-<div style="clear: both;"></div>
-
-**Description:** LORE A VENIR
+<div style="clear: both; margin-bottom: 20px;"></div>
 
 ---
 ### Stratos, Esprit des Courants
 
-<img src="JeuDeCarte/Assets/img/Crea/75.png" width="150" height="auto" alt="Stratos, Esprit des Courants" style="float: left; margin-right: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/75.png" width="80" height="auto" alt="Stratos, Esprit des Courants" style="float: left; margin-right: 15px; vertical-align: middle;">
 
-**Élément:** Air | **Rareté:** Épique
+**Stratos, Esprit des Courants** | **Élément:** Air | **Rareté:** Épique | **📊 PV:** 950 | **Attaque:** 42 | **Défense:** 12 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Voile Astral** | **Souffle de la Nébuleuse**
 
-#### 📊 Statistiques
-- **PV:** 950
-- **Attaque:** 42
-- **Défense:** 12
-- **Vitesse:** 0
-- **Critique:** 3.0%
-- **Esquive:** 1.0%
-- **Précision:** 99.0%
-
-#### ⚡ Capacités
-- **Voile Astral**
-  - Une brume d'air céleste se répand, rendant la créature presque intangible
-- **Souffle de la Nébuleuse**
-  - Dans une grande inspiration, la créature convoque l'énergie astrale de l'air
-
-<div style="clear: both;"></div>
-
-**Description:** LORE A VENIR
+<div style="clear: both; margin-bottom: 20px;"></div>
 
 ---
 ### Sylphar, Archer de la Canopée
 
-<img src="JeuDeCarte/Assets/img/Crea/10.png" width="150" height="auto" alt="Sylphar, Archer de la Canopée" style="float: left; margin-right: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/10.png" width="80" height="auto" alt="Sylphar, Archer de la Canopée" style="float: left; margin-right: 15px; vertical-align: middle;">
 
-**Élément:** Air | **Rareté:** Rare
+**Sylphar, Archer de la Canopée** | **Élément:** Air | **Rareté:** Rare | **📊 PV:** 960 | **Attaque:** 29 | **Défense:** 18 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Tir Sylvestre**
 
-#### 📊 Statistiques
-- **PV:** 960
-- **Attaque:** 29
-- **Défense:** 18
-- **Vitesse:** 0
-- **Critique:** 3.0%
-- **Esquive:** 1.0%
-- **Précision:** 99.0%
-
-#### ⚡ Capacités
-- **Tir Sylvestre**
-  - Un Tir imbibé du pouvoir de l'air
-
-<div style="clear: both;"></div>
-
-**Description:** LORE A VENIR
+<div style="clear: both; margin-bottom: 20px;"></div>
 
 ---
 ### Tempestra, Danseuse de la Tornade
 
-<img src="JeuDeCarte/Assets/img/Crea/27.png" width="150" height="auto" alt="Tempestra, Danseuse de la Tornade" style="float: left; margin-right: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/27.png" width="80" height="auto" alt="Tempestra, Danseuse de la Tornade" style="float: left; margin-right: 15px; vertical-align: middle;">
 
-**Élément:** Air | **Rareté:** Peu Commun
+**Tempestra, Danseuse de la Tornade** | **Élément:** Air | **Rareté:** Peu Commun | **📊 PV:** 760 | **Attaque:** 27 | **Défense:** 15 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Attaque basique Air**
 
-#### 📊 Statistiques
-- **PV:** 760
-- **Attaque:** 27
-- **Défense:** 15
-- **Vitesse:** 0
-- **Critique:** 3.0%
-- **Esquive:** 1.0%
-- **Précision:** 99.0%
-
-#### ⚡ Capacités
-- **Attaque basique Air**
-  - Attaque basique de Air
-
-<div style="clear: both;"></div>
-
-**Description:** LORE A VENIR
+<div style="clear: both; margin-bottom: 20px;"></div>
 
 ---
 ### Zepho, Génie des Courants
 
-<img src="JeuDeCarte/Assets/img/Crea/44.png" width="150" height="auto" alt="Zepho, Génie des Courants" style="float: left; margin-right: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/44.png" width="80" height="auto" alt="Zepho, Génie des Courants" style="float: left; margin-right: 15px; vertical-align: middle;">
 
-**Élément:** Air | **Rareté:** Peu Commun
+**Zepho, Génie des Courants** | **Élément:** Air | **Rareté:** Peu Commun | **📊 PV:** 865 | **Attaque:** 29 | **Défense:** 11 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Attaque basique Air**
 
-#### 📊 Statistiques
-- **PV:** 865
-- **Attaque:** 29
-- **Défense:** 11
-- **Vitesse:** 0
-- **Critique:** 3.0%
-- **Esquive:** 1.0%
-- **Précision:** 99.0%
-
-#### ⚡ Capacités
-- **Attaque basique Air**
-  - Attaque basique de Air
-
-<div style="clear: both;"></div>
-
-**Description:** LORE A VENIR
+<div style="clear: both; margin-bottom: 20px;"></div>
 
 ---
 ### Zyklair, Djinn des Rafales
 
-<img src="JeuDeCarte/Assets/img/Crea/39.png" width="150" height="auto" alt="Zyklair, Djinn des Rafales" style="float: left; margin-right: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/39.png" width="80" height="auto" alt="Zyklair, Djinn des Rafales" style="float: left; margin-right: 15px; vertical-align: middle;">
 
-**Élément:** Air | **Rareté:** Rare
+**Zyklair, Djinn des Rafales** | **Élément:** Air | **Rareté:** Rare | **📊 PV:** 940 | **Attaque:** 28 | **Défense:** 15 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Attaque basique Air**
 
-#### 📊 Statistiques
-- **PV:** 940
-- **Attaque:** 28
-- **Défense:** 15
-- **Vitesse:** 0
-- **Critique:** 3.0%
-- **Esquive:** 1.0%
-- **Précision:** 99.0%
-
-#### ⚡ Capacités
-- **Attaque basique Air**
-  - Attaque basique de Air
-
-<div style="clear: both;"></div>
-
-**Description:** LORE A VENIR
+<div style="clear: both; margin-bottom: 20px;"></div>
 
 ---
 ### Zéphara, Valkyrie des Vents
 
-<img src="JeuDeCarte/Assets/img/Crea/64.png" width="150" height="auto" alt="Zéphara, Valkyrie des Vents" style="float: left; margin-right: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/64.png" width="80" height="auto" alt="Zéphara, Valkyrie des Vents" style="float: left; margin-right: 15px; vertical-align: middle;">
 
-**Élément:** Air | **Rareté:** Épique
+**Zéphara, Valkyrie des Vents** | **Élément:** Air | **Rareté:** Épique | **📊 PV:** 980 | **Attaque:** 34 | **Défense:** 22 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Égide Aérienne** | **Lames du Mistral**
 
-#### 📊 Statistiques
-- **PV:** 980
-- **Attaque:** 34
-- **Défense:** 22
-- **Vitesse:** 0
-- **Critique:** 3.0%
-- **Esquive:** 1.0%
-- **Précision:** 99.0%
-
-#### ⚡ Capacités
-- **Égide Aérienne**
-  - Une puissante barrière de vent tourbillonnant
-- **Lames du Mistral**
-  - Invoque des courants tranchants et invisibles
-
-<div style="clear: both;"></div>
-
-**Description:** LORE A VENIR
+<div style="clear: both; margin-bottom: 20px;"></div>
 
 ---
 
@@ -440,230 +225,83 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Abyssalor, Kraken des Profondeurs
 
-<img src="JeuDeCarte/Assets/img/Crea/45.png" width="150" height="auto" alt="Abyssalor, Kraken des Profondeurs" style="float: left; margin-right: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/45.png" width="80" height="auto" alt="Abyssalor, Kraken des Profondeurs" style="float: left; margin-right: 15px; vertical-align: middle;">
 
-**Élément:** Eau | **Rareté:** Rare
+**Abyssalor, Kraken des Profondeurs** | **Élément:** Eau | **Rareté:** Rare | **📊 PV:** 1160 | **Attaque:** 30 | **Défense:** 27 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Voile d'Encre** | **Coup de Tentacule**
 
-#### 📊 Statistiques
-- **PV:** 1160
-- **Attaque:** 30
-- **Défense:** 27
-- **Vitesse:** 0
-- **Critique:** 3.0%
-- **Esquive:** 1.0%
-- **Précision:** 99.0%
-
-#### ⚡ Capacités
-- **Voile d'Encre**
-  - Un voile d'encre magique envahit le champ de bataille obstruant la vue des ennemis
-- **Coup de Tentacule**
-  - Un coup de tentacule géant balayant une large zone
-
-<div style="clear: both;"></div>
-
-**Description:** LORE A VENIR
+<div style="clear: both; margin-bottom: 20px;"></div>
 
 ---
 ### Abyssine, Félin des Profondeurs
 
-<img src="JeuDeCarte/Assets/img/Crea/57.png" width="150" height="auto" alt="Abyssine, Félin des Profondeurs" style="float: left; margin-right: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/57.png" width="80" height="auto" alt="Abyssine, Félin des Profondeurs" style="float: left; margin-right: 15px; vertical-align: middle;">
 
-**Élément:** Eau | **Rareté:** Peu Commun
+**Abyssine, Félin des Profondeurs** | **Élément:** Eau | **Rareté:** Peu Commun | **📊 PV:** 1020 | **Attaque:** 21 | **Défense:** 23 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Voile Aquatique** | **Griffure Abyssale**
 
-#### 📊 Statistiques
-- **PV:** 1020
-- **Attaque:** 21
-- **Défense:** 23
-- **Vitesse:** 0
-- **Critique:** 3.0%
-- **Esquive:** 1.0%
-- **Précision:** 99.0%
-
-#### ⚡ Capacités
-- **Voile Aquatique**
-  - Se sert de l'eau comme d'un voile pour refléter l'environnement et s'y fondre
-- **Griffure Abyssale**
-  - Une lacération qui surgit des tréfonds
-
-<div style="clear: both;"></div>
-
-**Description:** LORE A VENIR
+<div style="clear: both; margin-bottom: 20px;"></div>
 
 ---
 ### Aquaria, Sirène Mystique
 
-<img src="JeuDeCarte/Assets/img/Crea/17.png" width="150" height="auto" alt="Aquaria, Sirène Mystique" style="float: left; margin-right: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/17.png" width="80" height="auto" alt="Aquaria, Sirène Mystique" style="float: left; margin-right: 15px; vertical-align: middle;">
 
-**Élément:** Eau | **Rareté:** Épique
+**Aquaria, Sirène Mystique** | **Élément:** Eau | **Rareté:** Épique | **📊 PV:** 1029 | **Attaque:** 30 | **Défense:** 20 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Mélodie Hypnotique**
 
-#### 📊 Statistiques
-- **PV:** 1029
-- **Attaque:** 30
-- **Défense:** 20
-- **Vitesse:** 0
-- **Critique:** 3.0%
-- **Esquive:** 1.0%
-- **Précision:** 99.0%
-
-#### ⚡ Capacités
-- **Mélodie Hypnotique**
-  - Une douce musique qui ensorcèle celui qui l'écoute
-
-<div style="clear: both;"></div>
-
-**Description:** LORE A VENIR
+<div style="clear: both; margin-bottom: 20px;"></div>
 
 ---
 ### Cristaline, Ondine Pure
 
-<img src="JeuDeCarte/Assets/img/Crea/9.png" width="150" height="auto" alt="Cristaline, Ondine Pure" style="float: left; margin-right: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/9.png" width="80" height="auto" alt="Cristaline, Ondine Pure" style="float: left; margin-right: 15px; vertical-align: middle;">
 
-**Élément:** Eau | **Rareté:** Commun
+**Cristaline, Ondine Pure** | **Élément:** Eau | **Rareté:** Commun | **📊 PV:** 840 | **Attaque:** 21 | **Défense:** 11 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Ca coule de source**
 
-#### 📊 Statistiques
-- **PV:** 840
-- **Attaque:** 21
-- **Défense:** 11
-- **Vitesse:** 0
-- **Critique:** 3.0%
-- **Esquive:** 1.0%
-- **Précision:** 99.0%
-
-#### ⚡ Capacités
-- **Ca coule de source**
-  - Une eau de source qui revitalise !
-
-<div style="clear: both;"></div>
-
-**Description:** LORE A VENIR
+<div style="clear: both; margin-bottom: 20px;"></div>
 
 ---
 ### Nixie, Fée de la Source
 
-<img src="JeuDeCarte/Assets/img/Crea/29.png" width="150" height="auto" alt="Nixie, Fée de la Source" style="float: left; margin-right: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/29.png" width="80" height="auto" alt="Nixie, Fée de la Source" style="float: left; margin-right: 15px; vertical-align: middle;">
 
-**Élément:** Eau | **Rareté:** Rare
+**Nixie, Fée de la Source** | **Élément:** Eau | **Rareté:** Rare | **📊 PV:** 890 | **Attaque:** 32 | **Défense:** 12 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Larmes Féerique**
 
-#### 📊 Statistiques
-- **PV:** 890
-- **Attaque:** 32
-- **Défense:** 12
-- **Vitesse:** 0
-- **Critique:** 3.0%
-- **Esquive:** 1.0%
-- **Précision:** 99.0%
-
-#### ⚡ Capacités
-- **Larmes Féerique**
-  - Des larmes aux propriétées soignante
-
-<div style="clear: both;"></div>
-
-**Description:** LORE A VENIR
+<div style="clear: both; margin-bottom: 20px;"></div>
 
 ---
 ### Siriona, Enchanteresse des Abysses
 
-<img src="JeuDeCarte/Assets/img/Crea/23.png" width="150" height="auto" alt="Siriona, Enchanteresse des Abysses" style="float: left; margin-right: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/23.png" width="80" height="auto" alt="Siriona, Enchanteresse des Abysses" style="float: left; margin-right: 15px; vertical-align: middle;">
 
-**Élément:** Eau | **Rareté:** Épique
+**Siriona, Enchanteresse des Abysses** | **Élément:** Eau | **Rareté:** Épique | **📊 PV:** 1200 | **Attaque:** 26 | **Défense:** 34 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Étreinte Liquide** | **Torrent Ensorcelé**
 
-#### 📊 Statistiques
-- **PV:** 1200
-- **Attaque:** 26
-- **Défense:** 34
-- **Vitesse:** 0
-- **Critique:** 3.0%
-- **Esquive:** 1.0%
-- **Précision:** 99.0%
-
-#### ⚡ Capacités
-- **Étreinte Liquide**
-  - Une main faites d'eau vient étreindre sa cible
-- **Torrent Ensorcelé**
-  - Torrent magique dévastateur
-
-<div style="clear: both;"></div>
-
-**Description:** LORE A VENIR
+<div style="clear: both; margin-bottom: 20px;"></div>
 
 ---
 ### Torrentis, Gardien de l'Écume
 
-<img src="JeuDeCarte/Assets/img/Crea/32.png" width="150" height="auto" alt="Torrentis, Gardien de l'Écume" style="float: left; margin-right: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/32.png" width="80" height="auto" alt="Torrentis, Gardien de l'Écume" style="float: left; margin-right: 15px; vertical-align: middle;">
 
-**Élément:** Eau | **Rareté:** Commun
+**Torrentis, Gardien de l'Écume** | **Élément:** Eau | **Rareté:** Commun | **📊 PV:** 780 | **Attaque:** 19 | **Défense:** 19 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Attaque basique Eau**
 
-#### 📊 Statistiques
-- **PV:** 780
-- **Attaque:** 19
-- **Défense:** 19
-- **Vitesse:** 0
-- **Critique:** 3.0%
-- **Esquive:** 1.0%
-- **Précision:** 99.0%
-
-#### ⚡ Capacités
-- **Attaque basique Eau**
-  - Attaque basique de Eau
-
-<div style="clear: both;"></div>
-
-**Description:** LORE A VENIR
+<div style="clear: both; margin-bottom: 20px;"></div>
 
 ---
 ### Torrick, Gardien du Torrent
 
-<img src="JeuDeCarte/Assets/img/Crea/50.png" width="150" height="auto" alt="Torrick, Gardien du Torrent" style="float: left; margin-right: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/50.png" width="80" height="auto" alt="Torrick, Gardien du Torrent" style="float: left; margin-right: 15px; vertical-align: middle;">
 
-**Élément:** Eau | **Rareté:** Mythique
+**Torrick, Gardien du Torrent** | **Élément:** Eau | **Rareté:** Mythique | **📊 PV:** 1350 | **Attaque:** 39 | **Défense:** 24 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Soin Protecteur** | **Coup Tranchant**
 
-#### 📊 Statistiques
-- **PV:** 1350
-- **Attaque:** 39
-- **Défense:** 24
-- **Vitesse:** 0
-- **Critique:** 3.0%
-- **Esquive:** 1.0%
-- **Précision:** 99.0%
-
-#### ⚡ Capacités
-- **Soin Protecteur**
-  - Grâce au pouvoir de son bouclier combinée à sa magie, il soigne et protège une cible
-- **Coup Tranchant**
-  - Un coup d'épée runique, on dit que le porteur est revigorer à chaque attaque portée
-
-<div style="clear: both;"></div>
-
-**Description:** LORE A VENIR
+<div style="clear: both; margin-bottom: 20px;"></div>
 
 ---
 ### Typhion, Léviathan du Maelström
 
-<img src="JeuDeCarte/Assets/img/Crea/65.png" width="150" height="auto" alt="Typhion, Léviathan du Maelström" style="float: left; margin-right: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/65.png" width="80" height="auto" alt="Typhion, Léviathan du Maelström" style="float: left; margin-right: 15px; vertical-align: middle;">
 
-**Élément:** Eau | **Rareté:** Mythique
+**Typhion, Léviathan du Maelström** | **Élément:** Eau | **Rareté:** Mythique | **📊 PV:** 1111 | **Attaque:** 44 | **Défense:** 16 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Typhon** | **Avalement** | **Cri Abyssale**
 
-#### 📊 Statistiques
-- **PV:** 1111
-- **Attaque:** 44
-- **Défense:** 16
-- **Vitesse:** 0
-- **Critique:** 3.0%
-- **Esquive:** 1.0%
-- **Précision:** 99.0%
-
-#### ⚡ Capacités
-- **Typhon**
-  - Un immense Typhon qui emporte tout
-- **Avalement**
-  - Avale sa cible
-- **Cri Abyssale**
-  - Un cri qui pousse quiconque qui l'entends à se surpasser de peur de devenir un encas
-
-<div style="clear: both;"></div>
-
-**Description:** LORE A VENIR
+<div style="clear: both; margin-bottom: 20px;"></div>
 
 ---
 
@@ -671,376 +309,137 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Firocus, Renard Volcanique
 
-<img src="JeuDeCarte/Assets/img/Crea/58.png" width="150" height="auto" alt="Firocus, Renard Volcanique" style="float: left; margin-right: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/58.png" width="80" height="auto" alt="Firocus, Renard Volcanique" style="float: left; margin-right: 15px; vertical-align: middle;">
 
-**Élément:** Feu | **Rareté:** Épique
+**Firocus, Renard Volcanique** | **Élément:** Feu | **Rareté:** Épique | **📊 PV:** 872 | **Attaque:** 33 | **Défense:** 14 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Attaque basique Feu** | **Attaque basique Feu**
 
-#### 📊 Statistiques
-- **PV:** 872
-- **Attaque:** 33
-- **Défense:** 14
-- **Vitesse:** 0
-- **Critique:** 3.0%
-- **Esquive:** 1.0%
-- **Précision:** 99.0%
-
-#### ⚡ Capacités
-- **Attaque basique Feu**
-  - Attaque basique de Feu
-- **Attaque basique Feu**
-  - Attaque basique de Feu
-
-<div style="clear: both;"></div>
-
-**Description:** LORE A VENIR
+<div style="clear: both; margin-bottom: 20px;"></div>
 
 ---
 ### Flamby, Lutin des Flammes
 
-<img src="JeuDeCarte/Assets/img/Crea/68.png" width="150" height="auto" alt="Flamby, Lutin des Flammes" style="float: left; margin-right: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/68.png" width="80" height="auto" alt="Flamby, Lutin des Flammes" style="float: left; margin-right: 15px; vertical-align: middle;">
 
-**Élément:** Feu | **Rareté:** Spécial
+**Flamby, Lutin des Flammes** | **Élément:** Feu | **Rareté:** Spécial | **📊 PV:** 710 | **Attaque:** 17 | **Défense:** 8 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Graine Enflammée** | **Graine Explosive**
 
-#### 📊 Statistiques
-- **PV:** 710
-- **Attaque:** 17
-- **Défense:** 8
-- **Vitesse:** 0
-- **Critique:** 3.0%
-- **Esquive:** 1.0%
-- **Précision:** 99.0%
-
-#### ⚡ Capacités
-- **Graine Enflammée**
-  - Lance des graines enflammées qui explosent après un certain temps
-- **Graine Explosive**
-  - Lance une graine qui explose au contact
-
-<div style="clear: both;"></div>
-
-**Description:** LORE A VENIR
+<div style="clear: both; margin-bottom: 20px;"></div>
 
 ---
 ### Ignarok, Roc en Fusion
 
-<img src="JeuDeCarte/Assets/img/Crea/62.png" width="150" height="auto" alt="Ignarok, Roc en Fusion" style="float: left; margin-right: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/62.png" width="80" height="auto" alt="Ignarok, Roc en Fusion" style="float: left; margin-right: 15px; vertical-align: middle;">
 
-**Élément:** Feu | **Rareté:** Rare
+**Ignarok, Roc en Fusion** | **Élément:** Feu | **Rareté:** Rare | **📊 PV:** 870 | **Attaque:** 28 | **Défense:** 16 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Lancer Tellurique** | **Pierre Enflammée**
 
-#### 📊 Statistiques
-- **PV:** 870
-- **Attaque:** 28
-- **Défense:** 16
-- **Vitesse:** 0
-- **Critique:** 3.0%
-- **Esquive:** 1.0%
-- **Précision:** 99.0%
-
-#### ⚡ Capacités
-- **Lancer Tellurique**
-  - Lance un énorme rocher qui peut étourdir
-- **Pierre Enflammée**
-  - Lance de petite pierre enflammée
-
-<div style="clear: both;"></div>
-
-**Description:** LORE A VENIR
+<div style="clear: both; margin-bottom: 20px;"></div>
 
 ---
 ### Ignissia, Sorcière des Brasiers
 
-<img src="JeuDeCarte/Assets/img/Crea/31.png" width="150" height="auto" alt="Ignissia, Sorcière des Brasiers" style="float: left; margin-right: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/31.png" width="80" height="auto" alt="Ignissia, Sorcière des Brasiers" style="float: left; margin-right: 15px; vertical-align: middle;">
 
-**Élément:** Feu | **Rareté:** Commun
+**Ignissia, Sorcière des Brasiers** | **Élément:** Feu | **Rareté:** Commun | **📊 PV:** 850 | **Attaque:** 23 | **Défense:** 15 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Attaque basique Feu**
 
-#### 📊 Statistiques
-- **PV:** 850
-- **Attaque:** 23
-- **Défense:** 15
-- **Vitesse:** 0
-- **Critique:** 3.0%
-- **Esquive:** 1.0%
-- **Précision:** 99.0%
-
-#### ⚡ Capacités
-- **Attaque basique Feu**
-  - Attaque basique de Feu
-
-<div style="clear: both;"></div>
-
-**Description:** LORE A VENIR
+<div style="clear: both; margin-bottom: 20px;"></div>
 
 ---
 ### Incendior, Dragon de Feu
 
-<img src="JeuDeCarte/Assets/img/Crea/48.png" width="150" height="auto" alt="Incendior, Dragon de Feu" style="float: left; margin-right: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/48.png" width="80" height="auto" alt="Incendior, Dragon de Feu" style="float: left; margin-right: 15px; vertical-align: middle;">
 
-**Élément:** Feu | **Rareté:** Rare
+**Incendior, Dragon de Feu** | **Élément:** Feu | **Rareté:** Rare | **📊 PV:** 940 | **Attaque:** 27 | **Défense:** 18 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Souffle Enflammé**
 
-#### 📊 Statistiques
-- **PV:** 940
-- **Attaque:** 27
-- **Défense:** 18
-- **Vitesse:** 0
-- **Critique:** 3.0%
-- **Esquive:** 1.0%
-- **Précision:** 99.0%
-
-#### ⚡ Capacités
-- **Souffle Enflammé**
-  - Terrible souffle de flamme se déchaînant sur le champ de bataille
-
-<div style="clear: both;"></div>
-
-**Description:** LORE A VENIR
+<div style="clear: both; margin-bottom: 20px;"></div>
 
 ---
 ### Pyraxis, Élémentaire de Magma
 
-<img src="JeuDeCarte/Assets/img/Crea/54.png" width="150" height="auto" alt="Pyraxis, Élémentaire de Magma" style="float: left; margin-right: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/54.png" width="80" height="auto" alt="Pyraxis, Élémentaire de Magma" style="float: left; margin-right: 15px; vertical-align: middle;">
 
-**Élément:** Feu | **Rareté:** Peu Commun
+**Pyraxis, Élémentaire de Magma** | **Élément:** Feu | **Rareté:** Peu Commun | **📊 PV:** 780 | **Attaque:** 25 | **Défense:** 13 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Rocher Magmatique**
 
-#### 📊 Statistiques
-- **PV:** 780
-- **Attaque:** 25
-- **Défense:** 13
-- **Vitesse:** 0
-- **Critique:** 3.0%
-- **Esquive:** 1.0%
-- **Précision:** 99.0%
-
-#### ⚡ Capacités
-- **Rocher Magmatique**
-  - Lance un rocher en fusion qui explose à l'impact
-
-<div style="clear: both;"></div>
-
-**Description:** LORE A VENIR
+<div style="clear: both; margin-bottom: 20px;"></div>
 
 ---
 ### Pyrodrake, Dragon de Braise
 
-<img src="JeuDeCarte/Assets/img/Crea/1.png" width="150" height="auto" alt="Pyrodrake, Dragon de Braise" style="float: left; margin-right: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/1.png" width="80" height="auto" alt="Pyrodrake, Dragon de Braise" style="float: left; margin-right: 15px; vertical-align: middle;">
 
-**Élément:** Feu | **Rareté:** Mythique
+**Pyrodrake, Dragon de Braise** | **Élément:** Feu | **Rareté:** Mythique | **📊 PV:** 1200 | **Attaque:** 35 | **Défense:** 22 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Souffle Enflammé** | **Tourbillon de Flamme**
 
-#### 📊 Statistiques
-- **PV:** 1200
-- **Attaque:** 35
-- **Défense:** 22
-- **Vitesse:** 0
-- **Critique:** 3.0%
-- **Esquive:** 1.0%
-- **Précision:** 99.0%
-
-#### ⚡ Capacités
-- **Souffle Enflammé**
-  - Terrible souffle de flamme se déchaînant sur le champ de bataille
-- **Tourbillon de Flamme**
-  - Absorbe la chaleur environnante avant de cracher du feu
-
-<div style="clear: both;"></div>
-
-**Description:** LORE A VENIR
+<div style="clear: both; margin-bottom: 20px;"></div>
 
 ---
 ### Pyrolynx, Lynx Ardent
 
-<img src="JeuDeCarte/Assets/img/Crea/72.png" width="150" height="auto" alt="Pyrolynx, Lynx Ardent" style="float: left; margin-right: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/72.png" width="80" height="auto" alt="Pyrolynx, Lynx Ardent" style="float: left; margin-right: 15px; vertical-align: middle;">
 
-**Élément:** Feu | **Rareté:** Épique
+**Pyrolynx, Lynx Ardent** | **Élément:** Feu | **Rareté:** Épique | **📊 PV:** 870 | **Attaque:** 35 | **Défense:** 17 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Coup de Griffe Ardente**
 
-#### 📊 Statistiques
-- **PV:** 870
-- **Attaque:** 35
-- **Défense:** 17
-- **Vitesse:** 0
-- **Critique:** 3.0%
-- **Esquive:** 1.0%
-- **Précision:** 99.0%
-
-#### ⚡ Capacités
-- **Coup de Griffe Ardente**
-  - Lacère sa cible de coups de griffe rapides
-
-<div style="clear: both;"></div>
-
-**Description:** LORE A VENIR
+<div style="clear: both; margin-bottom: 20px;"></div>
 
 ---
 ### Pyropoulpe, Poulpe Incandescent
 
-<img src="JeuDeCarte/Assets/img/Crea/20.png" width="150" height="auto" alt="Pyropoulpe, Poulpe Incandescent" style="float: left; margin-right: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/20.png" width="80" height="auto" alt="Pyropoulpe, Poulpe Incandescent" style="float: left; margin-right: 15px; vertical-align: middle;">
 
-**Élément:** Feu | **Rareté:** Peu Commun
+**Pyropoulpe, Poulpe Incandescent** | **Élément:** Feu | **Rareté:** Peu Commun | **📊 PV:** 995 | **Attaque:** 30 | **Défense:** 18 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Torrent Ardent**
 
-#### 📊 Statistiques
-- **PV:** 995
-- **Attaque:** 30
-- **Défense:** 18
-- **Vitesse:** 0
-- **Critique:** 3.0%
-- **Esquive:** 1.0%
-- **Précision:** 99.0%
-
-#### ⚡ Capacités
-- **Torrent Ardent**
-  - Vague de flammes tourbillonnantes
-
-<div style="clear: both;"></div>
-
-**Description:** LORE A VENIR
+<div style="clear: both; margin-bottom: 20px;"></div>
 
 ---
 ### Rubra, Salamandre Incandescente
 
-<img src="JeuDeCarte/Assets/img/Crea/42.png" width="150" height="auto" alt="Rubra, Salamandre Incandescente" style="float: left; margin-right: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/42.png" width="80" height="auto" alt="Rubra, Salamandre Incandescente" style="float: left; margin-right: 15px; vertical-align: middle;">
 
-**Élément:** Feu | **Rareté:** Peu Commun
+**Rubra, Salamandre Incandescente** | **Élément:** Feu | **Rareté:** Peu Commun | **📊 PV:** 780 | **Attaque:** 21 | **Défense:** 12 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Griffe acérée** | **Coup de Langue**
 
-#### 📊 Statistiques
-- **PV:** 780
-- **Attaque:** 21
-- **Défense:** 12
-- **Vitesse:** 0
-- **Critique:** 3.0%
-- **Esquive:** 1.0%
-- **Précision:** 99.0%
-
-#### ⚡ Capacités
-- **Griffe acérée**
-  - Griffe enflammée (Attaque + 15)
-- **Coup de Langue**
-  - Sa langue s'allonge et frappe vivement sa proie
-
-<div style="clear: both;"></div>
-
-**Description:** LORE A VENIR
+<div style="clear: both; margin-bottom: 20px;"></div>
 
 ---
 ### Salamandra, Magicienne Incandescente
 
-<img src="JeuDeCarte/Assets/img/Crea/2.png" width="150" height="auto" alt="Salamandra, Magicienne Incandescente" style="float: left; margin-right: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/2.png" width="80" height="auto" alt="Salamandra, Magicienne Incandescente" style="float: left; margin-right: 15px; vertical-align: middle;">
 
-**Élément:** Feu | **Rareté:** Épique
+**Salamandra, Magicienne Incandescente** | **Élément:** Feu | **Rareté:** Épique | **📊 PV:** 950 | **Attaque:** 30 | **Défense:** 16 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Flamme Foudroyante** | **Décharge Incandescente**
 
-#### 📊 Statistiques
-- **PV:** 950
-- **Attaque:** 30
-- **Défense:** 16
-- **Vitesse:** 0
-- **Critique:** 3.0%
-- **Esquive:** 1.0%
-- **Précision:** 99.0%
-
-#### ⚡ Capacités
-- **Flamme Foudroyante**
-  - Sort de flamme aux propriétées électriques
-- **Décharge Incandescente**
-  - Sort électrique aussi brûlant que le feu
-
-<div style="clear: both;"></div>
-
-**Description:** LORE A VENIR
+<div style="clear: both; margin-bottom: 20px;"></div>
 
 ---
 ### Solaris, Paladin du Soleil
 
-<img src="JeuDeCarte/Assets/img/Crea/26.png" width="150" height="auto" alt="Solaris, Paladin du Soleil" style="float: left; margin-right: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/26.png" width="80" height="auto" alt="Solaris, Paladin du Soleil" style="float: left; margin-right: 15px; vertical-align: middle;">
 
-**Élément:** Feu | **Rareté:** Rare
+**Solaris, Paladin du Soleil** | **Élément:** Feu | **Rareté:** Rare | **📊 PV:** 940 | **Attaque:** 32 | **Défense:** 13 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Armure Incandescente**
 
-#### 📊 Statistiques
-- **PV:** 940
-- **Attaque:** 32
-- **Défense:** 13
-- **Vitesse:** 0
-- **Critique:** 3.0%
-- **Esquive:** 1.0%
-- **Précision:** 99.0%
-
-#### ⚡ Capacités
-- **Armure Incandescente**
-  - Protège d'une cuirasse brûlante
-
-<div style="clear: both;"></div>
-
-**Description:** LORE A VENIR
+<div style="clear: both; margin-bottom: 20px;"></div>
 
 ---
 ### Solune, Chamane Solaire
 
-<img src="JeuDeCarte/Assets/img/Crea/52.png" width="150" height="auto" alt="Solune, Chamane Solaire" style="float: left; margin-right: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/52.png" width="80" height="auto" alt="Solune, Chamane Solaire" style="float: left; margin-right: 15px; vertical-align: middle;">
 
-**Élément:** Feu | **Rareté:** Peu Commun
+**Solune, Chamane Solaire** | **Élément:** Feu | **Rareté:** Peu Commun | **📊 PV:** 850 | **Attaque:** 23 | **Défense:** 14 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Attaque basique Feu**
 
-#### 📊 Statistiques
-- **PV:** 850
-- **Attaque:** 23
-- **Défense:** 14
-- **Vitesse:** 0
-- **Critique:** 3.0%
-- **Esquive:** 1.0%
-- **Précision:** 99.0%
-
-#### ⚡ Capacités
-- **Attaque basique Feu**
-  - Attaque basique de Feu
-
-<div style="clear: both;"></div>
-
-**Description:** LORE A VENIR
+<div style="clear: both; margin-bottom: 20px;"></div>
 
 ---
 ### Venturio, Chevalier Écarlate
 
-<img src="JeuDeCarte/Assets/img/Crea/38.png" width="150" height="auto" alt="Venturio, Chevalier Écarlate" style="float: left; margin-right: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/38.png" width="80" height="auto" alt="Venturio, Chevalier Écarlate" style="float: left; margin-right: 15px; vertical-align: middle;">
 
-**Élément:** Feu | **Rareté:** Rare
+**Venturio, Chevalier Écarlate** | **Élément:** Feu | **Rareté:** Rare | **📊 PV:** 900 | **Attaque:** 28 | **Défense:** 14 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Attaque basique Feu**
 
-#### 📊 Statistiques
-- **PV:** 900
-- **Attaque:** 28
-- **Défense:** 14
-- **Vitesse:** 0
-- **Critique:** 3.0%
-- **Esquive:** 1.0%
-- **Précision:** 99.0%
-
-#### ⚡ Capacités
-- **Attaque basique Feu**
-  - Attaque basique de Feu
-
-<div style="clear: both;"></div>
-
-**Description:** LORE A VENIR
+<div style="clear: both; margin-bottom: 20px;"></div>
 
 ---
 ### Vulcan, Forgeron de l'Enclume Ardente
 
-<img src="JeuDeCarte/Assets/img/Crea/11.png" width="150" height="auto" alt="Vulcan, Forgeron de l'Enclume Ardente" style="float: left; margin-right: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/11.png" width="80" height="auto" alt="Vulcan, Forgeron de l'Enclume Ardente" style="float: left; margin-right: 15px; vertical-align: middle;">
 
-**Élément:** Feu | **Rareté:** Épique
+**Vulcan, Forgeron de l'Enclume Ardente** | **Élément:** Feu | **Rareté:** Épique | **📊 PV:** 940 | **Attaque:** 32 | **Défense:** 15 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Ardeur de la Forge** | **Martelage**
 
-#### 📊 Statistiques
-- **PV:** 940
-- **Attaque:** 32
-- **Défense:** 15
-- **Vitesse:** 0
-- **Critique:** 3.0%
-- **Esquive:** 1.0%
-- **Précision:** 99.0%
-
-#### ⚡ Capacités
-- **Ardeur de la Forge**
-  - Canalise la puissance ancestrale des forges ardentes
-- **Martelage**
-  - Le forgeron frappe de tout son poids avec son marteau
-
-<div style="clear: both;"></div>
-
-**Description:** LORE A VENIR
+<div style="clear: both; margin-bottom: 20px;"></div>
 
 ---
 
@@ -1048,176 +447,65 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Alice, la Lame Sanglante
 
-<img src="JeuDeCarte/Assets/img/Crea/78.png" width="150" height="auto" alt="Alice, la Lame Sanglante" style="float: left; margin-right: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/78.png" width="80" height="auto" alt="Alice, la Lame Sanglante" style="float: left; margin-right: 15px; vertical-align: middle;">
 
-**Élément:** Foudre | **Rareté:** Épique
+**Alice, la Lame Sanglante** | **Élément:** Foudre | **Rareté:** Épique | **📊 PV:** 1100 | **Attaque:** 28 | **Défense:** 11 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Foudre Éclair** | **Coupe Foudre**
 
-#### 📊 Statistiques
-- **PV:** 1100
-- **Attaque:** 28
-- **Défense:** 11
-- **Vitesse:** 0
-- **Critique:** 3.0%
-- **Esquive:** 1.0%
-- **Précision:** 99.0%
-
-#### ⚡ Capacités
-- **Foudre Éclair**
-  - Canalisant l'énergie du tonnerre, elle déchaîne trois frappes rapides d'une précision surnaturelle.
-- **Coupe Foudre**
-  - Après deux Coupes Foudre, la 3ème créer une tornade d'électricité ravageant la zone.
-
-<div style="clear: both;"></div>
-
-**Description:** LORE A VENIR
+<div style="clear: both; margin-bottom: 20px;"></div>
 
 ---
 ### Fulgo, Orbe Electrique
 
-<img src="JeuDeCarte/Assets/img/Crea/46.png" width="150" height="auto" alt="Fulgo, Orbe Electrique" style="float: left; margin-right: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/46.png" width="80" height="auto" alt="Fulgo, Orbe Electrique" style="float: left; margin-right: 15px; vertical-align: middle;">
 
-**Élément:** Foudre | **Rareté:** Rare
+**Fulgo, Orbe Electrique** | **Élément:** Foudre | **Rareté:** Rare | **📊 PV:** 830 | **Attaque:** 28 | **Défense:** 13 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Sphère Shock**
 
-#### 📊 Statistiques
-- **PV:** 830
-- **Attaque:** 28
-- **Défense:** 13
-- **Vitesse:** 0
-- **Critique:** 3.0%
-- **Esquive:** 1.0%
-- **Précision:** 99.0%
-
-#### ⚡ Capacités
-- **Sphère Shock**
-  - Lance une sphère électrique instable sur un ennemi
-
-<div style="clear: both;"></div>
-
-**Description:** LORE A VENIR
+<div style="clear: both; margin-bottom: 20px;"></div>
 
 ---
 ### Fulminia, Valkyrie de l'Orage
 
-<img src="JeuDeCarte/Assets/img/Crea/36.png" width="150" height="auto" alt="Fulminia, Valkyrie de l'Orage" style="float: left; margin-right: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/36.png" width="80" height="auto" alt="Fulminia, Valkyrie de l'Orage" style="float: left; margin-right: 15px; vertical-align: middle;">
 
-**Élément:** Foudre | **Rareté:** Rare
+**Fulminia, Valkyrie de l'Orage** | **Élément:** Foudre | **Rareté:** Rare | **📊 PV:** 940 | **Attaque:** 29 | **Défense:** 17 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Éclair Tranchant**
 
-#### 📊 Statistiques
-- **PV:** 940
-- **Attaque:** 29
-- **Défense:** 17
-- **Vitesse:** 0
-- **Critique:** 3.0%
-- **Esquive:** 1.0%
-- **Précision:** 99.0%
-
-#### ⚡ Capacités
-- **Éclair Tranchant**
-  - Une attaque éclair fulgurante, tranche l'air et foudroie la cible
-
-<div style="clear: both;"></div>
-
-**Description:** LORE A VENIR
+<div style="clear: both; margin-bottom: 20px;"></div>
 
 ---
 ### Stormy, Enfant de la Foudre
 
-<img src="JeuDeCarte/Assets/img/Crea/8.png" width="150" height="auto" alt="Stormy, Enfant de la Foudre" style="float: left; margin-right: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/8.png" width="80" height="auto" alt="Stormy, Enfant de la Foudre" style="float: left; margin-right: 15px; vertical-align: middle;">
 
-**Élément:** Foudre | **Rareté:** Peu Commun
+**Stormy, Enfant de la Foudre** | **Élément:** Foudre | **Rareté:** Peu Commun | **📊 PV:** 825 | **Attaque:** 24 | **Défense:** 16 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Morsure Statique**
 
-#### 📊 Statistiques
-- **PV:** 825
-- **Attaque:** 24
-- **Défense:** 16
-- **Vitesse:** 0
-- **Critique:** 3.0%
-- **Esquive:** 1.0%
-- **Précision:** 99.0%
-
-#### ⚡ Capacités
-- **Morsure Statique**
-  - Un coup de crocs libérant une décharge électrique
-
-<div style="clear: both;"></div>
-
-**Description:** LORE A VENIR
+<div style="clear: both; margin-bottom: 20px;"></div>
 
 ---
 ### Voltania, Serpent Fulgurant
 
-<img src="JeuDeCarte/Assets/img/Crea/56.png" width="150" height="auto" alt="Voltania, Serpent Fulgurant" style="float: left; margin-right: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/56.png" width="80" height="auto" alt="Voltania, Serpent Fulgurant" style="float: left; margin-right: 15px; vertical-align: middle;">
 
-**Élément:** Foudre | **Rareté:** Rare
+**Voltania, Serpent Fulgurant** | **Élément:** Foudre | **Rareté:** Rare | **📊 PV:** 950 | **Attaque:** 25 | **Défense:** 16 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Morsure Fulgurante** | **Double Frappe**
 
-#### 📊 Statistiques
-- **PV:** 950
-- **Attaque:** 25
-- **Défense:** 16
-- **Vitesse:** 0
-- **Critique:** 3.0%
-- **Esquive:** 1.0%
-- **Précision:** 99.0%
-
-#### ⚡ Capacités
-- **Morsure Fulgurante**
-  - Une morsure chargée d'énergie qui peut désarçonner la cible
-- **Double Frappe**
-  - Deux coups rapides en rafale
-
-<div style="clear: both;"></div>
-
-**Description:** LORE A VENIR
+<div style="clear: both; margin-bottom: 20px;"></div>
 
 ---
 ### Voltar, Seigneur de l'Orage
 
-<img src="JeuDeCarte/Assets/img/Crea/13.png" width="150" height="auto" alt="Voltar, Seigneur de l'Orage" style="float: left; margin-right: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/13.png" width="80" height="auto" alt="Voltar, Seigneur de l'Orage" style="float: left; margin-right: 15px; vertical-align: middle;">
 
-**Élément:** Foudre | **Rareté:** Rare
+**Voltar, Seigneur de l'Orage** | **Élément:** Foudre | **Rareté:** Rare | **📊 PV:** 1080 | **Attaque:** 28 | **Défense:** 18 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Boule d'Énergie** | **Court-circuit**
 
-#### 📊 Statistiques
-- **PV:** 1080
-- **Attaque:** 28
-- **Défense:** 18
-- **Vitesse:** 0
-- **Critique:** 3.0%
-- **Esquive:** 1.0%
-- **Précision:** 99.0%
-
-#### ⚡ Capacités
-- **Boule d'Énergie**
-  - Génère une sphère électrique qui éclate sur un ennemi
-- **Court-circuit**
-  - Dérègle les nerfs adverses avec une décharge aveuglante
-
-<div style="clear: both;"></div>
-
-**Description:** LORE A VENIR
+<div style="clear: both; margin-bottom: 20px;"></div>
 
 ---
 ### Voltix, Lutin Électrique
 
-<img src="JeuDeCarte/Assets/img/Crea/24.png" width="150" height="auto" alt="Voltix, Lutin Électrique" style="float: left; margin-right: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/24.png" width="80" height="auto" alt="Voltix, Lutin Électrique" style="float: left; margin-right: 15px; vertical-align: middle;">
 
-**Élément:** Foudre | **Rareté:** Épique
+**Voltix, Lutin Électrique** | **Élément:** Foudre | **Rareté:** Épique | **📊 PV:** 935 | **Attaque:** 30 | **Défense:** 14 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Foudre Bondissante**
 
-#### 📊 Statistiques
-- **PV:** 935
-- **Attaque:** 30
-- **Défense:** 14
-- **Vitesse:** 0
-- **Critique:** 3.0%
-- **Esquive:** 1.0%
-- **Précision:** 99.0%
-
-#### ⚡ Capacités
-- **Foudre Bondissante**
-  - Un éclair agile frappe plusieurs ennemis en sautant de l'un à l'autre
-
-<div style="clear: both;"></div>
-
-**Description:** LORE A VENIR
+<div style="clear: both; margin-bottom: 20px;"></div>
 
 ---
 
@@ -1225,268 +513,101 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Brumys, Fantôme du Givre
 
-<img src="JeuDeCarte/Assets/img/Crea/59.png" width="150" height="auto" alt="Brumys, Fantôme du Givre" style="float: left; margin-right: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/59.png" width="80" height="auto" alt="Brumys, Fantôme du Givre" style="float: left; margin-right: 15px; vertical-align: middle;">
 
-**Élément:** Glace | **Rareté:** Rare
+**Brumys, Fantôme du Givre** | **Élément:** Glace | **Rareté:** Rare | **📊 PV:** 980 | **Attaque:** 29 | **Défense:** 19 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Attaque basique Glace**
 
-#### 📊 Statistiques
-- **PV:** 980
-- **Attaque:** 29
-- **Défense:** 19
-- **Vitesse:** 0
-- **Critique:** 3.0%
-- **Esquive:** 1.0%
-- **Précision:** 99.0%
-
-#### ⚡ Capacités
-- **Attaque basique Glace**
-  - Attaque basique de Glace
-
-<div style="clear: both;"></div>
-
-**Description:** LORE A VENIR
+<div style="clear: both; margin-bottom: 20px;"></div>
 
 ---
 ### Cryomage, Mage du Givre
 
-<img src="JeuDeCarte/Assets/img/Crea/41.png" width="150" height="auto" alt="Cryomage, Mage du Givre" style="float: left; margin-right: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/41.png" width="80" height="auto" alt="Cryomage, Mage du Givre" style="float: left; margin-right: 15px; vertical-align: middle;">
 
-**Élément:** Glace | **Rareté:** Rare
+**Cryomage, Mage du Givre** | **Élément:** Glace | **Rareté:** Rare | **📊 PV:** 1290 | **Attaque:** 24 | **Défense:** 36 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Attaque basique Glace**
 
-#### 📊 Statistiques
-- **PV:** 1290
-- **Attaque:** 24
-- **Défense:** 36
-- **Vitesse:** 0
-- **Critique:** 3.0%
-- **Esquive:** 1.0%
-- **Précision:** 99.0%
-
-#### ⚡ Capacités
-- **Attaque basique Glace**
-  - Attaque basique de Glace
-
-<div style="clear: both;"></div>
-
-**Description:** LORE A VENIR
+<div style="clear: both; margin-bottom: 20px;"></div>
 
 ---
 ### Frimousse, Esprit Givré
 
-<img src="JeuDeCarte/Assets/img/Crea/4.png" width="150" height="auto" alt="Frimousse, Esprit Givré" style="float: left; margin-right: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/4.png" width="80" height="auto" alt="Frimousse, Esprit Givré" style="float: left; margin-right: 15px; vertical-align: middle;">
 
-**Élément:** Glace | **Rareté:** Commun
+**Frimousse, Esprit Givré** | **Élément:** Glace | **Rareté:** Commun | **📊 PV:** 780 | **Attaque:** 23 | **Défense:** 13 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Attaque basique Glace**
 
-#### 📊 Statistiques
-- **PV:** 780
-- **Attaque:** 23
-- **Défense:** 13
-- **Vitesse:** 0
-- **Critique:** 3.0%
-- **Esquive:** 1.0%
-- **Précision:** 99.0%
-
-#### ⚡ Capacités
-- **Attaque basique Glace**
-  - Attaque basique de Glace
-
-<div style="clear: both;"></div>
-
-**Description:** LORE A VENIR
+<div style="clear: both; margin-bottom: 20px;"></div>
 
 ---
 ### Galádra, Matriarche du Givre
 
-<img src="JeuDeCarte/Assets/img/Crea/71.png" width="150" height="auto" alt="Galádra, Matriarche du Givre" style="float: left; margin-right: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/71.png" width="80" height="auto" alt="Galádra, Matriarche du Givre" style="float: left; margin-right: 15px; vertical-align: middle;">
 
-**Élément:** Glace | **Rareté:** Rare
+**Galádra, Matriarche du Givre** | **Élément:** Glace | **Rareté:** Rare | **📊 PV:** 1040 | **Attaque:** 29 | **Défense:** 19 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Étreinte Maternelle** | **Regard de Givre**
 
-#### 📊 Statistiques
-- **PV:** 1040
-- **Attaque:** 29
-- **Défense:** 19
-- **Vitesse:** 0
-- **Critique:** 3.0%
-- **Esquive:** 1.0%
-- **Précision:** 99.0%
-
-#### ⚡ Capacités
-- **Étreinte Maternelle**
-  - Enveloppe ses alliés d'un courant de givre régénérateur
-- **Regard de Givre**
-  - Un regard glacial qui glace le sang de l'ennemi
-
-<div style="clear: both;"></div>
-
-**Description:** LORE A VENIR
+<div style="clear: both; margin-bottom: 20px;"></div>
 
 ---
 ### Gelgor, Troll du Givre
 
-<img src="JeuDeCarte/Assets/img/Crea/37.png" width="150" height="auto" alt="Gelgor, Troll du Givre" style="float: left; margin-right: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/37.png" width="80" height="auto" alt="Gelgor, Troll du Givre" style="float: left; margin-right: 15px; vertical-align: middle;">
 
-**Élément:** Glace | **Rareté:** Rare
+**Gelgor, Troll du Givre** | **Élément:** Glace | **Rareté:** Rare | **📊 PV:** 1040 | **Attaque:** 32 | **Défense:** 19 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Attaque basique Glace**
 
-#### 📊 Statistiques
-- **PV:** 1040
-- **Attaque:** 32
-- **Défense:** 19
-- **Vitesse:** 0
-- **Critique:** 3.0%
-- **Esquive:** 1.0%
-- **Précision:** 99.0%
-
-#### ⚡ Capacités
-- **Attaque basique Glace**
-  - Attaque basique de Glace
-
-<div style="clear: both;"></div>
-
-**Description:** LORE A VENIR
+<div style="clear: both; margin-bottom: 20px;"></div>
 
 ---
 ### Gelidar, Chevalier des Neiges
 
-<img src="JeuDeCarte/Assets/img/Crea/3.png" width="150" height="auto" alt="Gelidar, Chevalier des Neiges" style="float: left; margin-right: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/3.png" width="80" height="auto" alt="Gelidar, Chevalier des Neiges" style="float: left; margin-right: 15px; vertical-align: middle;">
 
-**Élément:** Glace | **Rareté:** Spécial
+**Gelidar, Chevalier des Neiges** | **Élément:** Glace | **Rareté:** Spécial | **📊 PV:** 1100 | **Attaque:** 25 | **Défense:** 28 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Frappe Boréale**
 
-#### 📊 Statistiques
-- **PV:** 1100
-- **Attaque:** 25
-- **Défense:** 28
-- **Vitesse:** 0
-- **Critique:** 3.0%
-- **Esquive:** 1.0%
-- **Précision:** 99.0%
-
-#### ⚡ Capacités
-- **Frappe Boréale**
-  - Frappe inspirée du vent boréal
-
-<div style="clear: both;"></div>
-
-**Description:** LORE A VENIR
+<div style="clear: both; margin-bottom: 20px;"></div>
 
 ---
 ### Glacia, Yéti Polaire
 
-<img src="JeuDeCarte/Assets/img/Crea/25.png" width="150" height="auto" alt="Glacia, Yéti Polaire" style="float: left; margin-right: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/25.png" width="80" height="auto" alt="Glacia, Yéti Polaire" style="float: left; margin-right: 15px; vertical-align: middle;">
 
-**Élément:** Glace | **Rareté:** Peu Commun
+**Glacia, Yéti Polaire** | **Élément:** Glace | **Rareté:** Peu Commun | **📊 PV:** 945 | **Attaque:** 25 | **Défense:** 20 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Attaque basique Glace**
 
-#### 📊 Statistiques
-- **PV:** 945
-- **Attaque:** 25
-- **Défense:** 20
-- **Vitesse:** 0
-- **Critique:** 3.0%
-- **Esquive:** 1.0%
-- **Précision:** 99.0%
-
-#### ⚡ Capacités
-- **Attaque basique Glace**
-  - Attaque basique de Glace
-
-<div style="clear: both;"></div>
-
-**Description:** LORE A VENIR
+<div style="clear: both; margin-bottom: 20px;"></div>
 
 ---
 ### Glaciar, Yéti des Sommets
 
-<img src="JeuDeCarte/Assets/img/Crea/69.png" width="150" height="auto" alt="Glaciar, Yéti des Sommets" style="float: left; margin-right: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/69.png" width="80" height="auto" alt="Glaciar, Yéti des Sommets" style="float: left; margin-right: 15px; vertical-align: middle;">
 
-**Élément:** Glace | **Rareté:** Rare
+**Glaciar, Yéti des Sommets** | **Élément:** Glace | **Rareté:** Rare | **📊 PV:** 920 | **Attaque:** 31 | **Défense:** 14 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Choc des Neiges**
 
-#### 📊 Statistiques
-- **PV:** 920
-- **Attaque:** 31
-- **Défense:** 14
-- **Vitesse:** 0
-- **Critique:** 3.0%
-- **Esquive:** 1.0%
-- **Précision:** 99.0%
-
-#### ⚡ Capacités
-- **Choc des Neiges**
-  - Écrase l'ennemi sous une masse de neige
-
-<div style="clear: both;"></div>
-
-**Description:** LORE A VENIR
+<div style="clear: both; margin-bottom: 20px;"></div>
 
 ---
 ### Glacielle, Reine des Flocons
 
-<img src="JeuDeCarte/Assets/img/Crea/12.png" width="150" height="auto" alt="Glacielle, Reine des Flocons" style="float: left; margin-right: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/12.png" width="80" height="auto" alt="Glacielle, Reine des Flocons" style="float: left; margin-right: 15px; vertical-align: middle;">
 
-**Élément:** Glace | **Rareté:** Épique
+**Glacielle, Reine des Flocons** | **Élément:** Glace | **Rareté:** Épique | **📊 PV:** 1092 | **Attaque:** 30 | **Défense:** 21 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Avalanche Royale**
 
-#### 📊 Statistiques
-- **PV:** 1092
-- **Attaque:** 30
-- **Défense:** 21
-- **Vitesse:** 0
-- **Critique:** 3.0%
-- **Esquive:** 1.0%
-- **Précision:** 99.0%
-
-#### ⚡ Capacités
-- **Avalanche Royale**
-  - Un raz-de-marée de neige s'abat sur l'ennemi
-
-<div style="clear: both;"></div>
-
-**Description:** LORE A VENIR
+<div style="clear: both; margin-bottom: 20px;"></div>
 
 ---
 ### Gélax, Lutin de la Banquise
 
-<img src="JeuDeCarte/Assets/img/Crea/53.png" width="150" height="auto" alt="Gélax, Lutin de la Banquise" style="float: left; margin-right: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/53.png" width="80" height="auto" alt="Gélax, Lutin de la Banquise" style="float: left; margin-right: 15px; vertical-align: middle;">
 
-**Élément:** Glace | **Rareté:** Commun
+**Gélax, Lutin de la Banquise** | **Élément:** Glace | **Rareté:** Commun | **📊 PV:** 810 | **Attaque:** 20 | **Défense:** 16 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Attaque basique Glace**
 
-#### 📊 Statistiques
-- **PV:** 810
-- **Attaque:** 20
-- **Défense:** 16
-- **Vitesse:** 0
-- **Critique:** 3.0%
-- **Esquive:** 1.0%
-- **Précision:** 99.0%
-
-#### ⚡ Capacités
-- **Attaque basique Glace**
-  - Attaque basique de Glace
-
-<div style="clear: both;"></div>
-
-**Description:** LORE A VENIR
+<div style="clear: both; margin-bottom: 20px;"></div>
 
 ---
 ### Tundrorr, Mammouth Givré
 
-<img src="JeuDeCarte/Assets/img/Crea/30.png" width="150" height="auto" alt="Tundrorr, Mammouth Givré" style="float: left; margin-right: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/30.png" width="80" height="auto" alt="Tundrorr, Mammouth Givré" style="float: left; margin-right: 15px; vertical-align: middle;">
 
-**Élément:** Glace | **Rareté:** Mythique
+**Tundrorr, Mammouth Givré** | **Élément:** Glace | **Rareté:** Mythique | **📊 PV:** 1075 | **Attaque:** 34 | **Défense:** 22 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Charge Polaire**
 
-#### 📊 Statistiques
-- **PV:** 1075
-- **Attaque:** 34
-- **Défense:** 22
-- **Vitesse:** 0
-- **Critique:** 3.0%
-- **Esquive:** 1.0%
-- **Précision:** 99.0%
-
-#### ⚡ Capacités
-- **Charge Polaire**
-  - Un coup de défense dévastateur qui glace tout sur son passage
-
-<div style="clear: both;"></div>
-
-**Description:** LORE A VENIR
+<div style="clear: both; margin-bottom: 20px;"></div>
 
 ---
 
@@ -1494,102 +615,38 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Astrilys, Sentinelle Astrale
 
-<img src="JeuDeCarte/Assets/img/Crea/61.png" width="150" height="auto" alt="Astrilys, Sentinelle Astrale" style="float: left; margin-right: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/61.png" width="80" height="auto" alt="Astrilys, Sentinelle Astrale" style="float: left; margin-right: 15px; vertical-align: middle;">
 
-**Élément:** Lumière | **Rareté:** Peu Commun
+**Astrilys, Sentinelle Astrale** | **Élément:** Lumière | **Rareté:** Peu Commun | **📊 PV:** 800 | **Attaque:** 23 | **Défense:** 15 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Rayon Purificateur**
 
-#### 📊 Statistiques
-- **PV:** 800
-- **Attaque:** 23
-- **Défense:** 15
-- **Vitesse:** 0
-- **Critique:** 3.0%
-- **Esquive:** 1.0%
-- **Précision:** 99.0%
-
-#### ⚡ Capacités
-- **Rayon Purificateur**
-  - Un rayon transcendental traverse l'ombre et blesse la cible
-
-<div style="clear: both;"></div>
-
-**Description:** LORE A VENIR
+<div style="clear: both; margin-bottom: 20px;"></div>
 
 ---
 ### Lumicorne, Licorne Dorée
 
-<img src="JeuDeCarte/Assets/img/Crea/70.png" width="150" height="auto" alt="Lumicorne, Licorne Dorée" style="float: left; margin-right: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/70.png" width="80" height="auto" alt="Lumicorne, Licorne Dorée" style="float: left; margin-right: 15px; vertical-align: middle;">
 
-**Élément:** Lumière | **Rareté:** Peu Commun
+**Lumicorne, Licorne Dorée** | **Élément:** Lumière | **Rareté:** Peu Commun | **📊 PV:** 830 | **Attaque:** 28 | **Défense:** 11 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Charge Lumineuse**
 
-#### 📊 Statistiques
-- **PV:** 830
-- **Attaque:** 28
-- **Défense:** 11
-- **Vitesse:** 0
-- **Critique:** 3.0%
-- **Esquive:** 1.0%
-- **Précision:** 99.0%
-
-#### ⚡ Capacités
-- **Charge Lumineuse**
-  - Percée éclatante dévalant l'arène dans une gerbe d'étincelles dorées
-
-<div style="clear: both;"></div>
-
-**Description:** LORE A VENIR
+<div style="clear: both; margin-bottom: 20px;"></div>
 
 ---
 ### Lumys, Renardeau Solaire
 
-<img src="JeuDeCarte/Assets/img/Crea/74.png" width="150" height="auto" alt="Lumys, Renardeau Solaire" style="float: left; margin-right: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/74.png" width="80" height="auto" alt="Lumys, Renardeau Solaire" style="float: left; margin-right: 15px; vertical-align: middle;">
 
-**Élément:** Lumière | **Rareté:** Mythique
+**Lumys, Renardeau Solaire** | **Élément:** Lumière | **Rareté:** Mythique | **📊 PV:** 1030 | **Attaque:** 38 | **Défense:** 21 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Flamboiement Radieux** | **Halo Espoir**
 
-#### 📊 Statistiques
-- **PV:** 1030
-- **Attaque:** 38
-- **Défense:** 21
-- **Vitesse:** 0
-- **Critique:** 3.0%
-- **Esquive:** 1.0%
-- **Précision:** 99.0%
-
-#### ⚡ Capacités
-- **Flamboiement Radieux**
-  - Vague solaire submergeant tous les adversaires
-- **Halo Espoir**
-  - Un anneau protecteur illumine les alliés, les immunisant un tour
-
-<div style="clear: both;"></div>
-
-**Description:** LORE A VENIR
+<div style="clear: both; margin-bottom: 20px;"></div>
 
 ---
 ### Prismalyx, Papillon Lumineux
 
-<img src="JeuDeCarte/Assets/img/Crea/66.png" width="150" height="auto" alt="Prismalyx, Papillon Lumineux" style="float: left; margin-right: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/66.png" width="80" height="auto" alt="Prismalyx, Papillon Lumineux" style="float: left; margin-right: 15px; vertical-align: middle;">
 
-**Élément:** Lumière | **Rareté:** Épique
+**Prismalyx, Papillon Lumineux** | **Élément:** Lumière | **Rareté:** Épique | **📊 PV:** 861 | **Attaque:** 28 | **Défense:** 14 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Éclat Prismatique** | **Danse Iridescente**
 
-#### 📊 Statistiques
-- **PV:** 861
-- **Attaque:** 28
-- **Défense:** 14
-- **Vitesse:** 0
-- **Critique:** 3.0%
-- **Esquive:** 1.0%
-- **Précision:** 99.0%
-
-#### ⚡ Capacités
-- **Éclat Prismatique**
-  - Un rayon polychromatique brise la défense de la cible
-- **Danse Iridescente**
-  - Battements d'ailes diffusant une aura réparatrice
-
-<div style="clear: both;"></div>
-
-**Description:** LORE A VENIR
+<div style="clear: both; margin-bottom: 20px;"></div>
 
 ---
 
@@ -1597,154 +654,56 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Briselys, Dryade Mousseuse
 
-<img src="JeuDeCarte/Assets/img/Crea/43.png" width="150" height="auto" alt="Briselys, Dryade Mousseuse" style="float: left; margin-right: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/43.png" width="80" height="auto" alt="Briselys, Dryade Mousseuse" style="float: left; margin-right: 15px; vertical-align: middle;">
 
-**Élément:** Poison | **Rareté:** Rare
+**Briselys, Dryade Mousseuse** | **Élément:** Poison | **Rareté:** Rare | **📊 PV:** 870 | **Attaque:** 28 | **Défense:** 14 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Jet Moussu**
 
-#### 📊 Statistiques
-- **PV:** 870
-- **Attaque:** 28
-- **Défense:** 14
-- **Vitesse:** 0
-- **Critique:** 3.0%
-- **Esquive:** 1.0%
-- **Précision:** 99.0%
-
-#### ⚡ Capacités
-- **Jet Moussu**
-  - Projette une boule de mousse chargée de toxines volatiles
-
-<div style="clear: both;"></div>
-
-**Description:** LORE A VENIR
+<div style="clear: both; margin-bottom: 20px;"></div>
 
 ---
 ### Crotignus, Crotte de Nez Mouvante
 
-<img src="JeuDeCarte/Assets/img/Crea/77.png" width="150" height="auto" alt="Crotignus, Crotte de Nez Mouvante" style="float: left; margin-right: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/77.png" width="80" height="auto" alt="Crotignus, Crotte de Nez Mouvante" style="float: left; margin-right: 15px; vertical-align: middle;">
 
-**Élément:** Poison | **Rareté:** Épique
+**Crotignus, Crotte de Nez Mouvante** | **Élément:** Poison | **Rareté:** Épique | **📊 PV:** 780 | **Attaque:** 19 | **Défense:** 16 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 2.0% | **Précision:** 99.0% | **⚡ Capacités:** **Lancer de CDN**
 
-#### 📊 Statistiques
-- **PV:** 780
-- **Attaque:** 19
-- **Défense:** 16
-- **Vitesse:** 0
-- **Critique:** 3.0%
-- **Esquive:** 2.0%
-- **Précision:** 99.0%
-
-#### ⚡ Capacités
-- **Lancer de CDN**
-  - Lance quelque chose verdâtre, jaunâtre et surtout gluante
-
-<div style="clear: both;"></div>
-
-**Description:** LORE A VENIR
+<div style="clear: both; margin-bottom: 20px;"></div>
 
 ---
 ### Floralia, Druidesse des Fleurs
 
-<img src="JeuDeCarte/Assets/img/Crea/14.png" width="150" height="auto" alt="Floralia, Druidesse des Fleurs" style="float: left; margin-right: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/14.png" width="80" height="auto" alt="Floralia, Druidesse des Fleurs" style="float: left; margin-right: 15px; vertical-align: middle;">
 
-**Élément:** Poison | **Rareté:** Peu Commun
+**Floralia, Druidesse des Fleurs** | **Élément:** Poison | **Rareté:** Peu Commun | **📊 PV:** 990 | **Attaque:** 22 | **Défense:** 28 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Attaque basique Poison** | **Poussée Toxique**
 
-#### 📊 Statistiques
-- **PV:** 990
-- **Attaque:** 22
-- **Défense:** 28
-- **Vitesse:** 0
-- **Critique:** 3.0%
-- **Esquive:** 1.0%
-- **Précision:** 99.0%
-
-#### ⚡ Capacités
-- **Attaque basique Poison**
-  - Attaque basique de Poison
-- **Poussée Toxique**
-  - Déclenche une vague de spores agressives
-
-<div style="clear: both;"></div>
-
-**Description:** LORE A VENIR
+<div style="clear: both; margin-bottom: 20px;"></div>
 
 ---
 ### Mossio, Shaman des Mousses
 
-<img src="JeuDeCarte/Assets/img/Crea/40.png" width="150" height="auto" alt="Mossio, Shaman des Mousses" style="float: left; margin-right: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/40.png" width="80" height="auto" alt="Mossio, Shaman des Mousses" style="float: left; margin-right: 15px; vertical-align: middle;">
 
-**Élément:** Poison | **Rareté:** Mythique
+**Mossio, Shaman des Mousses** | **Élément:** Poison | **Rareté:** Mythique | **📊 PV:** 1020 | **Attaque:** 36 | **Défense:** 21 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Vague Nécrotique** | **Attaque basique Poison**
 
-#### 📊 Statistiques
-- **PV:** 1020
-- **Attaque:** 36
-- **Défense:** 21
-- **Vitesse:** 0
-- **Critique:** 3.0%
-- **Esquive:** 1.0%
-- **Précision:** 99.0%
-
-#### ⚡ Capacités
-- **Vague Nécrotique**
-  - Déferlement toxique s'étendant sur le champ de bataille
-- **Attaque basique Poison**
-  - Attaque basique de Poison
-
-<div style="clear: both;"></div>
-
-**Description:** LORE A VENIR
+<div style="clear: both; margin-bottom: 20px;"></div>
 
 ---
 ### Sylvara, Esprit de la Canopée
 
-<img src="JeuDeCarte/Assets/img/Crea/55.png" width="150" height="auto" alt="Sylvara, Esprit de la Canopée" style="float: left; margin-right: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/55.png" width="80" height="auto" alt="Sylvara, Esprit de la Canopée" style="float: left; margin-right: 15px; vertical-align: middle;">
 
-**Élément:** Poison | **Rareté:** Mythique
+**Sylvara, Esprit de la Canopée** | **Élément:** Poison | **Rareté:** Mythique | **📊 PV:** 1220 | **Attaque:** 39 | **Défense:** 27 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Essence Mortelle** | **Toxine Mortelle**
 
-#### 📊 Statistiques
-- **PV:** 1220
-- **Attaque:** 39
-- **Défense:** 27
-- **Vitesse:** 0
-- **Critique:** 3.0%
-- **Esquive:** 1.0%
-- **Précision:** 99.0%
-
-#### ⚡ Capacités
-- **Essence Mortelle**
-  - Synthèse ultime de toxines végétales infligées dans le sang
-- **Toxine Mortelle**
-  - Un virus mortel qui tue tout ceux qui l'inhale
-
-<div style="clear: both;"></div>
-
-**Description:** LORE A VENIR
+<div style="clear: both; margin-bottom: 20px;"></div>
 
 ---
 ### Sylvert, Gardien de la Brume
 
-<img src="JeuDeCarte/Assets/img/Crea/63.png" width="150" height="auto" alt="Sylvert, Gardien de la Brume" style="float: left; margin-right: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/63.png" width="80" height="auto" alt="Sylvert, Gardien de la Brume" style="float: left; margin-right: 15px; vertical-align: middle;">
 
-**Élément:** Poison | **Rareté:** Peu Commun
+**Sylvert, Gardien de la Brume** | **Élément:** Poison | **Rareté:** Peu Commun | **📊 PV:** 1200 | **Attaque:** 25 | **Défense:** 34 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Ronce Empoisonnée** | **Brouillard Corrosif**
 
-#### 📊 Statistiques
-- **PV:** 1200
-- **Attaque:** 25
-- **Défense:** 34
-- **Vitesse:** 0
-- **Critique:** 3.0%
-- **Esquive:** 1.0%
-- **Précision:** 99.0%
-
-#### ⚡ Capacités
-- **Ronce Empoisonnée**
-  - Les ronces étouffent la cible, injectant du venin
-- **Brouillard Corrosif**
-  - Libère un nuage nocif touchant tous les adversaires
-
-<div style="clear: both;"></div>
-
-**Description:** LORE A VENIR
+<div style="clear: both; margin-bottom: 20px;"></div>
 
 ---
 
@@ -1752,306 +711,110 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Barbak, Guerrier Barbare
 
-<img src="JeuDeCarte/Assets/img/Crea/16.png" width="150" height="auto" alt="Barbak, Guerrier Barbare" style="float: left; margin-right: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/16.png" width="80" height="auto" alt="Barbak, Guerrier Barbare" style="float: left; margin-right: 15px; vertical-align: middle;">
 
-**Élément:** Terre | **Rareté:** Rare
+**Barbak, Guerrier Barbare** | **Élément:** Terre | **Rareté:** Rare | **📊 PV:** 1130 | **Attaque:** 32 | **Défense:** 18 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Heurtoir** | **Rage Berseker**
 
-#### 📊 Statistiques
-- **PV:** 1130
-- **Attaque:** 32
-- **Défense:** 18
-- **Vitesse:** 0
-- **Critique:** 3.0%
-- **Esquive:** 1.0%
-- **Précision:** 99.0%
-
-#### ⚡ Capacités
-- **Heurtoir**
-  - Coup de Hache simple
-- **Rage Berseker**
-  - Rentre dans une rage incontrollable
-
-<div style="clear: both;"></div>
-
-**Description:** LORE A VENIR
+<div style="clear: both; margin-bottom: 20px;"></div>
 
 ---
 ### Bersi, Nain Invincible
 
-<img src="JeuDeCarte/Assets/img/Crea/18.png" width="150" height="auto" alt="Bersi, Nain Invincible" style="float: left; margin-right: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/18.png" width="80" height="auto" alt="Bersi, Nain Invincible" style="float: left; margin-right: 15px; vertical-align: middle;">
 
-**Élément:** Terre | **Rareté:** Peu Commun
+**Bersi, Nain Invincible** | **Élément:** Terre | **Rareté:** Peu Commun | **📊 PV:** 1160 | **Attaque:** 26 | **Défense:** 30 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Haine Naine**
 
-#### 📊 Statistiques
-- **PV:** 1160
-- **Attaque:** 26
-- **Défense:** 30
-- **Vitesse:** 0
-- **Critique:** 3.0%
-- **Esquive:** 1.0%
-- **Précision:** 99.0%
-
-#### ⚡ Capacités
-- **Haine Naine**
-  - Un coup tout ce qu'il y a de plus basique mais donné avec HAINE
-
-<div style="clear: both;"></div>
-
-**Description:** LORE A VENIR
+<div style="clear: both; margin-bottom: 20px;"></div>
 
 ---
 ### Gladrith, Écho des montagnes
 
-<img src="JeuDeCarte/Assets/img/Crea/76.png" width="150" height="auto" alt="Gladrith, Écho des montagnes" style="float: left; margin-right: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/76.png" width="80" height="auto" alt="Gladrith, Écho des montagnes" style="float: left; margin-right: 15px; vertical-align: middle;">
 
-**Élément:** Terre | **Rareté:** Rare
+**Gladrith, Écho des montagnes** | **Élément:** Terre | **Rareté:** Rare | **📊 PV:** 780 | **Attaque:** 31 | **Défense:** 15 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Frappe sismique**
 
-#### 📊 Statistiques
-- **PV:** 780
-- **Attaque:** 31
-- **Défense:** 15
-- **Vitesse:** 0
-- **Critique:** 3.0%
-- **Esquive:** 1.0%
-- **Précision:** 99.0%
-
-#### ⚡ Capacités
-- **Frappe sismique**
-  - Une frappe au sol déclenchant une onde de choc qui fissure la terre et projette violemment l'ennemi pris pour cible
-
-<div style="clear: both;"></div>
-
-**Description:** LORE A VENIR
+<div style="clear: both; margin-bottom: 20px;"></div>
 
 ---
 ### Lithos, Colosse de Quartz
 
-<img src="JeuDeCarte/Assets/img/Crea/60.png" width="150" height="auto" alt="Lithos, Colosse de Quartz" style="float: left; margin-right: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/60.png" width="80" height="auto" alt="Lithos, Colosse de Quartz" style="float: left; margin-right: 15px; vertical-align: middle;">
 
-**Élément:** Terre | **Rareté:** Épique
+**Lithos, Colosse de Quartz** | **Élément:** Terre | **Rareté:** Épique | **📊 PV:** 990 | **Attaque:** 37 | **Défense:** 16 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Briseur de Montagne** | **Fureur Tellurique**
 
-#### 📊 Statistiques
-- **PV:** 990
-- **Attaque:** 37
-- **Défense:** 16
-- **Vitesse:** 0
-- **Critique:** 3.0%
-- **Esquive:** 1.0%
-- **Précision:** 99.0%
-
-#### ⚡ Capacités
-- **Briseur de Montagne**
-  - Un coup si puissant que le vent provoqué par le coup rends inerte sa cible
-- **Fureur Tellurique**
-  - Concentre l'énergie de la Terre pour la faire exploser ensuite dans une giganteste décharge
-
-<div style="clear: both;"></div>
-
-**Description:** LORE A VENIR
+<div style="clear: both; margin-bottom: 20px;"></div>
 
 ---
 ### Lixor, Golem Cristallin
 
-<img src="JeuDeCarte/Assets/img/Crea/33.png" width="150" height="auto" alt="Lixor, Golem Cristallin" style="float: left; margin-right: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/33.png" width="80" height="auto" alt="Lixor, Golem Cristallin" style="float: left; margin-right: 15px; vertical-align: middle;">
 
-**Élément:** Terre | **Rareté:** Rare
+**Lixor, Golem Cristallin** | **Élément:** Terre | **Rareté:** Rare | **📊 PV:** 870 | **Attaque:** 30 | **Défense:** 15 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Brise-Roc**
 
-#### 📊 Statistiques
-- **PV:** 870
-- **Attaque:** 30
-- **Défense:** 15
-- **Vitesse:** 0
-- **Critique:** 3.0%
-- **Esquive:** 1.0%
-- **Précision:** 99.0%
-
-#### ⚡ Capacités
-- **Brise-Roc**
-  - Frappe d'un gros coup rendant sa cible désorientée
-
-<div style="clear: both;"></div>
-
-**Description:** LORE A VENIR
+<div style="clear: both; margin-bottom: 20px;"></div>
 
 ---
 ### Lumberjack, Bûcheron du Grand Nord
 
-<img src="JeuDeCarte/Assets/img/Crea/28.png" width="150" height="auto" alt="Lumberjack, Bûcheron du Grand Nord" style="float: left; margin-right: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/28.png" width="80" height="auto" alt="Lumberjack, Bûcheron du Grand Nord" style="float: left; margin-right: 15px; vertical-align: middle;">
 
-**Élément:** Terre | **Rareté:** Rare
+**Lumberjack, Bûcheron du Grand Nord** | **Élément:** Terre | **Rareté:** Rare | **📊 PV:** 1190 | **Attaque:** 28 | **Défense:** 29 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Heurtoir** | **Attaque basique Terre**
 
-#### 📊 Statistiques
-- **PV:** 1190
-- **Attaque:** 28
-- **Défense:** 29
-- **Vitesse:** 0
-- **Critique:** 3.0%
-- **Esquive:** 1.0%
-- **Précision:** 99.0%
-
-#### ⚡ Capacités
-- **Heurtoir**
-  - Coup de Hache simple
-- **Attaque basique Terre**
-  - Attaque basique de Terre
-
-<div style="clear: both;"></div>
-
-**Description:** LORE A VENIR
+<div style="clear: both; margin-bottom: 20px;"></div>
 
 ---
 ### Rock, Colosse de Granit
 
-<img src="JeuDeCarte/Assets/img/Crea/6.png" width="150" height="auto" alt="Rock, Colosse de Granit" style="float: left; margin-right: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/6.png" width="80" height="auto" alt="Rock, Colosse de Granit" style="float: left; margin-right: 15px; vertical-align: middle;">
 
-**Élément:** Terre | **Rareté:** Peu Commun
+**Rock, Colosse de Granit** | **Élément:** Terre | **Rareté:** Peu Commun | **📊 PV:** 810 | **Attaque:** 28 | **Défense:** 13 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Attaque basique Terre**
 
-#### 📊 Statistiques
-- **PV:** 810
-- **Attaque:** 28
-- **Défense:** 13
-- **Vitesse:** 0
-- **Critique:** 3.0%
-- **Esquive:** 1.0%
-- **Précision:** 99.0%
-
-#### ⚡ Capacités
-- **Attaque basique Terre**
-  - Attaque basique de Terre
-
-<div style="clear: both;"></div>
-
-**Description:** LORE A VENIR
+<div style="clear: both; margin-bottom: 20px;"></div>
 
 ---
 ### Rocor, Gardien du Bloc
 
-<img src="JeuDeCarte/Assets/img/Crea/47.png" width="150" height="auto" alt="Rocor, Gardien du Bloc" style="float: left; margin-right: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/47.png" width="80" height="auto" alt="Rocor, Gardien du Bloc" style="float: left; margin-right: 15px; vertical-align: middle;">
 
-**Élément:** Terre | **Rareté:** Peu Commun
+**Rocor, Gardien du Bloc** | **Élément:** Terre | **Rareté:** Peu Commun | **📊 PV:** 880 | **Attaque:** 22 | **Défense:** 17 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Attaque basique Terre** | **Lancer Tellurique**
 
-#### 📊 Statistiques
-- **PV:** 880
-- **Attaque:** 22
-- **Défense:** 17
-- **Vitesse:** 0
-- **Critique:** 3.0%
-- **Esquive:** 1.0%
-- **Précision:** 99.0%
-
-#### ⚡ Capacités
-- **Attaque basique Terre**
-  - Attaque basique de Terre
-- **Lancer Tellurique**
-  - Lance un énorme rocher qui peut étourdir
-
-<div style="clear: both;"></div>
-
-**Description:** LORE A VENIR
+<div style="clear: both; margin-bottom: 20px;"></div>
 
 ---
 ### Roktus, Gobelin Mineur
 
-<img src="JeuDeCarte/Assets/img/Crea/35.png" width="150" height="auto" alt="Roktus, Gobelin Mineur" style="float: left; margin-right: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/35.png" width="80" height="auto" alt="Roktus, Gobelin Mineur" style="float: left; margin-right: 15px; vertical-align: middle;">
 
-**Élément:** Terre | **Rareté:** Peu Commun
+**Roktus, Gobelin Mineur** | **Élément:** Terre | **Rareté:** Peu Commun | **📊 PV:** 845 | **Attaque:** 26 | **Défense:** 12 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Piège à Pétards** | **Dynamite**
 
-#### 📊 Statistiques
-- **PV:** 845
-- **Attaque:** 26
-- **Défense:** 12
-- **Vitesse:** 0
-- **Critique:** 3.0%
-- **Esquive:** 1.0%
-- **Précision:** 99.0%
-
-#### ⚡ Capacités
-- **Piège à Pétards**
-  - Pose un piège qui explose lorsqu'un attaquant prends pour cible la personne piégée
-- **Dynamite**
-  - Lance une dynamite qui explose après un court instant
-
-<div style="clear: both;"></div>
-
-**Description:** LORE A VENIR
+<div style="clear: both; margin-bottom: 20px;"></div>
 
 ---
 ### Silex, Gardien du Pic Rugueux
 
-<img src="JeuDeCarte/Assets/img/Crea/22.png" width="150" height="auto" alt="Silex, Gardien du Pic Rugueux" style="float: left; margin-right: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/22.png" width="80" height="auto" alt="Silex, Gardien du Pic Rugueux" style="float: left; margin-right: 15px; vertical-align: middle;">
 
-**Élément:** Terre | **Rareté:** Rare
+**Silex, Gardien du Pic Rugueux** | **Élément:** Terre | **Rareté:** Rare | **📊 PV:** 900 | **Attaque:** 31 | **Défense:** 14 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Lancer Tellurique** | **Armure de roche**
 
-#### 📊 Statistiques
-- **PV:** 900
-- **Attaque:** 31
-- **Défense:** 14
-- **Vitesse:** 0
-- **Critique:** 3.0%
-- **Esquive:** 1.0%
-- **Précision:** 99.0%
-
-#### ⚡ Capacités
-- **Lancer Tellurique**
-  - Lance un énorme rocher qui peut étourdir
-- **Armure de roche**
-  - Se renforce naturellement
-
-<div style="clear: both;"></div>
-
-**Description:** LORE A VENIR
+<div style="clear: both; margin-bottom: 20px;"></div>
 
 ---
 ### Telluron, Géant de Schiste
 
-<img src="JeuDeCarte/Assets/img/Crea/73.png" width="150" height="auto" alt="Telluron, Géant de Schiste" style="float: left; margin-right: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/73.png" width="80" height="auto" alt="Telluron, Géant de Schiste" style="float: left; margin-right: 15px; vertical-align: middle;">
 
-**Élément:** Terre | **Rareté:** Épique
+**Telluron, Géant de Schiste** | **Élément:** Terre | **Rareté:** Épique | **📊 PV:** 830 | **Attaque:** 29 | **Défense:** 14 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Brise-Roc** | **Glissement de Terrain**
 
-#### 📊 Statistiques
-- **PV:** 830
-- **Attaque:** 29
-- **Défense:** 14
-- **Vitesse:** 0
-- **Critique:** 3.0%
-- **Esquive:** 1.0%
-- **Précision:** 99.0%
-
-#### ⚡ Capacités
-- **Brise-Roc**
-  - Frappe d'un gros coup rendant sa cible désorientée
-- **Glissement de Terrain**
-  - Une secousse brutale fissurant la terre
-
-<div style="clear: both;"></div>
-
-**Description:** LORE A VENIR
+<div style="clear: both; margin-bottom: 20px;"></div>
 
 ---
 ### Terra, Sorcière de la Terre
 
-<img src="JeuDeCarte/Assets/img/Crea/7.png" width="150" height="auto" alt="Terra, Sorcière de la Terre" style="float: left; margin-right: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/7.png" width="80" height="auto" alt="Terra, Sorcière de la Terre" style="float: left; margin-right: 15px; vertical-align: middle;">
 
-**Élément:** Terre | **Rareté:** Rare
+**Terra, Sorcière de la Terre** | **Élément:** Terre | **Rareté:** Rare | **📊 PV:** 1400 | **Attaque:** 18 | **Défense:** 41 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Éboulement** | **Attaque basique Terre**
 
-#### 📊 Statistiques
-- **PV:** 1400
-- **Attaque:** 18
-- **Défense:** 41
-- **Vitesse:** 0
-- **Critique:** 3.0%
-- **Esquive:** 1.0%
-- **Précision:** 99.0%
-
-#### ⚡ Capacités
-- **Éboulement**
-  - Provoque un lourd éboulement
-- **Attaque basique Terre**
-  - Attaque basique de Terre
-
-<div style="clear: both;"></div>
-
-**Description:** LORE A VENIR
+<div style="clear: both; margin-bottom: 20px;"></div>
 
 ---
 
@@ -2059,27 +822,10 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Murkax, Ombre Rampante
 
-<img src="JeuDeCarte/Assets/img/Crea/67.png" width="150" height="auto" alt="Murkax, Ombre Rampante" style="float: left; margin-right: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/67.png" width="80" height="auto" alt="Murkax, Ombre Rampante" style="float: left; margin-right: 15px; vertical-align: middle;">
 
-**Élément:** Ténèbres | **Rareté:** Épique
+**Murkax, Ombre Rampante** | **Élément:** Ténèbres | **Rareté:** Épique | **📊 PV:** 1300 | **Attaque:** 39 | **Défense:** 24 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Griffes de l'Abîme** | **Voile d'Éclipsombre**
 
-#### 📊 Statistiques
-- **PV:** 1300
-- **Attaque:** 39
-- **Défense:** 24
-- **Vitesse:** 0
-- **Critique:** 3.0%
-- **Esquive:** 1.0%
-- **Précision:** 99.0%
-
-#### ⚡ Capacités
-- **Griffes de l'Abîme**
-  - Murkax transperce sa cible avec des griffes composées d'ombres pures
-- **Voile d'Éclipsombre**
-  - Une nappe d'obscurité glacée recouvre l'ennemi, affaiblissant leur volonté
-
-<div style="clear: both;"></div>
-
-**Description:** LORE A VENIR
+<div style="clear: both; margin-bottom: 20px;"></div>
 
 ---
