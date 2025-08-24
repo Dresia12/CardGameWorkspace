@@ -105,119 +105,184 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Aeris, Esprit du Zéphyr
 
-<img src="JeuDeCarte/Assets/img/Crea/34.png" width="80" height="auto" alt="Aeris, Esprit du Zéphyr" style="float: left; margin-right: 15px; vertical-align: middle;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/34.png" width="140" height="auto" alt="Aeris, Esprit du Zéphyr" style="margin-right: 15px; flex-shrink: 0;">
 
-**Aeris, Esprit du Zéphyr** | **Élément:** Air | **Rareté:** Épique | **📊 PV:** 950 | **Attaque:** 35 | **Défense:** 12 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Baiser Alizée** | **Rapidité Aérienne**
-
-<div style="clear: both; margin-bottom: 20px;"></div>
+<div style="flex: 1; display: flex; flex-direction: column; justify-content: space-between; height: 140px;">
+<div style="font-weight: bold; margin-bottom: 5px;">**Aeris, Esprit du Zéphyr** | **Élément:** Air | **Rareté:** Épique</div>
+<div style="margin-bottom: 5px;">**📊 PV:** 950 | **Attaque:** 35 | **Défense:** 12 | **Vitesse:** 0</div>
+<div style="margin-bottom: 5px;">**Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0%</div>
+<div>**⚡ Capacités:** **Baiser Alizée** | **Rapidité Aérienne**</div>
+</div>
+</div>
 
 ---
 ### Corvus, Corbeau Mystique
 
-<img src="JeuDeCarte/Assets/img/Crea/51.png" width="80" height="auto" alt="Corvus, Corbeau Mystique" style="float: left; margin-right: 15px; vertical-align: middle;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/51.png" width="140" height="auto" alt="Corvus, Corbeau Mystique" style="margin-right: 15px; flex-shrink: 0;">
 
-**Corvus, Corbeau Mystique** | **Élément:** Air | **Rareté:** Épique | **📊 PV:** 1113 | **Attaque:** 33 | **Défense:** 21 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **3ème Oeil** | **Malédiction**
-
-<div style="clear: both; margin-bottom: 20px;"></div>
+<div style="flex: 1; display: flex; flex-direction: column; justify-content: space-between; height: 140px;">
+<div style="font-weight: bold; margin-bottom: 5px;">**Corvus, Corbeau Mystique** | **Élément:** Air | **Rareté:** Épique</div>
+<div style="margin-bottom: 5px;">**📊 PV:** 1113 | **Attaque:** 33 | **Défense:** 21 | **Vitesse:** 0</div>
+<div style="margin-bottom: 5px;">**Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0%</div>
+<div>**⚡ Capacités:** **3ème Oeil** | **Malédiction**</div>
+</div>
+</div>
 
 ---
 ### Galaxine, Voyageuse Céleste
 
-<img src="JeuDeCarte/Assets/img/Crea/21.png" width="80" height="auto" alt="Galaxine, Voyageuse Céleste" style="float: left; margin-right: 15px; vertical-align: middle;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/21.png" width="140" height="auto" alt="Galaxine, Voyageuse Céleste" style="margin-right: 15px; flex-shrink: 0;">
 
-**Galaxine, Voyageuse Céleste** | **Élément:** Air | **Rareté:** Mythique | **📊 PV:** 1100 | **Attaque:** 36 | **Défense:** 19 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Pluie de Météores** | **Lueur de la Voie Lactée** | **Poussière d'Aurore**
-
-<div style="clear: both; margin-bottom: 20px;"></div>
+<div style="flex: 1; display: flex; flex-direction: column; justify-content: space-between; height: 140px;">
+<div style="font-weight: bold; margin-bottom: 5px;">**Galaxine, Voyageuse Céleste** | **Élément:** Air | **Rareté:** Mythique</div>
+<div style="margin-bottom: 5px;">**📊 PV:** 1100 | **Attaque:** 36 | **Défense:** 19 | **Vitesse:** 0</div>
+<div style="margin-bottom: 5px;">**Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0%</div>
+<div>**⚡ Capacités:** **Pluie de Météores** | **Lueur de la Voie Lactée** | **Poussière d'Aurore**</div>
+</div>
+</div>
 
 ---
 ### Nébulaire, Magicienne du Brouillard
 
-<img src="JeuDeCarte/Assets/img/Crea/49.png" width="80" height="auto" alt="Nébulaire, Magicienne du Brouillard" style="float: left; margin-right: 15px; vertical-align: middle;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/49.png" width="140" height="auto" alt="Nébulaire, Magicienne du Brouillard" style="margin-right: 15px; flex-shrink: 0;">
 
-**Nébulaire, Magicienne du Brouillard** | **Élément:** Air | **Rareté:** Épique | **📊 PV:** 1010 | **Attaque:** 35 | **Défense:** 15 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Avancée du Brouillard** | **Orage**
-
-<div style="clear: both; margin-bottom: 20px;"></div>
+<div style="flex: 1; display: flex; flex-direction: column; justify-content: space-between; height: 140px;">
+<div style="font-weight: bold; margin-bottom: 5px;">**Nébulaire, Magicienne du Brouillard** | **Élément:** Air | **Rareté:** Épique</div>
+<div style="margin-bottom: 5px;">**📊 PV:** 1010 | **Attaque:** 35 | **Défense:** 15 | **Vitesse:** 0</div>
+<div style="margin-bottom: 5px;">**Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0%</div>
+<div>**⚡ Capacités:** **Avancée du Brouillard** | **Orage**</div>
+</div>
+</div>
 
 ---
 ### Nébulo, Fantôme du Brouillard
 
-<img src="JeuDeCarte/Assets/img/Crea/15.png" width="80" height="auto" alt="Nébulo, Fantôme du Brouillard" style="float: left; margin-right: 15px; vertical-align: middle;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/15.png" width="140" height="auto" alt="Nébulo, Fantôme du Brouillard" style="margin-right: 15px; flex-shrink: 0;">
 
-**Nébulo, Fantôme du Brouillard** | **Élément:** Air | **Rareté:** Mythique | **📊 PV:** 1220 | **Attaque:** 25 | **Défense:** 34 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Apparition Nébuleuse** | **Emprise du Brouillard**
-
-<div style="clear: both; margin-bottom: 20px;"></div>
+<div style="flex: 1; display: flex; flex-direction: column; justify-content: space-between; height: 140px;">
+<div style="font-weight: bold; margin-bottom: 5px;">**Nébulo, Fantôme du Brouillard** | **Élément:** Air | **Rareté:** Mythique</div>
+<div style="margin-bottom: 5px;">**📊 PV:** 1220 | **Attaque:** 25 | **Défense:** 34 | **Vitesse:** 0</div>
+<div style="margin-bottom: 5px;">**Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0%</div>
+<div>**⚡ Capacités:** **Apparition Nébuleuse** | **Emprise du Brouillard**</div>
+</div>
+</div>
 
 ---
 ### Orbaline, Magicienne Astrale
 
-<img src="JeuDeCarte/Assets/img/Crea/19.png" width="80" height="auto" alt="Orbaline, Magicienne Astrale" style="float: left; margin-right: 15px; vertical-align: middle;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/19.png" width="140" height="auto" alt="Orbaline, Magicienne Astrale" style="margin-right: 15px; flex-shrink: 0;">
 
-**Orbaline, Magicienne Astrale** | **Élément:** Air | **Rareté:** Rare | **📊 PV:** 870 | **Attaque:** 35 | **Défense:** 10 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Orbe Astrale** | **Attaque basique Air**
-
-<div style="clear: both; margin-bottom: 20px;"></div>
+<div style="flex: 1; display: flex; flex-direction: column; justify-content: space-between; height: 140px;">
+<div style="font-weight: bold; margin-bottom: 5px;">**Orbaline, Magicienne Astrale** | **Élément:** Air | **Rareté:** Rare</div>
+<div style="margin-bottom: 5px;">**📊 PV:** 870 | **Attaque:** 35 | **Défense:** 10 | **Vitesse:** 0</div>
+<div style="margin-bottom: 5px;">**Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0%</div>
+<div>**⚡ Capacités:** **Orbe Astrale** | **Attaque basique Air**</div>
+</div>
+</div>
 
 ---
 ### Skyla, Danseuse des Nuages
 
-<img src="JeuDeCarte/Assets/img/Crea/5.png" width="80" height="auto" alt="Skyla, Danseuse des Nuages" style="float: left; margin-right: 15px; vertical-align: middle;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/5.png" width="140" height="auto" alt="Skyla, Danseuse des Nuages" style="margin-right: 15px; flex-shrink: 0;">
 
-**Skyla, Danseuse des Nuages** | **Élément:** Air | **Rareté:** Rare | **📊 PV:** 1010 | **Attaque:** 28 | **Défense:** 21 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Danse des Alizés** | **Symphonie de l'Air**
-
-<div style="clear: both; margin-bottom: 20px;"></div>
+<div style="flex: 1; display: flex; flex-direction: column; justify-content: space-between; height: 140px;">
+<div style="font-weight: bold; margin-bottom: 5px;">**Skyla, Danseuse des Nuages** | **Élément:** Air | **Rareté:** Rare</div>
+<div style="margin-bottom: 5px;">**📊 PV:** 1010 | **Attaque:** 28 | **Défense:** 21 | **Vitesse:** 0</div>
+<div style="margin-bottom: 5px;">**Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0%</div>
+<div>**⚡ Capacités:** **Danse des Alizés** | **Symphonie de l'Air**</div>
+</div>
+</div>
 
 ---
 ### Stratos, Esprit des Courants
 
-<img src="JeuDeCarte/Assets/img/Crea/75.png" width="80" height="auto" alt="Stratos, Esprit des Courants" style="float: left; margin-right: 15px; vertical-align: middle;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/75.png" width="140" height="auto" alt="Stratos, Esprit des Courants" style="margin-right: 15px; flex-shrink: 0;">
 
-**Stratos, Esprit des Courants** | **Élément:** Air | **Rareté:** Épique | **📊 PV:** 950 | **Attaque:** 42 | **Défense:** 12 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Voile Astral** | **Souffle de la Nébuleuse**
-
-<div style="clear: both; margin-bottom: 20px;"></div>
+<div style="flex: 1; display: flex; flex-direction: column; justify-content: space-between; height: 140px;">
+<div style="font-weight: bold; margin-bottom: 5px;">**Stratos, Esprit des Courants** | **Élément:** Air | **Rareté:** Épique</div>
+<div style="margin-bottom: 5px;">**📊 PV:** 950 | **Attaque:** 42 | **Défense:** 12 | **Vitesse:** 0</div>
+<div style="margin-bottom: 5px;">**Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0%</div>
+<div>**⚡ Capacités:** **Voile Astral** | **Souffle de la Nébuleuse**</div>
+</div>
+</div>
 
 ---
 ### Sylphar, Archer de la Canopée
 
-<img src="JeuDeCarte/Assets/img/Crea/10.png" width="80" height="auto" alt="Sylphar, Archer de la Canopée" style="float: left; margin-right: 15px; vertical-align: middle;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/10.png" width="140" height="auto" alt="Sylphar, Archer de la Canopée" style="margin-right: 15px; flex-shrink: 0;">
 
-**Sylphar, Archer de la Canopée** | **Élément:** Air | **Rareté:** Rare | **📊 PV:** 960 | **Attaque:** 29 | **Défense:** 18 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Tir Sylvestre**
-
-<div style="clear: both; margin-bottom: 20px;"></div>
+<div style="flex: 1; display: flex; flex-direction: column; justify-content: space-between; height: 140px;">
+<div style="font-weight: bold; margin-bottom: 5px;">**Sylphar, Archer de la Canopée** | **Élément:** Air | **Rareté:** Rare</div>
+<div style="margin-bottom: 5px;">**📊 PV:** 960 | **Attaque:** 29 | **Défense:** 18 | **Vitesse:** 0</div>
+<div style="margin-bottom: 5px;">**Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0%</div>
+<div>**⚡ Capacités:** **Tir Sylvestre**</div>
+</div>
+</div>
 
 ---
 ### Tempestra, Danseuse de la Tornade
 
-<img src="JeuDeCarte/Assets/img/Crea/27.png" width="80" height="auto" alt="Tempestra, Danseuse de la Tornade" style="float: left; margin-right: 15px; vertical-align: middle;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/27.png" width="140" height="auto" alt="Tempestra, Danseuse de la Tornade" style="margin-right: 15px; flex-shrink: 0;">
 
-**Tempestra, Danseuse de la Tornade** | **Élément:** Air | **Rareté:** Peu Commun | **📊 PV:** 760 | **Attaque:** 27 | **Défense:** 15 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Attaque basique Air**
-
-<div style="clear: both; margin-bottom: 20px;"></div>
+<div style="flex: 1; display: flex; flex-direction: column; justify-content: space-between; height: 140px;">
+<div style="font-weight: bold; margin-bottom: 5px;">**Tempestra, Danseuse de la Tornade** | **Élément:** Air | **Rareté:** Peu Commun</div>
+<div style="margin-bottom: 5px;">**📊 PV:** 760 | **Attaque:** 27 | **Défense:** 15 | **Vitesse:** 0</div>
+<div style="margin-bottom: 5px;">**Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0%</div>
+<div>**⚡ Capacités:** **Attaque basique Air**</div>
+</div>
+</div>
 
 ---
 ### Zepho, Génie des Courants
 
-<img src="JeuDeCarte/Assets/img/Crea/44.png" width="80" height="auto" alt="Zepho, Génie des Courants" style="float: left; margin-right: 15px; vertical-align: middle;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/44.png" width="140" height="auto" alt="Zepho, Génie des Courants" style="margin-right: 15px; flex-shrink: 0;">
 
-**Zepho, Génie des Courants** | **Élément:** Air | **Rareté:** Peu Commun | **📊 PV:** 865 | **Attaque:** 29 | **Défense:** 11 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Attaque basique Air**
-
-<div style="clear: both; margin-bottom: 20px;"></div>
+<div style="flex: 1; display: flex; flex-direction: column; justify-content: space-between; height: 140px;">
+<div style="font-weight: bold; margin-bottom: 5px;">**Zepho, Génie des Courants** | **Élément:** Air | **Rareté:** Peu Commun</div>
+<div style="margin-bottom: 5px;">**📊 PV:** 865 | **Attaque:** 29 | **Défense:** 11 | **Vitesse:** 0</div>
+<div style="margin-bottom: 5px;">**Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0%</div>
+<div>**⚡ Capacités:** **Attaque basique Air**</div>
+</div>
+</div>
 
 ---
 ### Zyklair, Djinn des Rafales
 
-<img src="JeuDeCarte/Assets/img/Crea/39.png" width="80" height="auto" alt="Zyklair, Djinn des Rafales" style="float: left; margin-right: 15px; vertical-align: middle;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/39.png" width="140" height="auto" alt="Zyklair, Djinn des Rafales" style="margin-right: 15px; flex-shrink: 0;">
 
-**Zyklair, Djinn des Rafales** | **Élément:** Air | **Rareté:** Rare | **📊 PV:** 940 | **Attaque:** 28 | **Défense:** 15 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Attaque basique Air**
-
-<div style="clear: both; margin-bottom: 20px;"></div>
+<div style="flex: 1; display: flex; flex-direction: column; justify-content: space-between; height: 140px;">
+<div style="font-weight: bold; margin-bottom: 5px;">**Zyklair, Djinn des Rafales** | **Élément:** Air | **Rareté:** Rare</div>
+<div style="margin-bottom: 5px;">**📊 PV:** 940 | **Attaque:** 28 | **Défense:** 15 | **Vitesse:** 0</div>
+<div style="margin-bottom: 5px;">**Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0%</div>
+<div>**⚡ Capacités:** **Attaque basique Air**</div>
+</div>
+</div>
 
 ---
 ### Zéphara, Valkyrie des Vents
 
-<img src="JeuDeCarte/Assets/img/Crea/64.png" width="80" height="auto" alt="Zéphara, Valkyrie des Vents" style="float: left; margin-right: 15px; vertical-align: middle;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/64.png" width="140" height="auto" alt="Zéphara, Valkyrie des Vents" style="margin-right: 15px; flex-shrink: 0;">
 
-**Zéphara, Valkyrie des Vents** | **Élément:** Air | **Rareté:** Épique | **📊 PV:** 980 | **Attaque:** 34 | **Défense:** 22 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Égide Aérienne** | **Lames du Mistral**
-
-<div style="clear: both; margin-bottom: 20px;"></div>
+<div style="flex: 1; display: flex; flex-direction: column; justify-content: space-between; height: 140px;">
+<div style="font-weight: bold; margin-bottom: 5px;">**Zéphara, Valkyrie des Vents** | **Élément:** Air | **Rareté:** Épique</div>
+<div style="margin-bottom: 5px;">**📊 PV:** 980 | **Attaque:** 34 | **Défense:** 22 | **Vitesse:** 0</div>
+<div style="margin-bottom: 5px;">**Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0%</div>
+<div>**⚡ Capacités:** **Égide Aérienne** | **Lames du Mistral**</div>
+</div>
+</div>
 
 ---
 
@@ -225,83 +290,128 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Abyssalor, Kraken des Profondeurs
 
-<img src="JeuDeCarte/Assets/img/Crea/45.png" width="80" height="auto" alt="Abyssalor, Kraken des Profondeurs" style="float: left; margin-right: 15px; vertical-align: middle;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/45.png" width="140" height="auto" alt="Abyssalor, Kraken des Profondeurs" style="margin-right: 15px; flex-shrink: 0;">
 
-**Abyssalor, Kraken des Profondeurs** | **Élément:** Eau | **Rareté:** Rare | **📊 PV:** 1160 | **Attaque:** 30 | **Défense:** 27 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Voile d'Encre** | **Coup de Tentacule**
-
-<div style="clear: both; margin-bottom: 20px;"></div>
+<div style="flex: 1; display: flex; flex-direction: column; justify-content: space-between; height: 140px;">
+<div style="font-weight: bold; margin-bottom: 5px;">**Abyssalor, Kraken des Profondeurs** | **Élément:** Eau | **Rareté:** Rare</div>
+<div style="margin-bottom: 5px;">**📊 PV:** 1160 | **Attaque:** 30 | **Défense:** 27 | **Vitesse:** 0</div>
+<div style="margin-bottom: 5px;">**Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0%</div>
+<div>**⚡ Capacités:** **Voile d'Encre** | **Coup de Tentacule**</div>
+</div>
+</div>
 
 ---
 ### Abyssine, Félin des Profondeurs
 
-<img src="JeuDeCarte/Assets/img/Crea/57.png" width="80" height="auto" alt="Abyssine, Félin des Profondeurs" style="float: left; margin-right: 15px; vertical-align: middle;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/57.png" width="140" height="auto" alt="Abyssine, Félin des Profondeurs" style="margin-right: 15px; flex-shrink: 0;">
 
-**Abyssine, Félin des Profondeurs** | **Élément:** Eau | **Rareté:** Peu Commun | **📊 PV:** 1020 | **Attaque:** 21 | **Défense:** 23 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Voile Aquatique** | **Griffure Abyssale**
-
-<div style="clear: both; margin-bottom: 20px;"></div>
+<div style="flex: 1; display: flex; flex-direction: column; justify-content: space-between; height: 140px;">
+<div style="font-weight: bold; margin-bottom: 5px;">**Abyssine, Félin des Profondeurs** | **Élément:** Eau | **Rareté:** Peu Commun</div>
+<div style="margin-bottom: 5px;">**📊 PV:** 1020 | **Attaque:** 21 | **Défense:** 23 | **Vitesse:** 0</div>
+<div style="margin-bottom: 5px;">**Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0%</div>
+<div>**⚡ Capacités:** **Voile Aquatique** | **Griffure Abyssale**</div>
+</div>
+</div>
 
 ---
 ### Aquaria, Sirène Mystique
 
-<img src="JeuDeCarte/Assets/img/Crea/17.png" width="80" height="auto" alt="Aquaria, Sirène Mystique" style="float: left; margin-right: 15px; vertical-align: middle;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/17.png" width="140" height="auto" alt="Aquaria, Sirène Mystique" style="margin-right: 15px; flex-shrink: 0;">
 
-**Aquaria, Sirène Mystique** | **Élément:** Eau | **Rareté:** Épique | **📊 PV:** 1029 | **Attaque:** 30 | **Défense:** 20 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Mélodie Hypnotique**
-
-<div style="clear: both; margin-bottom: 20px;"></div>
+<div style="flex: 1; display: flex; flex-direction: column; justify-content: space-between; height: 140px;">
+<div style="font-weight: bold; margin-bottom: 5px;">**Aquaria, Sirène Mystique** | **Élément:** Eau | **Rareté:** Épique</div>
+<div style="margin-bottom: 5px;">**📊 PV:** 1029 | **Attaque:** 30 | **Défense:** 20 | **Vitesse:** 0</div>
+<div style="margin-bottom: 5px;">**Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0%</div>
+<div>**⚡ Capacités:** **Mélodie Hypnotique**</div>
+</div>
+</div>
 
 ---
 ### Cristaline, Ondine Pure
 
-<img src="JeuDeCarte/Assets/img/Crea/9.png" width="80" height="auto" alt="Cristaline, Ondine Pure" style="float: left; margin-right: 15px; vertical-align: middle;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/9.png" width="140" height="auto" alt="Cristaline, Ondine Pure" style="margin-right: 15px; flex-shrink: 0;">
 
-**Cristaline, Ondine Pure** | **Élément:** Eau | **Rareté:** Commun | **📊 PV:** 840 | **Attaque:** 21 | **Défense:** 11 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Ca coule de source**
-
-<div style="clear: both; margin-bottom: 20px;"></div>
+<div style="flex: 1; display: flex; flex-direction: column; justify-content: space-between; height: 140px;">
+<div style="font-weight: bold; margin-bottom: 5px;">**Cristaline, Ondine Pure** | **Élément:** Eau | **Rareté:** Commun</div>
+<div style="margin-bottom: 5px;">**📊 PV:** 840 | **Attaque:** 21 | **Défense:** 11 | **Vitesse:** 0</div>
+<div style="margin-bottom: 5px;">**Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0%</div>
+<div>**⚡ Capacités:** **Ca coule de source**</div>
+</div>
+</div>
 
 ---
 ### Nixie, Fée de la Source
 
-<img src="JeuDeCarte/Assets/img/Crea/29.png" width="80" height="auto" alt="Nixie, Fée de la Source" style="float: left; margin-right: 15px; vertical-align: middle;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/29.png" width="140" height="auto" alt="Nixie, Fée de la Source" style="margin-right: 15px; flex-shrink: 0;">
 
-**Nixie, Fée de la Source** | **Élément:** Eau | **Rareté:** Rare | **📊 PV:** 890 | **Attaque:** 32 | **Défense:** 12 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Larmes Féerique**
-
-<div style="clear: both; margin-bottom: 20px;"></div>
+<div style="flex: 1; display: flex; flex-direction: column; justify-content: space-between; height: 140px;">
+<div style="font-weight: bold; margin-bottom: 5px;">**Nixie, Fée de la Source** | **Élément:** Eau | **Rareté:** Rare</div>
+<div style="margin-bottom: 5px;">**📊 PV:** 890 | **Attaque:** 32 | **Défense:** 12 | **Vitesse:** 0</div>
+<div style="margin-bottom: 5px;">**Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0%</div>
+<div>**⚡ Capacités:** **Larmes Féerique**</div>
+</div>
+</div>
 
 ---
 ### Siriona, Enchanteresse des Abysses
 
-<img src="JeuDeCarte/Assets/img/Crea/23.png" width="80" height="auto" alt="Siriona, Enchanteresse des Abysses" style="float: left; margin-right: 15px; vertical-align: middle;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/23.png" width="140" height="auto" alt="Siriona, Enchanteresse des Abysses" style="margin-right: 15px; flex-shrink: 0;">
 
-**Siriona, Enchanteresse des Abysses** | **Élément:** Eau | **Rareté:** Épique | **📊 PV:** 1200 | **Attaque:** 26 | **Défense:** 34 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Étreinte Liquide** | **Torrent Ensorcelé**
-
-<div style="clear: both; margin-bottom: 20px;"></div>
+<div style="flex: 1; display: flex; flex-direction: column; justify-content: space-between; height: 140px;">
+<div style="font-weight: bold; margin-bottom: 5px;">**Siriona, Enchanteresse des Abysses** | **Élément:** Eau | **Rareté:** Épique</div>
+<div style="margin-bottom: 5px;">**📊 PV:** 1200 | **Attaque:** 26 | **Défense:** 34 | **Vitesse:** 0</div>
+<div style="margin-bottom: 5px;">**Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0%</div>
+<div>**⚡ Capacités:** **Étreinte Liquide** | **Torrent Ensorcelé**</div>
+</div>
+</div>
 
 ---
 ### Torrentis, Gardien de l'Écume
 
-<img src="JeuDeCarte/Assets/img/Crea/32.png" width="80" height="auto" alt="Torrentis, Gardien de l'Écume" style="float: left; margin-right: 15px; vertical-align: middle;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/32.png" width="140" height="auto" alt="Torrentis, Gardien de l'Écume" style="margin-right: 15px; flex-shrink: 0;">
 
-**Torrentis, Gardien de l'Écume** | **Élément:** Eau | **Rareté:** Commun | **📊 PV:** 780 | **Attaque:** 19 | **Défense:** 19 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Attaque basique Eau**
-
-<div style="clear: both; margin-bottom: 20px;"></div>
+<div style="flex: 1; display: flex; flex-direction: column; justify-content: space-between; height: 140px;">
+<div style="font-weight: bold; margin-bottom: 5px;">**Torrentis, Gardien de l'Écume** | **Élément:** Eau | **Rareté:** Commun</div>
+<div style="margin-bottom: 5px;">**📊 PV:** 780 | **Attaque:** 19 | **Défense:** 19 | **Vitesse:** 0</div>
+<div style="margin-bottom: 5px;">**Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0%</div>
+<div>**⚡ Capacités:** **Attaque basique Eau**</div>
+</div>
+</div>
 
 ---
 ### Torrick, Gardien du Torrent
 
-<img src="JeuDeCarte/Assets/img/Crea/50.png" width="80" height="auto" alt="Torrick, Gardien du Torrent" style="float: left; margin-right: 15px; vertical-align: middle;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/50.png" width="140" height="auto" alt="Torrick, Gardien du Torrent" style="margin-right: 15px; flex-shrink: 0;">
 
-**Torrick, Gardien du Torrent** | **Élément:** Eau | **Rareté:** Mythique | **📊 PV:** 1350 | **Attaque:** 39 | **Défense:** 24 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Soin Protecteur** | **Coup Tranchant**
-
-<div style="clear: both; margin-bottom: 20px;"></div>
+<div style="flex: 1; display: flex; flex-direction: column; justify-content: space-between; height: 140px;">
+<div style="font-weight: bold; margin-bottom: 5px;">**Torrick, Gardien du Torrent** | **Élément:** Eau | **Rareté:** Mythique</div>
+<div style="margin-bottom: 5px;">**📊 PV:** 1350 | **Attaque:** 39 | **Défense:** 24 | **Vitesse:** 0</div>
+<div style="margin-bottom: 5px;">**Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0%</div>
+<div>**⚡ Capacités:** **Soin Protecteur** | **Coup Tranchant**</div>
+</div>
+</div>
 
 ---
 ### Typhion, Léviathan du Maelström
 
-<img src="JeuDeCarte/Assets/img/Crea/65.png" width="80" height="auto" alt="Typhion, Léviathan du Maelström" style="float: left; margin-right: 15px; vertical-align: middle;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/65.png" width="140" height="auto" alt="Typhion, Léviathan du Maelström" style="margin-right: 15px; flex-shrink: 0;">
 
-**Typhion, Léviathan du Maelström** | **Élément:** Eau | **Rareté:** Mythique | **📊 PV:** 1111 | **Attaque:** 44 | **Défense:** 16 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Typhon** | **Avalement** | **Cri Abyssale**
-
-<div style="clear: both; margin-bottom: 20px;"></div>
+<div style="flex: 1; display: flex; flex-direction: column; justify-content: space-between; height: 140px;">
+<div style="font-weight: bold; margin-bottom: 5px;">**Typhion, Léviathan du Maelström** | **Élément:** Eau | **Rareté:** Mythique</div>
+<div style="margin-bottom: 5px;">**📊 PV:** 1111 | **Attaque:** 44 | **Défense:** 16 | **Vitesse:** 0</div>
+<div style="margin-bottom: 5px;">**Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0%</div>
+<div>**⚡ Capacités:** **Typhon** | **Avalement** | **Cri Abyssale**</div>
+</div>
+</div>
 
 ---
 
@@ -309,137 +419,212 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Firocus, Renard Volcanique
 
-<img src="JeuDeCarte/Assets/img/Crea/58.png" width="80" height="auto" alt="Firocus, Renard Volcanique" style="float: left; margin-right: 15px; vertical-align: middle;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/58.png" width="140" height="auto" alt="Firocus, Renard Volcanique" style="margin-right: 15px; flex-shrink: 0;">
 
-**Firocus, Renard Volcanique** | **Élément:** Feu | **Rareté:** Épique | **📊 PV:** 872 | **Attaque:** 33 | **Défense:** 14 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Attaque basique Feu** | **Attaque basique Feu**
-
-<div style="clear: both; margin-bottom: 20px;"></div>
+<div style="flex: 1; display: flex; flex-direction: column; justify-content: space-between; height: 140px;">
+<div style="font-weight: bold; margin-bottom: 5px;">**Firocus, Renard Volcanique** | **Élément:** Feu | **Rareté:** Épique</div>
+<div style="margin-bottom: 5px;">**📊 PV:** 872 | **Attaque:** 33 | **Défense:** 14 | **Vitesse:** 0</div>
+<div style="margin-bottom: 5px;">**Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0%</div>
+<div>**⚡ Capacités:** **Attaque basique Feu** | **Attaque basique Feu**</div>
+</div>
+</div>
 
 ---
 ### Flamby, Lutin des Flammes
 
-<img src="JeuDeCarte/Assets/img/Crea/68.png" width="80" height="auto" alt="Flamby, Lutin des Flammes" style="float: left; margin-right: 15px; vertical-align: middle;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/68.png" width="140" height="auto" alt="Flamby, Lutin des Flammes" style="margin-right: 15px; flex-shrink: 0;">
 
-**Flamby, Lutin des Flammes** | **Élément:** Feu | **Rareté:** Spécial | **📊 PV:** 710 | **Attaque:** 17 | **Défense:** 8 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Graine Enflammée** | **Graine Explosive**
-
-<div style="clear: both; margin-bottom: 20px;"></div>
+<div style="flex: 1; display: flex; flex-direction: column; justify-content: space-between; height: 140px;">
+<div style="font-weight: bold; margin-bottom: 5px;">**Flamby, Lutin des Flammes** | **Élément:** Feu | **Rareté:** Spécial</div>
+<div style="margin-bottom: 5px;">**📊 PV:** 710 | **Attaque:** 17 | **Défense:** 8 | **Vitesse:** 0</div>
+<div style="margin-bottom: 5px;">**Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0%</div>
+<div>**⚡ Capacités:** **Graine Enflammée** | **Graine Explosive**</div>
+</div>
+</div>
 
 ---
 ### Ignarok, Roc en Fusion
 
-<img src="JeuDeCarte/Assets/img/Crea/62.png" width="80" height="auto" alt="Ignarok, Roc en Fusion" style="float: left; margin-right: 15px; vertical-align: middle;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/62.png" width="140" height="auto" alt="Ignarok, Roc en Fusion" style="margin-right: 15px; flex-shrink: 0;">
 
-**Ignarok, Roc en Fusion** | **Élément:** Feu | **Rareté:** Rare | **📊 PV:** 870 | **Attaque:** 28 | **Défense:** 16 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Lancer Tellurique** | **Pierre Enflammée**
-
-<div style="clear: both; margin-bottom: 20px;"></div>
+<div style="flex: 1; display: flex; flex-direction: column; justify-content: space-between; height: 140px;">
+<div style="font-weight: bold; margin-bottom: 5px;">**Ignarok, Roc en Fusion** | **Élément:** Feu | **Rareté:** Rare</div>
+<div style="margin-bottom: 5px;">**📊 PV:** 870 | **Attaque:** 28 | **Défense:** 16 | **Vitesse:** 0</div>
+<div style="margin-bottom: 5px;">**Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0%</div>
+<div>**⚡ Capacités:** **Lancer Tellurique** | **Pierre Enflammée**</div>
+</div>
+</div>
 
 ---
 ### Ignissia, Sorcière des Brasiers
 
-<img src="JeuDeCarte/Assets/img/Crea/31.png" width="80" height="auto" alt="Ignissia, Sorcière des Brasiers" style="float: left; margin-right: 15px; vertical-align: middle;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/31.png" width="140" height="auto" alt="Ignissia, Sorcière des Brasiers" style="margin-right: 15px; flex-shrink: 0;">
 
-**Ignissia, Sorcière des Brasiers** | **Élément:** Feu | **Rareté:** Commun | **📊 PV:** 850 | **Attaque:** 23 | **Défense:** 15 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Attaque basique Feu**
-
-<div style="clear: both; margin-bottom: 20px;"></div>
+<div style="flex: 1; display: flex; flex-direction: column; justify-content: space-between; height: 140px;">
+<div style="font-weight: bold; margin-bottom: 5px;">**Ignissia, Sorcière des Brasiers** | **Élément:** Feu | **Rareté:** Commun</div>
+<div style="margin-bottom: 5px;">**📊 PV:** 850 | **Attaque:** 23 | **Défense:** 15 | **Vitesse:** 0</div>
+<div style="margin-bottom: 5px;">**Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0%</div>
+<div>**⚡ Capacités:** **Attaque basique Feu**</div>
+</div>
+</div>
 
 ---
 ### Incendior, Dragon de Feu
 
-<img src="JeuDeCarte/Assets/img/Crea/48.png" width="80" height="auto" alt="Incendior, Dragon de Feu" style="float: left; margin-right: 15px; vertical-align: middle;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/48.png" width="140" height="auto" alt="Incendior, Dragon de Feu" style="margin-right: 15px; flex-shrink: 0;">
 
-**Incendior, Dragon de Feu** | **Élément:** Feu | **Rareté:** Rare | **📊 PV:** 940 | **Attaque:** 27 | **Défense:** 18 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Souffle Enflammé**
-
-<div style="clear: both; margin-bottom: 20px;"></div>
+<div style="flex: 1; display: flex; flex-direction: column; justify-content: space-between; height: 140px;">
+<div style="font-weight: bold; margin-bottom: 5px;">**Incendior, Dragon de Feu** | **Élément:** Feu | **Rareté:** Rare</div>
+<div style="margin-bottom: 5px;">**📊 PV:** 940 | **Attaque:** 27 | **Défense:** 18 | **Vitesse:** 0</div>
+<div style="margin-bottom: 5px;">**Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0%</div>
+<div>**⚡ Capacités:** **Souffle Enflammé**</div>
+</div>
+</div>
 
 ---
 ### Pyraxis, Élémentaire de Magma
 
-<img src="JeuDeCarte/Assets/img/Crea/54.png" width="80" height="auto" alt="Pyraxis, Élémentaire de Magma" style="float: left; margin-right: 15px; vertical-align: middle;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/54.png" width="140" height="auto" alt="Pyraxis, Élémentaire de Magma" style="margin-right: 15px; flex-shrink: 0;">
 
-**Pyraxis, Élémentaire de Magma** | **Élément:** Feu | **Rareté:** Peu Commun | **📊 PV:** 780 | **Attaque:** 25 | **Défense:** 13 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Rocher Magmatique**
-
-<div style="clear: both; margin-bottom: 20px;"></div>
+<div style="flex: 1; display: flex; flex-direction: column; justify-content: space-between; height: 140px;">
+<div style="font-weight: bold; margin-bottom: 5px;">**Pyraxis, Élémentaire de Magma** | **Élément:** Feu | **Rareté:** Peu Commun</div>
+<div style="margin-bottom: 5px;">**📊 PV:** 780 | **Attaque:** 25 | **Défense:** 13 | **Vitesse:** 0</div>
+<div style="margin-bottom: 5px;">**Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0%</div>
+<div>**⚡ Capacités:** **Rocher Magmatique**</div>
+</div>
+</div>
 
 ---
 ### Pyrodrake, Dragon de Braise
 
-<img src="JeuDeCarte/Assets/img/Crea/1.png" width="80" height="auto" alt="Pyrodrake, Dragon de Braise" style="float: left; margin-right: 15px; vertical-align: middle;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/1.png" width="140" height="auto" alt="Pyrodrake, Dragon de Braise" style="margin-right: 15px; flex-shrink: 0;">
 
-**Pyrodrake, Dragon de Braise** | **Élément:** Feu | **Rareté:** Mythique | **📊 PV:** 1200 | **Attaque:** 35 | **Défense:** 22 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Souffle Enflammé** | **Tourbillon de Flamme**
-
-<div style="clear: both; margin-bottom: 20px;"></div>
+<div style="flex: 1; display: flex; flex-direction: column; justify-content: space-between; height: 140px;">
+<div style="font-weight: bold; margin-bottom: 5px;">**Pyrodrake, Dragon de Braise** | **Élément:** Feu | **Rareté:** Mythique</div>
+<div style="margin-bottom: 5px;">**📊 PV:** 1200 | **Attaque:** 35 | **Défense:** 22 | **Vitesse:** 0</div>
+<div style="margin-bottom: 5px;">**Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0%</div>
+<div>**⚡ Capacités:** **Souffle Enflammé** | **Tourbillon de Flamme**</div>
+</div>
+</div>
 
 ---
 ### Pyrolynx, Lynx Ardent
 
-<img src="JeuDeCarte/Assets/img/Crea/72.png" width="80" height="auto" alt="Pyrolynx, Lynx Ardent" style="float: left; margin-right: 15px; vertical-align: middle;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/72.png" width="140" height="auto" alt="Pyrolynx, Lynx Ardent" style="margin-right: 15px; flex-shrink: 0;">
 
-**Pyrolynx, Lynx Ardent** | **Élément:** Feu | **Rareté:** Épique | **📊 PV:** 870 | **Attaque:** 35 | **Défense:** 17 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Coup de Griffe Ardente**
-
-<div style="clear: both; margin-bottom: 20px;"></div>
+<div style="flex: 1; display: flex; flex-direction: column; justify-content: space-between; height: 140px;">
+<div style="font-weight: bold; margin-bottom: 5px;">**Pyrolynx, Lynx Ardent** | **Élément:** Feu | **Rareté:** Épique</div>
+<div style="margin-bottom: 5px;">**📊 PV:** 870 | **Attaque:** 35 | **Défense:** 17 | **Vitesse:** 0</div>
+<div style="margin-bottom: 5px;">**Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0%</div>
+<div>**⚡ Capacités:** **Coup de Griffe Ardente**</div>
+</div>
+</div>
 
 ---
 ### Pyropoulpe, Poulpe Incandescent
 
-<img src="JeuDeCarte/Assets/img/Crea/20.png" width="80" height="auto" alt="Pyropoulpe, Poulpe Incandescent" style="float: left; margin-right: 15px; vertical-align: middle;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/20.png" width="140" height="auto" alt="Pyropoulpe, Poulpe Incandescent" style="margin-right: 15px; flex-shrink: 0;">
 
-**Pyropoulpe, Poulpe Incandescent** | **Élément:** Feu | **Rareté:** Peu Commun | **📊 PV:** 995 | **Attaque:** 30 | **Défense:** 18 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Torrent Ardent**
-
-<div style="clear: both; margin-bottom: 20px;"></div>
+<div style="flex: 1; display: flex; flex-direction: column; justify-content: space-between; height: 140px;">
+<div style="font-weight: bold; margin-bottom: 5px;">**Pyropoulpe, Poulpe Incandescent** | **Élément:** Feu | **Rareté:** Peu Commun</div>
+<div style="margin-bottom: 5px;">**📊 PV:** 995 | **Attaque:** 30 | **Défense:** 18 | **Vitesse:** 0</div>
+<div style="margin-bottom: 5px;">**Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0%</div>
+<div>**⚡ Capacités:** **Torrent Ardent**</div>
+</div>
+</div>
 
 ---
 ### Rubra, Salamandre Incandescente
 
-<img src="JeuDeCarte/Assets/img/Crea/42.png" width="80" height="auto" alt="Rubra, Salamandre Incandescente" style="float: left; margin-right: 15px; vertical-align: middle;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/42.png" width="140" height="auto" alt="Rubra, Salamandre Incandescente" style="margin-right: 15px; flex-shrink: 0;">
 
-**Rubra, Salamandre Incandescente** | **Élément:** Feu | **Rareté:** Peu Commun | **📊 PV:** 780 | **Attaque:** 21 | **Défense:** 12 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Griffe acérée** | **Coup de Langue**
-
-<div style="clear: both; margin-bottom: 20px;"></div>
+<div style="flex: 1; display: flex; flex-direction: column; justify-content: space-between; height: 140px;">
+<div style="font-weight: bold; margin-bottom: 5px;">**Rubra, Salamandre Incandescente** | **Élément:** Feu | **Rareté:** Peu Commun</div>
+<div style="margin-bottom: 5px;">**📊 PV:** 780 | **Attaque:** 21 | **Défense:** 12 | **Vitesse:** 0</div>
+<div style="margin-bottom: 5px;">**Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0%</div>
+<div>**⚡ Capacités:** **Griffe acérée** | **Coup de Langue**</div>
+</div>
+</div>
 
 ---
 ### Salamandra, Magicienne Incandescente
 
-<img src="JeuDeCarte/Assets/img/Crea/2.png" width="80" height="auto" alt="Salamandra, Magicienne Incandescente" style="float: left; margin-right: 15px; vertical-align: middle;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/2.png" width="140" height="auto" alt="Salamandra, Magicienne Incandescente" style="margin-right: 15px; flex-shrink: 0;">
 
-**Salamandra, Magicienne Incandescente** | **Élément:** Feu | **Rareté:** Épique | **📊 PV:** 950 | **Attaque:** 30 | **Défense:** 16 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Flamme Foudroyante** | **Décharge Incandescente**
-
-<div style="clear: both; margin-bottom: 20px;"></div>
+<div style="flex: 1; display: flex; flex-direction: column; justify-content: space-between; height: 140px;">
+<div style="font-weight: bold; margin-bottom: 5px;">**Salamandra, Magicienne Incandescente** | **Élément:** Feu | **Rareté:** Épique</div>
+<div style="margin-bottom: 5px;">**📊 PV:** 950 | **Attaque:** 30 | **Défense:** 16 | **Vitesse:** 0</div>
+<div style="margin-bottom: 5px;">**Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0%</div>
+<div>**⚡ Capacités:** **Flamme Foudroyante** | **Décharge Incandescente**</div>
+</div>
+</div>
 
 ---
 ### Solaris, Paladin du Soleil
 
-<img src="JeuDeCarte/Assets/img/Crea/26.png" width="80" height="auto" alt="Solaris, Paladin du Soleil" style="float: left; margin-right: 15px; vertical-align: middle;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/26.png" width="140" height="auto" alt="Solaris, Paladin du Soleil" style="margin-right: 15px; flex-shrink: 0;">
 
-**Solaris, Paladin du Soleil** | **Élément:** Feu | **Rareté:** Rare | **📊 PV:** 940 | **Attaque:** 32 | **Défense:** 13 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Armure Incandescente**
-
-<div style="clear: both; margin-bottom: 20px;"></div>
+<div style="flex: 1; display: flex; flex-direction: column; justify-content: space-between; height: 140px;">
+<div style="font-weight: bold; margin-bottom: 5px;">**Solaris, Paladin du Soleil** | **Élément:** Feu | **Rareté:** Rare</div>
+<div style="margin-bottom: 5px;">**📊 PV:** 940 | **Attaque:** 32 | **Défense:** 13 | **Vitesse:** 0</div>
+<div style="margin-bottom: 5px;">**Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0%</div>
+<div>**⚡ Capacités:** **Armure Incandescente**</div>
+</div>
+</div>
 
 ---
 ### Solune, Chamane Solaire
 
-<img src="JeuDeCarte/Assets/img/Crea/52.png" width="80" height="auto" alt="Solune, Chamane Solaire" style="float: left; margin-right: 15px; vertical-align: middle;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/52.png" width="140" height="auto" alt="Solune, Chamane Solaire" style="margin-right: 15px; flex-shrink: 0;">
 
-**Solune, Chamane Solaire** | **Élément:** Feu | **Rareté:** Peu Commun | **📊 PV:** 850 | **Attaque:** 23 | **Défense:** 14 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Attaque basique Feu**
-
-<div style="clear: both; margin-bottom: 20px;"></div>
+<div style="flex: 1; display: flex; flex-direction: column; justify-content: space-between; height: 140px;">
+<div style="font-weight: bold; margin-bottom: 5px;">**Solune, Chamane Solaire** | **Élément:** Feu | **Rareté:** Peu Commun</div>
+<div style="margin-bottom: 5px;">**📊 PV:** 850 | **Attaque:** 23 | **Défense:** 14 | **Vitesse:** 0</div>
+<div style="margin-bottom: 5px;">**Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0%</div>
+<div>**⚡ Capacités:** **Attaque basique Feu**</div>
+</div>
+</div>
 
 ---
 ### Venturio, Chevalier Écarlate
 
-<img src="JeuDeCarte/Assets/img/Crea/38.png" width="80" height="auto" alt="Venturio, Chevalier Écarlate" style="float: left; margin-right: 15px; vertical-align: middle;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/38.png" width="140" height="auto" alt="Venturio, Chevalier Écarlate" style="margin-right: 15px; flex-shrink: 0;">
 
-**Venturio, Chevalier Écarlate** | **Élément:** Feu | **Rareté:** Rare | **📊 PV:** 900 | **Attaque:** 28 | **Défense:** 14 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Attaque basique Feu**
-
-<div style="clear: both; margin-bottom: 20px;"></div>
+<div style="flex: 1; display: flex; flex-direction: column; justify-content: space-between; height: 140px;">
+<div style="font-weight: bold; margin-bottom: 5px;">**Venturio, Chevalier Écarlate** | **Élément:** Feu | **Rareté:** Rare</div>
+<div style="margin-bottom: 5px;">**📊 PV:** 900 | **Attaque:** 28 | **Défense:** 14 | **Vitesse:** 0</div>
+<div style="margin-bottom: 5px;">**Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0%</div>
+<div>**⚡ Capacités:** **Attaque basique Feu**</div>
+</div>
+</div>
 
 ---
 ### Vulcan, Forgeron de l'Enclume Ardente
 
-<img src="JeuDeCarte/Assets/img/Crea/11.png" width="80" height="auto" alt="Vulcan, Forgeron de l'Enclume Ardente" style="float: left; margin-right: 15px; vertical-align: middle;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/11.png" width="140" height="auto" alt="Vulcan, Forgeron de l'Enclume Ardente" style="margin-right: 15px; flex-shrink: 0;">
 
-**Vulcan, Forgeron de l'Enclume Ardente** | **Élément:** Feu | **Rareté:** Épique | **📊 PV:** 940 | **Attaque:** 32 | **Défense:** 15 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Ardeur de la Forge** | **Martelage**
-
-<div style="clear: both; margin-bottom: 20px;"></div>
+<div style="flex: 1; display: flex; flex-direction: column; justify-content: space-between; height: 140px;">
+<div style="font-weight: bold; margin-bottom: 5px;">**Vulcan, Forgeron de l'Enclume Ardente** | **Élément:** Feu | **Rareté:** Épique</div>
+<div style="margin-bottom: 5px;">**📊 PV:** 940 | **Attaque:** 32 | **Défense:** 15 | **Vitesse:** 0</div>
+<div style="margin-bottom: 5px;">**Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0%</div>
+<div>**⚡ Capacités:** **Ardeur de la Forge** | **Martelage**</div>
+</div>
+</div>
 
 ---
 
@@ -447,65 +632,100 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Alice, la Lame Sanglante
 
-<img src="JeuDeCarte/Assets/img/Crea/78.png" width="80" height="auto" alt="Alice, la Lame Sanglante" style="float: left; margin-right: 15px; vertical-align: middle;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/78.png" width="140" height="auto" alt="Alice, la Lame Sanglante" style="margin-right: 15px; flex-shrink: 0;">
 
-**Alice, la Lame Sanglante** | **Élément:** Foudre | **Rareté:** Épique | **📊 PV:** 1100 | **Attaque:** 28 | **Défense:** 11 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Foudre Éclair** | **Coupe Foudre**
-
-<div style="clear: both; margin-bottom: 20px;"></div>
+<div style="flex: 1; display: flex; flex-direction: column; justify-content: space-between; height: 140px;">
+<div style="font-weight: bold; margin-bottom: 5px;">**Alice, la Lame Sanglante** | **Élément:** Foudre | **Rareté:** Épique</div>
+<div style="margin-bottom: 5px;">**📊 PV:** 1100 | **Attaque:** 28 | **Défense:** 11 | **Vitesse:** 0</div>
+<div style="margin-bottom: 5px;">**Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0%</div>
+<div>**⚡ Capacités:** **Foudre Éclair** | **Coupe Foudre**</div>
+</div>
+</div>
 
 ---
 ### Fulgo, Orbe Electrique
 
-<img src="JeuDeCarte/Assets/img/Crea/46.png" width="80" height="auto" alt="Fulgo, Orbe Electrique" style="float: left; margin-right: 15px; vertical-align: middle;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/46.png" width="140" height="auto" alt="Fulgo, Orbe Electrique" style="margin-right: 15px; flex-shrink: 0;">
 
-**Fulgo, Orbe Electrique** | **Élément:** Foudre | **Rareté:** Rare | **📊 PV:** 830 | **Attaque:** 28 | **Défense:** 13 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Sphère Shock**
-
-<div style="clear: both; margin-bottom: 20px;"></div>
+<div style="flex: 1; display: flex; flex-direction: column; justify-content: space-between; height: 140px;">
+<div style="font-weight: bold; margin-bottom: 5px;">**Fulgo, Orbe Electrique** | **Élément:** Foudre | **Rareté:** Rare</div>
+<div style="margin-bottom: 5px;">**📊 PV:** 830 | **Attaque:** 28 | **Défense:** 13 | **Vitesse:** 0</div>
+<div style="margin-bottom: 5px;">**Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0%</div>
+<div>**⚡ Capacités:** **Sphère Shock**</div>
+</div>
+</div>
 
 ---
 ### Fulminia, Valkyrie de l'Orage
 
-<img src="JeuDeCarte/Assets/img/Crea/36.png" width="80" height="auto" alt="Fulminia, Valkyrie de l'Orage" style="float: left; margin-right: 15px; vertical-align: middle;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/36.png" width="140" height="auto" alt="Fulminia, Valkyrie de l'Orage" style="margin-right: 15px; flex-shrink: 0;">
 
-**Fulminia, Valkyrie de l'Orage** | **Élément:** Foudre | **Rareté:** Rare | **📊 PV:** 940 | **Attaque:** 29 | **Défense:** 17 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Éclair Tranchant**
-
-<div style="clear: both; margin-bottom: 20px;"></div>
+<div style="flex: 1; display: flex; flex-direction: column; justify-content: space-between; height: 140px;">
+<div style="font-weight: bold; margin-bottom: 5px;">**Fulminia, Valkyrie de l'Orage** | **Élément:** Foudre | **Rareté:** Rare</div>
+<div style="margin-bottom: 5px;">**📊 PV:** 940 | **Attaque:** 29 | **Défense:** 17 | **Vitesse:** 0</div>
+<div style="margin-bottom: 5px;">**Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0%</div>
+<div>**⚡ Capacités:** **Éclair Tranchant**</div>
+</div>
+</div>
 
 ---
 ### Stormy, Enfant de la Foudre
 
-<img src="JeuDeCarte/Assets/img/Crea/8.png" width="80" height="auto" alt="Stormy, Enfant de la Foudre" style="float: left; margin-right: 15px; vertical-align: middle;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/8.png" width="140" height="auto" alt="Stormy, Enfant de la Foudre" style="margin-right: 15px; flex-shrink: 0;">
 
-**Stormy, Enfant de la Foudre** | **Élément:** Foudre | **Rareté:** Peu Commun | **📊 PV:** 825 | **Attaque:** 24 | **Défense:** 16 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Morsure Statique**
-
-<div style="clear: both; margin-bottom: 20px;"></div>
+<div style="flex: 1; display: flex; flex-direction: column; justify-content: space-between; height: 140px;">
+<div style="font-weight: bold; margin-bottom: 5px;">**Stormy, Enfant de la Foudre** | **Élément:** Foudre | **Rareté:** Peu Commun</div>
+<div style="margin-bottom: 5px;">**📊 PV:** 825 | **Attaque:** 24 | **Défense:** 16 | **Vitesse:** 0</div>
+<div style="margin-bottom: 5px;">**Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0%</div>
+<div>**⚡ Capacités:** **Morsure Statique**</div>
+</div>
+</div>
 
 ---
 ### Voltania, Serpent Fulgurant
 
-<img src="JeuDeCarte/Assets/img/Crea/56.png" width="80" height="auto" alt="Voltania, Serpent Fulgurant" style="float: left; margin-right: 15px; vertical-align: middle;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/56.png" width="140" height="auto" alt="Voltania, Serpent Fulgurant" style="margin-right: 15px; flex-shrink: 0;">
 
-**Voltania, Serpent Fulgurant** | **Élément:** Foudre | **Rareté:** Rare | **📊 PV:** 950 | **Attaque:** 25 | **Défense:** 16 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Morsure Fulgurante** | **Double Frappe**
-
-<div style="clear: both; margin-bottom: 20px;"></div>
+<div style="flex: 1; display: flex; flex-direction: column; justify-content: space-between; height: 140px;">
+<div style="font-weight: bold; margin-bottom: 5px;">**Voltania, Serpent Fulgurant** | **Élément:** Foudre | **Rareté:** Rare</div>
+<div style="margin-bottom: 5px;">**📊 PV:** 950 | **Attaque:** 25 | **Défense:** 16 | **Vitesse:** 0</div>
+<div style="margin-bottom: 5px;">**Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0%</div>
+<div>**⚡ Capacités:** **Morsure Fulgurante** | **Double Frappe**</div>
+</div>
+</div>
 
 ---
 ### Voltar, Seigneur de l'Orage
 
-<img src="JeuDeCarte/Assets/img/Crea/13.png" width="80" height="auto" alt="Voltar, Seigneur de l'Orage" style="float: left; margin-right: 15px; vertical-align: middle;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/13.png" width="140" height="auto" alt="Voltar, Seigneur de l'Orage" style="margin-right: 15px; flex-shrink: 0;">
 
-**Voltar, Seigneur de l'Orage** | **Élément:** Foudre | **Rareté:** Rare | **📊 PV:** 1080 | **Attaque:** 28 | **Défense:** 18 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Boule d'Énergie** | **Court-circuit**
-
-<div style="clear: both; margin-bottom: 20px;"></div>
+<div style="flex: 1; display: flex; flex-direction: column; justify-content: space-between; height: 140px;">
+<div style="font-weight: bold; margin-bottom: 5px;">**Voltar, Seigneur de l'Orage** | **Élément:** Foudre | **Rareté:** Rare</div>
+<div style="margin-bottom: 5px;">**📊 PV:** 1080 | **Attaque:** 28 | **Défense:** 18 | **Vitesse:** 0</div>
+<div style="margin-bottom: 5px;">**Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0%</div>
+<div>**⚡ Capacités:** **Boule d'Énergie** | **Court-circuit**</div>
+</div>
+</div>
 
 ---
 ### Voltix, Lutin Électrique
 
-<img src="JeuDeCarte/Assets/img/Crea/24.png" width="80" height="auto" alt="Voltix, Lutin Électrique" style="float: left; margin-right: 15px; vertical-align: middle;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/24.png" width="140" height="auto" alt="Voltix, Lutin Électrique" style="margin-right: 15px; flex-shrink: 0;">
 
-**Voltix, Lutin Électrique** | **Élément:** Foudre | **Rareté:** Épique | **📊 PV:** 935 | **Attaque:** 30 | **Défense:** 14 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Foudre Bondissante**
-
-<div style="clear: both; margin-bottom: 20px;"></div>
+<div style="flex: 1; display: flex; flex-direction: column; justify-content: space-between; height: 140px;">
+<div style="font-weight: bold; margin-bottom: 5px;">**Voltix, Lutin Électrique** | **Élément:** Foudre | **Rareté:** Épique</div>
+<div style="margin-bottom: 5px;">**📊 PV:** 935 | **Attaque:** 30 | **Défense:** 14 | **Vitesse:** 0</div>
+<div style="margin-bottom: 5px;">**Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0%</div>
+<div>**⚡ Capacités:** **Foudre Bondissante**</div>
+</div>
+</div>
 
 ---
 
@@ -513,101 +733,156 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Brumys, Fantôme du Givre
 
-<img src="JeuDeCarte/Assets/img/Crea/59.png" width="80" height="auto" alt="Brumys, Fantôme du Givre" style="float: left; margin-right: 15px; vertical-align: middle;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/59.png" width="140" height="auto" alt="Brumys, Fantôme du Givre" style="margin-right: 15px; flex-shrink: 0;">
 
-**Brumys, Fantôme du Givre** | **Élément:** Glace | **Rareté:** Rare | **📊 PV:** 980 | **Attaque:** 29 | **Défense:** 19 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Attaque basique Glace**
-
-<div style="clear: both; margin-bottom: 20px;"></div>
+<div style="flex: 1; display: flex; flex-direction: column; justify-content: space-between; height: 140px;">
+<div style="font-weight: bold; margin-bottom: 5px;">**Brumys, Fantôme du Givre** | **Élément:** Glace | **Rareté:** Rare</div>
+<div style="margin-bottom: 5px;">**📊 PV:** 980 | **Attaque:** 29 | **Défense:** 19 | **Vitesse:** 0</div>
+<div style="margin-bottom: 5px;">**Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0%</div>
+<div>**⚡ Capacités:** **Attaque basique Glace**</div>
+</div>
+</div>
 
 ---
 ### Cryomage, Mage du Givre
 
-<img src="JeuDeCarte/Assets/img/Crea/41.png" width="80" height="auto" alt="Cryomage, Mage du Givre" style="float: left; margin-right: 15px; vertical-align: middle;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/41.png" width="140" height="auto" alt="Cryomage, Mage du Givre" style="margin-right: 15px; flex-shrink: 0;">
 
-**Cryomage, Mage du Givre** | **Élément:** Glace | **Rareté:** Rare | **📊 PV:** 1290 | **Attaque:** 24 | **Défense:** 36 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Attaque basique Glace**
-
-<div style="clear: both; margin-bottom: 20px;"></div>
+<div style="flex: 1; display: flex; flex-direction: column; justify-content: space-between; height: 140px;">
+<div style="font-weight: bold; margin-bottom: 5px;">**Cryomage, Mage du Givre** | **Élément:** Glace | **Rareté:** Rare</div>
+<div style="margin-bottom: 5px;">**📊 PV:** 1290 | **Attaque:** 24 | **Défense:** 36 | **Vitesse:** 0</div>
+<div style="margin-bottom: 5px;">**Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0%</div>
+<div>**⚡ Capacités:** **Attaque basique Glace**</div>
+</div>
+</div>
 
 ---
 ### Frimousse, Esprit Givré
 
-<img src="JeuDeCarte/Assets/img/Crea/4.png" width="80" height="auto" alt="Frimousse, Esprit Givré" style="float: left; margin-right: 15px; vertical-align: middle;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/4.png" width="140" height="auto" alt="Frimousse, Esprit Givré" style="margin-right: 15px; flex-shrink: 0;">
 
-**Frimousse, Esprit Givré** | **Élément:** Glace | **Rareté:** Commun | **📊 PV:** 780 | **Attaque:** 23 | **Défense:** 13 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Attaque basique Glace**
-
-<div style="clear: both; margin-bottom: 20px;"></div>
+<div style="flex: 1; display: flex; flex-direction: column; justify-content: space-between; height: 140px;">
+<div style="font-weight: bold; margin-bottom: 5px;">**Frimousse, Esprit Givré** | **Élément:** Glace | **Rareté:** Commun</div>
+<div style="margin-bottom: 5px;">**📊 PV:** 780 | **Attaque:** 23 | **Défense:** 13 | **Vitesse:** 0</div>
+<div style="margin-bottom: 5px;">**Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0%</div>
+<div>**⚡ Capacités:** **Attaque basique Glace**</div>
+</div>
+</div>
 
 ---
 ### Galádra, Matriarche du Givre
 
-<img src="JeuDeCarte/Assets/img/Crea/71.png" width="80" height="auto" alt="Galádra, Matriarche du Givre" style="float: left; margin-right: 15px; vertical-align: middle;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/71.png" width="140" height="auto" alt="Galádra, Matriarche du Givre" style="margin-right: 15px; flex-shrink: 0;">
 
-**Galádra, Matriarche du Givre** | **Élément:** Glace | **Rareté:** Rare | **📊 PV:** 1040 | **Attaque:** 29 | **Défense:** 19 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Étreinte Maternelle** | **Regard de Givre**
-
-<div style="clear: both; margin-bottom: 20px;"></div>
+<div style="flex: 1; display: flex; flex-direction: column; justify-content: space-between; height: 140px;">
+<div style="font-weight: bold; margin-bottom: 5px;">**Galádra, Matriarche du Givre** | **Élément:** Glace | **Rareté:** Rare</div>
+<div style="margin-bottom: 5px;">**📊 PV:** 1040 | **Attaque:** 29 | **Défense:** 19 | **Vitesse:** 0</div>
+<div style="margin-bottom: 5px;">**Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0%</div>
+<div>**⚡ Capacités:** **Étreinte Maternelle** | **Regard de Givre**</div>
+</div>
+</div>
 
 ---
 ### Gelgor, Troll du Givre
 
-<img src="JeuDeCarte/Assets/img/Crea/37.png" width="80" height="auto" alt="Gelgor, Troll du Givre" style="float: left; margin-right: 15px; vertical-align: middle;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/37.png" width="140" height="auto" alt="Gelgor, Troll du Givre" style="margin-right: 15px; flex-shrink: 0;">
 
-**Gelgor, Troll du Givre** | **Élément:** Glace | **Rareté:** Rare | **📊 PV:** 1040 | **Attaque:** 32 | **Défense:** 19 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Attaque basique Glace**
-
-<div style="clear: both; margin-bottom: 20px;"></div>
+<div style="flex: 1; display: flex; flex-direction: column; justify-content: space-between; height: 140px;">
+<div style="font-weight: bold; margin-bottom: 5px;">**Gelgor, Troll du Givre** | **Élément:** Glace | **Rareté:** Rare</div>
+<div style="margin-bottom: 5px;">**📊 PV:** 1040 | **Attaque:** 32 | **Défense:** 19 | **Vitesse:** 0</div>
+<div style="margin-bottom: 5px;">**Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0%</div>
+<div>**⚡ Capacités:** **Attaque basique Glace**</div>
+</div>
+</div>
 
 ---
 ### Gelidar, Chevalier des Neiges
 
-<img src="JeuDeCarte/Assets/img/Crea/3.png" width="80" height="auto" alt="Gelidar, Chevalier des Neiges" style="float: left; margin-right: 15px; vertical-align: middle;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/3.png" width="140" height="auto" alt="Gelidar, Chevalier des Neiges" style="margin-right: 15px; flex-shrink: 0;">
 
-**Gelidar, Chevalier des Neiges** | **Élément:** Glace | **Rareté:** Spécial | **📊 PV:** 1100 | **Attaque:** 25 | **Défense:** 28 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Frappe Boréale**
-
-<div style="clear: both; margin-bottom: 20px;"></div>
+<div style="flex: 1; display: flex; flex-direction: column; justify-content: space-between; height: 140px;">
+<div style="font-weight: bold; margin-bottom: 5px;">**Gelidar, Chevalier des Neiges** | **Élément:** Glace | **Rareté:** Spécial</div>
+<div style="margin-bottom: 5px;">**📊 PV:** 1100 | **Attaque:** 25 | **Défense:** 28 | **Vitesse:** 0</div>
+<div style="margin-bottom: 5px;">**Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0%</div>
+<div>**⚡ Capacités:** **Frappe Boréale**</div>
+</div>
+</div>
 
 ---
 ### Glacia, Yéti Polaire
 
-<img src="JeuDeCarte/Assets/img/Crea/25.png" width="80" height="auto" alt="Glacia, Yéti Polaire" style="float: left; margin-right: 15px; vertical-align: middle;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/25.png" width="140" height="auto" alt="Glacia, Yéti Polaire" style="margin-right: 15px; flex-shrink: 0;">
 
-**Glacia, Yéti Polaire** | **Élément:** Glace | **Rareté:** Peu Commun | **📊 PV:** 945 | **Attaque:** 25 | **Défense:** 20 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Attaque basique Glace**
-
-<div style="clear: both; margin-bottom: 20px;"></div>
+<div style="flex: 1; display: flex; flex-direction: column; justify-content: space-between; height: 140px;">
+<div style="font-weight: bold; margin-bottom: 5px;">**Glacia, Yéti Polaire** | **Élément:** Glace | **Rareté:** Peu Commun</div>
+<div style="margin-bottom: 5px;">**📊 PV:** 945 | **Attaque:** 25 | **Défense:** 20 | **Vitesse:** 0</div>
+<div style="margin-bottom: 5px;">**Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0%</div>
+<div>**⚡ Capacités:** **Attaque basique Glace**</div>
+</div>
+</div>
 
 ---
 ### Glaciar, Yéti des Sommets
 
-<img src="JeuDeCarte/Assets/img/Crea/69.png" width="80" height="auto" alt="Glaciar, Yéti des Sommets" style="float: left; margin-right: 15px; vertical-align: middle;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/69.png" width="140" height="auto" alt="Glaciar, Yéti des Sommets" style="margin-right: 15px; flex-shrink: 0;">
 
-**Glaciar, Yéti des Sommets** | **Élément:** Glace | **Rareté:** Rare | **📊 PV:** 920 | **Attaque:** 31 | **Défense:** 14 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Choc des Neiges**
-
-<div style="clear: both; margin-bottom: 20px;"></div>
+<div style="flex: 1; display: flex; flex-direction: column; justify-content: space-between; height: 140px;">
+<div style="font-weight: bold; margin-bottom: 5px;">**Glaciar, Yéti des Sommets** | **Élément:** Glace | **Rareté:** Rare</div>
+<div style="margin-bottom: 5px;">**📊 PV:** 920 | **Attaque:** 31 | **Défense:** 14 | **Vitesse:** 0</div>
+<div style="margin-bottom: 5px;">**Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0%</div>
+<div>**⚡ Capacités:** **Choc des Neiges**</div>
+</div>
+</div>
 
 ---
 ### Glacielle, Reine des Flocons
 
-<img src="JeuDeCarte/Assets/img/Crea/12.png" width="80" height="auto" alt="Glacielle, Reine des Flocons" style="float: left; margin-right: 15px; vertical-align: middle;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/12.png" width="140" height="auto" alt="Glacielle, Reine des Flocons" style="margin-right: 15px; flex-shrink: 0;">
 
-**Glacielle, Reine des Flocons** | **Élément:** Glace | **Rareté:** Épique | **📊 PV:** 1092 | **Attaque:** 30 | **Défense:** 21 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Avalanche Royale**
-
-<div style="clear: both; margin-bottom: 20px;"></div>
+<div style="flex: 1; display: flex; flex-direction: column; justify-content: space-between; height: 140px;">
+<div style="font-weight: bold; margin-bottom: 5px;">**Glacielle, Reine des Flocons** | **Élément:** Glace | **Rareté:** Épique</div>
+<div style="margin-bottom: 5px;">**📊 PV:** 1092 | **Attaque:** 30 | **Défense:** 21 | **Vitesse:** 0</div>
+<div style="margin-bottom: 5px;">**Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0%</div>
+<div>**⚡ Capacités:** **Avalanche Royale**</div>
+</div>
+</div>
 
 ---
 ### Gélax, Lutin de la Banquise
 
-<img src="JeuDeCarte/Assets/img/Crea/53.png" width="80" height="auto" alt="Gélax, Lutin de la Banquise" style="float: left; margin-right: 15px; vertical-align: middle;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/53.png" width="140" height="auto" alt="Gélax, Lutin de la Banquise" style="margin-right: 15px; flex-shrink: 0;">
 
-**Gélax, Lutin de la Banquise** | **Élément:** Glace | **Rareté:** Commun | **📊 PV:** 810 | **Attaque:** 20 | **Défense:** 16 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Attaque basique Glace**
-
-<div style="clear: both; margin-bottom: 20px;"></div>
+<div style="flex: 1; display: flex; flex-direction: column; justify-content: space-between; height: 140px;">
+<div style="font-weight: bold; margin-bottom: 5px;">**Gélax, Lutin de la Banquise** | **Élément:** Glace | **Rareté:** Commun</div>
+<div style="margin-bottom: 5px;">**📊 PV:** 810 | **Attaque:** 20 | **Défense:** 16 | **Vitesse:** 0</div>
+<div style="margin-bottom: 5px;">**Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0%</div>
+<div>**⚡ Capacités:** **Attaque basique Glace**</div>
+</div>
+</div>
 
 ---
 ### Tundrorr, Mammouth Givré
 
-<img src="JeuDeCarte/Assets/img/Crea/30.png" width="80" height="auto" alt="Tundrorr, Mammouth Givré" style="float: left; margin-right: 15px; vertical-align: middle;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/30.png" width="140" height="auto" alt="Tundrorr, Mammouth Givré" style="margin-right: 15px; flex-shrink: 0;">
 
-**Tundrorr, Mammouth Givré** | **Élément:** Glace | **Rareté:** Mythique | **📊 PV:** 1075 | **Attaque:** 34 | **Défense:** 22 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Charge Polaire**
-
-<div style="clear: both; margin-bottom: 20px;"></div>
+<div style="flex: 1; display: flex; flex-direction: column; justify-content: space-between; height: 140px;">
+<div style="font-weight: bold; margin-bottom: 5px;">**Tundrorr, Mammouth Givré** | **Élément:** Glace | **Rareté:** Mythique</div>
+<div style="margin-bottom: 5px;">**📊 PV:** 1075 | **Attaque:** 34 | **Défense:** 22 | **Vitesse:** 0</div>
+<div style="margin-bottom: 5px;">**Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0%</div>
+<div>**⚡ Capacités:** **Charge Polaire**</div>
+</div>
+</div>
 
 ---
 
@@ -615,38 +890,58 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Astrilys, Sentinelle Astrale
 
-<img src="JeuDeCarte/Assets/img/Crea/61.png" width="80" height="auto" alt="Astrilys, Sentinelle Astrale" style="float: left; margin-right: 15px; vertical-align: middle;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/61.png" width="140" height="auto" alt="Astrilys, Sentinelle Astrale" style="margin-right: 15px; flex-shrink: 0;">
 
-**Astrilys, Sentinelle Astrale** | **Élément:** Lumière | **Rareté:** Peu Commun | **📊 PV:** 800 | **Attaque:** 23 | **Défense:** 15 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Rayon Purificateur**
-
-<div style="clear: both; margin-bottom: 20px;"></div>
+<div style="flex: 1; display: flex; flex-direction: column; justify-content: space-between; height: 140px;">
+<div style="font-weight: bold; margin-bottom: 5px;">**Astrilys, Sentinelle Astrale** | **Élément:** Lumière | **Rareté:** Peu Commun</div>
+<div style="margin-bottom: 5px;">**📊 PV:** 800 | **Attaque:** 23 | **Défense:** 15 | **Vitesse:** 0</div>
+<div style="margin-bottom: 5px;">**Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0%</div>
+<div>**⚡ Capacités:** **Rayon Purificateur**</div>
+</div>
+</div>
 
 ---
 ### Lumicorne, Licorne Dorée
 
-<img src="JeuDeCarte/Assets/img/Crea/70.png" width="80" height="auto" alt="Lumicorne, Licorne Dorée" style="float: left; margin-right: 15px; vertical-align: middle;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/70.png" width="140" height="auto" alt="Lumicorne, Licorne Dorée" style="margin-right: 15px; flex-shrink: 0;">
 
-**Lumicorne, Licorne Dorée** | **Élément:** Lumière | **Rareté:** Peu Commun | **📊 PV:** 830 | **Attaque:** 28 | **Défense:** 11 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Charge Lumineuse**
-
-<div style="clear: both; margin-bottom: 20px;"></div>
+<div style="flex: 1; display: flex; flex-direction: column; justify-content: space-between; height: 140px;">
+<div style="font-weight: bold; margin-bottom: 5px;">**Lumicorne, Licorne Dorée** | **Élément:** Lumière | **Rareté:** Peu Commun</div>
+<div style="margin-bottom: 5px;">**📊 PV:** 830 | **Attaque:** 28 | **Défense:** 11 | **Vitesse:** 0</div>
+<div style="margin-bottom: 5px;">**Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0%</div>
+<div>**⚡ Capacités:** **Charge Lumineuse**</div>
+</div>
+</div>
 
 ---
 ### Lumys, Renardeau Solaire
 
-<img src="JeuDeCarte/Assets/img/Crea/74.png" width="80" height="auto" alt="Lumys, Renardeau Solaire" style="float: left; margin-right: 15px; vertical-align: middle;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/74.png" width="140" height="auto" alt="Lumys, Renardeau Solaire" style="margin-right: 15px; flex-shrink: 0;">
 
-**Lumys, Renardeau Solaire** | **Élément:** Lumière | **Rareté:** Mythique | **📊 PV:** 1030 | **Attaque:** 38 | **Défense:** 21 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Flamboiement Radieux** | **Halo Espoir**
-
-<div style="clear: both; margin-bottom: 20px;"></div>
+<div style="flex: 1; display: flex; flex-direction: column; justify-content: space-between; height: 140px;">
+<div style="font-weight: bold; margin-bottom: 5px;">**Lumys, Renardeau Solaire** | **Élément:** Lumière | **Rareté:** Mythique</div>
+<div style="margin-bottom: 5px;">**📊 PV:** 1030 | **Attaque:** 38 | **Défense:** 21 | **Vitesse:** 0</div>
+<div style="margin-bottom: 5px;">**Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0%</div>
+<div>**⚡ Capacités:** **Flamboiement Radieux** | **Halo Espoir**</div>
+</div>
+</div>
 
 ---
 ### Prismalyx, Papillon Lumineux
 
-<img src="JeuDeCarte/Assets/img/Crea/66.png" width="80" height="auto" alt="Prismalyx, Papillon Lumineux" style="float: left; margin-right: 15px; vertical-align: middle;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/66.png" width="140" height="auto" alt="Prismalyx, Papillon Lumineux" style="margin-right: 15px; flex-shrink: 0;">
 
-**Prismalyx, Papillon Lumineux** | **Élément:** Lumière | **Rareté:** Épique | **📊 PV:** 861 | **Attaque:** 28 | **Défense:** 14 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Éclat Prismatique** | **Danse Iridescente**
-
-<div style="clear: both; margin-bottom: 20px;"></div>
+<div style="flex: 1; display: flex; flex-direction: column; justify-content: space-between; height: 140px;">
+<div style="font-weight: bold; margin-bottom: 5px;">**Prismalyx, Papillon Lumineux** | **Élément:** Lumière | **Rareté:** Épique</div>
+<div style="margin-bottom: 5px;">**📊 PV:** 861 | **Attaque:** 28 | **Défense:** 14 | **Vitesse:** 0</div>
+<div style="margin-bottom: 5px;">**Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0%</div>
+<div>**⚡ Capacités:** **Éclat Prismatique** | **Danse Iridescente**</div>
+</div>
+</div>
 
 ---
 
@@ -654,56 +949,86 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Briselys, Dryade Mousseuse
 
-<img src="JeuDeCarte/Assets/img/Crea/43.png" width="80" height="auto" alt="Briselys, Dryade Mousseuse" style="float: left; margin-right: 15px; vertical-align: middle;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/43.png" width="140" height="auto" alt="Briselys, Dryade Mousseuse" style="margin-right: 15px; flex-shrink: 0;">
 
-**Briselys, Dryade Mousseuse** | **Élément:** Poison | **Rareté:** Rare | **📊 PV:** 870 | **Attaque:** 28 | **Défense:** 14 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Jet Moussu**
-
-<div style="clear: both; margin-bottom: 20px;"></div>
+<div style="flex: 1; display: flex; flex-direction: column; justify-content: space-between; height: 140px;">
+<div style="font-weight: bold; margin-bottom: 5px;">**Briselys, Dryade Mousseuse** | **Élément:** Poison | **Rareté:** Rare</div>
+<div style="margin-bottom: 5px;">**📊 PV:** 870 | **Attaque:** 28 | **Défense:** 14 | **Vitesse:** 0</div>
+<div style="margin-bottom: 5px;">**Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0%</div>
+<div>**⚡ Capacités:** **Jet Moussu**</div>
+</div>
+</div>
 
 ---
 ### Crotignus, Crotte de Nez Mouvante
 
-<img src="JeuDeCarte/Assets/img/Crea/77.png" width="80" height="auto" alt="Crotignus, Crotte de Nez Mouvante" style="float: left; margin-right: 15px; vertical-align: middle;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/77.png" width="140" height="auto" alt="Crotignus, Crotte de Nez Mouvante" style="margin-right: 15px; flex-shrink: 0;">
 
-**Crotignus, Crotte de Nez Mouvante** | **Élément:** Poison | **Rareté:** Épique | **📊 PV:** 780 | **Attaque:** 19 | **Défense:** 16 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 2.0% | **Précision:** 99.0% | **⚡ Capacités:** **Lancer de CDN**
-
-<div style="clear: both; margin-bottom: 20px;"></div>
+<div style="flex: 1; display: flex; flex-direction: column; justify-content: space-between; height: 140px;">
+<div style="font-weight: bold; margin-bottom: 5px;">**Crotignus, Crotte de Nez Mouvante** | **Élément:** Poison | **Rareté:** Épique</div>
+<div style="margin-bottom: 5px;">**📊 PV:** 780 | **Attaque:** 19 | **Défense:** 16 | **Vitesse:** 0</div>
+<div style="margin-bottom: 5px;">**Critique:** 3.0% | **Esquive:** 2.0% | **Précision:** 99.0%</div>
+<div>**⚡ Capacités:** **Lancer de CDN**</div>
+</div>
+</div>
 
 ---
 ### Floralia, Druidesse des Fleurs
 
-<img src="JeuDeCarte/Assets/img/Crea/14.png" width="80" height="auto" alt="Floralia, Druidesse des Fleurs" style="float: left; margin-right: 15px; vertical-align: middle;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/14.png" width="140" height="auto" alt="Floralia, Druidesse des Fleurs" style="margin-right: 15px; flex-shrink: 0;">
 
-**Floralia, Druidesse des Fleurs** | **Élément:** Poison | **Rareté:** Peu Commun | **📊 PV:** 990 | **Attaque:** 22 | **Défense:** 28 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Attaque basique Poison** | **Poussée Toxique**
-
-<div style="clear: both; margin-bottom: 20px;"></div>
+<div style="flex: 1; display: flex; flex-direction: column; justify-content: space-between; height: 140px;">
+<div style="font-weight: bold; margin-bottom: 5px;">**Floralia, Druidesse des Fleurs** | **Élément:** Poison | **Rareté:** Peu Commun</div>
+<div style="margin-bottom: 5px;">**📊 PV:** 990 | **Attaque:** 22 | **Défense:** 28 | **Vitesse:** 0</div>
+<div style="margin-bottom: 5px;">**Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0%</div>
+<div>**⚡ Capacités:** **Attaque basique Poison** | **Poussée Toxique**</div>
+</div>
+</div>
 
 ---
 ### Mossio, Shaman des Mousses
 
-<img src="JeuDeCarte/Assets/img/Crea/40.png" width="80" height="auto" alt="Mossio, Shaman des Mousses" style="float: left; margin-right: 15px; vertical-align: middle;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/40.png" width="140" height="auto" alt="Mossio, Shaman des Mousses" style="margin-right: 15px; flex-shrink: 0;">
 
-**Mossio, Shaman des Mousses** | **Élément:** Poison | **Rareté:** Mythique | **📊 PV:** 1020 | **Attaque:** 36 | **Défense:** 21 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Vague Nécrotique** | **Attaque basique Poison**
-
-<div style="clear: both; margin-bottom: 20px;"></div>
+<div style="flex: 1; display: flex; flex-direction: column; justify-content: space-between; height: 140px;">
+<div style="font-weight: bold; margin-bottom: 5px;">**Mossio, Shaman des Mousses** | **Élément:** Poison | **Rareté:** Mythique</div>
+<div style="margin-bottom: 5px;">**📊 PV:** 1020 | **Attaque:** 36 | **Défense:** 21 | **Vitesse:** 0</div>
+<div style="margin-bottom: 5px;">**Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0%</div>
+<div>**⚡ Capacités:** **Vague Nécrotique** | **Attaque basique Poison**</div>
+</div>
+</div>
 
 ---
 ### Sylvara, Esprit de la Canopée
 
-<img src="JeuDeCarte/Assets/img/Crea/55.png" width="80" height="auto" alt="Sylvara, Esprit de la Canopée" style="float: left; margin-right: 15px; vertical-align: middle;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/55.png" width="140" height="auto" alt="Sylvara, Esprit de la Canopée" style="margin-right: 15px; flex-shrink: 0;">
 
-**Sylvara, Esprit de la Canopée** | **Élément:** Poison | **Rareté:** Mythique | **📊 PV:** 1220 | **Attaque:** 39 | **Défense:** 27 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Essence Mortelle** | **Toxine Mortelle**
-
-<div style="clear: both; margin-bottom: 20px;"></div>
+<div style="flex: 1; display: flex; flex-direction: column; justify-content: space-between; height: 140px;">
+<div style="font-weight: bold; margin-bottom: 5px;">**Sylvara, Esprit de la Canopée** | **Élément:** Poison | **Rareté:** Mythique</div>
+<div style="margin-bottom: 5px;">**📊 PV:** 1220 | **Attaque:** 39 | **Défense:** 27 | **Vitesse:** 0</div>
+<div style="margin-bottom: 5px;">**Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0%</div>
+<div>**⚡ Capacités:** **Essence Mortelle** | **Toxine Mortelle**</div>
+</div>
+</div>
 
 ---
 ### Sylvert, Gardien de la Brume
 
-<img src="JeuDeCarte/Assets/img/Crea/63.png" width="80" height="auto" alt="Sylvert, Gardien de la Brume" style="float: left; margin-right: 15px; vertical-align: middle;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/63.png" width="140" height="auto" alt="Sylvert, Gardien de la Brume" style="margin-right: 15px; flex-shrink: 0;">
 
-**Sylvert, Gardien de la Brume** | **Élément:** Poison | **Rareté:** Peu Commun | **📊 PV:** 1200 | **Attaque:** 25 | **Défense:** 34 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Ronce Empoisonnée** | **Brouillard Corrosif**
-
-<div style="clear: both; margin-bottom: 20px;"></div>
+<div style="flex: 1; display: flex; flex-direction: column; justify-content: space-between; height: 140px;">
+<div style="font-weight: bold; margin-bottom: 5px;">**Sylvert, Gardien de la Brume** | **Élément:** Poison | **Rareté:** Peu Commun</div>
+<div style="margin-bottom: 5px;">**📊 PV:** 1200 | **Attaque:** 25 | **Défense:** 34 | **Vitesse:** 0</div>
+<div style="margin-bottom: 5px;">**Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0%</div>
+<div>**⚡ Capacités:** **Ronce Empoisonnée** | **Brouillard Corrosif**</div>
+</div>
+</div>
 
 ---
 
@@ -711,110 +1036,170 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Barbak, Guerrier Barbare
 
-<img src="JeuDeCarte/Assets/img/Crea/16.png" width="80" height="auto" alt="Barbak, Guerrier Barbare" style="float: left; margin-right: 15px; vertical-align: middle;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/16.png" width="140" height="auto" alt="Barbak, Guerrier Barbare" style="margin-right: 15px; flex-shrink: 0;">
 
-**Barbak, Guerrier Barbare** | **Élément:** Terre | **Rareté:** Rare | **📊 PV:** 1130 | **Attaque:** 32 | **Défense:** 18 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Heurtoir** | **Rage Berseker**
-
-<div style="clear: both; margin-bottom: 20px;"></div>
+<div style="flex: 1; display: flex; flex-direction: column; justify-content: space-between; height: 140px;">
+<div style="font-weight: bold; margin-bottom: 5px;">**Barbak, Guerrier Barbare** | **Élément:** Terre | **Rareté:** Rare</div>
+<div style="margin-bottom: 5px;">**📊 PV:** 1130 | **Attaque:** 32 | **Défense:** 18 | **Vitesse:** 0</div>
+<div style="margin-bottom: 5px;">**Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0%</div>
+<div>**⚡ Capacités:** **Heurtoir** | **Rage Berseker**</div>
+</div>
+</div>
 
 ---
 ### Bersi, Nain Invincible
 
-<img src="JeuDeCarte/Assets/img/Crea/18.png" width="80" height="auto" alt="Bersi, Nain Invincible" style="float: left; margin-right: 15px; vertical-align: middle;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/18.png" width="140" height="auto" alt="Bersi, Nain Invincible" style="margin-right: 15px; flex-shrink: 0;">
 
-**Bersi, Nain Invincible** | **Élément:** Terre | **Rareté:** Peu Commun | **📊 PV:** 1160 | **Attaque:** 26 | **Défense:** 30 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Haine Naine**
-
-<div style="clear: both; margin-bottom: 20px;"></div>
+<div style="flex: 1; display: flex; flex-direction: column; justify-content: space-between; height: 140px;">
+<div style="font-weight: bold; margin-bottom: 5px;">**Bersi, Nain Invincible** | **Élément:** Terre | **Rareté:** Peu Commun</div>
+<div style="margin-bottom: 5px;">**📊 PV:** 1160 | **Attaque:** 26 | **Défense:** 30 | **Vitesse:** 0</div>
+<div style="margin-bottom: 5px;">**Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0%</div>
+<div>**⚡ Capacités:** **Haine Naine**</div>
+</div>
+</div>
 
 ---
 ### Gladrith, Écho des montagnes
 
-<img src="JeuDeCarte/Assets/img/Crea/76.png" width="80" height="auto" alt="Gladrith, Écho des montagnes" style="float: left; margin-right: 15px; vertical-align: middle;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/76.png" width="140" height="auto" alt="Gladrith, Écho des montagnes" style="margin-right: 15px; flex-shrink: 0;">
 
-**Gladrith, Écho des montagnes** | **Élément:** Terre | **Rareté:** Rare | **📊 PV:** 780 | **Attaque:** 31 | **Défense:** 15 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Frappe sismique**
-
-<div style="clear: both; margin-bottom: 20px;"></div>
+<div style="flex: 1; display: flex; flex-direction: column; justify-content: space-between; height: 140px;">
+<div style="font-weight: bold; margin-bottom: 5px;">**Gladrith, Écho des montagnes** | **Élément:** Terre | **Rareté:** Rare</div>
+<div style="margin-bottom: 5px;">**📊 PV:** 780 | **Attaque:** 31 | **Défense:** 15 | **Vitesse:** 0</div>
+<div style="margin-bottom: 5px;">**Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0%</div>
+<div>**⚡ Capacités:** **Frappe sismique**</div>
+</div>
+</div>
 
 ---
 ### Lithos, Colosse de Quartz
 
-<img src="JeuDeCarte/Assets/img/Crea/60.png" width="80" height="auto" alt="Lithos, Colosse de Quartz" style="float: left; margin-right: 15px; vertical-align: middle;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/60.png" width="140" height="auto" alt="Lithos, Colosse de Quartz" style="margin-right: 15px; flex-shrink: 0;">
 
-**Lithos, Colosse de Quartz** | **Élément:** Terre | **Rareté:** Épique | **📊 PV:** 990 | **Attaque:** 37 | **Défense:** 16 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Briseur de Montagne** | **Fureur Tellurique**
-
-<div style="clear: both; margin-bottom: 20px;"></div>
+<div style="flex: 1; display: flex; flex-direction: column; justify-content: space-between; height: 140px;">
+<div style="font-weight: bold; margin-bottom: 5px;">**Lithos, Colosse de Quartz** | **Élément:** Terre | **Rareté:** Épique</div>
+<div style="margin-bottom: 5px;">**📊 PV:** 990 | **Attaque:** 37 | **Défense:** 16 | **Vitesse:** 0</div>
+<div style="margin-bottom: 5px;">**Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0%</div>
+<div>**⚡ Capacités:** **Briseur de Montagne** | **Fureur Tellurique**</div>
+</div>
+</div>
 
 ---
 ### Lixor, Golem Cristallin
 
-<img src="JeuDeCarte/Assets/img/Crea/33.png" width="80" height="auto" alt="Lixor, Golem Cristallin" style="float: left; margin-right: 15px; vertical-align: middle;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/33.png" width="140" height="auto" alt="Lixor, Golem Cristallin" style="margin-right: 15px; flex-shrink: 0;">
 
-**Lixor, Golem Cristallin** | **Élément:** Terre | **Rareté:** Rare | **📊 PV:** 870 | **Attaque:** 30 | **Défense:** 15 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Brise-Roc**
-
-<div style="clear: both; margin-bottom: 20px;"></div>
+<div style="flex: 1; display: flex; flex-direction: column; justify-content: space-between; height: 140px;">
+<div style="font-weight: bold; margin-bottom: 5px;">**Lixor, Golem Cristallin** | **Élément:** Terre | **Rareté:** Rare</div>
+<div style="margin-bottom: 5px;">**📊 PV:** 870 | **Attaque:** 30 | **Défense:** 15 | **Vitesse:** 0</div>
+<div style="margin-bottom: 5px;">**Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0%</div>
+<div>**⚡ Capacités:** **Brise-Roc**</div>
+</div>
+</div>
 
 ---
 ### Lumberjack, Bûcheron du Grand Nord
 
-<img src="JeuDeCarte/Assets/img/Crea/28.png" width="80" height="auto" alt="Lumberjack, Bûcheron du Grand Nord" style="float: left; margin-right: 15px; vertical-align: middle;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/28.png" width="140" height="auto" alt="Lumberjack, Bûcheron du Grand Nord" style="margin-right: 15px; flex-shrink: 0;">
 
-**Lumberjack, Bûcheron du Grand Nord** | **Élément:** Terre | **Rareté:** Rare | **📊 PV:** 1190 | **Attaque:** 28 | **Défense:** 29 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Heurtoir** | **Attaque basique Terre**
-
-<div style="clear: both; margin-bottom: 20px;"></div>
+<div style="flex: 1; display: flex; flex-direction: column; justify-content: space-between; height: 140px;">
+<div style="font-weight: bold; margin-bottom: 5px;">**Lumberjack, Bûcheron du Grand Nord** | **Élément:** Terre | **Rareté:** Rare</div>
+<div style="margin-bottom: 5px;">**📊 PV:** 1190 | **Attaque:** 28 | **Défense:** 29 | **Vitesse:** 0</div>
+<div style="margin-bottom: 5px;">**Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0%</div>
+<div>**⚡ Capacités:** **Heurtoir** | **Attaque basique Terre**</div>
+</div>
+</div>
 
 ---
 ### Rock, Colosse de Granit
 
-<img src="JeuDeCarte/Assets/img/Crea/6.png" width="80" height="auto" alt="Rock, Colosse de Granit" style="float: left; margin-right: 15px; vertical-align: middle;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/6.png" width="140" height="auto" alt="Rock, Colosse de Granit" style="margin-right: 15px; flex-shrink: 0;">
 
-**Rock, Colosse de Granit** | **Élément:** Terre | **Rareté:** Peu Commun | **📊 PV:** 810 | **Attaque:** 28 | **Défense:** 13 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Attaque basique Terre**
-
-<div style="clear: both; margin-bottom: 20px;"></div>
+<div style="flex: 1; display: flex; flex-direction: column; justify-content: space-between; height: 140px;">
+<div style="font-weight: bold; margin-bottom: 5px;">**Rock, Colosse de Granit** | **Élément:** Terre | **Rareté:** Peu Commun</div>
+<div style="margin-bottom: 5px;">**📊 PV:** 810 | **Attaque:** 28 | **Défense:** 13 | **Vitesse:** 0</div>
+<div style="margin-bottom: 5px;">**Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0%</div>
+<div>**⚡ Capacités:** **Attaque basique Terre**</div>
+</div>
+</div>
 
 ---
 ### Rocor, Gardien du Bloc
 
-<img src="JeuDeCarte/Assets/img/Crea/47.png" width="80" height="auto" alt="Rocor, Gardien du Bloc" style="float: left; margin-right: 15px; vertical-align: middle;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/47.png" width="140" height="auto" alt="Rocor, Gardien du Bloc" style="margin-right: 15px; flex-shrink: 0;">
 
-**Rocor, Gardien du Bloc** | **Élément:** Terre | **Rareté:** Peu Commun | **📊 PV:** 880 | **Attaque:** 22 | **Défense:** 17 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Attaque basique Terre** | **Lancer Tellurique**
-
-<div style="clear: both; margin-bottom: 20px;"></div>
+<div style="flex: 1; display: flex; flex-direction: column; justify-content: space-between; height: 140px;">
+<div style="font-weight: bold; margin-bottom: 5px;">**Rocor, Gardien du Bloc** | **Élément:** Terre | **Rareté:** Peu Commun</div>
+<div style="margin-bottom: 5px;">**📊 PV:** 880 | **Attaque:** 22 | **Défense:** 17 | **Vitesse:** 0</div>
+<div style="margin-bottom: 5px;">**Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0%</div>
+<div>**⚡ Capacités:** **Attaque basique Terre** | **Lancer Tellurique**</div>
+</div>
+</div>
 
 ---
 ### Roktus, Gobelin Mineur
 
-<img src="JeuDeCarte/Assets/img/Crea/35.png" width="80" height="auto" alt="Roktus, Gobelin Mineur" style="float: left; margin-right: 15px; vertical-align: middle;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/35.png" width="140" height="auto" alt="Roktus, Gobelin Mineur" style="margin-right: 15px; flex-shrink: 0;">
 
-**Roktus, Gobelin Mineur** | **Élément:** Terre | **Rareté:** Peu Commun | **📊 PV:** 845 | **Attaque:** 26 | **Défense:** 12 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Piège à Pétards** | **Dynamite**
-
-<div style="clear: both; margin-bottom: 20px;"></div>
+<div style="flex: 1; display: flex; flex-direction: column; justify-content: space-between; height: 140px;">
+<div style="font-weight: bold; margin-bottom: 5px;">**Roktus, Gobelin Mineur** | **Élément:** Terre | **Rareté:** Peu Commun</div>
+<div style="margin-bottom: 5px;">**📊 PV:** 845 | **Attaque:** 26 | **Défense:** 12 | **Vitesse:** 0</div>
+<div style="margin-bottom: 5px;">**Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0%</div>
+<div>**⚡ Capacités:** **Piège à Pétards** | **Dynamite**</div>
+</div>
+</div>
 
 ---
 ### Silex, Gardien du Pic Rugueux
 
-<img src="JeuDeCarte/Assets/img/Crea/22.png" width="80" height="auto" alt="Silex, Gardien du Pic Rugueux" style="float: left; margin-right: 15px; vertical-align: middle;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/22.png" width="140" height="auto" alt="Silex, Gardien du Pic Rugueux" style="margin-right: 15px; flex-shrink: 0;">
 
-**Silex, Gardien du Pic Rugueux** | **Élément:** Terre | **Rareté:** Rare | **📊 PV:** 900 | **Attaque:** 31 | **Défense:** 14 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Lancer Tellurique** | **Armure de roche**
-
-<div style="clear: both; margin-bottom: 20px;"></div>
+<div style="flex: 1; display: flex; flex-direction: column; justify-content: space-between; height: 140px;">
+<div style="font-weight: bold; margin-bottom: 5px;">**Silex, Gardien du Pic Rugueux** | **Élément:** Terre | **Rareté:** Rare</div>
+<div style="margin-bottom: 5px;">**📊 PV:** 900 | **Attaque:** 31 | **Défense:** 14 | **Vitesse:** 0</div>
+<div style="margin-bottom: 5px;">**Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0%</div>
+<div>**⚡ Capacités:** **Lancer Tellurique** | **Armure de roche**</div>
+</div>
+</div>
 
 ---
 ### Telluron, Géant de Schiste
 
-<img src="JeuDeCarte/Assets/img/Crea/73.png" width="80" height="auto" alt="Telluron, Géant de Schiste" style="float: left; margin-right: 15px; vertical-align: middle;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/73.png" width="140" height="auto" alt="Telluron, Géant de Schiste" style="margin-right: 15px; flex-shrink: 0;">
 
-**Telluron, Géant de Schiste** | **Élément:** Terre | **Rareté:** Épique | **📊 PV:** 830 | **Attaque:** 29 | **Défense:** 14 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Brise-Roc** | **Glissement de Terrain**
-
-<div style="clear: both; margin-bottom: 20px;"></div>
+<div style="flex: 1; display: flex; flex-direction: column; justify-content: space-between; height: 140px;">
+<div style="font-weight: bold; margin-bottom: 5px;">**Telluron, Géant de Schiste** | **Élément:** Terre | **Rareté:** Épique</div>
+<div style="margin-bottom: 5px;">**📊 PV:** 830 | **Attaque:** 29 | **Défense:** 14 | **Vitesse:** 0</div>
+<div style="margin-bottom: 5px;">**Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0%</div>
+<div>**⚡ Capacités:** **Brise-Roc** | **Glissement de Terrain**</div>
+</div>
+</div>
 
 ---
 ### Terra, Sorcière de la Terre
 
-<img src="JeuDeCarte/Assets/img/Crea/7.png" width="80" height="auto" alt="Terra, Sorcière de la Terre" style="float: left; margin-right: 15px; vertical-align: middle;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/7.png" width="140" height="auto" alt="Terra, Sorcière de la Terre" style="margin-right: 15px; flex-shrink: 0;">
 
-**Terra, Sorcière de la Terre** | **Élément:** Terre | **Rareté:** Rare | **📊 PV:** 1400 | **Attaque:** 18 | **Défense:** 41 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Éboulement** | **Attaque basique Terre**
-
-<div style="clear: both; margin-bottom: 20px;"></div>
+<div style="flex: 1; display: flex; flex-direction: column; justify-content: space-between; height: 140px;">
+<div style="font-weight: bold; margin-bottom: 5px;">**Terra, Sorcière de la Terre** | **Élément:** Terre | **Rareté:** Rare</div>
+<div style="margin-bottom: 5px;">**📊 PV:** 1400 | **Attaque:** 18 | **Défense:** 41 | **Vitesse:** 0</div>
+<div style="margin-bottom: 5px;">**Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0%</div>
+<div>**⚡ Capacités:** **Éboulement** | **Attaque basique Terre**</div>
+</div>
+</div>
 
 ---
 
@@ -822,10 +1207,15 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 ### Murkax, Ombre Rampante
 
-<img src="JeuDeCarte/Assets/img/Crea/67.png" width="80" height="auto" alt="Murkax, Ombre Rampante" style="float: left; margin-right: 15px; vertical-align: middle;">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+<img src="JeuDeCarte/Assets/img/Crea/67.png" width="140" height="auto" alt="Murkax, Ombre Rampante" style="margin-right: 15px; flex-shrink: 0;">
 
-**Murkax, Ombre Rampante** | **Élément:** Ténèbres | **Rareté:** Épique | **📊 PV:** 1300 | **Attaque:** 39 | **Défense:** 24 | **Vitesse:** 0 | **Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0% | **⚡ Capacités:** **Griffes de l'Abîme** | **Voile d'Éclipsombre**
-
-<div style="clear: both; margin-bottom: 20px;"></div>
+<div style="flex: 1; display: flex; flex-direction: column; justify-content: space-between; height: 140px;">
+<div style="font-weight: bold; margin-bottom: 5px;">**Murkax, Ombre Rampante** | **Élément:** Ténèbres | **Rareté:** Épique</div>
+<div style="margin-bottom: 5px;">**📊 PV:** 1300 | **Attaque:** 39 | **Défense:** 24 | **Vitesse:** 0</div>
+<div style="margin-bottom: 5px;">**Critique:** 3.0% | **Esquive:** 1.0% | **Précision:** 99.0%</div>
+<div>**⚡ Capacités:** **Griffes de l'Abîme** | **Voile d'Éclipsombre**</div>
+</div>
+</div>
 
 ---
