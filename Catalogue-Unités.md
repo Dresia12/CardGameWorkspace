@@ -120,7 +120,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
 |------------------------------------|------------------------------------|-----------------------------------|
-| <img src="JeuDeCarte/Assets/img/Crea/34.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 950<br>⚔️ **Attaque:** 35<br>🛡️ **Défense:** 12<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Baiser Alizée**<br>➡️ Esquive +40% (1t) | Critique +30% (1t) | Cible: 1 allié | CD: 2t<br><br>**Rapidité Aérienne**<br>➡️ Reset tous les CDs | Cible: 1 allié | CD: 8t |
+| <img src="JeuDeCarte/Assets/img/Crea/34.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 950<br>⚔️ **Attaque:** 35<br>🛡️ **Défense:** 12<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Baiser Alizée** (Esq+40% (1t) | Crit+30% (1t) | Cible: 1 allié | CD: 2t)<br>Un baiser mystérieux qui fait planer quiconque en est la cible<br><br>**Rapidité Aérienne** (Reset CDs | Cible: 1 allié | CD: 8t)<br>La rapidité est telle qu'on ne la voit plus |
 
 ---
 
@@ -131,7 +131,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
 |------------------------------------|------------------------------------|-----------------------------------|
-| <img src="JeuDeCarte/Assets/img/Crea/51.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 1113<br>⚔️ **Attaque:** 33<br>🛡️ **Défense:** 21<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **3ème Oeil**<br>➡️ Silence (1t) | Cible: 1 ennemi aléatoire | CD: 3t<br><br>**Malédiction**<br>➡️ Cible: 1 ennemi aléatoire | CD: 1t |
+| <img src="JeuDeCarte/Assets/img/Crea/51.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 1113<br>⚔️ **Attaque:** 33<br>🛡️ **Défense:** 21<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **3ème Oeil** (Silence (1t) | Cible: 1 ennemi aléa | CD: 3t)<br>La vision du futur est réservée qu'a peu d'être vivant<br><br>**Malédiction** (Cible: 1 ennemi aléa | CD: 1t)<br>Une malédiction aussi puissante que mystérieuse |
 
 ---
 
@@ -142,7 +142,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
 |------------------------------------|------------------------------------|-----------------------------------|
-| <img src="JeuDeCarte/Assets/img/Crea/21.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 1100<br>⚔️ **Attaque:** 36<br>🛡️ **Défense:** 19<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Pluie de Météores**<br>➡️ Dégâts fixes: 6 | Cible: 20 cibles aléatoires | CD: 4t<br><br>**Lueur de la Voie Lactée**<br>➡️ Cible: self | CD: 4t |
+| <img src="JeuDeCarte/Assets/img/Crea/21.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 1100<br>⚔️ **Attaque:** 36<br>🛡️ **Défense:** 19<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Pluie de Météores** (DMG: 6 | Cible: 20 aléatoires | CD: 4t)<br>Une pluie de météores s'abats<br><br>**Lueur de la Voie Lactée** (Cible: self | CD: 4t)<br>Une bande blanchâtre et floue dans le ciel nocturne qui compose notre galaxie |
 
 ---
 
@@ -153,7 +153,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
 |------------------------------------|------------------------------------|-----------------------------------|
-| <img src="JeuDeCarte/Assets/img/Crea/49.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 1010<br>⚔️ **Attaque:** 35<br>🛡️ **Défense:** 15<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Avancée du Brouillard**<br>➡️ Esquive +20% (1t) | Permanent | Cible: Soi + alliés | CD: 6t<br><br>**Orage**<br>➡️ Dégâts fixes: 11 | Dégâts/tour: 11 (3t) | Cible: 3 cibles aléatoires | CD: 3t |
+| <img src="JeuDeCarte/Assets/img/Crea/49.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 1010<br>⚔️ **Attaque:** 35<br>🛡️ **Défense:** 15<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Avancée du Brouillard** (Esq+20% (1t) | Permanent | Cible: Soi+alliés | CD: 6t)<br>Un brouillard apparait et s'épaiçit<br><br>**Orage** (DMG: 11 | DMG/tour: 11 (3t) | Cible: 3 aléatoires | CD: 3t)<br>Un orage qui fait s'abbatre la foudre sur le champ de bataille |
 
 ---
 
@@ -164,7 +164,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
 |------------------------------------|------------------------------------|-----------------------------------|
-| <img src="JeuDeCarte/Assets/img/Crea/15.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 1220<br>⚔️ **Attaque:** 25<br>🛡️ **Défense:** 34<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Apparition Nébuleuse**<br>➡️ Cible: self | CD: 3t<br><br>**Emprise du Brouillard**<br>➡️ Dégâts fixes: 60 | Cible: all_enemies | CD: 2t |
+| <img src="JeuDeCarte/Assets/img/Crea/15.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 1220<br>⚔️ **Attaque:** 25<br>🛡️ **Défense:** 34<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Apparition Nébuleuse** (Cible: self | CD: 3t)<br>Disparition dans la brume avant de réapparaitre pour une attaque sournoise<br><br>**Emprise du Brouillard** (DMG: 60 | Cible: all_enemies | CD: 2t)<br>Une brume spectrale et glaciale qui s'étend silencieusement sur le champ de bataille |
 
 ---
 
@@ -175,7 +175,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
 |------------------------------------|------------------------------------|-----------------------------------|
-| <img src="JeuDeCarte/Assets/img/Crea/19.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 870<br>⚔️ **Attaque:** 35<br>🛡️ **Défense:** 10<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Orbe Astrale**<br>➡️ Dégâts: Attaque + 30 | Critique +10% (2t) | Cible: 1 ennemi | CD: 2t<br><br>**Attaque basique Air**<br>➡️ Dégâts fixes: 20 | Cible: 1 ennemi | CD: 1t |
+| <img src="JeuDeCarte/Assets/img/Crea/19.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 870<br>⚔️ **Attaque:** 35<br>🛡️ **Défense:** 10<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Orbe Astrale** (DMG: ATK+30 | Crit+10% (2t) | Cible: 1 ennemi | CD: 2t)<br>Formée à partir d'air, puis glacée, cette orbe est aussi véloce que mortelle<br><br>**Attaque basique Air** (DMG: 20 | Cible: 1 ennemi | CD: 1t)<br>Attaque basique de Air |
 
 ---
 
@@ -186,7 +186,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
 |------------------------------------|------------------------------------|-----------------------------------|
-| <img src="JeuDeCarte/Assets/img/Crea/5.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 1010<br>⚔️ **Attaque:** 28<br>🛡️ **Défense:** 21<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Danse des Alizés**<br>➡️ Critique +20% (1t) | Cible: all_allies | CD: 3t<br><br>**Symphonie de l'Air**<br>➡️ Cible: 1 allié | CD: 2t |
+| <img src="JeuDeCarte/Assets/img/Crea/5.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 1010<br>⚔️ **Attaque:** 28<br>🛡️ **Défense:** 21<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Danse des Alizés** (Crit+20% (1t) | Cible: all_allies | CD: 3t)<br>Une danse majestueuse et aussi gracieuse que le vent<br><br>**Symphonie de l'Air** (Cible: 1 allié | CD: 2t)<br>Au rythme d'une danse invisible, l'air vibre et s'anime |
 
 ---
 
@@ -197,7 +197,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
 |------------------------------------|------------------------------------|-----------------------------------|
-| <img src="JeuDeCarte/Assets/img/Crea/75.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 950<br>⚔️ **Attaque:** 42<br>🛡️ **Défense:** 12<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Voile Astral**<br>➡️ Cible: self | CD: 4t<br><br>**Souffle de la Nébuleuse**<br>➡️ Dégâts: Attaque + 40 | Permanent | Cible: 1 ennemi | CD: 2t |
+| <img src="JeuDeCarte/Assets/img/Crea/75.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 950<br>⚔️ **Attaque:** 42<br>🛡️ **Défense:** 12<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Voile Astral** (Cible: self | CD: 4t)<br>Une brume d'air céleste se répand, rendant la créature presque intangible<br><br>**Souffle de la Nébuleuse** (DMG: ATK+40 | Permanent | Cible: 1 ennemi | CD: 2t)<br>Dans une grande inspiration, la créature convoque l'énergie astrale de l'air |
 
 ---
 
@@ -208,7 +208,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
 |------------------------------------|------------------------------------|-----------------------------------|
-| <img src="JeuDeCarte/Assets/img/Crea/10.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 960<br>⚔️ **Attaque:** 29<br>🛡️ **Défense:** 18<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Tir Sylvestre**<br>➡️ Dégâts fixes: 45 | Cible: 1 ennemi | CD: 2t<br><br>&nbsp; |
+| <img src="JeuDeCarte/Assets/img/Crea/10.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 960<br>⚔️ **Attaque:** 29<br>🛡️ **Défense:** 18<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Tir Sylvestre** (DMG: 45 | Cible: 1 ennemi | CD: 2t)<br>Un Tir imbibé du pouvoir de l'air<br><br>&nbsp; |
 
 ---
 
@@ -219,7 +219,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
 |------------------------------------|------------------------------------|-----------------------------------|
-| <img src="JeuDeCarte/Assets/img/Crea/27.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 760<br>⚔️ **Attaque:** 27<br>🛡️ **Défense:** 15<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Attaque basique Air**<br>➡️ Dégâts fixes: 20 | Cible: 1 ennemi | CD: 1t<br><br>&nbsp; |
+| <img src="JeuDeCarte/Assets/img/Crea/27.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 760<br>⚔️ **Attaque:** 27<br>🛡️ **Défense:** 15<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Attaque basique Air** (DMG: 20 | Cible: 1 ennemi | CD: 1t)<br>Attaque basique de Air<br><br>&nbsp; |
 
 ---
 
@@ -230,7 +230,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
 |------------------------------------|------------------------------------|-----------------------------------|
-| <img src="JeuDeCarte/Assets/img/Crea/44.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 865<br>⚔️ **Attaque:** 29<br>🛡️ **Défense:** 11<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Attaque basique Air**<br>➡️ Dégâts fixes: 20 | Cible: 1 ennemi | CD: 1t<br><br>&nbsp; |
+| <img src="JeuDeCarte/Assets/img/Crea/44.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 865<br>⚔️ **Attaque:** 29<br>🛡️ **Défense:** 11<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Attaque basique Air** (DMG: 20 | Cible: 1 ennemi | CD: 1t)<br>Attaque basique de Air<br><br>&nbsp; |
 
 ---
 
@@ -241,7 +241,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
 |------------------------------------|------------------------------------|-----------------------------------|
-| <img src="JeuDeCarte/Assets/img/Crea/39.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 940<br>⚔️ **Attaque:** 28<br>🛡️ **Défense:** 15<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Attaque basique Air**<br>➡️ Dégâts fixes: 20 | Cible: 1 ennemi | CD: 1t<br><br>&nbsp; |
+| <img src="JeuDeCarte/Assets/img/Crea/39.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 940<br>⚔️ **Attaque:** 28<br>🛡️ **Défense:** 15<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Attaque basique Air** (DMG: 20 | Cible: 1 ennemi | CD: 1t)<br>Attaque basique de Air<br><br>&nbsp; |
 
 ---
 
@@ -252,7 +252,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
 |------------------------------------|------------------------------------|-----------------------------------|
-| <img src="JeuDeCarte/Assets/img/Crea/64.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 980<br>⚔️ **Attaque:** 34<br>🛡️ **Défense:** 22<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Égide Aérienne**<br>➡️ Réduction dégâts: 20% | Cible: 1 allié | CD: 2t<br><br>**Lames du Mistral**<br>➡️ Dégâts: Attaque + 30 | Cible: 1 ennemi | CD: 2t |
+| <img src="JeuDeCarte/Assets/img/Crea/64.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 980<br>⚔️ **Attaque:** 34<br>🛡️ **Défense:** 22<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Égide Aérienne** (Réduc: 20% | Cible: 1 allié | CD: 2t)<br>Une puissante barrière de vent tourbillonnant<br><br>**Lames du Mistral** (DMG: ATK+30 | Cible: 1 ennemi | CD: 2t)<br>Invoque des courants tranchants et invisibles |
 
 ---
 
@@ -266,7 +266,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
 |------------------------------------|------------------------------------|-----------------------------------|
-| <img src="JeuDeCarte/Assets/img/Crea/45.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 1160<br>⚔️ **Attaque:** 30<br>🛡️ **Défense:** 27<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Voile d'Encre**<br>➡️ Esquive +30% (2t) | Cible: Soi + alliés | CD: 5t<br><br>**Coup de Tentacule**<br>➡️ Dégâts: 0.6 | Cible: 2 cibles aléatoires | CD: 1t |
+| <img src="JeuDeCarte/Assets/img/Crea/45.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 1160<br>⚔️ **Attaque:** 30<br>🛡️ **Défense:** 27<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Voile d'Encre** (Esq+30% (2t) | Cible: Soi+alliés | CD: 5t)<br>Un voile d'encre magique envahit le champ de bataille obstruant la vue des ennemis<br><br>**Coup de Tentacule** (DMG: 0.6 | Cible: 2 aléatoires | CD: 1t)<br>Un coup de tentacule géant balayant une large zone |
 
 ---
 
@@ -277,7 +277,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
 |------------------------------------|------------------------------------|-----------------------------------|
-| <img src="JeuDeCarte/Assets/img/Crea/57.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 1020<br>⚔️ **Attaque:** 21<br>🛡️ **Défense:** 23<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Voile Aquatique**<br>➡️ Esquive +20% (2t) | Cible: self | CD: 3t<br><br>**Griffure Abyssale**<br>➡️ Dégâts: Attaque + 60 | Cible: 1 ennemi | CD: 2t |
+| <img src="JeuDeCarte/Assets/img/Crea/57.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 1020<br>⚔️ **Attaque:** 21<br>🛡️ **Défense:** 23<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Voile Aquatique** (Esq+20% (2t) | Cible: self | CD: 3t)<br>Se sert de l'eau comme d'un voile pour refléter l'environnement et s'y fondre<br><br>**Griffure Abyssale** (DMG: ATK+60 | Cible: 1 ennemi | CD: 2t)<br>Une lacération qui surgit des tréfonds |
 
 ---
 
@@ -288,7 +288,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
 |------------------------------------|------------------------------------|-----------------------------------|
-| <img src="JeuDeCarte/Assets/img/Crea/17.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 1029<br>⚔️ **Attaque:** 30<br>🛡️ **Défense:** 20<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Mélodie Hypnotique**<br>➡️ Silence (1t) | Cible: chain_random | CD: 6t<br><br>&nbsp; |
+| <img src="JeuDeCarte/Assets/img/Crea/17.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 1029<br>⚔️ **Attaque:** 30<br>🛡️ **Défense:** 20<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Mélodie Hypnotique** (Silence (1t) | Cible: chain_random | CD: 6t)<br>Une douce musique qui ensorcèle celui qui l'écoute<br><br>&nbsp; |
 
 ---
 
@@ -299,7 +299,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
 |------------------------------------|------------------------------------|-----------------------------------|
-| <img src="JeuDeCarte/Assets/img/Crea/9.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 840<br>⚔️ **Attaque:** 21<br>🛡️ **Défense:** 11<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Ca coule de source**<br>➡️ Cible: 1 allié | CD: 1t<br><br>&nbsp; |
+| <img src="JeuDeCarte/Assets/img/Crea/9.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 840<br>⚔️ **Attaque:** 21<br>🛡️ **Défense:** 11<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Ca coule de source** (Cible: 1 allié | CD: 1t)<br>Une eau de source qui revitalise !<br><br>&nbsp; |
 
 ---
 
@@ -310,7 +310,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
 |------------------------------------|------------------------------------|-----------------------------------|
-| <img src="JeuDeCarte/Assets/img/Crea/29.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 890<br>⚔️ **Attaque:** 32<br>🛡️ **Défense:** 12<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Larmes Féerique**<br>➡️ Dégâts: 40 | Cible: 1 allié | CD: 2t<br><br>&nbsp; |
+| <img src="JeuDeCarte/Assets/img/Crea/29.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 890<br>⚔️ **Attaque:** 32<br>🛡️ **Défense:** 12<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Larmes Féerique** (DMG: 40 | Cible: 1 allié | CD: 2t)<br>Des larmes aux propriétées soignante<br><br>&nbsp; |
 
 ---
 
@@ -321,7 +321,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
 |------------------------------------|------------------------------------|-----------------------------------|
-| <img src="JeuDeCarte/Assets/img/Crea/23.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 1200<br>⚔️ **Attaque:** 26<br>🛡️ **Défense:** 34<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Étreinte Liquide**<br>➡️ Dégâts fixes: 30 | Cible: 1 ennemi | CD: 2t<br><br>**Torrent Ensorcelé**<br>➡️ Dégâts fixes: 160 | Cible: 1 ennemi | CD: 4t |
+| <img src="JeuDeCarte/Assets/img/Crea/23.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 1200<br>⚔️ **Attaque:** 26<br>🛡️ **Défense:** 34<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Étreinte Liquide** (DMG: 30 | Cible: 1 ennemi | CD: 2t)<br>Une main faites d'eau vient étreindre sa cible<br><br>**Torrent Ensorcelé** (DMG: 160 | Cible: 1 ennemi | CD: 4t)<br>Torrent magique dévastateur |
 
 ---
 
@@ -332,7 +332,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
 |------------------------------------|------------------------------------|-----------------------------------|
-| <img src="JeuDeCarte/Assets/img/Crea/32.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 780<br>⚔️ **Attaque:** 19<br>🛡️ **Défense:** 19<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Attaque basique Eau**<br>➡️ Dégâts fixes: 20 | Cible: 1 ennemi | CD: 1t<br><br>&nbsp; |
+| <img src="JeuDeCarte/Assets/img/Crea/32.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 780<br>⚔️ **Attaque:** 19<br>🛡️ **Défense:** 19<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Attaque basique Eau** (DMG: 20 | Cible: 1 ennemi | CD: 1t)<br>Attaque basique de Eau<br><br>&nbsp; |
 
 ---
 
@@ -343,7 +343,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
 |------------------------------------|------------------------------------|-----------------------------------|
-| <img src="JeuDeCarte/Assets/img/Crea/50.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 1350<br>⚔️ **Attaque:** 39<br>🛡️ **Défense:** 24<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Soin Protecteur**<br>➡️ Cible: 1 allié | CD: 3t<br><br>**Coup Tranchant**<br>➡️ Dégâts fixes: 30 | Cible: 1 ennemi | CD: 1t |
+| <img src="JeuDeCarte/Assets/img/Crea/50.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 1350<br>⚔️ **Attaque:** 39<br>🛡️ **Défense:** 24<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Soin Protecteur** (Cible: 1 allié | CD: 3t)<br>Grâce au pouvoir de son bouclier combinée à sa magie, il soigne et protège une cible<br><br>**Coup Tranchant** (DMG: 30 | Cible: 1 ennemi | CD: 1t)<br>Un coup d'épée runique, on dit que le porteur est revigorer à chaque attaque portée |
 
 ---
 
@@ -354,7 +354,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
 |------------------------------------|------------------------------------|-----------------------------------|
-| <img src="JeuDeCarte/Assets/img/Crea/65.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 1111<br>⚔️ **Attaque:** 44<br>🛡️ **Défense:** 16<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Typhon**<br>➡️ Dégâts fixes: 80 | Cible: all_enemies | CD: 3t<br><br>**Avalement**<br>➡️ Dégâts: Attaque + 100 | Cible: 1 ennemi | CD: 4t |
+| <img src="JeuDeCarte/Assets/img/Crea/65.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 1111<br>⚔️ **Attaque:** 44<br>🛡️ **Défense:** 16<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Typhon** (DMG: 80 | Cible: all_enemies | CD: 3t)<br>Un immense Typhon qui emporte tout<br><br>**Avalement** (DMG: ATK+100 | Cible: 1 ennemi | CD: 4t)<br>Avale sa cible |
 
 ---
 
@@ -368,7 +368,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
 |------------------------------------|------------------------------------|-----------------------------------|
-| <img src="JeuDeCarte/Assets/img/Crea/58.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 872<br>⚔️ **Attaque:** 33<br>🛡️ **Défense:** 14<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Attaque basique Feu**<br>➡️ Dégâts fixes: 20 | Cible: 1 ennemi | CD: 1t<br><br>**Attaque basique Feu**<br>➡️ Dégâts fixes: 20 | Cible: 1 ennemi | CD: 1t |
+| <img src="JeuDeCarte/Assets/img/Crea/58.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 872<br>⚔️ **Attaque:** 33<br>🛡️ **Défense:** 14<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Attaque basique Feu** (DMG: 20 | Cible: 1 ennemi | CD: 1t)<br>Attaque basique de Feu<br><br>**Attaque basique Feu** (DMG: 20 | Cible: 1 ennemi | CD: 1t)<br>Attaque basique de Feu |
 
 ---
 
@@ -379,7 +379,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
 |------------------------------------|------------------------------------|-----------------------------------|
-| <img src="JeuDeCarte/Assets/img/Crea/68.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 710<br>⚔️ **Attaque:** 17<br>🛡️ **Défense:** 8<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Graine Enflammée**<br>➡️ Dégâts fixes: 5 | Cible: 1 ennemi aléatoire | CD: 1t<br><br>**Graine Explosive**<br>➡️ Dégâts: 20 | Cible: 1 ennemi | CD: 2t |
+| <img src="JeuDeCarte/Assets/img/Crea/68.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 710<br>⚔️ **Attaque:** 17<br>🛡️ **Défense:** 8<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Graine Enflammée** (DMG: 5 | Cible: 1 ennemi aléa | CD: 1t)<br>Lance des graines enflammées qui explosent après un certain temps<br><br>**Graine Explosive** (DMG: 20 | Cible: 1 ennemi | CD: 2t)<br>Lance une graine qui explose au contact |
 
 ---
 
@@ -390,7 +390,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
 |------------------------------------|------------------------------------|-----------------------------------|
-| <img src="JeuDeCarte/Assets/img/Crea/62.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 870<br>⚔️ **Attaque:** 28<br>🛡️ **Défense:** 16<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Lancer Tellurique**<br>➡️ Dégâts: Attaque + 40 | Cible: 1 ennemi | CD: 3t<br><br>**Pierre Enflammée**<br>➡️ Dégâts: 0.7 | Cible: 1 ennemi | CD: 1t |
+| <img src="JeuDeCarte/Assets/img/Crea/62.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 870<br>⚔️ **Attaque:** 28<br>🛡️ **Défense:** 16<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Lancer Tellurique** (DMG: ATK+40 | Cible: 1 ennemi | CD: 3t)<br>Lance un énorme rocher qui peut étourdir<br><br>**Pierre Enflammée** (DMG: 0.7 | Cible: 1 ennemi | CD: 1t)<br>Lance de petite pierre enflammée |
 
 ---
 
@@ -401,7 +401,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
 |------------------------------------|------------------------------------|-----------------------------------|
-| <img src="JeuDeCarte/Assets/img/Crea/31.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 850<br>⚔️ **Attaque:** 23<br>🛡️ **Défense:** 15<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Attaque basique Feu**<br>➡️ Dégâts fixes: 20 | Cible: 1 ennemi | CD: 1t<br><br>&nbsp; |
+| <img src="JeuDeCarte/Assets/img/Crea/31.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 850<br>⚔️ **Attaque:** 23<br>🛡️ **Défense:** 15<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Attaque basique Feu** (DMG: 20 | Cible: 1 ennemi | CD: 1t)<br>Attaque basique de Feu<br><br>&nbsp; |
 
 ---
 
@@ -412,7 +412,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
 |------------------------------------|------------------------------------|-----------------------------------|
-| <img src="JeuDeCarte/Assets/img/Crea/48.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 940<br>⚔️ **Attaque:** 27<br>🛡️ **Défense:** 18<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Souffle Enflammé**<br>➡️ Dégâts: Attaque + 20 | Cible: chain_random | CD: 3t<br><br>&nbsp; |
+| <img src="JeuDeCarte/Assets/img/Crea/48.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 940<br>⚔️ **Attaque:** 27<br>🛡️ **Défense:** 18<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Souffle Enflammé** (DMG: ATK+20 | Cible: chain_random | CD: 3t)<br>Terrible souffle de flamme se déchaînant sur le champ de bataille<br><br>&nbsp; |
 
 ---
 
@@ -423,7 +423,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
 |------------------------------------|------------------------------------|-----------------------------------|
-| <img src="JeuDeCarte/Assets/img/Crea/54.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 780<br>⚔️ **Attaque:** 25<br>🛡️ **Défense:** 13<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Rocher Magmatique**<br>➡️ Dégâts: 1.1 | Cible: 1 ennemi | CD: 2t<br><br>&nbsp; |
+| <img src="JeuDeCarte/Assets/img/Crea/54.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 780<br>⚔️ **Attaque:** 25<br>🛡️ **Défense:** 13<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Rocher Magmatique** (DMG: 1.1 | Cible: 1 ennemi | CD: 2t)<br>Lance un rocher en fusion qui explose à l'impact<br><br>&nbsp; |
 
 ---
 
@@ -434,7 +434,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
 |------------------------------------|------------------------------------|-----------------------------------|
-| <img src="JeuDeCarte/Assets/img/Crea/1.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 1200<br>⚔️ **Attaque:** 35<br>🛡️ **Défense:** 22<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Souffle Enflammé**<br>➡️ Dégâts: Attaque + 20 | Cible: chain_random | CD: 3t<br><br>**Tourbillon de Flamme**<br>➡️ Dégâts: 2.0 | Cible: 1 ennemi aléatoire | CD: 6t |
+| <img src="JeuDeCarte/Assets/img/Crea/1.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 1200<br>⚔️ **Attaque:** 35<br>🛡️ **Défense:** 22<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Souffle Enflammé** (DMG: ATK+20 | Cible: chain_random | CD: 3t)<br>Terrible souffle de flamme se déchaînant sur le champ de bataille<br><br>**Tourbillon de Flamme** (DMG: 2.0 | Cible: 1 ennemi aléa | CD: 6t)<br>Absorbe la chaleur environnante avant de cracher du feu |
 
 ---
 
@@ -445,7 +445,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
 |------------------------------------|------------------------------------|-----------------------------------|
-| <img src="JeuDeCarte/Assets/img/Crea/72.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 870<br>⚔️ **Attaque:** 35<br>🛡️ **Défense:** 17<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Coup de Griffe Ardente**<br>➡️ Dégâts: 0.6 | Cible: 1 ennemi | CD: 2t<br><br>&nbsp; |
+| <img src="JeuDeCarte/Assets/img/Crea/72.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 870<br>⚔️ **Attaque:** 35<br>🛡️ **Défense:** 17<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Coup de Griffe Ardente** (DMG: 0.6 | Cible: 1 ennemi | CD: 2t)<br>Lacère sa cible de coups de griffe rapides<br><br>&nbsp; |
 
 ---
 
@@ -456,7 +456,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
 |------------------------------------|------------------------------------|-----------------------------------|
-| <img src="JeuDeCarte/Assets/img/Crea/20.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 995<br>⚔️ **Attaque:** 30<br>🛡️ **Défense:** 18<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Torrent Ardent**<br>➡️ Dégâts fixes: 30 | Cible: 2 cibles aléatoires | CD: 5t<br><br>&nbsp; |
+| <img src="JeuDeCarte/Assets/img/Crea/20.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 995<br>⚔️ **Attaque:** 30<br>🛡️ **Défense:** 18<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Torrent Ardent** (DMG: 30 | Cible: 2 aléatoires | CD: 5t)<br>Vague de flammes tourbillonnantes<br><br>&nbsp; |
 
 ---
 
@@ -467,7 +467,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
 |------------------------------------|------------------------------------|-----------------------------------|
-| <img src="JeuDeCarte/Assets/img/Crea/42.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 780<br>⚔️ **Attaque:** 21<br>🛡️ **Défense:** 12<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Griffe acérée**<br>➡️ Dégâts: Attaque + 15 | Cible: 1 ennemi | CD: 1t<br><br>**Coup de Langue**<br>➡️ Dégâts fixes: 45 | Cible: 1 ennemi | CD: 3t |
+| <img src="JeuDeCarte/Assets/img/Crea/42.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 780<br>⚔️ **Attaque:** 21<br>🛡️ **Défense:** 12<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Griffe acérée** (DMG: ATK+15 | Cible: 1 ennemi | CD: 1t)<br>Griffe enflammée (Attaque + 15)<br><br>**Coup de Langue** (DMG: 45 | Cible: 1 ennemi | CD: 3t)<br>Sa langue s'allonge et frappe vivement sa proie |
 
 ---
 
@@ -478,7 +478,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
 |------------------------------------|------------------------------------|-----------------------------------|
-| <img src="JeuDeCarte/Assets/img/Crea/2.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 950<br>⚔️ **Attaque:** 30<br>🛡️ **Défense:** 16<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Flamme Foudroyante**<br>➡️ Dégâts: Attaque + 40 | Cible: 1 ennemi | CD: 3t<br><br>**Décharge Incandescente**<br>➡️ Dégâts: Attaque + 40 | Cible: 1 ennemi | CD: 3t |
+| <img src="JeuDeCarte/Assets/img/Crea/2.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 950<br>⚔️ **Attaque:** 30<br>🛡️ **Défense:** 16<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Flamme Foudroyante** (DMG: ATK+40 | Cible: 1 ennemi | CD: 3t)<br>Sort de flamme aux propriétées électriques<br><br>**Décharge Incandescente** (DMG: ATK+40 | Cible: 1 ennemi | CD: 3t)<br>Sort électrique aussi brûlant que le feu |
 
 ---
 
@@ -489,7 +489,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
 |------------------------------------|------------------------------------|-----------------------------------|
-| <img src="JeuDeCarte/Assets/img/Crea/26.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 940<br>⚔️ **Attaque:** 32<br>🛡️ **Défense:** 13<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Armure Incandescente**<br>➡️ Cible: self | CD: 4t<br><br>&nbsp; |
+| <img src="JeuDeCarte/Assets/img/Crea/26.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 940<br>⚔️ **Attaque:** 32<br>🛡️ **Défense:** 13<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Armure Incandescente** (Cible: self | CD: 4t)<br>Protège d'une cuirasse brûlante<br><br>&nbsp; |
 
 ---
 
@@ -500,7 +500,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
 |------------------------------------|------------------------------------|-----------------------------------|
-| <img src="JeuDeCarte/Assets/img/Crea/52.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 850<br>⚔️ **Attaque:** 23<br>🛡️ **Défense:** 14<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Attaque basique Feu**<br>➡️ Dégâts fixes: 20 | Cible: 1 ennemi | CD: 1t<br><br>&nbsp; |
+| <img src="JeuDeCarte/Assets/img/Crea/52.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 850<br>⚔️ **Attaque:** 23<br>🛡️ **Défense:** 14<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Attaque basique Feu** (DMG: 20 | Cible: 1 ennemi | CD: 1t)<br>Attaque basique de Feu<br><br>&nbsp; |
 
 ---
 
@@ -511,7 +511,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
 |------------------------------------|------------------------------------|-----------------------------------|
-| <img src="JeuDeCarte/Assets/img/Crea/38.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 900<br>⚔️ **Attaque:** 28<br>🛡️ **Défense:** 14<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Attaque basique Feu**<br>➡️ Dégâts fixes: 20 | Cible: 1 ennemi | CD: 1t<br><br>&nbsp; |
+| <img src="JeuDeCarte/Assets/img/Crea/38.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 900<br>⚔️ **Attaque:** 28<br>🛡️ **Défense:** 14<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Attaque basique Feu** (DMG: 20 | Cible: 1 ennemi | CD: 1t)<br>Attaque basique de Feu<br><br>&nbsp; |
 
 ---
 
@@ -522,7 +522,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
 |------------------------------------|------------------------------------|-----------------------------------|
-| <img src="JeuDeCarte/Assets/img/Crea/11.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 940<br>⚔️ **Attaque:** 32<br>🛡️ **Défense:** 15<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Ardeur de la Forge**<br>➡️ Permanent | Cible: self | CD: 2t<br><br>**Martelage**<br>➡️ Dégâts: 1.6 | Cible: 1 ennemi | CD: 1t |
+| <img src="JeuDeCarte/Assets/img/Crea/11.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 940<br>⚔️ **Attaque:** 32<br>🛡️ **Défense:** 15<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Ardeur de la Forge** (Permanent | Cible: self | CD: 2t)<br>Canalise la puissance ancestrale des forges ardentes<br><br>**Martelage** (DMG: 1.6 | Cible: 1 ennemi | CD: 1t)<br>Le forgeron frappe de tout son poids avec son marteau |
 
 ---
 
@@ -536,7 +536,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
 |------------------------------------|------------------------------------|-----------------------------------|
-| <img src="JeuDeCarte/Assets/img/Crea/78.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 1100<br>⚔️ **Attaque:** 28<br>🛡️ **Défense:** 11<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Foudre Éclair**<br>➡️ Dégâts: 1.0 | Cible: 1 ennemi | CD: 4t<br><br>**Coupe Foudre**<br>➡️ Dégâts fixes: 15 | Cible: 1 ennemi | CD: 2t |
+| <img src="JeuDeCarte/Assets/img/Crea/78.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 1100<br>⚔️ **Attaque:** 28<br>🛡️ **Défense:** 11<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Foudre Éclair** (DMG: 1.0 | Cible: 1 ennemi | CD: 4t)<br>Canalisant l'énergie du tonnerre, elle déchaîne trois frappes rapides d'une précision surnaturelle.<br><br>**Coupe Foudre** (DMG: 15 | Cible: 1 ennemi | CD: 2t)<br>Après deux Coupes Foudre, la 3ème créer une tornade d'électricité ravageant la zone. |
 
 ---
 
@@ -547,7 +547,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
 |------------------------------------|------------------------------------|-----------------------------------|
-| <img src="JeuDeCarte/Assets/img/Crea/46.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 830<br>⚔️ **Attaque:** 28<br>🛡️ **Défense:** 13<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Sphère Shock**<br>➡️ Dégâts: 1.1 | Cible: 1 ennemi aléatoire | CD: 1t<br><br>&nbsp; |
+| <img src="JeuDeCarte/Assets/img/Crea/46.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 830<br>⚔️ **Attaque:** 28<br>🛡️ **Défense:** 13<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Sphère Shock** (DMG: 1.1 | Cible: 1 ennemi aléa | CD: 1t)<br>Lance une sphère électrique instable sur un ennemi<br><br>&nbsp; |
 
 ---
 
@@ -558,7 +558,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
 |------------------------------------|------------------------------------|-----------------------------------|
-| <img src="JeuDeCarte/Assets/img/Crea/36.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 940<br>⚔️ **Attaque:** 29<br>🛡️ **Défense:** 17<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Éclair Tranchant**<br>➡️ Dégâts: Attaque + 24 | Cible: 1 ennemi | CD: 1t<br><br>&nbsp; |
+| <img src="JeuDeCarte/Assets/img/Crea/36.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 940<br>⚔️ **Attaque:** 29<br>🛡️ **Défense:** 17<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Éclair Tranchant** (DMG: ATK+24 | Cible: 1 ennemi | CD: 1t)<br>Une attaque éclair fulgurante, tranche l'air et foudroie la cible<br><br>&nbsp; |
 
 ---
 
@@ -569,7 +569,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
 |------------------------------------|------------------------------------|-----------------------------------|
-| <img src="JeuDeCarte/Assets/img/Crea/8.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 825<br>⚔️ **Attaque:** 24<br>🛡️ **Défense:** 16<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Morsure Statique**<br>➡️ Dégâts: 1.0 | Cible: 1 ennemi | CD: 1t<br><br>&nbsp; |
+| <img src="JeuDeCarte/Assets/img/Crea/8.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 825<br>⚔️ **Attaque:** 24<br>🛡️ **Défense:** 16<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Morsure Statique** (DMG: 1.0 | Cible: 1 ennemi | CD: 1t)<br>Un coup de crocs libérant une décharge électrique<br><br>&nbsp; |
 
 ---
 
@@ -580,7 +580,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
 |------------------------------------|------------------------------------|-----------------------------------|
-| <img src="JeuDeCarte/Assets/img/Crea/56.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 950<br>⚔️ **Attaque:** 25<br>🛡️ **Défense:** 16<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Morsure Fulgurante**<br>➡️ Dégâts: 1.0 | Cible: 1 ennemi | CD: 1t<br><br>**Double Frappe**<br>➡️ Dégâts: 0.8 | Cible: 1 ennemi | CD: 2t |
+| <img src="JeuDeCarte/Assets/img/Crea/56.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 950<br>⚔️ **Attaque:** 25<br>🛡️ **Défense:** 16<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Morsure Fulgurante** (DMG: 1.0 | Cible: 1 ennemi | CD: 1t)<br>Une morsure chargée d'énergie qui peut désarçonner la cible<br><br>**Double Frappe** (DMG: 0.8 | Cible: 1 ennemi | CD: 2t)<br>Deux coups rapides en rafale |
 
 ---
 
@@ -591,7 +591,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
 |------------------------------------|------------------------------------|-----------------------------------|
-| <img src="JeuDeCarte/Assets/img/Crea/13.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 1080<br>⚔️ **Attaque:** 28<br>🛡️ **Défense:** 18<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Boule d'Énergie**<br>➡️ Dégâts: 1.2 | Cible: 1 ennemi aléatoire | CD: 1t<br><br>**Court-circuit**<br>➡️ Dégâts fixes: 28 | Cible: all_enemies | CD: 3t |
+| <img src="JeuDeCarte/Assets/img/Crea/13.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 1080<br>⚔️ **Attaque:** 28<br>🛡️ **Défense:** 18<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Boule d'Énergie** (DMG: 1.2 | Cible: 1 ennemi aléa | CD: 1t)<br>Génère une sphère électrique qui éclate sur un ennemi<br><br>**Court-circuit** (DMG: 28 | Cible: all_enemies | CD: 3t)<br>Dérègle les nerfs adverses avec une décharge aveuglante |
 
 ---
 
@@ -602,7 +602,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
 |------------------------------------|------------------------------------|-----------------------------------|
-| <img src="JeuDeCarte/Assets/img/Crea/24.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 935<br>⚔️ **Attaque:** 30<br>🛡️ **Défense:** 14<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Foudre Bondissante**<br>➡️ Dégâts fixes: 37 | Cible: chain_enemies | CD: 3t<br><br>&nbsp; |
+| <img src="JeuDeCarte/Assets/img/Crea/24.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 935<br>⚔️ **Attaque:** 30<br>🛡️ **Défense:** 14<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Foudre Bondissante** (DMG: 37 | Cible: chain_enemies | CD: 3t)<br>Un éclair agile frappe plusieurs ennemis en sautant de l'un à l'autre<br><br>&nbsp; |
 
 ---
 
@@ -616,7 +616,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
 |------------------------------------|------------------------------------|-----------------------------------|
-| <img src="JeuDeCarte/Assets/img/Crea/59.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 980<br>⚔️ **Attaque:** 29<br>🛡️ **Défense:** 19<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Attaque basique Glace**<br>➡️ Dégâts fixes: 20 | Cible: 1 ennemi | CD: 1t<br><br>&nbsp; |
+| <img src="JeuDeCarte/Assets/img/Crea/59.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 980<br>⚔️ **Attaque:** 29<br>🛡️ **Défense:** 19<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Attaque basique Glace** (DMG: 20 | Cible: 1 ennemi | CD: 1t)<br>Attaque basique de Glace<br><br>&nbsp; |
 
 ---
 
@@ -627,7 +627,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
 |------------------------------------|------------------------------------|-----------------------------------|
-| <img src="JeuDeCarte/Assets/img/Crea/41.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 1290<br>⚔️ **Attaque:** 24<br>🛡️ **Défense:** 36<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Attaque basique Glace**<br>➡️ Dégâts fixes: 20 | Cible: 1 ennemi | CD: 1t<br><br>&nbsp; |
+| <img src="JeuDeCarte/Assets/img/Crea/41.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 1290<br>⚔️ **Attaque:** 24<br>🛡️ **Défense:** 36<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Attaque basique Glace** (DMG: 20 | Cible: 1 ennemi | CD: 1t)<br>Attaque basique de Glace<br><br>&nbsp; |
 
 ---
 
@@ -638,7 +638,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
 |------------------------------------|------------------------------------|-----------------------------------|
-| <img src="JeuDeCarte/Assets/img/Crea/4.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 780<br>⚔️ **Attaque:** 23<br>🛡️ **Défense:** 13<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Attaque basique Glace**<br>➡️ Dégâts fixes: 20 | Cible: 1 ennemi | CD: 1t<br><br>&nbsp; |
+| <img src="JeuDeCarte/Assets/img/Crea/4.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 780<br>⚔️ **Attaque:** 23<br>🛡️ **Défense:** 13<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Attaque basique Glace** (DMG: 20 | Cible: 1 ennemi | CD: 1t)<br>Attaque basique de Glace<br><br>&nbsp; |
 
 ---
 
@@ -649,7 +649,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
 |------------------------------------|------------------------------------|-----------------------------------|
-| <img src="JeuDeCarte/Assets/img/Crea/71.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 1040<br>⚔️ **Attaque:** 29<br>🛡️ **Défense:** 19<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Étreinte Maternelle**<br>➡️ Cible: all_allies | CD: 3t<br><br>**Regard de Givre**<br>➡️ Dégâts fixes: 22 | Cible: 1 ennemi | CD: 2t |
+| <img src="JeuDeCarte/Assets/img/Crea/71.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 1040<br>⚔️ **Attaque:** 29<br>🛡️ **Défense:** 19<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Étreinte Maternelle** (Cible: all_allies | CD: 3t)<br>Enveloppe ses alliés d'un courant de givre régénérateur<br><br>**Regard de Givre** (DMG: 22 | Cible: 1 ennemi | CD: 2t)<br>Un regard glacial qui glace le sang de l'ennemi |
 
 ---
 
@@ -660,7 +660,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
 |------------------------------------|------------------------------------|-----------------------------------|
-| <img src="JeuDeCarte/Assets/img/Crea/37.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 1040<br>⚔️ **Attaque:** 32<br>🛡️ **Défense:** 19<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Attaque basique Glace**<br>➡️ Dégâts fixes: 20 | Cible: 1 ennemi | CD: 1t<br><br>&nbsp; |
+| <img src="JeuDeCarte/Assets/img/Crea/37.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 1040<br>⚔️ **Attaque:** 32<br>🛡️ **Défense:** 19<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Attaque basique Glace** (DMG: 20 | Cible: 1 ennemi | CD: 1t)<br>Attaque basique de Glace<br><br>&nbsp; |
 
 ---
 
@@ -671,7 +671,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
 |------------------------------------|------------------------------------|-----------------------------------|
-| <img src="JeuDeCarte/Assets/img/Crea/3.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 1100<br>⚔️ **Attaque:** 25<br>🛡️ **Défense:** 28<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Frappe Boréale**<br>➡️ Dégâts: Attaque + 22 | Cible: 1 ennemi | CD: 1t<br><br>&nbsp; |
+| <img src="JeuDeCarte/Assets/img/Crea/3.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 1100<br>⚔️ **Attaque:** 25<br>🛡️ **Défense:** 28<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Frappe Boréale** (DMG: ATK+22 | Cible: 1 ennemi | CD: 1t)<br>Frappe inspirée du vent boréal<br><br>&nbsp; |
 
 ---
 
@@ -682,7 +682,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
 |------------------------------------|------------------------------------|-----------------------------------|
-| <img src="JeuDeCarte/Assets/img/Crea/25.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 945<br>⚔️ **Attaque:** 25<br>🛡️ **Défense:** 20<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Attaque basique Glace**<br>➡️ Dégâts fixes: 20 | Cible: 1 ennemi | CD: 1t<br><br>&nbsp; |
+| <img src="JeuDeCarte/Assets/img/Crea/25.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 945<br>⚔️ **Attaque:** 25<br>🛡️ **Défense:** 20<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Attaque basique Glace** (DMG: 20 | Cible: 1 ennemi | CD: 1t)<br>Attaque basique de Glace<br><br>&nbsp; |
 
 ---
 
@@ -693,7 +693,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
 |------------------------------------|------------------------------------|-----------------------------------|
-| <img src="JeuDeCarte/Assets/img/Crea/69.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 920<br>⚔️ **Attaque:** 31<br>🛡️ **Défense:** 14<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Choc des Neiges**<br>➡️ Dégâts: Attaque + 24 | Cible: 1 ennemi aléatoire | CD: 2t<br><br>&nbsp; |
+| <img src="JeuDeCarte/Assets/img/Crea/69.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 920<br>⚔️ **Attaque:** 31<br>🛡️ **Défense:** 14<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Choc des Neiges** (DMG: ATK+24 | Cible: 1 ennemi aléa | CD: 2t)<br>Écrase l'ennemi sous une masse de neige<br><br>&nbsp; |
 
 ---
 
@@ -704,7 +704,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
 |------------------------------------|------------------------------------|-----------------------------------|
-| <img src="JeuDeCarte/Assets/img/Crea/12.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 1092<br>⚔️ **Attaque:** 30<br>🛡️ **Défense:** 21<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Avalanche Royale**<br>➡️ Dégâts fixes: 45 | Cible: all_enemies | CD: 3t<br><br>&nbsp; |
+| <img src="JeuDeCarte/Assets/img/Crea/12.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 1092<br>⚔️ **Attaque:** 30<br>🛡️ **Défense:** 21<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Avalanche Royale** (DMG: 45 | Cible: all_enemies | CD: 3t)<br>Un raz-de-marée de neige s'abat sur l'ennemi<br><br>&nbsp; |
 
 ---
 
@@ -715,7 +715,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
 |------------------------------------|------------------------------------|-----------------------------------|
-| <img src="JeuDeCarte/Assets/img/Crea/53.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 810<br>⚔️ **Attaque:** 20<br>🛡️ **Défense:** 16<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Attaque basique Glace**<br>➡️ Dégâts fixes: 20 | Cible: 1 ennemi | CD: 1t<br><br>&nbsp; |
+| <img src="JeuDeCarte/Assets/img/Crea/53.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 810<br>⚔️ **Attaque:** 20<br>🛡️ **Défense:** 16<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Attaque basique Glace** (DMG: 20 | Cible: 1 ennemi | CD: 1t)<br>Attaque basique de Glace<br><br>&nbsp; |
 
 ---
 
@@ -726,7 +726,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
 |------------------------------------|------------------------------------|-----------------------------------|
-| <img src="JeuDeCarte/Assets/img/Crea/30.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 1075<br>⚔️ **Attaque:** 34<br>🛡️ **Défense:** 22<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Charge Polaire**<br>➡️ Dégâts: 2.0 | Cible: front_row | CD: 4t<br><br>&nbsp; |
+| <img src="JeuDeCarte/Assets/img/Crea/30.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 1075<br>⚔️ **Attaque:** 34<br>🛡️ **Défense:** 22<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Charge Polaire** (DMG: 2.0 | Cible: front_row | CD: 4t)<br>Un coup de défense dévastateur qui glace tout sur son passage<br><br>&nbsp; |
 
 ---
 
@@ -740,7 +740,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
 |------------------------------------|------------------------------------|-----------------------------------|
-| <img src="JeuDeCarte/Assets/img/Crea/61.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 800<br>⚔️ **Attaque:** 23<br>🛡️ **Défense:** 15<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Rayon Purificateur**<br>➡️ Dégâts: Attaque + 15 | Cible: 1 ennemi | CD: 1t<br><br>&nbsp; |
+| <img src="JeuDeCarte/Assets/img/Crea/61.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 800<br>⚔️ **Attaque:** 23<br>🛡️ **Défense:** 15<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Rayon Purificateur** (DMG: ATK+15 | Cible: 1 ennemi | CD: 1t)<br>Un rayon transcendental traverse l'ombre et blesse la cible<br><br>&nbsp; |
 
 ---
 
@@ -751,7 +751,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
 |------------------------------------|------------------------------------|-----------------------------------|
-| <img src="JeuDeCarte/Assets/img/Crea/70.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 830<br>⚔️ **Attaque:** 28<br>🛡️ **Défense:** 11<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Charge Lumineuse**<br>➡️ Dégâts: 1.2 | Cible: 1 ennemi | CD: 1t<br><br>&nbsp; |
+| <img src="JeuDeCarte/Assets/img/Crea/70.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 830<br>⚔️ **Attaque:** 28<br>🛡️ **Défense:** 11<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Charge Lumineuse** (DMG: 1.2 | Cible: 1 ennemi | CD: 1t)<br>Percée éclatante dévalant l'arène dans une gerbe d'étincelles dorées<br><br>&nbsp; |
 
 ---
 
@@ -762,7 +762,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
 |------------------------------------|------------------------------------|-----------------------------------|
-| <img src="JeuDeCarte/Assets/img/Crea/74.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 1030<br>⚔️ **Attaque:** 38<br>🛡️ **Défense:** 21<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Flamboiement Radieux**<br>➡️ Dégâts: 0.8 | Cible: all_enemies | CD: 3t<br><br>**Halo Espoir**<br>➡️ Cible: all_allies | CD: 5t |
+| <img src="JeuDeCarte/Assets/img/Crea/74.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 1030<br>⚔️ **Attaque:** 38<br>🛡️ **Défense:** 21<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Flamboiement Radieux** (DMG: 0.8 | Cible: all_enemies | CD: 3t)<br>Vague solaire submergeant tous les adversaires<br><br>**Halo Espoir** (Cible: all_allies | CD: 5t)<br>Un anneau protecteur illumine les alliés, les immunisant un tour |
 
 ---
 
@@ -773,7 +773,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
 |------------------------------------|------------------------------------|-----------------------------------|
-| <img src="JeuDeCarte/Assets/img/Crea/66.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 861<br>⚔️ **Attaque:** 28<br>🛡️ **Défense:** 14<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Éclat Prismatique**<br>➡️ Dégâts: Attaque + 19 | Cible: 1 ennemi aléatoire | CD: 1t<br><br>**Danse Iridescente**<br>➡️ Cible: all_allies | CD: 5t |
+| <img src="JeuDeCarte/Assets/img/Crea/66.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 861<br>⚔️ **Attaque:** 28<br>🛡️ **Défense:** 14<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Éclat Prismatique** (DMG: ATK+19 | Cible: 1 ennemi aléa | CD: 1t)<br>Un rayon polychromatique brise la défense de la cible<br><br>**Danse Iridescente** (Cible: all_allies | CD: 5t)<br>Battements d'ailes diffusant une aura réparatrice |
 
 ---
 
@@ -787,7 +787,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
 |------------------------------------|------------------------------------|-----------------------------------|
-| <img src="JeuDeCarte/Assets/img/Crea/43.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 870<br>⚔️ **Attaque:** 28<br>🛡️ **Défense:** 14<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Jet Moussu**<br>➡️ Dégâts: Attaque + 19 | Cible: 1 ennemi aléatoire | CD: 1t<br><br>&nbsp; |
+| <img src="JeuDeCarte/Assets/img/Crea/43.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 870<br>⚔️ **Attaque:** 28<br>🛡️ **Défense:** 14<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Jet Moussu** (DMG: ATK+19 | Cible: 1 ennemi aléa | CD: 1t)<br>Projette une boule de mousse chargée de toxines volatiles<br><br>&nbsp; |
 
 ---
 
@@ -798,7 +798,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
 |------------------------------------|------------------------------------|-----------------------------------|
-| <img src="JeuDeCarte/Assets/img/Crea/77.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 780<br>⚔️ **Attaque:** 19<br>🛡️ **Défense:** 16<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 2%<br>🔍 **Précision:** 99% | **Lancer de CDN**<br>➡️ Dégâts fixes: 10 | Cible: 1 ennemi aléatoire | CD: 2t<br><br>&nbsp; |
+| <img src="JeuDeCarte/Assets/img/Crea/77.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 780<br>⚔️ **Attaque:** 19<br>🛡️ **Défense:** 16<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 2%<br>🔍 **Précision:** 99% | **Lancer de CDN** (DMG: 10 | Cible: 1 ennemi aléa | CD: 2t)<br>Lance quelque chose verdâtre, jaunâtre et surtout gluante<br><br>&nbsp; |
 
 ---
 
@@ -809,7 +809,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
 |------------------------------------|------------------------------------|-----------------------------------|
-| <img src="JeuDeCarte/Assets/img/Crea/14.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 990<br>⚔️ **Attaque:** 22<br>🛡️ **Défense:** 28<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Attaque basique Poison**<br>➡️ Dégâts fixes: 20 | Cible: 1 ennemi | CD: 1t<br><br>**Poussée Toxique**<br>➡️ Dégâts: Attaque + 23 | Cible: 1 ennemi | CD: 3t |
+| <img src="JeuDeCarte/Assets/img/Crea/14.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 990<br>⚔️ **Attaque:** 22<br>🛡️ **Défense:** 28<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Attaque basique Poison** (DMG: 20 | Cible: 1 ennemi | CD: 1t)<br>Attaque basique de Poison<br><br>**Poussée Toxique** (DMG: ATK+23 | Cible: 1 ennemi | CD: 3t)<br>Déclenche une vague de spores agressives |
 
 ---
 
@@ -820,7 +820,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
 |------------------------------------|------------------------------------|-----------------------------------|
-| <img src="JeuDeCarte/Assets/img/Crea/40.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 1020<br>⚔️ **Attaque:** 36<br>🛡️ **Défense:** 21<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Vague Nécrotique**<br>➡️ Dégâts: 0.7 | Cible: all_enemies | CD: 3t<br><br>**Attaque basique Poison**<br>➡️ Dégâts fixes: 20 | Cible: 1 ennemi | CD: 1t |
+| <img src="JeuDeCarte/Assets/img/Crea/40.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 1020<br>⚔️ **Attaque:** 36<br>🛡️ **Défense:** 21<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Vague Nécrotique** (DMG: 0.7 | Cible: all_enemies | CD: 3t)<br>Déferlement toxique s'étendant sur le champ de bataille<br><br>**Attaque basique Poison** (DMG: 20 | Cible: 1 ennemi | CD: 1t)<br>Attaque basique de Poison |
 
 ---
 
@@ -831,7 +831,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
 |------------------------------------|------------------------------------|-----------------------------------|
-| <img src="JeuDeCarte/Assets/img/Crea/55.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 1220<br>⚔️ **Attaque:** 39<br>🛡️ **Défense:** 27<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Essence Mortelle**<br>➡️ Dégâts: Attaque + 44 | Cible: 1 ennemi | CD: 2t<br><br>**Toxine Mortelle**<br>➡️ Dégâts fixes: 10 | Cible: 1 ennemi aléatoire | CD: 4t |
+| <img src="JeuDeCarte/Assets/img/Crea/55.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 1220<br>⚔️ **Attaque:** 39<br>🛡️ **Défense:** 27<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Essence Mortelle** (DMG: ATK+44 | Cible: 1 ennemi | CD: 2t)<br>Synthèse ultime de toxines végétales infligées dans le sang<br><br>**Toxine Mortelle** (DMG: 10 | Cible: 1 ennemi aléa | CD: 4t)<br>Un virus mortel qui tue tout ceux qui l'inhale |
 
 ---
 
@@ -842,7 +842,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
 |------------------------------------|------------------------------------|-----------------------------------|
-| <img src="JeuDeCarte/Assets/img/Crea/63.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 1200<br>⚔️ **Attaque:** 25<br>🛡️ **Défense:** 34<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Ronce Empoisonnée**<br>➡️ Dégâts: 1.0 | Cible: 1 ennemi | CD: 1t<br><br>**Brouillard Corrosif**<br>➡️ Dégâts: 0.7 | Cible: all_enemies | CD: 6t |
+| <img src="JeuDeCarte/Assets/img/Crea/63.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 1200<br>⚔️ **Attaque:** 25<br>🛡️ **Défense:** 34<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Ronce Empoisonnée** (DMG: 1.0 | Cible: 1 ennemi | CD: 1t)<br>Les ronces étouffent la cible, injectant du venin<br><br>**Brouillard Corrosif** (DMG: 0.7 | Cible: all_enemies | CD: 6t)<br>Libère un nuage nocif touchant tous les adversaires |
 
 ---
 
@@ -856,7 +856,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
 |------------------------------------|------------------------------------|-----------------------------------|
-| <img src="JeuDeCarte/Assets/img/Crea/16.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 1130<br>⚔️ **Attaque:** 32<br>🛡️ **Défense:** 18<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Heurtoir**<br>➡️ Dégâts: 1.0 | Cible: 1 ennemi | CD: 1t<br><br>**Rage Berseker**<br>➡️ Cible: self | CD: 2t |
+| <img src="JeuDeCarte/Assets/img/Crea/16.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 1130<br>⚔️ **Attaque:** 32<br>🛡️ **Défense:** 18<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Heurtoir** (DMG: 1.0 | Cible: 1 ennemi | CD: 1t)<br>Coup de Hache simple<br><br>**Rage Berseker** (Cible: self | CD: 2t)<br>Rentre dans une rage incontrollable |
 
 ---
 
@@ -867,7 +867,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
 |------------------------------------|------------------------------------|-----------------------------------|
-| <img src="JeuDeCarte/Assets/img/Crea/18.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 1160<br>⚔️ **Attaque:** 26<br>🛡️ **Défense:** 30<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Haine Naine**<br>➡️ Cible: 1 ennemi | CD: 1t<br><br>&nbsp; |
+| <img src="JeuDeCarte/Assets/img/Crea/18.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 1160<br>⚔️ **Attaque:** 26<br>🛡️ **Défense:** 30<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Haine Naine** (Cible: 1 ennemi | CD: 1t)<br>Un coup tout ce qu'il y a de plus basique mais donné avec HAINE<br><br>&nbsp; |
 
 ---
 
@@ -878,7 +878,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
 |------------------------------------|------------------------------------|-----------------------------------|
-| <img src="JeuDeCarte/Assets/img/Crea/76.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 780<br>⚔️ **Attaque:** 31<br>🛡️ **Défense:** 15<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Frappe sismique**<br>➡️ Dégâts: 1.0 | Cible: 1 ennemi aléatoire | CD: 2t<br><br>&nbsp; |
+| <img src="JeuDeCarte/Assets/img/Crea/76.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 780<br>⚔️ **Attaque:** 31<br>🛡️ **Défense:** 15<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Frappe sismique** (DMG: 1.0 | Cible: 1 ennemi aléa | CD: 2t)<br>Une frappe au sol déclenchant une onde de choc qui fissure la terre et projette violemment l'ennemi pris pour cible<br><br>&nbsp; |
 
 ---
 
@@ -889,7 +889,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
 |------------------------------------|------------------------------------|-----------------------------------|
-| <img src="JeuDeCarte/Assets/img/Crea/60.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 990<br>⚔️ **Attaque:** 37<br>🛡️ **Défense:** 16<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Briseur de Montagne**<br>➡️ Dégâts: 0.1 | Cible: 1 ennemi | CD: 5t<br><br>**Fureur Tellurique**<br>➡️ Dégâts: 0.05 | Cible: all_enemies | CD: 3t |
+| <img src="JeuDeCarte/Assets/img/Crea/60.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 990<br>⚔️ **Attaque:** 37<br>🛡️ **Défense:** 16<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Briseur de Montagne** (DMG: 0.1 | Cible: 1 ennemi | CD: 5t)<br>Un coup si puissant que le vent provoqué par le coup rends inerte sa cible<br><br>**Fureur Tellurique** (DMG: 0.05 | Cible: all_enemies | CD: 3t)<br>Concentre l'énergie de la Terre pour la faire exploser ensuite dans une giganteste décharge |
 
 ---
 
@@ -900,7 +900,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
 |------------------------------------|------------------------------------|-----------------------------------|
-| <img src="JeuDeCarte/Assets/img/Crea/33.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 870<br>⚔️ **Attaque:** 30<br>🛡️ **Défense:** 15<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Brise-Roc**<br>➡️ Dégâts: 1.0 | Cible: 1 ennemi | CD: 4t<br><br>&nbsp; |
+| <img src="JeuDeCarte/Assets/img/Crea/33.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 870<br>⚔️ **Attaque:** 30<br>🛡️ **Défense:** 15<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Brise-Roc** (DMG: 1.0 | Cible: 1 ennemi | CD: 4t)<br>Frappe d'un gros coup rendant sa cible désorientée<br><br>&nbsp; |
 
 ---
 
@@ -911,7 +911,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
 |------------------------------------|------------------------------------|-----------------------------------|
-| <img src="JeuDeCarte/Assets/img/Crea/28.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 1190<br>⚔️ **Attaque:** 28<br>🛡️ **Défense:** 29<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Heurtoir**<br>➡️ Dégâts: 1.0 | Cible: 1 ennemi | CD: 1t<br><br>**Attaque basique Terre**<br>➡️ Dégâts fixes: 20 | Cible: 1 ennemi | CD: 1t |
+| <img src="JeuDeCarte/Assets/img/Crea/28.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 1190<br>⚔️ **Attaque:** 28<br>🛡️ **Défense:** 29<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Heurtoir** (DMG: 1.0 | Cible: 1 ennemi | CD: 1t)<br>Coup de Hache simple<br><br>**Attaque basique Terre** (DMG: 20 | Cible: 1 ennemi | CD: 1t)<br>Attaque basique de Terre |
 
 ---
 
@@ -922,7 +922,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
 |------------------------------------|------------------------------------|-----------------------------------|
-| <img src="JeuDeCarte/Assets/img/Crea/6.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 810<br>⚔️ **Attaque:** 28<br>🛡️ **Défense:** 13<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Attaque basique Terre**<br>➡️ Dégâts fixes: 20 | Cible: 1 ennemi | CD: 1t<br><br>&nbsp; |
+| <img src="JeuDeCarte/Assets/img/Crea/6.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 810<br>⚔️ **Attaque:** 28<br>🛡️ **Défense:** 13<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Attaque basique Terre** (DMG: 20 | Cible: 1 ennemi | CD: 1t)<br>Attaque basique de Terre<br><br>&nbsp; |
 
 ---
 
@@ -933,7 +933,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
 |------------------------------------|------------------------------------|-----------------------------------|
-| <img src="JeuDeCarte/Assets/img/Crea/47.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 880<br>⚔️ **Attaque:** 22<br>🛡️ **Défense:** 17<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Attaque basique Terre**<br>➡️ Dégâts fixes: 20 | Cible: 1 ennemi | CD: 1t<br><br>**Lancer Tellurique**<br>➡️ Dégâts: Attaque + 40 | Cible: 1 ennemi | CD: 3t |
+| <img src="JeuDeCarte/Assets/img/Crea/47.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 880<br>⚔️ **Attaque:** 22<br>🛡️ **Défense:** 17<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Attaque basique Terre** (DMG: 20 | Cible: 1 ennemi | CD: 1t)<br>Attaque basique de Terre<br><br>**Lancer Tellurique** (DMG: ATK+40 | Cible: 1 ennemi | CD: 3t)<br>Lance un énorme rocher qui peut étourdir |
 
 ---
 
@@ -944,7 +944,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
 |------------------------------------|------------------------------------|-----------------------------------|
-| <img src="JeuDeCarte/Assets/img/Crea/35.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 845<br>⚔️ **Attaque:** 26<br>🛡️ **Défense:** 12<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Piège à Pétards**<br>➡️ Dégâts fixes: 28 | Cible: 1 ennemi | CD: 3t<br><br>**Dynamite**<br>➡️ Dégâts fixes: 80 | Cible: 1 ennemi aléatoire | CD: 3t |
+| <img src="JeuDeCarte/Assets/img/Crea/35.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 845<br>⚔️ **Attaque:** 26<br>🛡️ **Défense:** 12<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Piège à Pétards** (DMG: 28 | Cible: 1 ennemi | CD: 3t)<br>Pose un piège qui explose lorsqu'un attaquant prends pour cible la personne piégée<br><br>**Dynamite** (DMG: 80 | Cible: 1 ennemi aléa | CD: 3t)<br>Lance une dynamite qui explose après un court instant |
 
 ---
 
@@ -955,7 +955,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
 |------------------------------------|------------------------------------|-----------------------------------|
-| <img src="JeuDeCarte/Assets/img/Crea/22.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 900<br>⚔️ **Attaque:** 31<br>🛡️ **Défense:** 14<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Lancer Tellurique**<br>➡️ Dégâts: Attaque + 40 | Cible: 1 ennemi | CD: 3t<br><br>**Armure de roche**<br>➡️ Cible: self | CD: 3t |
+| <img src="JeuDeCarte/Assets/img/Crea/22.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 900<br>⚔️ **Attaque:** 31<br>🛡️ **Défense:** 14<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Lancer Tellurique** (DMG: ATK+40 | Cible: 1 ennemi | CD: 3t)<br>Lance un énorme rocher qui peut étourdir<br><br>**Armure de roche** (Cible: self | CD: 3t)<br>Se renforce naturellement |
 
 ---
 
@@ -966,7 +966,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
 |------------------------------------|------------------------------------|-----------------------------------|
-| <img src="JeuDeCarte/Assets/img/Crea/73.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 830<br>⚔️ **Attaque:** 29<br>🛡️ **Défense:** 14<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Brise-Roc**<br>➡️ Dégâts: 1.0 | Cible: 1 ennemi | CD: 4t<br><br>**Glissement de Terrain**<br>➡️ Dégâts: 0.8 | Cible: 1 ennemi | CD: 3t |
+| <img src="JeuDeCarte/Assets/img/Crea/73.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 830<br>⚔️ **Attaque:** 29<br>🛡️ **Défense:** 14<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Brise-Roc** (DMG: 1.0 | Cible: 1 ennemi | CD: 4t)<br>Frappe d'un gros coup rendant sa cible désorientée<br><br>**Glissement de Terrain** (DMG: 0.8 | Cible: 1 ennemi | CD: 3t)<br>Une secousse brutale fissurant la terre |
 
 ---
 
@@ -977,7 +977,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
 |------------------------------------|------------------------------------|-----------------------------------|
-| <img src="JeuDeCarte/Assets/img/Crea/7.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 1400<br>⚔️ **Attaque:** 18<br>🛡️ **Défense:** 41<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Éboulement**<br>➡️ Dégâts fixes: 40 | Cible: chain_enemies | CD: 6t<br><br>**Attaque basique Terre**<br>➡️ Dégâts fixes: 20 | Cible: 1 ennemi | CD: 1t |
+| <img src="JeuDeCarte/Assets/img/Crea/7.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 1400<br>⚔️ **Attaque:** 18<br>🛡️ **Défense:** 41<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Éboulement** (DMG: 40 | Cible: chain_enemies | CD: 6t)<br>Provoque un lourd éboulement<br><br>**Attaque basique Terre** (DMG: 20 | Cible: 1 ennemi | CD: 1t)<br>Attaque basique de Terre |
 
 ---
 
@@ -991,7 +991,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
 |------------------------------------|------------------------------------|-----------------------------------|
-| <img src="JeuDeCarte/Assets/img/Crea/67.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 1300<br>⚔️ **Attaque:** 39<br>🛡️ **Défense:** 24<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Griffes de l'Abîme**<br>➡️ Dégâts: Attaque + 30 | Cible: 1 ennemi | CD: 2t<br><br>**Voile d'Éclipsombre**<br>➡️ Dégâts: 0.7 | Cible: all_enemies | CD: 4t |
+| <img src="JeuDeCarte/Assets/img/Crea/67.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 1300<br>⚔️ **Attaque:** 39<br>🛡️ **Défense:** 24<br><br>🎯 **Critique:** 3%<br>🌀 **Esquive:** 1%<br>🔍 **Précision:** 99% | **Griffes de l'Abîme** (DMG: ATK+30 | Cible: 1 ennemi | CD: 2t)<br>Murkax transperce sa cible avec des griffes composées d'ombres pures<br><br>**Voile d'Éclipsombre** (DMG: 0.7 | Cible: all_enemies | CD: 4t)<br>Une nappe d'obscurité glacée recouvre l'ennemi, affaiblissant leur volonté |
 
 ---
 
