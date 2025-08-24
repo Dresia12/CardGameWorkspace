@@ -39,9 +39,7 @@ Ce catalogue présente tous les héros disponibles dans le jeu avec leurs capaci
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
 |------------------------------------|------------------------------------|-----------------------------------|
-| <img src="JeuDeCarte/Assets/img/Hero/2.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 1200<br>⚔️ **Attaque:** 28<br>🛡️ **Défense:** 24 | ⚡ **Vague Régénératrice** (CD: 3)<br>➡️ Capacité spéciale du héros |
-| &nbsp;                             | 🏃 **Vitesse:** 0<br>🎯 **Critique:** 5%<br>🌀 **Esquive:** 5% | 🛡️ **Alliés Eau -10 % dégâts subit. (+2 coût)**<br>➡️ Passif permanent |
-| &nbsp;                             | 🔍 **Précision:** 99%              | &nbsp;                            |
+| <img src="JeuDeCarte/Assets/img/Hero/2.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 1200<br>⚔️ **Attaque:** 28<br>🛡️ **Défense:** 24<br>🏃 **Vitesse:** 0<br>🎯 **Critique:** 5%<br>🌀 **Esquive:** 5%<br>🔍 **Précision:** 99% | ⚡ **Vague Régénératrice** (CD: 3)<br>➡️ Capacité spéciale du héros<br>🛡️ **Alliés Eau -10 % dégâts subit. (+2 coût)**<br>➡️ Passif permanent |
 
 ---
 
@@ -52,9 +50,7 @@ Ce catalogue présente tous les héros disponibles dans le jeu avec leurs capaci
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
 |------------------------------------|------------------------------------|-----------------------------------|
-| <img src="JeuDeCarte/Assets/img/Hero/9.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 1050<br>⚔️ **Attaque:** 35<br>🛡️ **Défense:** 22 | ⚡ **Distorsion du Temps** (CD: 3)<br>➡️ Capacité spéciale du héros |
-| &nbsp;                             | 🏃 **Vitesse:** 0<br>🎯 **Critique:** 5%<br>🌀 **Esquive:** 5% | 🛡️ **-1 tour de cooldown global sur le deck (minimum 1 de CD). (+2 coût)**<br>➡️ Passif permanent |
-| &nbsp;                             | 🔍 **Précision:** 99%              | &nbsp;                            |
+| <img src="JeuDeCarte/Assets/img/Hero/9.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 1050<br>⚔️ **Attaque:** 35<br>🛡️ **Défense:** 22<br>🏃 **Vitesse:** 0<br>🎯 **Critique:** 5%<br>🌀 **Esquive:** 5%<br>🔍 **Précision:** 99% | ⚡ **Distorsion du Temps** (CD: 3)<br>➡️ Capacité spéciale du héros<br>🛡️ **-1 tour de cooldown global sur le deck (minimum 1 de CD). (+2 coût)**<br>➡️ Passif permanent |
 
 ---
 
@@ -65,9 +61,7 @@ Ce catalogue présente tous les héros disponibles dans le jeu avec leurs capaci
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
 |------------------------------------|------------------------------------|-----------------------------------|
-| <img src="JeuDeCarte/Assets/img/Hero/3.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 1150<br>⚔️ **Attaque:** 32<br>🛡️ **Défense:** 26 | ⚡ **Tempête de Givre** (CD: 3)<br>➡️ Capacité spéciale du héros |
-| &nbsp;                             | 🏃 **Vitesse:** 0<br>🎯 **Critique:** 5%<br>🌀 **Esquive:** 5% | 🛡️ **-10 Défense ennemie. (+2 coût)**<br>➡️ Passif permanent |
-| &nbsp;                             | 🔍 **Précision:** 99%              | &nbsp;                            |
+| <img src="JeuDeCarte/Assets/img/Hero/3.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 1150<br>⚔️ **Attaque:** 32<br>🛡️ **Défense:** 26<br>🏃 **Vitesse:** 0<br>🎯 **Critique:** 5%<br>🌀 **Esquive:** 5%<br>🔍 **Précision:** 99% | ⚡ **Tempête de Givre** (CD: 3)<br>➡️ Capacité spéciale du héros<br>🛡️ **-10 Défense ennemie. (+2 coût)**<br>➡️ Passif permanent |
 
 ---
 
@@ -78,9 +72,7 @@ Ce catalogue présente tous les héros disponibles dans le jeu avec leurs capaci
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
 |------------------------------------|------------------------------------|-----------------------------------|
-| <img src="JeuDeCarte/Assets/img/Hero/7.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 1150<br>⚔️ **Attaque:** 32<br>🛡️ **Défense:** 25 | ⚡ **Bénédiction Solaire** (CD: 3)<br>➡️ Capacité spéciale du héros |
-| &nbsp;                             | 🏃 **Vitesse:** 0<br>🎯 **Critique:** 5%<br>🌀 **Esquive:** 5% | 🛡️ **Alliés Lumière reçoivent -15 %. (+4 coût)**<br>➡️ Passif permanent |
-| &nbsp;                             | 🔍 **Précision:** 99%              | &nbsp;                            |
+| <img src="JeuDeCarte/Assets/img/Hero/7.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 1150<br>⚔️ **Attaque:** 32<br>🛡️ **Défense:** 25<br>🏃 **Vitesse:** 0<br>🎯 **Critique:** 5%<br>🌀 **Esquive:** 5%<br>🔍 **Précision:** 99% | ⚡ **Bénédiction Solaire** (CD: 3)<br>➡️ Capacité spéciale du héros<br>🛡️ **Alliés Lumière reçoivent -15 %. (+4 coût)**<br>➡️ Passif permanent |
 
 ---
 
@@ -91,9 +83,7 @@ Ce catalogue présente tous les héros disponibles dans le jeu avec leurs capaci
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
 |------------------------------------|------------------------------------|-----------------------------------|
-| <img src="JeuDeCarte/Assets/img/Hero/8.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 1100<br>⚔️ **Attaque:** 38<br>🛡️ **Défense:** 23 | ⚡ **Siphon d'Ombres** (CD: 3)<br>➡️ Capacité spéciale du héros |
-| &nbsp;                             | 🏃 **Vitesse:** 0<br>🎯 **Critique:** 5%<br>🌀 **Esquive:** 5% | 🛡️ **Alliés Ténèbres +15 %. (+4 coût)**<br>➡️ Passif permanent |
-| &nbsp;                             | 🔍 **Précision:** 99%              | &nbsp;                            |
+| <img src="JeuDeCarte/Assets/img/Hero/8.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 1100<br>⚔️ **Attaque:** 38<br>🛡️ **Défense:** 23<br>🏃 **Vitesse:** 0<br>🎯 **Critique:** 5%<br>🌀 **Esquive:** 5%<br>🔍 **Précision:** 99% | ⚡ **Siphon d'Ombres** (CD: 3)<br>➡️ Capacité spéciale du héros<br>🛡️ **Alliés Ténèbres +15 %. (+4 coût)**<br>➡️ Passif permanent |
 
 ---
 
@@ -104,9 +94,7 @@ Ce catalogue présente tous les héros disponibles dans le jeu avec leurs capaci
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
 |------------------------------------|------------------------------------|-----------------------------------|
-| <img src="JeuDeCarte/Assets/img/Hero/11.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 1150<br>⚔️ **Attaque:** 38<br>🛡️ **Défense:** 20 | ⚡ **Annihilation Instantanée** (CD: 3)<br>➡️ Capacité spéciale du héros |
-| &nbsp;                             | 🏃 **Vitesse:** 0<br>🎯 **Critique:** 5%<br>🌀 **Esquive:** 5% | 🛡️ **Immunisé aux effets élémentaires (Brûlure, Gel, etc.). (+3 coût)**<br>➡️ Passif permanent |
-| &nbsp;                             | 🔍 **Précision:** 99%              | &nbsp;                            |
+| <img src="JeuDeCarte/Assets/img/Hero/11.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 1150<br>⚔️ **Attaque:** 38<br>🛡️ **Défense:** 20<br>🏃 **Vitesse:** 0<br>🎯 **Critique:** 5%<br>🌀 **Esquive:** 5%<br>🔍 **Précision:** 99% | ⚡ **Annihilation Instantanée** (CD: 3)<br>➡️ Capacité spéciale du héros<br>🛡️ **Immunisé aux effets élémentaires (Brûlure, Gel, etc.). (+3 coût)**<br>➡️ Passif permanent |
 
 ---
 
@@ -117,9 +105,7 @@ Ce catalogue présente tous les héros disponibles dans le jeu avec leurs capaci
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
 |------------------------------------|------------------------------------|-----------------------------------|
-| <img src="JeuDeCarte/Assets/img/Hero/1.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 1100<br>⚔️ **Attaque:** 35<br>🛡️ **Défense:** 22 | ⚡ **Inferno Purificateur** (CD: 3)<br>➡️ Capacité spéciale du héros |
-| &nbsp;                             | 🏃 **Vitesse:** 0<br>🎯 **Critique:** 5%<br>🌀 **Esquive:** 5% | 🛡️ **Alliés Feu +10 % dégâts. (+2 coût)**<br>➡️ Passif permanent |
-| &nbsp;                             | 🔍 **Précision:** 99%              | &nbsp;                            |
+| <img src="JeuDeCarte/Assets/img/Hero/1.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 1100<br>⚔️ **Attaque:** 35<br>🛡️ **Défense:** 22<br>🏃 **Vitesse:** 0<br>🎯 **Critique:** 5%<br>🌀 **Esquive:** 5%<br>🔍 **Précision:** 99% | ⚡ **Inferno Purificateur** (CD: 3)<br>➡️ Capacité spéciale du héros<br>🛡️ **Alliés Feu +10 % dégâts. (+2 coût)**<br>➡️ Passif permanent |
 
 ---
 
@@ -130,9 +116,7 @@ Ce catalogue présente tous les héros disponibles dans le jeu avec leurs capaci
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
 |------------------------------------|------------------------------------|-----------------------------------|
-| <img src="JeuDeCarte/Assets/img/Hero/4.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 1300<br>⚔️ **Attaque:** 25<br>🛡️ **Défense:** 30 | ⚡ **Barrière Rocailleuse** (CD: 3)<br>➡️ Capacité spéciale du héros |
-| &nbsp;                             | 🏃 **Vitesse:** 0<br>🎯 **Critique:** 5%<br>🌀 **Esquive:** 5% | 🛡️ **Alliés Terre +5 DEF. (+1 coût)**<br>➡️ Passif permanent |
-| &nbsp;                             | 🔍 **Précision:** 99%              | &nbsp;                            |
+| <img src="JeuDeCarte/Assets/img/Hero/4.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 1300<br>⚔️ **Attaque:** 25<br>🛡️ **Défense:** 30<br>🏃 **Vitesse:** 0<br>🎯 **Critique:** 5%<br>🌀 **Esquive:** 5%<br>🔍 **Précision:** 99% | ⚡ **Barrière Rocailleuse** (CD: 3)<br>➡️ Capacité spéciale du héros<br>🛡️ **Alliés Terre +5 DEF. (+1 coût)**<br>➡️ Passif permanent |
 
 ---
 
@@ -143,9 +127,7 @@ Ce catalogue présente tous les héros disponibles dans le jeu avec leurs capaci
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
 |------------------------------------|------------------------------------|-----------------------------------|
-| <img src="JeuDeCarte/Assets/img/Hero/10.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 1100<br>⚔️ **Attaque:** 36<br>🛡️ **Défense:** 20 | ⚡ **Nuage Infectieux** (CD: 3)<br>➡️ Capacité spéciale du héros |
-| &nbsp;                             | 🏃 **Vitesse:** 0<br>🎯 **Critique:** 5%<br>🌀 **Esquive:** 5% | 🛡️ **Les alliés Poison appliquent un Poison plus fort (augmente les poisons de +2% dmg). (+2 coût)**<br>➡️ Passif permanent |
-| &nbsp;                             | 🔍 **Précision:** 99%              | &nbsp;                            |
+| <img src="JeuDeCarte/Assets/img/Hero/10.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 1100<br>⚔️ **Attaque:** 36<br>🛡️ **Défense:** 20<br>🏃 **Vitesse:** 0<br>🎯 **Critique:** 5%<br>🌀 **Esquive:** 5%<br>🔍 **Précision:** 99% | ⚡ **Nuage Infectieux** (CD: 3)<br>➡️ Capacité spéciale du héros<br>🛡️ **Les alliés Poison appliquent un Poison plus fort (augmente les poisons de +2% dmg). (+2 coût)**<br>➡️ Passif permanent |
 
 ---
 
@@ -156,9 +138,7 @@ Ce catalogue présente tous les héros disponibles dans le jeu avec leurs capaci
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
 |------------------------------------|------------------------------------|-----------------------------------|
-| <img src="JeuDeCarte/Assets/img/Hero/6.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 1050<br>⚔️ **Attaque:** 41<br>🛡️ **Défense:** 18 | ⚡ **Orage Implacable** (CD: 3)<br>➡️ Capacité spéciale du héros |
-| &nbsp;                             | 🏃 **Vitesse:** 0<br>🎯 **Critique:** 5%<br>🌀 **Esquive:** 5% | 🛡️ **donne une chance à ses attaques de Paralyser (10% de chance). (+2 coût)**<br>➡️ Passif permanent |
-| &nbsp;                             | 🔍 **Précision:** 99%              | &nbsp;                            |
+| <img src="JeuDeCarte/Assets/img/Hero/6.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 1050<br>⚔️ **Attaque:** 41<br>🛡️ **Défense:** 18<br>🏃 **Vitesse:** 0<br>🎯 **Critique:** 5%<br>🌀 **Esquive:** 5%<br>🔍 **Précision:** 99% | ⚡ **Orage Implacable** (CD: 3)<br>➡️ Capacité spéciale du héros<br>🛡️ **donne une chance à ses attaques de Paralyser (10% de chance). (+2 coût)**<br>➡️ Passif permanent |
 
 ---
 
@@ -169,9 +149,7 @@ Ce catalogue présente tous les héros disponibles dans le jeu avec leurs capaci
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
 |------------------------------------|------------------------------------|-----------------------------------|
-| <img src="JeuDeCarte/Assets/img/Hero/5.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 1000<br>⚔️ **Attaque:** 38<br>🛡️ **Défense:** 20 | ⚡ **Danse des Rafales** (CD: 3)<br>➡️ Capacité spéciale du héros |
-| &nbsp;                             | 🏃 **Vitesse:** 0<br>🎯 **Critique:** 5%<br>🌀 **Esquive:** 5% | 🛡️ **Alliés Air +10 % esquive. (+3 coût)**<br>➡️ Passif permanent |
-| &nbsp;                             | 🔍 **Précision:** 99%              | &nbsp;                            |
+| <img src="JeuDeCarte/Assets/img/Hero/5.png" width="280" style="display: block; margin: 0 auto;"> | ❤️ **PV:** 1000<br>⚔️ **Attaque:** 38<br>🛡️ **Défense:** 20<br>🏃 **Vitesse:** 0<br>🎯 **Critique:** 5%<br>🌀 **Esquive:** 5%<br>🔍 **Précision:** 99% | ⚡ **Danse des Rafales** (CD: 3)<br>➡️ Capacité spéciale du héros<br>🛡️ **Alliés Air +10 % esquive. (+3 coût)**<br>➡️ Passif permanent |
 
 ---
 
