@@ -115,7 +115,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 ## Air
 
 ### **Aeris, Esprit du Zéphyr**
-<span style="color:#4287f5;">**Élément:** Air</span> | <span style="color:#a335ee;">**Rareté:** Épique</span>
+<span style="color:#4287f5;">**Élément:** Air 💨</span> | <span style="color:#a335ee;">**Rareté:** Épique</span>
 
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
@@ -126,7 +126,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 
 ### **Corvus, Corbeau Mystique**
-<span style="color:#4287f5;">**Élément:** Air</span> | <span style="color:#a335ee;">**Rareté:** Épique</span>
+<span style="color:#4287f5;">**Élément:** Air 💨</span> | <span style="color:#a335ee;">**Rareté:** Épique</span>
 
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
@@ -137,7 +137,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 
 ### **Galaxine, Voyageuse Céleste**
-<span style="color:#4287f5;">**Élément:** Air</span> | <span style="color:#808080;">**Rareté:** Mythique</span>
+<span style="color:#4287f5;">**Élément:** Air 💨</span> | <span style="color:#808080;">**Rareté:** Mythique</span>
 
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
@@ -148,7 +148,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 
 ### **Nébulaire, Magicienne du Brouillard**
-<span style="color:#4287f5;">**Élément:** Air</span> | <span style="color:#a335ee;">**Rareté:** Épique</span>
+<span style="color:#4287f5;">**Élément:** Air 💨</span> | <span style="color:#a335ee;">**Rareté:** Épique</span>
 
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
@@ -159,7 +159,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 
 ### **Nébulo, Fantôme du Brouillard**
-<span style="color:#4287f5;">**Élément:** Air</span> | <span style="color:#808080;">**Rareté:** Mythique</span>
+<span style="color:#4287f5;">**Élément:** Air 💨</span> | <span style="color:#808080;">**Rareté:** Mythique</span>
 
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
@@ -170,7 +170,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 
 ### **Orbaline, Magicienne Astrale**
-<span style="color:#4287f5;">**Élément:** Air</span> | <span style="color:#0070dd;">**Rareté:** Rare</span>
+<span style="color:#4287f5;">**Élément:** Air 💨</span> | <span style="color:#0070dd;">**Rareté:** Rare</span>
 
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
@@ -181,7 +181,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 
 ### **Skyla, Danseuse des Nuages**
-<span style="color:#4287f5;">**Élément:** Air</span> | <span style="color:#0070dd;">**Rareté:** Rare</span>
+<span style="color:#4287f5;">**Élément:** Air 💨</span> | <span style="color:#0070dd;">**Rareté:** Rare</span>
 
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
@@ -192,7 +192,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 
 ### **Stratos, Esprit des Courants**
-<span style="color:#4287f5;">**Élément:** Air</span> | <span style="color:#a335ee;">**Rareté:** Épique</span>
+<span style="color:#4287f5;">**Élément:** Air 💨</span> | <span style="color:#a335ee;">**Rareté:** Épique</span>
 
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
@@ -203,7 +203,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 
 ### **Sylphar, Archer de la Canopée**
-<span style="color:#4287f5;">**Élément:** Air</span> | <span style="color:#0070dd;">**Rareté:** Rare</span>
+<span style="color:#4287f5;">**Élément:** Air 💨</span> | <span style="color:#0070dd;">**Rareté:** Rare</span>
 
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
@@ -214,7 +214,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 
 ### **Tempestra, Danseuse de la Tornade**
-<span style="color:#4287f5;">**Élément:** Air</span> | <span style="color:#808080;">**Rareté:** Peu Commun</span>
+<span style="color:#4287f5;">**Élément:** Air 💨</span> | <span style="color:#808080;">**Rareté:** Peu Commun</span>
 
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
@@ -225,7 +225,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 
 ### **Zepho, Génie des Courants**
-<span style="color:#4287f5;">**Élément:** Air</span> | <span style="color:#808080;">**Rareté:** Peu Commun</span>
+<span style="color:#4287f5;">**Élément:** Air 💨</span> | <span style="color:#808080;">**Rareté:** Peu Commun</span>
 
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
@@ -236,7 +236,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 
 ### **Zyklair, Djinn des Rafales**
-<span style="color:#4287f5;">**Élément:** Air</span> | <span style="color:#0070dd;">**Rareté:** Rare</span>
+<span style="color:#4287f5;">**Élément:** Air 💨</span> | <span style="color:#0070dd;">**Rareté:** Rare</span>
 
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
@@ -247,7 +247,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 
 ### **Zéphara, Valkyrie des Vents**
-<span style="color:#4287f5;">**Élément:** Air</span> | <span style="color:#a335ee;">**Rareté:** Épique</span>
+<span style="color:#4287f5;">**Élément:** Air 💨</span> | <span style="color:#a335ee;">**Rareté:** Épique</span>
 
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
@@ -261,7 +261,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 ## Eau
 
 ### **Abyssalor, Kraken des Profondeurs**
-<span style="color:#4444ff;">**Élément:** Eau</span> | <span style="color:#0070dd;">**Rareté:** Rare</span>
+<span style="color:#4444ff;">**Élément:** Eau 💧</span> | <span style="color:#0070dd;">**Rareté:** Rare</span>
 
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
@@ -272,7 +272,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 
 ### **Abyssine, Félin des Profondeurs**
-<span style="color:#4444ff;">**Élément:** Eau</span> | <span style="color:#808080;">**Rareté:** Peu Commun</span>
+<span style="color:#4444ff;">**Élément:** Eau 💧</span> | <span style="color:#808080;">**Rareté:** Peu Commun</span>
 
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
@@ -283,7 +283,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 
 ### **Aquaria, Sirène Mystique**
-<span style="color:#4444ff;">**Élément:** Eau</span> | <span style="color:#a335ee;">**Rareté:** Épique</span>
+<span style="color:#4444ff;">**Élément:** Eau 💧</span> | <span style="color:#a335ee;">**Rareté:** Épique</span>
 
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
@@ -294,7 +294,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 
 ### **Cristaline, Ondine Pure**
-<span style="color:#4444ff;">**Élément:** Eau</span> | <span style="color:#808080;">**Rareté:** Commun</span>
+<span style="color:#4444ff;">**Élément:** Eau 💧</span> | <span style="color:#808080;">**Rareté:** Commun</span>
 
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
@@ -305,7 +305,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 
 ### **Nixie, Fée de la Source**
-<span style="color:#4444ff;">**Élément:** Eau</span> | <span style="color:#0070dd;">**Rareté:** Rare</span>
+<span style="color:#4444ff;">**Élément:** Eau 💧</span> | <span style="color:#0070dd;">**Rareté:** Rare</span>
 
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
@@ -316,7 +316,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 
 ### **Siriona, Enchanteresse des Abysses**
-<span style="color:#4444ff;">**Élément:** Eau</span> | <span style="color:#a335ee;">**Rareté:** Épique</span>
+<span style="color:#4444ff;">**Élément:** Eau 💧</span> | <span style="color:#a335ee;">**Rareté:** Épique</span>
 
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
@@ -327,7 +327,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 
 ### **Torrentis, Gardien de l'Écume**
-<span style="color:#4444ff;">**Élément:** Eau</span> | <span style="color:#808080;">**Rareté:** Commun</span>
+<span style="color:#4444ff;">**Élément:** Eau 💧</span> | <span style="color:#808080;">**Rareté:** Commun</span>
 
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
@@ -338,7 +338,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 
 ### **Torrick, Gardien du Torrent**
-<span style="color:#4444ff;">**Élément:** Eau</span> | <span style="color:#808080;">**Rareté:** Mythique</span>
+<span style="color:#4444ff;">**Élément:** Eau 💧</span> | <span style="color:#808080;">**Rareté:** Mythique</span>
 
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
@@ -349,7 +349,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 
 ### **Typhion, Léviathan du Maelström**
-<span style="color:#4444ff;">**Élément:** Eau</span> | <span style="color:#808080;">**Rareté:** Mythique</span>
+<span style="color:#4444ff;">**Élément:** Eau 💧</span> | <span style="color:#808080;">**Rareté:** Mythique</span>
 
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
@@ -363,7 +363,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 ## Feu
 
 ### **Firocus, Renard Volcanique**
-<span style="color:#ff4444;">**Élément:** Feu</span> | <span style="color:#a335ee;">**Rareté:** Épique</span>
+<span style="color:#ff4444;">**Élément:** Feu 🔥</span> | <span style="color:#a335ee;">**Rareté:** Épique</span>
 
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
@@ -374,7 +374,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 
 ### **Flamby, Lutin des Flammes**
-<span style="color:#ff4444;">**Élément:** Feu</span> | <span style="color:#808080;">**Rareté:** Spécial</span>
+<span style="color:#ff4444;">**Élément:** Feu 🔥</span> | <span style="color:#808080;">**Rareté:** Spécial</span>
 
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
@@ -385,7 +385,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 
 ### **Ignarok, Roc en Fusion**
-<span style="color:#ff4444;">**Élément:** Feu</span> | <span style="color:#0070dd;">**Rareté:** Rare</span>
+<span style="color:#ff4444;">**Élément:** Feu 🔥</span> | <span style="color:#0070dd;">**Rareté:** Rare</span>
 
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
@@ -396,7 +396,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 
 ### **Ignissia, Sorcière des Brasiers**
-<span style="color:#ff4444;">**Élément:** Feu</span> | <span style="color:#808080;">**Rareté:** Commun</span>
+<span style="color:#ff4444;">**Élément:** Feu 🔥</span> | <span style="color:#808080;">**Rareté:** Commun</span>
 
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
@@ -407,7 +407,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 
 ### **Incendior, Dragon de Feu**
-<span style="color:#ff4444;">**Élément:** Feu</span> | <span style="color:#0070dd;">**Rareté:** Rare</span>
+<span style="color:#ff4444;">**Élément:** Feu 🔥</span> | <span style="color:#0070dd;">**Rareté:** Rare</span>
 
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
@@ -418,7 +418,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 
 ### **Pyraxis, Élémentaire de Magma**
-<span style="color:#ff4444;">**Élément:** Feu</span> | <span style="color:#808080;">**Rareté:** Peu Commun</span>
+<span style="color:#ff4444;">**Élément:** Feu 🔥</span> | <span style="color:#808080;">**Rareté:** Peu Commun</span>
 
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
@@ -429,7 +429,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 
 ### **Pyrodrake, Dragon de Braise**
-<span style="color:#ff4444;">**Élément:** Feu</span> | <span style="color:#808080;">**Rareté:** Mythique</span>
+<span style="color:#ff4444;">**Élément:** Feu 🔥</span> | <span style="color:#808080;">**Rareté:** Mythique</span>
 
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
@@ -440,7 +440,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 
 ### **Pyrolynx, Lynx Ardent**
-<span style="color:#ff4444;">**Élément:** Feu</span> | <span style="color:#a335ee;">**Rareté:** Épique</span>
+<span style="color:#ff4444;">**Élément:** Feu 🔥</span> | <span style="color:#a335ee;">**Rareté:** Épique</span>
 
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
@@ -451,7 +451,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 
 ### **Pyropoulpe, Poulpe Incandescent**
-<span style="color:#ff4444;">**Élément:** Feu</span> | <span style="color:#808080;">**Rareté:** Peu Commun</span>
+<span style="color:#ff4444;">**Élément:** Feu 🔥</span> | <span style="color:#808080;">**Rareté:** Peu Commun</span>
 
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
@@ -462,7 +462,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 
 ### **Rubra, Salamandre Incandescente**
-<span style="color:#ff4444;">**Élément:** Feu</span> | <span style="color:#808080;">**Rareté:** Peu Commun</span>
+<span style="color:#ff4444;">**Élément:** Feu 🔥</span> | <span style="color:#808080;">**Rareté:** Peu Commun</span>
 
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
@@ -473,7 +473,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 
 ### **Salamandra, Magicienne Incandescente**
-<span style="color:#ff4444;">**Élément:** Feu</span> | <span style="color:#a335ee;">**Rareté:** Épique</span>
+<span style="color:#ff4444;">**Élément:** Feu 🔥</span> | <span style="color:#a335ee;">**Rareté:** Épique</span>
 
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
@@ -484,7 +484,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 
 ### **Solaris, Paladin du Soleil**
-<span style="color:#ff4444;">**Élément:** Feu</span> | <span style="color:#0070dd;">**Rareté:** Rare</span>
+<span style="color:#ff4444;">**Élément:** Feu 🔥</span> | <span style="color:#0070dd;">**Rareté:** Rare</span>
 
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
@@ -495,7 +495,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 
 ### **Solune, Chamane Solaire**
-<span style="color:#ff4444;">**Élément:** Feu</span> | <span style="color:#808080;">**Rareté:** Peu Commun</span>
+<span style="color:#ff4444;">**Élément:** Feu 🔥</span> | <span style="color:#808080;">**Rareté:** Peu Commun</span>
 
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
@@ -506,7 +506,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 
 ### **Venturio, Chevalier Écarlate**
-<span style="color:#ff4444;">**Élément:** Feu</span> | <span style="color:#0070dd;">**Rareté:** Rare</span>
+<span style="color:#ff4444;">**Élément:** Feu 🔥</span> | <span style="color:#0070dd;">**Rareté:** Rare</span>
 
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
@@ -517,7 +517,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 
 ### **Vulcan, Forgeron de l'Enclume Ardente**
-<span style="color:#ff4444;">**Élément:** Feu</span> | <span style="color:#a335ee;">**Rareté:** Épique</span>
+<span style="color:#ff4444;">**Élément:** Feu 🔥</span> | <span style="color:#a335ee;">**Rareté:** Épique</span>
 
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
@@ -531,7 +531,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 ## Foudre
 
 ### **Alice, la Lame Sanglante**
-<span style="color:#808080;">**Élément:** Foudre</span> | <span style="color:#a335ee;">**Rareté:** Épique</span>
+<span style="color:#808080;">**Élément:** Foudre ⚪</span> | <span style="color:#a335ee;">**Rareté:** Épique</span>
 
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
@@ -542,7 +542,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 
 ### **Fulgo, Orbe Electrique**
-<span style="color:#808080;">**Élément:** Foudre</span> | <span style="color:#0070dd;">**Rareté:** Rare</span>
+<span style="color:#808080;">**Élément:** Foudre ⚪</span> | <span style="color:#0070dd;">**Rareté:** Rare</span>
 
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
@@ -553,7 +553,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 
 ### **Fulminia, Valkyrie de l'Orage**
-<span style="color:#808080;">**Élément:** Foudre</span> | <span style="color:#0070dd;">**Rareté:** Rare</span>
+<span style="color:#808080;">**Élément:** Foudre ⚪</span> | <span style="color:#0070dd;">**Rareté:** Rare</span>
 
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
@@ -564,7 +564,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 
 ### **Stormy, Enfant de la Foudre**
-<span style="color:#808080;">**Élément:** Foudre</span> | <span style="color:#808080;">**Rareté:** Peu Commun</span>
+<span style="color:#808080;">**Élément:** Foudre ⚪</span> | <span style="color:#808080;">**Rareté:** Peu Commun</span>
 
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
@@ -575,7 +575,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 
 ### **Voltania, Serpent Fulgurant**
-<span style="color:#808080;">**Élément:** Foudre</span> | <span style="color:#0070dd;">**Rareté:** Rare</span>
+<span style="color:#808080;">**Élément:** Foudre ⚪</span> | <span style="color:#0070dd;">**Rareté:** Rare</span>
 
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
@@ -586,7 +586,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 
 ### **Voltar, Seigneur de l'Orage**
-<span style="color:#808080;">**Élément:** Foudre</span> | <span style="color:#0070dd;">**Rareté:** Rare</span>
+<span style="color:#808080;">**Élément:** Foudre ⚪</span> | <span style="color:#0070dd;">**Rareté:** Rare</span>
 
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
@@ -597,7 +597,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 
 ### **Voltix, Lutin Électrique**
-<span style="color:#808080;">**Élément:** Foudre</span> | <span style="color:#a335ee;">**Rareté:** Épique</span>
+<span style="color:#808080;">**Élément:** Foudre ⚪</span> | <span style="color:#a335ee;">**Rareté:** Épique</span>
 
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
@@ -611,7 +611,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 ## Glace
 
 ### **Brumys, Fantôme du Givre**
-<span style="color:#87ceeb;">**Élément:** Glace</span> | <span style="color:#0070dd;">**Rareté:** Rare</span>
+<span style="color:#87ceeb;">**Élément:** Glace ❄️</span> | <span style="color:#0070dd;">**Rareté:** Rare</span>
 
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
@@ -622,7 +622,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 
 ### **Cryomage, Mage du Givre**
-<span style="color:#87ceeb;">**Élément:** Glace</span> | <span style="color:#0070dd;">**Rareté:** Rare</span>
+<span style="color:#87ceeb;">**Élément:** Glace ❄️</span> | <span style="color:#0070dd;">**Rareté:** Rare</span>
 
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
@@ -633,7 +633,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 
 ### **Frimousse, Esprit Givré**
-<span style="color:#87ceeb;">**Élément:** Glace</span> | <span style="color:#808080;">**Rareté:** Commun</span>
+<span style="color:#87ceeb;">**Élément:** Glace ❄️</span> | <span style="color:#808080;">**Rareté:** Commun</span>
 
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
@@ -644,7 +644,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 
 ### **Galádra, Matriarche du Givre**
-<span style="color:#87ceeb;">**Élément:** Glace</span> | <span style="color:#0070dd;">**Rareté:** Rare</span>
+<span style="color:#87ceeb;">**Élément:** Glace ❄️</span> | <span style="color:#0070dd;">**Rareté:** Rare</span>
 
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
@@ -655,7 +655,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 
 ### **Gelgor, Troll du Givre**
-<span style="color:#87ceeb;">**Élément:** Glace</span> | <span style="color:#0070dd;">**Rareté:** Rare</span>
+<span style="color:#87ceeb;">**Élément:** Glace ❄️</span> | <span style="color:#0070dd;">**Rareté:** Rare</span>
 
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
@@ -666,7 +666,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 
 ### **Gelidar, Chevalier des Neiges**
-<span style="color:#87ceeb;">**Élément:** Glace</span> | <span style="color:#808080;">**Rareté:** Spécial</span>
+<span style="color:#87ceeb;">**Élément:** Glace ❄️</span> | <span style="color:#808080;">**Rareté:** Spécial</span>
 
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
@@ -677,7 +677,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 
 ### **Glacia, Yéti Polaire**
-<span style="color:#87ceeb;">**Élément:** Glace</span> | <span style="color:#808080;">**Rareté:** Peu Commun</span>
+<span style="color:#87ceeb;">**Élément:** Glace ❄️</span> | <span style="color:#808080;">**Rareté:** Peu Commun</span>
 
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
@@ -688,7 +688,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 
 ### **Glaciar, Yéti des Sommets**
-<span style="color:#87ceeb;">**Élément:** Glace</span> | <span style="color:#0070dd;">**Rareté:** Rare</span>
+<span style="color:#87ceeb;">**Élément:** Glace ❄️</span> | <span style="color:#0070dd;">**Rareté:** Rare</span>
 
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
@@ -699,7 +699,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 
 ### **Glacielle, Reine des Flocons**
-<span style="color:#87ceeb;">**Élément:** Glace</span> | <span style="color:#a335ee;">**Rareté:** Épique</span>
+<span style="color:#87ceeb;">**Élément:** Glace ❄️</span> | <span style="color:#a335ee;">**Rareté:** Épique</span>
 
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
@@ -710,7 +710,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 
 ### **Gélax, Lutin de la Banquise**
-<span style="color:#87ceeb;">**Élément:** Glace</span> | <span style="color:#808080;">**Rareté:** Commun</span>
+<span style="color:#87ceeb;">**Élément:** Glace ❄️</span> | <span style="color:#808080;">**Rareté:** Commun</span>
 
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
@@ -721,7 +721,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 
 ### **Tundrorr, Mammouth Givré**
-<span style="color:#87ceeb;">**Élément:** Glace</span> | <span style="color:#808080;">**Rareté:** Mythique</span>
+<span style="color:#87ceeb;">**Élément:** Glace ❄️</span> | <span style="color:#808080;">**Rareté:** Mythique</span>
 
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
@@ -735,7 +735,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 ## Lumière
 
 ### **Astrilys, Sentinelle Astrale**
-<span style="color:#ffff00;">**Élément:** Lumière</span> | <span style="color:#808080;">**Rareté:** Peu Commun</span>
+<span style="color:#ffff00;">**Élément:** Lumière ☀️</span> | <span style="color:#808080;">**Rareté:** Peu Commun</span>
 
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
@@ -746,7 +746,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 
 ### **Lumicorne, Licorne Dorée**
-<span style="color:#ffff00;">**Élément:** Lumière</span> | <span style="color:#808080;">**Rareté:** Peu Commun</span>
+<span style="color:#ffff00;">**Élément:** Lumière ☀️</span> | <span style="color:#808080;">**Rareté:** Peu Commun</span>
 
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
@@ -757,7 +757,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 
 ### **Lumys, Renardeau Solaire**
-<span style="color:#ffff00;">**Élément:** Lumière</span> | <span style="color:#808080;">**Rareté:** Mythique</span>
+<span style="color:#ffff00;">**Élément:** Lumière ☀️</span> | <span style="color:#808080;">**Rareté:** Mythique</span>
 
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
@@ -768,7 +768,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 
 ### **Prismalyx, Papillon Lumineux**
-<span style="color:#ffff00;">**Élément:** Lumière</span> | <span style="color:#a335ee;">**Rareté:** Épique</span>
+<span style="color:#ffff00;">**Élément:** Lumière ☀️</span> | <span style="color:#a335ee;">**Rareté:** Épique</span>
 
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
@@ -782,7 +782,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 ## Poison
 
 ### **Briselys, Dryade Mousseuse**
-<span style="color:#9932cc;">**Élément:** Poison</span> | <span style="color:#0070dd;">**Rareté:** Rare</span>
+<span style="color:#9932cc;">**Élément:** Poison ☠️</span> | <span style="color:#0070dd;">**Rareté:** Rare</span>
 
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
@@ -793,7 +793,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 
 ### **Crotignus, Crotte de Nez Mouvante**
-<span style="color:#9932cc;">**Élément:** Poison</span> | <span style="color:#a335ee;">**Rareté:** Épique</span>
+<span style="color:#9932cc;">**Élément:** Poison ☠️</span> | <span style="color:#a335ee;">**Rareté:** Épique</span>
 
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
@@ -804,7 +804,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 
 ### **Floralia, Druidesse des Fleurs**
-<span style="color:#9932cc;">**Élément:** Poison</span> | <span style="color:#808080;">**Rareté:** Peu Commun</span>
+<span style="color:#9932cc;">**Élément:** Poison ☠️</span> | <span style="color:#808080;">**Rareté:** Peu Commun</span>
 
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
@@ -815,7 +815,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 
 ### **Mossio, Shaman des Mousses**
-<span style="color:#9932cc;">**Élément:** Poison</span> | <span style="color:#808080;">**Rareté:** Mythique</span>
+<span style="color:#9932cc;">**Élément:** Poison ☠️</span> | <span style="color:#808080;">**Rareté:** Mythique</span>
 
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
@@ -826,7 +826,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 
 ### **Sylvara, Esprit de la Canopée**
-<span style="color:#9932cc;">**Élément:** Poison</span> | <span style="color:#808080;">**Rareté:** Mythique</span>
+<span style="color:#9932cc;">**Élément:** Poison ☠️</span> | <span style="color:#808080;">**Rareté:** Mythique</span>
 
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
@@ -837,7 +837,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 
 ### **Sylvert, Gardien de la Brume**
-<span style="color:#9932cc;">**Élément:** Poison</span> | <span style="color:#808080;">**Rareté:** Peu Commun</span>
+<span style="color:#9932cc;">**Élément:** Poison ☠️</span> | <span style="color:#808080;">**Rareté:** Peu Commun</span>
 
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
@@ -851,7 +851,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 ## Terre
 
 ### **Barbak, Guerrier Barbare**
-<span style="color:#8b4513;">**Élément:** Terre</span> | <span style="color:#0070dd;">**Rareté:** Rare</span>
+<span style="color:#8b4513;">**Élément:** Terre 🌍</span> | <span style="color:#0070dd;">**Rareté:** Rare</span>
 
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
@@ -862,7 +862,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 
 ### **Bersi, Nain Invincible**
-<span style="color:#8b4513;">**Élément:** Terre</span> | <span style="color:#808080;">**Rareté:** Peu Commun</span>
+<span style="color:#8b4513;">**Élément:** Terre 🌍</span> | <span style="color:#808080;">**Rareté:** Peu Commun</span>
 
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
@@ -873,7 +873,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 
 ### **Gladrith, Écho des montagnes**
-<span style="color:#8b4513;">**Élément:** Terre</span> | <span style="color:#0070dd;">**Rareté:** Rare</span>
+<span style="color:#8b4513;">**Élément:** Terre 🌍</span> | <span style="color:#0070dd;">**Rareté:** Rare</span>
 
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
@@ -884,7 +884,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 
 ### **Lithos, Colosse de Quartz**
-<span style="color:#8b4513;">**Élément:** Terre</span> | <span style="color:#a335ee;">**Rareté:** Épique</span>
+<span style="color:#8b4513;">**Élément:** Terre 🌍</span> | <span style="color:#a335ee;">**Rareté:** Épique</span>
 
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
@@ -895,7 +895,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 
 ### **Lixor, Golem Cristallin**
-<span style="color:#8b4513;">**Élément:** Terre</span> | <span style="color:#0070dd;">**Rareté:** Rare</span>
+<span style="color:#8b4513;">**Élément:** Terre 🌍</span> | <span style="color:#0070dd;">**Rareté:** Rare</span>
 
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
@@ -906,7 +906,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 
 ### **Lumberjack, Bûcheron du Grand Nord**
-<span style="color:#8b4513;">**Élément:** Terre</span> | <span style="color:#0070dd;">**Rareté:** Rare</span>
+<span style="color:#8b4513;">**Élément:** Terre 🌍</span> | <span style="color:#0070dd;">**Rareté:** Rare</span>
 
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
@@ -917,7 +917,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 
 ### **Rock, Colosse de Granit**
-<span style="color:#8b4513;">**Élément:** Terre</span> | <span style="color:#808080;">**Rareté:** Peu Commun</span>
+<span style="color:#8b4513;">**Élément:** Terre 🌍</span> | <span style="color:#808080;">**Rareté:** Peu Commun</span>
 
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
@@ -928,7 +928,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 
 ### **Rocor, Gardien du Bloc**
-<span style="color:#8b4513;">**Élément:** Terre</span> | <span style="color:#808080;">**Rareté:** Peu Commun</span>
+<span style="color:#8b4513;">**Élément:** Terre 🌍</span> | <span style="color:#808080;">**Rareté:** Peu Commun</span>
 
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
@@ -939,7 +939,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 
 ### **Roktus, Gobelin Mineur**
-<span style="color:#8b4513;">**Élément:** Terre</span> | <span style="color:#808080;">**Rareté:** Peu Commun</span>
+<span style="color:#8b4513;">**Élément:** Terre 🌍</span> | <span style="color:#808080;">**Rareté:** Peu Commun</span>
 
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
@@ -950,7 +950,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 
 ### **Silex, Gardien du Pic Rugueux**
-<span style="color:#8b4513;">**Élément:** Terre</span> | <span style="color:#0070dd;">**Rareté:** Rare</span>
+<span style="color:#8b4513;">**Élément:** Terre 🌍</span> | <span style="color:#0070dd;">**Rareté:** Rare</span>
 
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
@@ -961,7 +961,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 
 ### **Telluron, Géant de Schiste**
-<span style="color:#8b4513;">**Élément:** Terre</span> | <span style="color:#a335ee;">**Rareté:** Épique</span>
+<span style="color:#8b4513;">**Élément:** Terre 🌍</span> | <span style="color:#a335ee;">**Rareté:** Épique</span>
 
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
@@ -972,7 +972,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 
 ### **Terra, Sorcière de la Terre**
-<span style="color:#8b4513;">**Élément:** Terre</span> | <span style="color:#0070dd;">**Rareté:** Rare</span>
+<span style="color:#8b4513;">**Élément:** Terre 🌍</span> | <span style="color:#0070dd;">**Rareté:** Rare</span>
 
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
@@ -986,7 +986,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 ## Ténèbres
 
 ### **Murkax, Ombre Rampante**
-<span style="color:#808080;">**Élément:** Ténèbres</span> | <span style="color:#a335ee;">**Rareté:** Épique</span>
+<span style="color:#808080;">**Élément:** Ténèbres ⚪</span> | <span style="color:#a335ee;">**Rareté:** Épique</span>
 
 
 | **Image**                          | **Stats**                          | **Capacités**                     |
