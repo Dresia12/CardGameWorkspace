@@ -12,19 +12,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu, groupées par
 - 🌀 **Esquive :** Chance d'esquiver une attaque (%)
 - 🔍 **Précision :** Chance de toucher la cible (%)
 
-## 🎯 Index par Éléments
-
-- [Air](#air)
-- [Eau](#eau)
-- [Feu](#feu)
-- [Foudre](#foudre)
-- [Glace](#glace)
-- [Lumière](#lumiere)
-- [Poison](#poison)
-- [Terre](#terre)
-- [Ténèbres](#tenebres)
-
-## 📖 Détails par Élément
+## 📖 Unités par Élément
 
 <details>
 <summary><strong>Air</strong></summary>
