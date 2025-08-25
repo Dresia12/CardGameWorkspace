@@ -15,7 +15,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu, groupées par
 ## 📖 Unités par Élément
 
 <details>
-<summary><strong>Air</strong></summary>
+<summary><strong>Air</strong> <em>(Cliquez pour afficher)</em></summary>
 
 ### Air
 
@@ -167,7 +167,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu, groupées par
 </details>
 
 <details>
-<summary><strong>Eau</strong></summary>
+<summary><strong>Eau</strong> <em>(Cliquez pour afficher)</em></summary>
 
 ### Eau
 
@@ -275,7 +275,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu, groupées par
 </details>
 
 <details>
-<summary><strong>Feu</strong></summary>
+<summary><strong>Feu</strong> <em>(Cliquez pour afficher)</em></summary>
 
 ### Feu
 
@@ -449,7 +449,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu, groupées par
 </details>
 
 <details>
-<summary><strong>Foudre</strong></summary>
+<summary><strong>Foudre</strong> <em>(Cliquez pour afficher)</em></summary>
 
 ### Foudre
 
@@ -535,7 +535,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu, groupées par
 </details>
 
 <details>
-<summary><strong>Glace</strong></summary>
+<summary><strong>Glace</strong> <em>(Cliquez pour afficher)</em></summary>
 
 ### Glace
 
@@ -665,7 +665,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu, groupées par
 </details>
 
 <details>
-<summary><strong>Lumière</strong></summary>
+<summary><strong>Lumière</strong> <em>(Cliquez pour afficher)</em></summary>
 
 ### Lumière
 
@@ -718,7 +718,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu, groupées par
 </details>
 
 <details>
-<summary><strong>Poison</strong></summary>
+<summary><strong>Poison</strong> <em>(Cliquez pour afficher)</em></summary>
 
 ### Poison
 
@@ -793,7 +793,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu, groupées par
 </details>
 
 <details>
-<summary><strong>Terre</strong></summary>
+<summary><strong>Terre</strong> <em>(Cliquez pour afficher)</em></summary>
 
 ### Terre
 
@@ -934,7 +934,7 @@ Ce catalogue présente toutes les unités disponibles dans le jeu, groupées par
 </details>
 
 <details>
-<summary><strong>Ténèbres</strong></summary>
+<summary><strong>Ténèbres</strong> <em>(Cliquez pour afficher)</em></summary>
 
 ### Ténèbres
 
