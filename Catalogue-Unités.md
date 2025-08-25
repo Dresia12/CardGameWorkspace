@@ -1,6 +1,6 @@
 # 📚 Catalogue des Unités
 
-Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs statistiques, capacités et images.
+Ce catalogue présente toutes les unités disponibles dans le jeu, groupées par élément avec des sections repliables.
 
 ## 📋 Légende
 
@@ -8,111 +8,28 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 - ❤️ **PV :** Points de vie
 - ⚔️ **Attaque :** Dégâts de base
 - 🛡️ **Défense :** Réduction des dégâts reçus
-- 🏃 **Vitesse :** Nombre de cases déplaçables par tour
 - 🎯 **Critique :** Chance de coup critique (%)
 - 🌀 **Esquive :** Chance d'esquiver une attaque (%)
 - 🔍 **Précision :** Chance de toucher la cible (%)
 
 ## 🎯 Index par Éléments
 
+- [Air](#air)
+- [Eau](#eau)
+- [Feu](#feu)
+- [Foudre](#foudre)
+- [Glace](#glace)
+- [Lumière](#lumiere)
+- [Poison](#poison)
+- [Terre](#terre)
+- [Ténèbres](#tenebres)
+
+## 📖 Détails par Élément
+
+<details>
+<summary><strong>Air</strong></summary>
+
 ### Air
-- [Aeris, Esprit du Zéphyr](#aeris-esprit-du-zephyr)
-- [Corvus, Corbeau Mystique](#corvus-corbeau-mystique)
-- [Galaxine, Voyageuse Céleste](#galaxine-voyageuse-celeste)
-- [Nébulaire, Magicienne du Brouillard](#nebulaire-magicienne-du-brouillard)
-- [Nébulo, Fantôme du Brouillard](#nebulo-fantôme-du-brouillard)
-- [Orbaline, Magicienne Astrale](#orbaline-magicienne-astrale)
-- [Skyla, Danseuse des Nuages](#skyla-danseuse-des-nuages)
-- [Stratos, Esprit des Courants](#stratos-esprit-des-courants)
-- [Sylphar, Archer de la Canopée](#sylphar-archer-de-la-canopee)
-- [Tempestra, Danseuse de la Tornade](#tempestra-danseuse-de-la-tornade)
-- [Zepho, Génie des Courants](#zepho-genie-des-courants)
-- [Zyklair, Djinn des Rafales](#zyklair-djinn-des-rafales)
-- [Zéphara, Valkyrie des Vents](#zephara-valkyrie-des-vents)
-
-### Eau
-- [Abyssalor, Kraken des Profondeurs](#abyssalor-kraken-des-profondeurs)
-- [Abyssine, Félin des Profondeurs](#abyssine-felin-des-profondeurs)
-- [Aquaria, Sirène Mystique](#aquaria-sirene-mystique)
-- [Cristaline, Ondine Pure](#cristaline-ondine-pure)
-- [Nixie, Fée de la Source](#nixie-fee-de-la-source)
-- [Siriona, Enchanteresse des Abysses](#siriona-enchanteresse-des-abysses)
-- [Torrentis, Gardien de l'Écume](#torrentis-gardien-de-l'ecume)
-- [Torrick, Gardien du Torrent](#torrick-gardien-du-torrent)
-- [Typhion, Léviathan du Maelström](#typhion-leviathan-du-maelström)
-
-### Feu
-- [Firocus, Renard Volcanique](#firocus-renard-volcanique)
-- [Flamby, Lutin des Flammes](#flamby-lutin-des-flammes)
-- [Ignarok, Roc en Fusion](#ignarok-roc-en-fusion)
-- [Ignissia, Sorcière des Brasiers](#ignissia-sorciere-des-brasiers)
-- [Incendior, Dragon de Feu](#incendior-dragon-de-feu)
-- [Pyraxis, Élémentaire de Magma](#pyraxis-elementaire-de-magma)
-- [Pyrodrake, Dragon de Braise](#pyrodrake-dragon-de-braise)
-- [Pyrolynx, Lynx Ardent](#pyrolynx-lynx-ardent)
-- [Pyropoulpe, Poulpe Incandescent](#pyropoulpe-poulpe-incandescent)
-- [Rubra, Salamandre Incandescente](#rubra-salamandre-incandescente)
-- [Salamandra, Magicienne Incandescente](#salamandra-magicienne-incandescente)
-- [Solaris, Paladin du Soleil](#solaris-paladin-du-soleil)
-- [Solune, Chamane Solaire](#solune-chamane-solaire)
-- [Venturio, Chevalier Écarlate](#venturio-chevalier-ecarlate)
-- [Vulcan, Forgeron de l'Enclume Ardente](#vulcan-forgeron-de-l'enclume-ardente)
-
-### Foudre
-- [Alice, la Lame Sanglante](#alice-la-lame-sanglante)
-- [Fulgo, Orbe Electrique](#fulgo-orbe-electrique)
-- [Fulminia, Valkyrie de l'Orage](#fulminia-valkyrie-de-l'orage)
-- [Stormy, Enfant de la Foudre](#stormy-enfant-de-la-foudre)
-- [Voltania, Serpent Fulgurant](#voltania-serpent-fulgurant)
-- [Voltar, Seigneur de l'Orage](#voltar-seigneur-de-l'orage)
-- [Voltix, Lutin Électrique](#voltix-lutin-electrique)
-
-### Glace
-- [Brumys, Fantôme du Givre](#brumys-fantôme-du-givre)
-- [Cryomage, Mage du Givre](#cryomage-mage-du-givre)
-- [Frimousse, Esprit Givré](#frimousse-esprit-givre)
-- [Galádra, Matriarche du Givre](#galádra-matriarche-du-givre)
-- [Gelgor, Troll du Givre](#gelgor-troll-du-givre)
-- [Gelidar, Chevalier des Neiges](#gelidar-chevalier-des-neiges)
-- [Glacia, Yéti Polaire](#glacia-yeti-polaire)
-- [Glaciar, Yéti des Sommets](#glaciar-yeti-des-sommets)
-- [Glacielle, Reine des Flocons](#glacielle-reine-des-flocons)
-- [Gélax, Lutin de la Banquise](#gelax-lutin-de-la-banquise)
-- [Tundrorr, Mammouth Givré](#tundrorr-mammouth-givre)
-
-### Lumière
-- [Astrilys, Sentinelle Astrale](#astrilys-sentinelle-astrale)
-- [Lumicorne, Licorne Dorée](#lumicorne-licorne-doree)
-- [Lumys, Renardeau Solaire](#lumys-renardeau-solaire)
-- [Prismalyx, Papillon Lumineux](#prismalyx-papillon-lumineux)
-
-### Poison
-- [Briselys, Dryade Mousseuse](#briselys-dryade-mousseuse)
-- [Crotignus, Crotte de Nez Mouvante](#crotignus-crotte-de-nez-mouvante)
-- [Floralia, Druidesse des Fleurs](#floralia-druidesse-des-fleurs)
-- [Mossio, Shaman des Mousses](#mossio-shaman-des-mousses)
-- [Sylvara, Esprit de la Canopée](#sylvara-esprit-de-la-canopee)
-- [Sylvert, Gardien de la Brume](#sylvert-gardien-de-la-brume)
-
-### Terre
-- [Barbak, Guerrier Barbare](#barbak-guerrier-barbare)
-- [Bersi, Nain Invincible](#bersi-nain-invincible)
-- [Gladrith, Écho des montagnes](#gladrith-echo-des-montagnes)
-- [Lithos, Colosse de Quartz](#lithos-colosse-de-quartz)
-- [Lixor, Golem Cristallin](#lixor-golem-cristallin)
-- [Lumberjack, Bûcheron du Grand Nord](#lumberjack-bûcheron-du-grand-nord)
-- [Rock, Colosse de Granit](#rock-colosse-de-granit)
-- [Rocor, Gardien du Bloc](#rocor-gardien-du-bloc)
-- [Roktus, Gobelin Mineur](#roktus-gobelin-mineur)
-- [Silex, Gardien du Pic Rugueux](#silex-gardien-du-pic-rugueux)
-- [Telluron, Géant de Schiste](#telluron-geant-de-schiste)
-- [Terra, Sorcière de la Terre](#terra-sorciere-de-la-terre)
-
-### Ténèbres
-- [Murkax, Ombre Rampante](#murkax-ombre-rampante)
-
-
-## Air
 
 ### **Aeris, Esprit du Zéphyr**
 <span style="color:#4287f5;">**Élément:** Air <img src="JeuDeCarte/Assets/img/Symbols/air.png" width="20" height="20" alt="Air"></span> | <span style="color:#dc143c;">**Rareté:** Épique</span>
@@ -258,7 +175,13 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 
 
-## Eau
+
+</details>
+
+<details>
+<summary><strong>Eau</strong></summary>
+
+### Eau
 
 ### **Abyssalor, Kraken des Profondeurs**
 <span style="color:#4444ff;">**Élément:** Eau <img src="JeuDeCarte/Assets/img/Symbols/eau.png" width="20" height="20" alt="Eau"></span> | <span style="color:#4169e1;">**Rareté:** Rare</span>
@@ -360,7 +283,13 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 
 
-## Feu
+
+</details>
+
+<details>
+<summary><strong>Feu</strong></summary>
+
+### Feu
 
 ### **Firocus, Renard Volcanique**
 <span style="color:#ff4444;">**Élément:** Feu <img src="JeuDeCarte/Assets/img/Symbols/feu.png" width="20" height="20" alt="Feu"></span> | <span style="color:#dc143c;">**Rareté:** Épique</span>
@@ -528,7 +457,13 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 
 
-## Foudre
+
+</details>
+
+<details>
+<summary><strong>Foudre</strong></summary>
+
+### Foudre
 
 ### **Alice, la Lame Sanglante**
 <span style="color:#808080;">**Élément:** Foudre <img src="JeuDeCarte/Assets/img/Symbols/neant.png" width="20" height="20" alt="Neutre"></span> | <span style="color:#dc143c;">**Rareté:** Épique</span>
@@ -608,7 +543,13 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 
 
-## Glace
+
+</details>
+
+<details>
+<summary><strong>Glace</strong></summary>
+
+### Glace
 
 ### **Brumys, Fantôme du Givre**
 <span style="color:#87ceeb;">**Élément:** Glace <img src="JeuDeCarte/Assets/img/Symbols/glace.png" width="20" height="20" alt="Glace"></span> | <span style="color:#4169e1;">**Rareté:** Rare</span>
@@ -732,7 +673,13 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 
 
-## Lumière
+
+</details>
+
+<details>
+<summary><strong>Lumière</strong></summary>
+
+### Lumière
 
 ### **Astrilys, Sentinelle Astrale**
 <span style="color:#ffff00;">**Élément:** Lumière <img src="JeuDeCarte/Assets/img/Symbols/lumiere.png" width="20" height="20" alt="Lumière"></span> | <span style="color:#00ff00;">**Rareté:** Peu Commun</span>
@@ -779,7 +726,13 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 
 
-## Poison
+
+</details>
+
+<details>
+<summary><strong>Poison</strong></summary>
+
+### Poison
 
 ### **Briselys, Dryade Mousseuse**
 <span style="color:#9932cc;">**Élément:** Poison <img src="JeuDeCarte/Assets/img/Symbols/poison.png" width="20" height="20" alt="Poison"></span> | <span style="color:#4169e1;">**Rareté:** Rare</span>
@@ -848,7 +801,13 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 
 
-## Terre
+
+</details>
+
+<details>
+<summary><strong>Terre</strong></summary>
+
+### Terre
 
 ### **Barbak, Guerrier Barbare**
 <span style="color:#8b4513;">**Élément:** Terre <img src="JeuDeCarte/Assets/img/Symbols/terre.png" width="20" height="20" alt="Terre"></span> | <span style="color:#4169e1;">**Rareté:** Rare</span>
@@ -983,7 +942,13 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 
 
 
-## Ténèbres
+
+</details>
+
+<details>
+<summary><strong>Ténèbres</strong></summary>
+
+### Ténèbres
 
 ### **Murkax, Ombre Rampante**
 <span style="color:#808080;">**Élément:** Ténèbres <img src="JeuDeCarte/Assets/img/Symbols/neant.png" width="20" height="20" alt="Neutre"></span> | <span style="color:#dc143c;">**Rareté:** Épique</span>
@@ -996,3 +961,6 @@ Ce catalogue présente toutes les unités disponibles dans le jeu avec leurs sta
 ---
 
 
+
+
+</details>
